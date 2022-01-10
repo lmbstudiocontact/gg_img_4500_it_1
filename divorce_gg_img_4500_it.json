@@ -1,0 +1,79 @@
+{
+  "english": "divorce",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ly hôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ly dị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tuyệt giao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vợ chồng bỏ nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chia rẻ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ly dị",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tuyên bố ly dị",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tuyệt giao",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the legal dissolution of a marriage by a court or other competent body.",
+      "definitions_ex_en": "her divorce from her first husband",
+      "definitions_ex_vn": "ly hôn của cô ấy từ người chồng đầu tiên của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "legally dissolve one's marriage with (someone).",
+      "definitions_ex_en": "they divorced eight years later",
+      "definitions_ex_vn": "Họ đã ly dị tám năm sau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "separate or dissociate (something) from something else.",
+      "definitions_ex_en": "we knew how to divorce an issue from an individual",
+      "definitions_ex_vn": "Chúng tôi biết cách ly hôn một vấn đề từ một cá nhân",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312556_13c449c8cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312556_4989befd08_o.png",
+      "id_image": "divorce_1612932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312531_28fcd06bca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312531_b643a3ed09_o.png",
+      "id_image": "divorce_4215289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049155_324157f4a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049155_2c2501ea87_o.png",
+      "id_image": "divorce_538223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312471_018415c3c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312471_d4311a1ecd_o.png",
+      "id_image": "divorce_6333351"
+    }
+  ]
+}

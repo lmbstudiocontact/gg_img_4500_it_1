@@ -1,0 +1,67 @@
+{
+  "english": "font",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bình đựng dầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bình đựng nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bình đựng nước rửa tội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bình đựng nước thánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tên thánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng đựng nước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a receptacle in a church for the water used in baptism, typically a freestanding stone structure.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a reservoir for oil in an oil lamp.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a source of a desirable quality or commodity; a fount.",
+      "definitions_ex_en": "they dip down into the font of wisdom",
+      "definitions_ex_vn": "họ nhúng vào phông chữ của trí tuệ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of type of one particular face and size.",
+      "definitions_ex_en": "written material in a variety of fonts and formats",
+      "definitions_ex_vn": "Tài liệu bằng văn bản trong một loạt các phông chữ và định dạng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432553_bc7981d710_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432553_7a9829bf8a_o.png",
+      "id_image": "font_421008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053860_3f53e2445b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053860_5df51debea_o.png",
+      "id_image": "font_6298091"
+    }
+  ]
+}

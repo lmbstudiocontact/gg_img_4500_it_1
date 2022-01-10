@@ -1,0 +1,56 @@
+{
+  "english": "effervescence",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bốc hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bồng bột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hăng hái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nổi bọt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sôi nổi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "bubbles in a liquid; fizz.",
+      "definitions_ex_en": "the effervescence of sparkling wine",
+      "definitions_ex_vn": "sự sủi bọt của rượu vang lấp lánh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "vivacity and enthusiasm.",
+      "definitions_ex_en": "he was filled with such effervescence",
+      "definitions_ex_vn": "Anh ta tràn ngập sự sủi bọt như vậy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065035_0a6900e368_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065035_fa52189861_o.png",
+      "id_image": "effervescence_2217738"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683164_ee27f89321_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683164_92103b0c46_o.png",
+      "id_image": "effervescent_5180486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372967_cdfc2ef312_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372967_564c25c651_o.png",
+      "id_image": "effervescent_843179"
+    }
+  ]
+}

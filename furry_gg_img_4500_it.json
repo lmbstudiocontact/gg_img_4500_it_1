@@ -1,0 +1,49 @@
+{
+  "english": "furry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cặn rượu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giống như da thú",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về cáu rượn",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "covered with fur.",
+      "definitions_ex_en": "furry creatures in fields",
+      "definitions_ex_vn": "sinh vật lông trên cánh đồng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an enthusiast for animal characters with human characteristics, in particular a person who dresses up in costume as such a character or uses one as an avatar online.",
+      "definitions_ex_en": "a growing community of furries",
+      "definitions_ex_vn": "một cộng đồng phát triển của Furries",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small fur-covered animal, typically a rodent.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386112_7ef331ca7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386112_a12c3ff141_o.png",
+      "id_image": "furry_1881137"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386072_2de468e5b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386072_d380854fcd_o.png",
+      "id_image": "furry_1881168"
+    }
+  ]
+}

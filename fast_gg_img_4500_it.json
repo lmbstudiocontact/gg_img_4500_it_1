@@ -1,0 +1,172 @@
+{
+  "english": "fast",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhanh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lâu phai",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bền vững",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "buộc lại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kiên cố",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phóng đảng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rất tự do",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chạy mau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vững chắc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chắc chắn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhanh",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "vững chắc",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "kiêng ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây cột thuyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhịn ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cử ăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhịn ăn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "moving or capable of moving at high speed.",
+      "definitions_ex_en": "a fast and powerful car",
+      "definitions_ex_vn": "một chiếc xe nhanh và mạnh mẽ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a clock or watch) showing a time ahead of the correct time.",
+      "definitions_ex_en": "I keep my watch fifteen minutes fast",
+      "definitions_ex_vn": "Tôi giữ chiếc đồng hồ của tôi nhanh mười lăm phút",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "firmly fixed or attached.",
+      "definitions_ex_en": "he made a rope fast to each corner",
+      "definitions_ex_vn": "Anh ấy làm một sợi dây nhanh đến từng góc",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a film) needing only a short exposure.",
+      "definitions_ex_en": "a 35-mm color film which is ten times faster than Kodacolor II",
+      "definitions_ex_vn": "một bộ phim màu 35 mm nhanh hơn gấp mười lần so với Kodacolor II",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a dye) not fading in light or when washed.",
+      "definitions_ex_en": "the dyes are boiled with the yarn to produce a fast color",
+      "definitions_ex_vn": "Thuốc nhuộm được đun sôi với sợi để tạo ra màu sắc nhanh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person or lifestyle) engaging in or involving exciting or shocking activities.",
+      "definitions_ex_en": "the fast life she led in London",
+      "definitions_ex_vn": "Cuộc sống nhanh chóng mà cô dẫn đầu ở London",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "at high speed.",
+      "definitions_ex_en": "he was driving too fast",
+      "definitions_ex_vn": "anh ấy đã lái xe quá nhanh",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "so as to be hard to move; securely.",
+      "definitions_ex_en": "the ship was held fast by the anchor chain",
+      "definitions_ex_vn": "Con tàu được giữ nhanh bởi chuỗi neo",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "so as to be hard to wake.",
+      "definitions_ex_en": "they were too fast asleep to reply",
+      "definitions_ex_vn": "họ đã quá nhanh để trả lời",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "abstain from all or some kinds of food or drink, especially as a religious observance.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act or period of fasting.",
+      "definitions_ex_en": "a five-day fast",
+      "definitions_ex_vn": "một năm ngày nhanh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072080_5a6c0fc309_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072080_cbeb096a61_o.png",
+      "id_image": "fast_1455324"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380177_e2cbef623d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380177_24f56cac58_o.png",
+      "id_image": "fast_1476721"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690244_c9dda8eaef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690244_b38094891c_o.png",
+      "id_image": "fast_1652556"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690209_0288de1ac8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690209_37a9f39db9_o.png",
+      "id_image": "fast_3043536"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335006_9b8fa8c83f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335006_d97ed4de7a_o.png",
+      "id_image": "fast_6316099"
+    }
+  ]
+}

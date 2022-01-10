@@ -1,0 +1,42 @@
+{
+  "english": "hierarchy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đẳng cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giai cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hệ thống",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a system or organization in which people or groups are ranked one above the other according to status or authority.",
+      "definitions_ex_en": "the initiative was with those lower down in the hierarchy",
+      "definitions_ex_vn": "Sáng kiến là với những người thấp hơn trong hệ thống phân cấp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337591_c52cf8e4e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337591_8954d04b5f_o.png",
+      "id_image": "hierarchy_2622694"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452403_ce6b7d84bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452403_e65ee15063_o.png",
+      "id_image": "hierarchy_5672267"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452503_11ddc6e256_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452503_96a4a8369c_o.png",
+      "id_image": "hierarchy_868864"
+    }
+  ]
+}

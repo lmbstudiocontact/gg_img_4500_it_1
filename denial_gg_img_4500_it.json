@@ -1,0 +1,41 @@
+{
+  "english": "denial",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cự tuyệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không nhận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự từ chối",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of declaring something to be untrue.",
+      "definitions_ex_en": "she shook her head in denial",
+      "definitions_ex_vn": "Cô lắc đầu từ chối",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377317_4a84e7edb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377317_6780a17fd4_o.png",
+      "id_image": "denial_2742113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447538_6df67c73b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447538_af08e32cac_o.png",
+      "id_image": "denial_6349699"
+    }
+  ]
+}

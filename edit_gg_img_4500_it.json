@@ -1,0 +1,84 @@
+{
+  "english": "edit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều khiển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giám đốc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "prepare (written material) for publication by correcting, condensing, or otherwise modifying it.",
+      "definitions_ex_en": "Volume I was edited by J. Johnson",
+      "definitions_ex_vn": "Tập tôi được chỉnh sửa bởi J. Johnson",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be editor of (a newspaper or magazine).",
+      "definitions_ex_en": "he began to edit the magazine in 1923",
+      "definitions_ex_vn": "Anh bắt đầu chỉnh sửa tạp chí vào năm 1923",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "alter (a gene or other nucleotide sequence) by the insertion, deletion, or replacement of one or more nucleotides.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a change or correction made as a result of editing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "edited.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "edition.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "editor.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066830_43283d6350_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066830_105bf36fa1_o.png",
+      "id_image": "edit_2419268"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374717_5eee7653c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374717_5ddefaaa36_o.png",
+      "id_image": "edit_2491509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066895_25ed63e68e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066895_515a6ba998_o.png",
+      "id_image": "edit_269074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444993_1c907a4eb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444993_31c2a0d847_o.png",
+      "id_image": "edit_2912868"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444958_2305a97fea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444958_fcf64b022d_o.png",
+      "id_image": "edit_2991636"
+    }
+  ]
+}

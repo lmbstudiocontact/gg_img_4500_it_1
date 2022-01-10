@@ -1,0 +1,64 @@
+{
+  "english": "employment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỗ làm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "công việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nơi làm việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sử dụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc làm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the condition of having paid work.",
+      "definitions_ex_en": "a fall in the numbers in full-time employment",
+      "definitions_ex_vn": "một cú ngã trong số lượng lao động toàn thời gian",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365762_06ed3e4d15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365762_c7a8377992_o.png",
+      "id_image": "employment_1924552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435998_9805d96c93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435998_6f7d4b8434_o.png",
+      "id_image": "employment_2419582"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675864_b63621f5a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675864_2a1c927124_o.png",
+      "id_image": "employment_2464202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675809_32922ecba9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675809_ab5a2cfc46_o.png",
+      "id_image": "employment_3896459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365652_edfa111f5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365652_0c148b9a87_o.png",
+      "id_image": "employment_4901659"
+    }
+  ]
+}

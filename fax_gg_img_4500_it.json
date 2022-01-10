@@ -1,0 +1,46 @@
+{
+  "english": "fax",
+  "list_translation_mean": [
+    {
+      "translate_mean": "fax",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an image of a document made by electronic scanning and transmitted as data by telecommunication links.",
+      "definitions_ex_en": "we got a three-page fax from her assistant",
+      "definitions_ex_vn": "Chúng tôi đã nhận được fax ba trang từ trợ lý của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "nonstandard spelling of ‘facts’.",
+      "definitions_ex_en": "food fax",
+      "definitions_ex_vn": "fax thực phẩm.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "send (a document) by fax.",
+      "definitions_ex_en": "please fax the agreement to me",
+      "definitions_ex_vn": "Vui lòng fax thỏa thuận với tôi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688969_3501a312e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688969_785b72baf3_o.png",
+      "id_image": "fax_2666481"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688939_1741454745_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688939_d102e6d5ef_o.png",
+      "id_image": "fax_2832764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688894_5d86a4a2d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688894_8a110c4c09_o.png",
+      "id_image": "fax_3447631"
+    }
+  ]
+}

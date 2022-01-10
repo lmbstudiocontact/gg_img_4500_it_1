@@ -1,0 +1,146 @@
+{
+  "english": "hook",
+  "list_translation_mean": [
+    {
+      "translate_mean": "âm móc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cá cắn câu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái móc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lưỡi câu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lưỡi hái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mũi đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái móc gài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lưỡi liềm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mắc bẫy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mắc vào tròng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt được",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "câu cá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cong lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "móc túi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of metal or other material, curved or bent back at an angle, for catching hold of or hanging things on.",
+      "definitions_ex_en": "a picture hook",
+      "definitions_ex_vn": "một hình ảnh móc.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing designed to catch people's attention.",
+      "definitions_ex_en": "companies are looking for a sales hook",
+      "definitions_ex_vn": "Các công ty đang tìm kiếm một hook bán hàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a curved cutting instrument, especially as used for reaping or shearing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a short swinging punch made with the elbow bent, especially in boxing.",
+      "definitions_ex_en": "a perfectly timed right hook to the chin",
+      "definitions_ex_vn": "một móc phải thời gian hoàn hảo cho cằm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a curved stroke in handwriting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a curved promontory or sand spit.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "attach or fasten with a hook or hooks.",
+      "definitions_ex_en": "the truck had a red lamp hooked to its tailgate",
+      "definitions_ex_vn": "chiếc xe tải có một chiếc đèn màu đỏ được nối với cổng sau của nó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "catch with a hook.",
+      "definitions_ex_en": "he hooked a 24-lb pike",
+      "definitions_ex_vn": "anh ấy đã nối một chiếc pike 24 lb",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "attract and hold the attention of; captivate.",
+      "definitions_ex_en": "I was hooked by John's radical zeal",
+      "definitions_ex_vn": "Tôi bị cuốn hút bởi sự nhiệt thành gốc của John",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "strike (the ball) or play (a stroke) so that the ball deviates in the direction of the follow-through, typically inadvertently.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "push (the ball) backward with the foot from the front line in a scrum.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448023_0ec66057a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448023_a388ca0ea4_o.png",
+      "id_image": "hook_2642147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447988_8544e5c5ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447988_c6d35db59e_o.png",
+      "id_image": "hook_2825528"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069685_36147ba99e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069685_6210dfb0ce_o.png",
+      "id_image": "hook_2836730"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "english": "furious",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giận dữ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hăng máu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hầm hầm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kịch liệt",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "extremely angry.",
+      "definitions_ex_en": "she was furious at this attempt to manipulate her",
+      "definitions_ex_vn": "Cô ấy tức giận vì nỗ lực này để thao túng cô ấy",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456313_5fe56d8941_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456313_7687635ac9_o.png",
+      "id_image": "furious_1747717"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456273_7933a910d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456273_5818ef8f7a_o.png",
+      "id_image": "furious_4954497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341361_83b43f455b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341361_dace449ef7_o.png",
+      "id_image": "furious_5046979"
+    }
+  ]
+}

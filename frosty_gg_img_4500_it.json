@@ -1,0 +1,47 @@
+{
+  "english": "frosty",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lạnh buốt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lãnh đạm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lạnh rét",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người mặt rổ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of the weather) very cold, with frost forming on surfaces.",
+      "definitions_ex_en": "a cold and frosty morning",
+      "definitions_ex_vn": "một buổi sáng lạnh và băng giá",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "cold and unfriendly in manner.",
+      "definitions_ex_en": "Sam gave her a frosty look",
+      "definitions_ex_vn": "Sam trao cho cô một cái nhìn băng giá",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080940_626a375fb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080940_597056d4fc_o.png",
+      "id_image": "frosty_2279948"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343526_c3e2a09096_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343526_a49207c42b_o.png",
+      "id_image": "frosty_699695"
+    }
+  ]
+}

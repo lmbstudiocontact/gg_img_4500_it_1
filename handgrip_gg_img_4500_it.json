@@ -1,0 +1,38 @@
+{
+  "english": "handgrip",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái nắm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nắm tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "túm lấy bằng tay",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a handle for holding onto something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a grasp with the hand, especially considered in terms of its strength, as in a handshake.",
+      "definitions_ex_en": "Dick's handgrip grew even more intense",
+      "definitions_ex_vn": "Handgrip của Dick đã phát triển thậm chí còn mãnh liệt hơn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052100_d88032c3fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052100_3ab5561272_o.png",
+      "id_image": "handgrip_5650507"
+    }
+  ]
+}

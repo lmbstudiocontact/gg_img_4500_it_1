@@ -1,0 +1,81 @@
+{
+  "english": "feature",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đặc sắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặc tính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nét mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phim hát bóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính chất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái đặc biệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặc trưng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đóng phim",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tả ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "miêu tả",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a distinctive attribute or aspect of something.",
+      "definitions_ex_en": "safety features like dual air bags",
+      "definitions_ex_vn": "Các tính năng an toàn như túi khí kép",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a newspaper or magazine article or a broadcast program devoted to the treatment of a particular topic, typically at length.",
+      "definitions_ex_en": "a feature on Detroit's downtown fishery",
+      "definitions_ex_vn": "Một tính năng trên Detroit's Downtown Fishery",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "have as a prominent attribute or aspect.",
+      "definitions_ex_en": "the hotel features a large lounge, a sauna, and a coin-operated solarium",
+      "definitions_ex_vn": "Khách sạn có một phòng lớn, phòng xông hơi và phòng tắm nắng hoạt động bằng tiền xu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333466_65d93c52bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333466_8bd666962c_o.png",
+      "id_image": "feature_2620406"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688434_7909ee889b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688434_f60a242128_o.png",
+      "id_image": "feature_6133670"
+    }
+  ]
+}

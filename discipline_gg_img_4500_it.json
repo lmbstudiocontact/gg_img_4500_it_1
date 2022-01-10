@@ -1,0 +1,92 @@
+{
+  "english": "discipline",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kỷ luật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuôn phép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "môn học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phạm qui",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "qui luật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trừng phạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trừng trị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bất tuân theo kỷ luật",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "huấn luyện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trừng trị",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the practice of training people to obey rules or a code of behavior, using punishment to correct disobedience.",
+      "definitions_ex_en": "a lack of proper parental and school discipline",
+      "definitions_ex_vn": "thiếu kỷ luật của cha mẹ và trường học thích hợp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a branch of knowledge, typically one studied in higher education.",
+      "definitions_ex_en": "sociology is a fairly new discipline",
+      "definitions_ex_vn": "Xã hội học là một kỷ luật khá mới",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "train (someone) to obey rules or a code of behavior, using punishment to correct disobedience.",
+      "definitions_ex_en": "many parents have been afraid to discipline their children",
+      "definitions_ex_vn": "Nhiều cha mẹ đã sợ kỷ luật con cái của họ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672919_93d5154c7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672919_e062b609c0_o.png",
+      "id_image": "discipline_2621828"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672879_bdc5c43e9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672879_30323a9365_o.png",
+      "id_image": "discipline_4215278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672829_060872b4ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672829_2f2451cc70_o.png",
+      "id_image": "discipline_5520996"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362467_900ef3b2c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362467_1767d80d52_o.png",
+      "id_image": "discipline_5778404"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362432_5c9516ebfe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362432_e1b4c92aa7_o.png",
+      "id_image": "discipline_6193108"
+    }
+  ]
+}

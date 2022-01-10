@@ -1,0 +1,34 @@
+{
+  "english": "glider",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tàu lượn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tàu trượt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a light aircraft that is designed to fly for long periods without using an engine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or thing that glides.",
+      "definitions_ex_en": "the flying lemur is an efficient glider as well as climber",
+      "definitions_ex_vn": "Lemur bay là một tàu lượn hiệu quả cũng như người leo núi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376437_0e290938cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376437_816f330bb4_o.png",
+      "id_image": "glider_4768202"
+    }
+  ]
+}

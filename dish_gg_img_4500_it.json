@@ -1,0 +1,87 @@
+{
+  "english": "dish",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ lõm xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dĩa bàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "món ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật giống hình dĩa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dọn ăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để vào dĩa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lừa được địch thủ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp vào dĩa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a shallow, flat-bottomed container for cooking or serving food.",
+      "definitions_ex_en": "an ovenproof dish",
+      "definitions_ex_vn": "một món ăn lò nướng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a shallow, concave receptacle, especially one intended to hold a particular substance.",
+      "definitions_ex_en": "a water dish",
+      "definitions_ex_vn": "một món nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sexually attractive person.",
+      "definitions_ex_en": "I gather he's quite a dish",
+      "definitions_ex_vn": "Tôi tập hợp anh ấy là một món ăn khá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "information which is not generally known or available.",
+      "definitions_ex_en": "if he has the real dish I wish he'd tell us",
+      "definitions_ex_vn": "Nếu anh ta có món ăn thực sự, tôi ước anh ấy nói với chúng tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "concavity of a spoked wheel resulting from a difference in spoke tension on each side and consequent sideways displacement of the rim in relation to the hub.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give concavity to (a wheel) by tensioning the spokes.",
+      "definitions_ex_en": "I don't think I dished the wheel correctly—there's a rubbing sound",
+      "definitions_ex_vn": "Tôi không nghĩ rằng tôi đã ăn bánh xe chính xác, có một âm thanh cọ xát",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360837_08e86c9ddc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360837_d213bceb18_o.png",
+      "id_image": "dish_4975202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431518_0dc7055b2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431518_dc7ae15745_o.png",
+      "id_image": "dish_4975252"
+    }
+  ]
+}

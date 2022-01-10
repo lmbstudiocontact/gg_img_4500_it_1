@@ -1,0 +1,36 @@
+{
+  "english": "graphical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về đồ hình",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or in the form of a graph.",
+      "definitions_ex_en": "flowcharts are graphical presentations",
+      "definitions_ex_vn": "Lưu đồ là các bài thuyết trình đồ họa",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to visual art or computer graphics.",
+      "definitions_ex_en": "a high-resolution graphical display",
+      "definitions_ex_vn": "Một màn hình đồ họa độ phân giải cao",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "equivalent to -graphic.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439598_23f2fdfdf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439598_7abbe7dbfb_o.png",
+      "id_image": "graphical_5874983"
+    }
+  ]
+}

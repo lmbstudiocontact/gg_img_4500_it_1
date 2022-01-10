@@ -1,0 +1,29 @@
+{
+  "english": "embezzlement",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự thụt kết",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "theft or misappropriation of funds placed in one's trust or belonging to one's employer.",
+      "definitions_ex_en": "charges of fraud and embezzlement",
+      "definitions_ex_vn": "Phí gian lận và tham ô",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438093_0a64381050_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438093_fe89097a89_o.png",
+      "id_image": "embezzlement_2473052"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438068_51cd76da07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438068_92710bc23c_o.png",
+      "id_image": "embezzlement_2631552"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "english": "depression",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buôn bán trầm trệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ đất lún",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ lõm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ trủng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "công việc trầm trệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lún xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngã lòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phiền muộn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sút kém tinh thần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chán nản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hạ giọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hạ thấp xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sụp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng đình trệ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "feelings of severe despondency and dejection.",
+      "definitions_ex_en": "self-doubt creeps in and that swiftly turns to depression",
+      "definitions_ex_vn": "Tự nghi ngờ creep trong và điều đó nhanh chóng chuyển sang trầm cảm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long and severe recession in an economy or market.",
+      "definitions_ex_en": "the depression in the housing market",
+      "definitions_ex_vn": "Trầm cảm trong thị trường nhà ở",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of lowering something or pressing something down.",
+      "definitions_ex_en": "depression of the plunger delivers two units of insulin",
+      "definitions_ex_vn": "Trầm cảm của pít-tông mang lại hai đơn vị insulin",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a region of lower atmospheric pressure, especially a cyclonic weather system.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the angular distance of an object below the horizon or a horizontal plane.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066800_e94555aee2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066800_f6b75a31f0_o.png",
+      "id_image": "depression_1488155"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330001_9fa47f5c0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330001_9d9fe4f6fb_o.png",
+      "id_image": "depression_2037073"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445093_5e1b5b6d9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445093_e30d2a2df6_o.png",
+      "id_image": "depression_552406"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445063_a35dd83b38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445063_c2a9bb1c92_o.png",
+      "id_image": "depression_670798"
+    }
+  ]
+}

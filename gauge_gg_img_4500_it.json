@@ -1,0 +1,95 @@
+{
+  "english": "gauge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái mấp của thợ mộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giác kế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khẩu kính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mẫu để lường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng để lường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật dùng để đo sức nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "định phân xi măng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khí áp kế",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tầm nước của tàu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an instrument or device for measuring the magnitude, amount, or contents of something, typically with a visual display of such information.",
+      "definitions_ex_en": "a fuel gauge",
+      "definitions_ex_vn": "một thước đo nhiên liệu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the thickness, size, or capacity of something, especially as a standard measure.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the position of a sailing vessel to windward ( weather gage ) or leeward ( lee gage ) of another.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "estimate or determine the magnitude, amount, or volume of.",
+      "definitions_ex_en": "astronomers can gauge the star's intrinsic brightness",
+      "definitions_ex_vn": "Các nhà thiên văn học có thể đánh giá độ sáng nội tại của ngôi sao",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "measure the dimensions of (an object) with a gauge.",
+      "definitions_ex_en": "when dry, the assemblies can be gauged exactly and planed to width",
+      "definitions_ex_vn": "Khi khô, các cụm có thể được đo chính xác và lên kế hoạch cho chiều rộng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693064_3d713a526a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693064_8707358d57_o.png",
+      "id_image": "gauge_4636939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074735_12bee9eb38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074735_1a28d4e3b7_o.png",
+      "id_image": "gauge_5793427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074845_3173769690_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074845_723dd137cb_o.png",
+      "id_image": "gauge_694206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452668_97089aef3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452668_49552ed584_o.png",
+      "id_image": "gauge_780787"
+    }
+  ]
+}

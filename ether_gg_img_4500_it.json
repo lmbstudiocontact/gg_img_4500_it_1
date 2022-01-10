@@ -1,0 +1,50 @@
+{
+  "english": "ether",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hóa ê the",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòm trời",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a pleasant-smelling colorless volatile liquid that is highly flammable. It is used as an anesthetic and as a solvent or intermediate in industrial processes.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the clear sky; the upper regions of air beyond the clouds.",
+      "definitions_ex_en": "nasty gases and smoke disperse into the ether",
+      "definitions_ex_vn": "Khí khó chịu và khói phân tán vào ether",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a very rarefied and highly elastic substance formerly believed to permeate all space, including the interstices between the particles of matter, and to be the medium whose vibrations constituted light and other electromagnetic radiation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051295_699d40381d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051295_faa084031d_o.png",
+      "id_image": "ether_1181236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051290_404262b291_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051290_18e702df21_o.png",
+      "id_image": "ether_1181288"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358842_9c6af04813_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358842_eea2ed7b40_o.png",
+      "id_image": "ether_5131758"
+    }
+  ]
+}

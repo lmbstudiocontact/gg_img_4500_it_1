@@ -1,0 +1,48 @@
+{
+  "english": "facial",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ở mặt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về mặt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xoa bóp mặt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of or affecting the face.",
+      "definitions_ex_en": "facial expressions",
+      "definitions_ex_vn": "nét mặt",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a beauty treatment for the face.",
+      "definitions_ex_en": "the offer includes a facial, makeup, and manicure",
+      "definitions_ex_vn": "Ưu đãi bao gồm một khuôn mặt, trang điểm và làm móng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453173_6d65686016_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453173_cbd78746c0_o.png",
+      "id_image": "facial_3730218"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453108_e4932270da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453108_4ee62bd6b1_o.png",
+      "id_image": "facial_4200474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338151_c93a56819e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338151_00fb322eb0_o.png",
+      "id_image": "facial_5732044"
+    }
+  ]
+}

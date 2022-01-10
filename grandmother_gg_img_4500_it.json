@@ -1,0 +1,38 @@
+{
+  "english": "grandmother",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bà nội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bà ngoại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the mother of one's father or mother.",
+      "definitions_ex_en": "my grandmother is ill",
+      "definitions_ex_vn": "Bà tôi bị bệnh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062345_dcae45333a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062345_14c49c6a20_o.png",
+      "id_image": "grandmother_2369003"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325531_91233d5381_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325531_20130e9a22_o.png",
+      "id_image": "grandmother_3773163"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370307_6a4a3418a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370307_2b011d966a_o.png",
+      "id_image": "grandmother_4215358"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "haircut",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự hớt tóc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the style in which a person's hair is cut.",
+      "definitions_ex_en": "he's always very particular about his haircut",
+      "definitions_ex_vn": "Anh ấy luôn luôn rất đặc biệt về kiểu tóc của anh ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a reduction in the stated value of an asset.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670994_9db11a6b21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670994_77b08bde00_o.png",
+      "id_image": "haircut_1010966"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670949_f8f85ef031_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670949_8c0165005b_o.png",
+      "id_image": "haircut_3124999"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360502_8cc4bd7704_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360502_0716988274_o.png",
+      "id_image": "haircut_3460756"
+    }
+  ]
+}

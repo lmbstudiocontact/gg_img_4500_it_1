@@ -1,0 +1,30 @@
+{
+  "english": "heredity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thừa kế",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the passing on of physical or mental characteristics genetically from one generation to another.",
+      "definitions_ex_en": "few scientists dispute that heredity can create a susceptibility to alcoholism",
+      "definitions_ex_vn": "Rất ít nhà khoa học tranh chấp rằng di truyền có thể tạo ra một sự nhạy cảm với nghiện rượu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the inheritance of a title, office, or right.",
+      "definitions_ex_en": "membership is largely based on heredity",
+      "definitions_ex_vn": "Tư cách thành viên phần lớn dựa trên sự di truyền",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338276_2080f309cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338276_73fed9bddc_o.png",
+      "id_image": "heredity_4072399"
+    }
+  ]
+}

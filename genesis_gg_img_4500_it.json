@@ -1,0 +1,41 @@
+{
+  "english": "genesis",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khởi điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khởi nguyên thuyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sáng thế ký",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bắt đầu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the origin or mode of formation of something.",
+      "definitions_ex_en": "this tale had its genesis in fireside stories",
+      "definitions_ex_vn": "Câu chuyện này có Genesis của nó trong những câu chuyện của Fireside",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691024_8f66110406_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691024_7be40069b1_o.png",
+      "id_image": "genesis_1163399"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072710_0cb602982d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072710_dd686f3c02_o.png",
+      "id_image": "genesis_2586113"
+    }
+  ]
+}

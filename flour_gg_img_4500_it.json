@@ -1,0 +1,54 @@
+{
+  "english": "flour",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phấn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a powder obtained by grinding grain, typically wheat, and used to make bread, cakes, and pastry.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "sprinkle (something, especially a work surface or cooking utensil) with a thin layer of flour.",
+      "definitions_ex_en": "grease and flour two round cake pans",
+      "definitions_ex_vn": "Mỡ và bột hai bánh tròn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056920_3dddd8449c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056920_0e19d6b43f_o.png",
+      "id_image": "flour_527760"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056805_6a9b810d74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056805_b6b7165cf8_o.png",
+      "id_image": "flour_5816101"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675059_a29a7c624b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675059_e94f57202a_o.png",
+      "id_image": "flour_5900498"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675169_c5ef42f80b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675169_815b2957e1_o.png",
+      "id_image": "flour_817293"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675129_3bc34e6421_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675129_0584d10146_o.png",
+      "id_image": "flour_823246"
+    }
+  ]
+}

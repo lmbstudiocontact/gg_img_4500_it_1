@@ -1,0 +1,67 @@
+{
+  "english": "dismiss",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bải chức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ qua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cách chức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đuổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đuổi khéo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giải tán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lột chức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thôi làm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "order or allow to leave; send away.",
+      "definitions_ex_en": "she dismissed the taxi at the corner of the road",
+      "definitions_ex_vn": "Cô ấy gạt đi taxi ở góc đường",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315636_360df7c446_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315636_d9a6db81c2_o.png",
+      "id_image": "dismissed_1533220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670264_db56a80d1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670264_c9e128a691_o.png",
+      "id_image": "dismissed_5692046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359922_dd4c94ea5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359922_4bd54e9fb0_o.png",
+      "id_image": "dismiss_5692029"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430603_1b532839cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430603_d2f3c1e0c6_o.png",
+      "id_image": "dismiss_5692454"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "english": "dental",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chạm vào răng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chỉ nha sĩ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về răng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the teeth.",
+      "definitions_ex_en": "dental health",
+      "definitions_ex_vn": "sức khỏe răng miệng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a consonant) pronounced with the tip of the tongue against the upper front teeth (as th ) or the alveolar ridge (as n, d, t ).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a dental consonant.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447188_a01a34e089_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447188_e5bfa64b84_o.png",
+      "id_image": "dental_1338957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068825_7101db16f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068825_3bf38d043d_o.png",
+      "id_image": "dental_1719175"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376867_5d1b44b824_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376867_1f718305b3_o.png",
+      "id_image": "dental_1719216"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687184_d5ea55471b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687184_97096cfe20_o.png",
+      "id_image": "dental_527024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332061_3d9337d601_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332061_c93c906bd3_o.png",
+      "id_image": "dental_5714939"
+    }
+  ]
+}

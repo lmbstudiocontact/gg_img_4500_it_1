@@ -1,0 +1,94 @@
+{
+  "english": "drink",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ly",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ uống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước uống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thói say rượu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc uống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "uống rượu cho đến say",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự uống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh ghiền rượu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tật ghiền rượu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ghiền rượu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiêu xài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "uống",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "take (a liquid) into the mouth and swallow.",
+      "definitions_ex_en": "we sat by the fire, drinking our coffee",
+      "definitions_ex_vn": "Chúng tôi ngồi bằng lửa, uống cà phê của chúng tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a liquid that can be swallowed as refreshment or nourishment.",
+      "definitions_ex_en": "cans of soda and other drinks",
+      "definitions_ex_vn": "lon soda và đồ uống khác",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339041_f8da57356d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339041_0fe7961ac1_o.png",
+      "id_image": "drink_2488417"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383937_c27f5e7a6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383937_3ac02b849d_o.png",
+      "id_image": "drink_2601014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076055_aaceb37aef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076055_47b37f512a_o.png",
+      "id_image": "drink_2738804"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076000_f1e3099b1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076000_35c6bb690e_o.png",
+      "id_image": "drink_2921819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339091_13fa472f6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339091_75bd1b59e1_o.png",
+      "id_image": "drink_722855"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "english": "fuse",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cầu chì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây nổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hỏa pháo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hỏa tiển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngòi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dính lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gắn ngòi vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hổn hợp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm chảy ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liên hợp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "join or blend to form a single entity.",
+      "definitions_ex_en": "intermarriage had fused the families into a large unit",
+      "definitions_ex_vn": "Giao tiếp đã hợp nhất các gia đình vào một đơn vị lớn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "provide (a circuit or electrical appliance) with a fuse.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fit a fuse to (a bomb, shell, or mine).",
+      "definitions_ex_en": "the bomb was fused to go off during a charity performance",
+      "definitions_ex_vn": "Bom đã được hợp nhất để tắt trong một hiệu suất từ thiện",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a safety device consisting of a strip of wire that melts and breaks an electric circuit if the current exceeds a safe level.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a length of material along which a small flame moves to explode a bomb or firework, meanwhile allowing time for those who light it to move to a safe distance.",
+      "definitions_ex_en": "a bomb on a short fuse",
+      "definitions_ex_vn": "một quả bom trên một cầu chì ngắn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455853_d14992207a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455853_435aef53d0_o.png",
+      "id_image": "fuse_2231295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078365_ffa6a66e26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078365_6099fa8f55_o.png",
+      "id_image": "fuse_2546980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455798_6339d7dc79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455798_33a03ef0a2_o.png",
+      "id_image": "fuse_5387352"
+    }
+  ]
+}

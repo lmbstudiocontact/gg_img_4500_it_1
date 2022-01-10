@@ -1,0 +1,126 @@
+{
+  "english": "drill",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài tập khẩu vấn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái khoan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "luống đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy khoan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự diển tập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thao diển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đục quặng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gieo thành hàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "luyện tập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tập dượt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thao diển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khoan lổ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a hand tool, power tool, or machine with a rotating cutting tip or reciprocating hammer or chisel, used for making holes.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "instruction or training in military exercises.",
+      "definitions_ex_en": "parade-ground drill",
+      "definitions_ex_vn": "khoan mặt đất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a predatory mollusk that bores into the shells of other mollusks in order to feed on the soft tissue.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a machine that makes small furrows, sows seed in them, and then covers the sown seed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a dark brown baboon with a short tail and a naked blue or purple rump, found in the rainforests of West Africa.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a coarse twilled cotton or linen fabric.",
+      "definitions_ex_en": "sturdy clothes in drill, denim and linen",
+      "definitions_ex_vn": "Quần áo chắc chắn trong khoan, denim và vải lanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "produce (a hole) in something by or as if by boring with a drill.",
+      "definitions_ex_en": "drill holes through the tiles for the masonry pins",
+      "definitions_ex_vn": "khoan lỗ thông qua các viên gạch cho các chân xây",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "subject (someone) to military training exercises.",
+      "definitions_ex_en": "a sergeant was drilling new recruits",
+      "definitions_ex_vn": "Một trung sĩ đã khoan các tân binh mới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a person or machine) sow (seed) with a drill.",
+      "definitions_ex_en": "crops drilled in autumn",
+      "definitions_ex_vn": "Cây trồng khoan vào mùa thu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421408_8b25f39a4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421408_2df9772b89_o.png",
+      "id_image": "drill_2276241"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350382_94cf142c48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350382_b25b453b22_o.png",
+      "id_image": "drill_2722269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661624_2123e800c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661624_5c2d387083_o.png",
+      "id_image": "drill_2739007"
+    }
+  ]
+}

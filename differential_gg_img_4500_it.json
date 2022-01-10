@@ -1,0 +1,46 @@
+{
+  "english": "differential",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vi phân",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đặc biệt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phép tính vi phân",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "số vi phân",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự khác nhau về lương bổng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of, showing, or depending on a difference; differing or varying according to circumstances or relevant factors.",
+      "definitions_ex_en": "the differential achievements of boys and girls",
+      "definitions_ex_vn": "những thành tựu khác biệt của nam và nữ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a difference between amounts of things.",
+      "definitions_ex_en": "the differential between gasoline and diesel prices",
+      "definitions_ex_vn": "Sự khác biệt giữa xăng và dầu diesel",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322321_6ebf7a3ffe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322321_cb82fb80df_o.png",
+      "id_image": "differential_6213266"
+    }
+  ]
+}

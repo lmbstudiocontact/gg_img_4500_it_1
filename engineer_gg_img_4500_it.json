@@ -1,0 +1,90 @@
+{
+  "english": "engineer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công binh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chủ mưu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người âm mưu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người coi đầu máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kỹ sư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "âm mưu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bày mưu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lập kế",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp đặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cất",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who designs, builds, or maintains engines, machines, or public works.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "design and build (a machine or structure).",
+      "definitions_ex_en": "the men who engineered the tunnel",
+      "definitions_ex_vn": "Những người đàn ông đã thiết kế đường hầm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363907_a50d2a7a76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363907_baf5d001fa_o.png",
+      "id_image": "engineer_1983204"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434498_6f7ae78db3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434498_276ee18723_o.png",
+      "id_image": "engineer_313079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319316_fd921fd59a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319316_c2621e80e7_o.png",
+      "id_image": "engineer_783002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363962_084b0c6c0e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363962_43f1258516_o.png",
+      "id_image": "engineer_786810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674154_c9d0f76073_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674154_904489cf81_o.png",
+      "id_image": "engineer_875291"
+    }
+  ]
+}

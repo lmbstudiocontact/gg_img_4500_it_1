@@ -1,0 +1,107 @@
+{
+  "english": "extract",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chất tinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất rút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoạn văn trích ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy ép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ép",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ép ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy căn số",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy một vật khác ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhổ lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhổ ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rút tỉa ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rút ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trích một đoạn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "remove or take out, especially by effort or force.",
+      "definitions_ex_en": "the decayed tooth will have to be extracted",
+      "definitions_ex_vn": "răng bị phân rã sẽ phải được chiết xuất",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a short passage taken from a piece of writing, music, or film.",
+      "definitions_ex_en": "an extract from a historical film",
+      "definitions_ex_vn": "một trích xuất từ một bộ phim lịch sử",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a preparation containing the active ingredient of a substance in concentrated form.",
+      "definitions_ex_en": "vanilla extract",
+      "definitions_ex_vn": "tinh dầu vanilla",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695629_283c67dfe6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695629_7ebc214932_o.png",
+      "id_image": "extract_1331713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385222_254c14c67c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385222_cf7d86a395_o.png",
+      "id_image": "extract_1347286"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455138_df1bf21d2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455138_4340b3715c_o.png",
+      "id_image": "extract_1768309"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385307_6225468331_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385307_03b8138efd_o.png",
+      "id_image": "extract_271266"
+    }
+  ]
+}

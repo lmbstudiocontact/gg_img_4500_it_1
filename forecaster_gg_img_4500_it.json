@@ -1,0 +1,28 @@
+{
+  "english": "forecaster",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người báo trước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đoán trước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who predicts or estimates a future event or trend.",
+      "definitions_ex_en": "economic forecasters are predicting a downturn",
+      "definitions_ex_vn": "Các nhà dự báo kinh tế đang dự đoán một suy thoái",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052295_88d0290377_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052295_2879860813_o.png",
+      "id_image": "forecaster_5132827"
+    }
+  ]
+}

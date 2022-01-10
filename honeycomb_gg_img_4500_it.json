@@ -1,0 +1,68 @@
+{
+  "english": "honeycomb",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ổ ong",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bánh mật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tầng ong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm dấu như hình ổ ong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lủng lổ nhỏ như hình ổ ong",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a structure of hexagonal cells of wax, made by bees to store honey and eggs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a structure of adjoining cavities or cells.",
+      "definitions_ex_en": "a honeycomb of caves",
+      "definitions_ex_vn": "một tổ ong của hang động",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "tripe from the second stomach of a ruminant.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fill with cavities or tunnels.",
+      "definitions_ex_en": "whole hillsides were honeycombed with mines",
+      "definitions_ex_vn": "Toàn bộ sườn đồi được tổ ong với các mỏ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070375_000719a19c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070375_040da60eff_o.png",
+      "id_image": "honeycomb_1447875"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333496_af59fe521e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333496_d52fa05e25_o.png",
+      "id_image": "honeycomb_3527122"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378402_b85717a739_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378402_fe92864a0c_o.png",
+      "id_image": "honeycomb_372110"
+    }
+  ]
+}

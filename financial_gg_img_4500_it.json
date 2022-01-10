@@ -1,0 +1,50 @@
+{
+  "english": "financial",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về tài chánh",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to finance.",
+      "definitions_ex_en": "an independent financial adviser",
+      "definitions_ex_vn": "một cố vấn tài chính độc lập",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the finances or financial situation of an organization or individual.",
+      "definitions_ex_en": "he needs to pay serious attention to his financials, particularly cash flow",
+      "definitions_ex_vn": "anh ta cần chú ý nghiêm túc đến tài chính của mình, đặc biệt là dòng tiền",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683209_ae171aafdd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683209_09c55f3f8e_o.png",
+      "id_image": "financial_2111182"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683154_9bb23ff41a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683154_9294c2e05e_o.png",
+      "id_image": "financial_3029232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064740_b172d0a039_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064740_d911a5c4cc_o.png",
+      "id_image": "financial_3043461"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064715_dc2ea55f60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064715_2d55d3589b_o.png",
+      "id_image": "financial_3449384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683024_e91336cbf3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683024_8823a41f8b_o.png",
+      "id_image": "financial_4669231"
+    }
+  ]
+}

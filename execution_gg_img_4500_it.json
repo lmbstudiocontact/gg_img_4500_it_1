@@ -1,0 +1,76 @@
+{
+  "english": "execution",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chấp hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chơi một bản nhạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hành hình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm tròn bổn phận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm xong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biểu diển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tịch thâu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thi hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tịch biên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thực hành",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the carrying out or putting into effect of a plan, order, or course of action.",
+      "definitions_ex_en": "he was fascinated by the entire operation and its execution",
+      "definitions_ex_vn": "anh ta bị mê hoặc bởi toàn bộ hoạt động và việc thực hiện của nó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the carrying out of a sentence of death on a condemned person.",
+      "definitions_ex_en": "the execution of juveniles is prohibited by international law",
+      "definitions_ex_vn": "Việc thực hiện người chưa thành niên bị cấm theo luật quốc tế",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048570_f5b6259fc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048570_e4c4e9a6d7_o.png",
+      "id_image": "execution_2832692"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311916_9193fbba98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311916_f1b795aba7_o.png",
+      "id_image": "execution_5321885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048495_c1a99d1373_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048495_0673f5a397_o.png",
+      "id_image": "execution_5661517"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "english": "fission",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách sanh sản phân thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sanh sản phân thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sanh sản phân thể",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of dividing or splitting something into two or more parts.",
+      "definitions_ex_en": "the party dissolved into fission and acrimony",
+      "definitions_ex_vn": "Bữa tiệc hòa tan thành phân hạch và acrimony",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(chiefly of atoms) undergo fission.",
+      "definitions_ex_en": "these heavy nuclei can also fission",
+      "definitions_ex_vn": "Những hạt nhân nặng này cũng có thể phân hạch",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061940_2f59d18518_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061940_2e5c836f4b_o.png",
+      "id_image": "fission_1579868"
+    }
+  ]
+}

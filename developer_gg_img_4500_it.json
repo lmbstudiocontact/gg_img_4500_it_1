@@ -1,0 +1,38 @@
+{
+  "english": "developer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người khai khẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc rữa hình",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that develops something.",
+      "definitions_ex_en": "a property developer",
+      "definitions_ex_vn": "một nhà phát triển bất động sản",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681124_2ba218e929_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681124_c04be15c1e_o.png",
+      "id_image": "developer_1508880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440948_b8c4c3c84f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440948_ceca8035c0_o.png",
+      "id_image": "developer_2620745"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370727_a7c10e0f09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370727_81380289c4_o.png",
+      "id_image": "developer_5965655"
+    }
+  ]
+}

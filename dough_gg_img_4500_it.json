@@ -1,0 +1,62 @@
+{
+  "english": "dough",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bột làm bánh mì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bột nhồi làm bánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật mềm dẻo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thick, malleable mixture of flour and liquid, used for baking into bread or pastry.",
+      "definitions_ex_en": "add water to the flour and mix to a manageable dough",
+      "definitions_ex_vn": "thêm nước vào bột và trộn vào bột có thể quản lý",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "money.",
+      "definitions_ex_en": "lots of dough",
+      "definitions_ex_vn": "nhiều bột",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352277_1e18a8b1cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352277_5c8abc5ccb_o.png",
+      "id_image": "dough_1143143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352227_bb3402fd02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352227_0cc8f30c0c_o.png",
+      "id_image": "dough_1999938"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352182_885bf589c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352182_36056347ab_o.png",
+      "id_image": "dough_2269223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352137_8340b4cbd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352137_9ea6e5b58e_o.png",
+      "id_image": "dough_3043735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307996_56885d9627_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307996_681346e7eb_o.png",
+      "id_image": "dough_5236491"
+    }
+  ]
+}

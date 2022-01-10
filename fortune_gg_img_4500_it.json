@@ -1,0 +1,50 @@
+{
+  "english": "fortune",
+  "list_translation_mean": [
+    {
+      "translate_mean": "của hồi môn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số mạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời vận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái giàu có",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vận mạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vận may",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "chance or luck as an external, arbitrary force affecting human affairs.",
+      "definitions_ex_en": "some malicious act of fortune keeps them separate",
+      "definitions_ex_vn": "Một số hành động độc hại của Fortune giữ cho chúng tách biệt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large amount of money or assets.",
+      "definitions_ex_en": "he eventually inherited a substantial fortune",
+      "definitions_ex_vn": "cuối cùng anh ta thừa hưởng một tài sản đáng kể",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314216_ebd93684cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314216_4f6f227825_o.png",
+      "id_image": "fortune_1787440"
+    }
+  ]
+}

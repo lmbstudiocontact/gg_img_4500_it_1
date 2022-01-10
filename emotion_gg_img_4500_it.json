@@ -1,0 +1,56 @@
+{
+  "english": "emotion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cảm kích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cảm động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thương xót",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xúc động",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a natural instinctive state of mind deriving from one's circumstances, mood, or relationships with others.",
+      "definitions_ex_en": "she was attempting to control her emotions",
+      "definitions_ex_vn": "Cô đang cố gắng kiểm soát cảm xúc của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366447_2738f47b32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366447_51fae44a1c_o.png",
+      "id_image": "emotion_1001236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436753_47dfbc3d16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436753_52a42ee6cc_o.png",
+      "id_image": "emotion_1643811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676609_b75a9c5f85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676609_a0546969cb_o.png",
+      "id_image": "emotion_3062558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321486_3a7ac8c2c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321486_01545cf367_o.png",
+      "id_image": "emotion_3062575"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366492_6206e3851c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366492_16ab300a83_o.png",
+      "id_image": "emotion_552404"
+    }
+  ]
+}

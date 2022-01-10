@@ -1,0 +1,159 @@
+{
+  "english": "form",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách tao nhã",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuôn bản in",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mẫu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghi thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phép lịch sự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình trạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giao kết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "huấn luyện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tạo thành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thành lập",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the visible shape or configuration of something.",
+      "definitions_ex_en": "the form, color, and texture of the tree",
+      "definitions_ex_vn": "hình thức, màu sắc và kết cấu của cây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a particular way in which a thing exists or appears; a manifestation.",
+      "definitions_ex_en": "her obsession has taken the form of compulsive exercise",
+      "definitions_ex_vn": "nỗi ám ảnh của cô đã lấy hình thức tập thể dục bắt buộc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a type or variety of something.",
+      "definitions_ex_en": "sponsorship is a form of advertising",
+      "definitions_ex_vn": "Tài trợ là một hình thức quảng cáo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the customary or correct method or procedure; what is usually done.",
+      "definitions_ex_en": "an excessive concern for legal form and precedent",
+      "definitions_ex_vn": "một mối quan tâm quá mức cho hình thức pháp lý và tiền lệ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mold, frame, or block in or on which something is shaped.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a printed document with blank spaces for information to be inserted.",
+      "definitions_ex_en": "an application form",
+      "definitions_ex_vn": "một mẫu đơn xin việc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the state of an athlete or sports team with regard to their current standard of performance.",
+      "definitions_ex_en": "illness has affected his form",
+      "definitions_ex_vn": "Bệnh đã ảnh hưởng đến hình thức của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "bring together parts or combine to create (something).",
+      "definitions_ex_en": "the company was formed in 1982",
+      "definitions_ex_vn": "Công ty được thành lập vào năm 1982",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make or fashion into a certain shape or form.",
+      "definitions_ex_en": "form the dough into balls",
+      "definitions_ex_vn": "tạo thành bột vào quả bóng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "having the form of.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    },
+    {
+      "definitions_word_en": "having a particular number of.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669669_95e6d013b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669669_8d23c92b4a_o.png",
+      "id_image": "form_1455095"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669624_70f0b5881e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669624_c5f39169ed_o.png",
+      "id_image": "form_1792371"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429843_7165eafa9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429843_f8985656d4_o.png",
+      "id_image": "form_2730055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669594_3595d36b81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669594_7a2e2f45c2_o.png",
+      "id_image": "form_5982009"
+    }
+  ]
+}

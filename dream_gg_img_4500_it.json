@@ -1,0 +1,90 @@
+{
+  "english": "dream",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chiêm bao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ảo tưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều mơ tưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấc mơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mộng tưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nằm chiêm bao",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nằm mộng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghĩ vẩn vơ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a series of thoughts, images, and sensations occurring in a person's mind during sleep.",
+      "definitions_ex_en": "I had a recurrent dream about falling from great heights",
+      "definitions_ex_vn": "Tôi đã có một giấc mơ tái diễn về việc rơi từ độ cao lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cherished aspiration, ambition, or ideal.",
+      "definitions_ex_en": "I fulfilled a childhood dream when I became champion",
+      "definitions_ex_vn": "Tôi đã hoàn thành một giấc mơ thời thơ ấu khi tôi trở thành nhà vô địch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "experience dreams during sleep.",
+      "definitions_ex_en": "I dreamed about her last night",
+      "definitions_ex_vn": "Tôi đã mơ về đêm qua của cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "indulge in daydreams or fantasies about something greatly desired.",
+      "definitions_ex_en": "she had dreamed of a trip to Italy",
+      "definitions_ex_vn": "Cô đã mơ về một chuyến đi đến Ý",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "contemplate the possibility of doing something or that something might be the case.",
+      "definitions_ex_en": "I wouldn't dream of foisting myself on you",
+      "definitions_ex_vn": "Tôi sẽ không mơ ước được tự mình vào bạn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421673_09192ca28b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421673_bfb19005a3_o.png",
+      "id_image": "dream_3890845"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306476_6e565907d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306476_7a84a423cb_o.png",
+      "id_image": "dream_4743132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350637_df0f7b4d17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350637_c650fba373_o.png",
+      "id_image": "dream_6213273"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "english": "enable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cho phép",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho quyền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đủ tài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giao quyền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho đủ sức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thẩm quyền",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give (someone or something) the authority or means to do something.",
+      "definitions_ex_en": "the evidence would enable us to arrive at firm conclusions",
+      "definitions_ex_vn": "Bằng chứng sẽ cho phép chúng tôi đến với kết luận chắc chắn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (a device or system) operational; activate.",
+      "definitions_ex_en": "you can enable compression or even virus scanning prior to backup",
+      "definitions_ex_vn": "Bạn có thể kích hoạt nén hoặc thậm chí quét vi-rút trước khi sao lưu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320481_e2b29467a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320481_f1c5c2f314_o.png",
+      "id_image": "enable_1827844"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "flirt",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cử động nhẹ và mau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hay làm dáng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "behave as though attracted to or trying to attract someone, but for amusement rather than with serious intentions.",
+      "definitions_ex_en": "it amused him to flirt with her",
+      "definitions_ex_vn": "Nó thích thú với anh ta để tán tỉnh cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a bird) wave or open and shut (its wings or tail) with a quick flicking motion.",
+      "definitions_ex_en": "a moorhen stepped out of the reeds, flirting its white tail",
+      "definitions_ex_vn": "Một Moorhen bước ra khỏi lau sậy, tán tỉnh cái đuôi trắng của nó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a person who habitually flirts.",
+      "definitions_ex_en": "Jim was an outrageous flirt",
+      "definitions_ex_vn": "Jim là một sự tán tỉnh thái quá",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436488_853f9c0b46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436488_8504c09b98_o.png",
+      "id_image": "flirt_599656"
+    }
+  ]
+}

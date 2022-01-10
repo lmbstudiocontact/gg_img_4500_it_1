@@ -1,0 +1,72 @@
+{
+  "english": "efficiency",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cung lượng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hiệu lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khả năng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "năng lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "năng xuất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xuất lượng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state or quality of being efficient.",
+      "definitions_ex_en": "greater energy efficiency",
+      "definitions_ex_vn": "Hiệu quả năng lượng lớn hơn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064710_0f7da9c7e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064710_908a831be5_o.png",
+      "id_image": "efficiency_1599824"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442998_c0066a0fe3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442998_f29a61d334_o.png",
+      "id_image": "efficiency_2112386"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683104_36039ce4bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683104_8efde4b02a_o.png",
+      "id_image": "efficiency_408332"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372662_6025aefa3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372662_9cdbb99e1b_o.png",
+      "id_image": "efficiency_4371226"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064560_0f22a9639b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064560_b0fb173d5f_o.png",
+      "id_image": "efficiency_4729440"
+    }
+  ]
+}

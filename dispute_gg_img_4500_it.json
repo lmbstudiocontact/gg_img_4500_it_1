@@ -1,0 +1,81 @@
+{
+  "english": "dispute",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gây nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cải nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc tranh luận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối phân tranh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý kiến xung đột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đấu khẩu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bàn cải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đấu khẩu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thảo luận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tranh đoạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tranh giành",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a disagreement, argument, or debate.",
+      "definitions_ex_en": "a territorial dispute between the two countries",
+      "definitions_ex_vn": "một cuộc tranh chấp lãnh thổ giữa hai nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "argue about (something); discuss heatedly.",
+      "definitions_ex_en": "he taught and disputed with local poets",
+      "definitions_ex_vn": "ông đã dạy và tranh chấp các nhà thơ địa phương",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "compete for; strive to win.",
+      "definitions_ex_en": "the two drivers crashed while disputing the lead",
+      "definitions_ex_vn": "Hai người lái xe bị rơi trong khi tranh chấp vị trí dẫn đầu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669729_7a3cd5b6ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669729_955e4d5bcb_o.png",
+      "id_image": "dispute_5110046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051535_96b8964774_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051535_2e3a6f0d29_o.png",
+      "id_image": "dispute_5110050"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "english": "fetch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đoạn đường phải chạy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mưu kế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rán sức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự gắng sức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dẩn đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đem đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiếm vật gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm chảy nước mắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nổi giận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thành khối",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "go for and then bring back (someone or something) for someone.",
+      "definitions_ex_en": "he ran to fetch help",
+      "definitions_ex_vn": "Anh chạy đến để lấy trợ giúp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "achieve (a particular price) when sold.",
+      "definitions_ex_en": "handwoven blankets and rugs that can fetch as much as $45,000",
+      "definitions_ex_vn": "chăn và thảm cầm tay có thể lấy được tới 45.000 đô la",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "inflict (a blow or slap) on (someone).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause great interest or delight in (someone).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the distance traveled by wind or waves across open water.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a contrivance, dodge, or trick.",
+      "definitions_ex_en": "it is no ingenious fetches of argument that we want",
+      "definitions_ex_vn": "Nó không phải là một cuộc tranh luận khéo léo mà chúng ta muốn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the apparition or double of a living person, formerly believed to be a warning of that person's impending death.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446183_9bc1105bb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446183_2b700367f1_o.png",
+      "id_image": "fetch_6401089"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "fuel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhiên liệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm vội vàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm vụng về",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "material such as coal, gas, or oil that is burned to produce heat or power.",
+      "definitions_ex_en": "one aircraft ran out of fuel and had to ditch",
+      "definitions_ex_vn": "một máy bay hết nhiên liệu và phải mương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "supply or power (an industrial plant, vehicle, or machine) with fuel.",
+      "definitions_ex_en": "the plan includes a hydroelectric plant to fuel a paper factory",
+      "definitions_ex_vn": "Kế hoạch bao gồm một nhà máy thủy điện để cung cấp nhiên liệu một nhà máy giấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause (a fire) to burn more intensely.",
+      "definitions_ex_en": "gasoline may have been used to fuel the fire",
+      "definitions_ex_vn": "Xăng có thể đã được sử dụng để thúc đẩy đám cháy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080420_0b6cbfebf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080420_6926e7e3ce_o.png",
+      "id_image": "fuel_1486200"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342906_9c25192d54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342906_cb64bf6081_o.png",
+      "id_image": "fuel_2321545"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698254_e4923c882e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698254_5387d0df42_o.png",
+      "id_image": "fuel_439972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387962_bf68416f30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387962_820dbe9d60_o.png",
+      "id_image": "fuel_439974"
+    }
+  ]
+}

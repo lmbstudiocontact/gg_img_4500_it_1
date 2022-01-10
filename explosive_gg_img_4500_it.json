@@ -1,0 +1,57 @@
+{
+  "english": "explosive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộc phát",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nổ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phản ứng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phát nổ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "able or likely to shatter violently or burst apart, as when a bomb explodes.",
+      "definitions_ex_en": "an explosive device",
+      "definitions_ex_vn": "một thiết bị nổ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a substance which can be made to explode, especially any of those used in bombs or shells.",
+      "definitions_ex_en": "stocks of explosives",
+      "definitions_ex_vn": "cổ phiếu chất nổ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696784_84eea120eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696784_2dbf4d4ae8_o.png",
+      "id_image": "explosive_224677"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078935_7e8756ae4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078935_8998e120fb_o.png",
+      "id_image": "explosive_2790375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386542_2103da0da0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386542_0d1c1b6071_o.png",
+      "id_image": "explosive_4321601"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456333_15dac43704_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456333_d903c2eae5_o.png",
+      "id_image": "explosive_4695119"
+    }
+  ]
+}

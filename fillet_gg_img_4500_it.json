@@ -1,0 +1,77 @@
+{
+  "english": "fillet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây băng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái vành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường chỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt phi lê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lấy thịt phi lê",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thắt bằng dây băng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a fleshy boneless piece of meat from near the loins or the ribs of an animal.",
+      "definitions_ex_en": "a chicken breast fillet",
+      "definitions_ex_vn": "một phi lê ức gà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a band or ribbon worn around the head, especially for binding the hair.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a concave strip of material roughly triangular in cross section that rounds off an interior angle between two surfaces.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a plain or decorated line impressed on the cover of a book.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "remove the bones from (a fish).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374172_9d2dc26931_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374172_1e18f06e83_o.png",
+      "id_image": "fillet_2367458"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066250_699c0b5949_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066250_4359934354_o.png",
+      "id_image": "fillet_2851228"
+    }
+  ]
+}

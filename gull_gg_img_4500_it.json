@@ -1,0 +1,48 @@
+{
+  "english": "gull",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chim hải âu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người khờ dại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh lừa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lường gạt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long-winged web-footed seabird with a raucous call, typically having white plumage with a gray or black mantle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who is fooled or deceived.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fool or deceive (someone).",
+      "definitions_ex_en": "workers had been gulled into inflicting poverty and deprivation upon themselves",
+      "definitions_ex_vn": "công nhân đã bị xulled vào việc gây nghèo đói và tước đoạt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317826_57b1b01aba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317826_cc90fb19ef_o.png",
+      "id_image": "gull_3338349"
+    }
+  ]
+}

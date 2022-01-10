@@ -1,0 +1,123 @@
+{
+  "english": "flight",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chạy trốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyến bay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đuổi theo quân địch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng đường bay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bay lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bay vụt qua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bắn ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi máy bay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hổn loạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự di chuyển của chim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thấm thoát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tẩu thoát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời kỳ chia ổ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of flying through the air.",
+      "definitions_ex_en": "an eagle in flight",
+      "definitions_ex_vn": "một con đại bàng trong chuyến bay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a flock or large body of birds or insects in the air, especially when migrating.",
+      "definitions_ex_en": "flights of Canada geese",
+      "definitions_ex_vn": "Các chuyến bay của Geese Canada",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of fleeing or attempting to escape.",
+      "definitions_ex_en": "refugees on the latest stage of their flight from turmoil",
+      "definitions_ex_vn": "Người tị nạn trên sân khấu mới nhất của chuyến bay của họ từ sự hỗn loạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a series of steps between floors or levels.",
+      "definitions_ex_en": "she has to come up four flights of stairs to her apartment",
+      "definitions_ex_vn": "Cô ấy phải lên bốn chuyến cầu thang đến căn hộ của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a selection of small portions of a particular type of food or drink (especially alcohol) intended to be tasted together for the purpose of comparison.",
+      "definitions_ex_en": "I had a flight of four ales and liked them all",
+      "definitions_ex_vn": "Tôi đã có một chuyến bay của bốn người và thích tất cả",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an extravagant or far-fetched idea or account.",
+      "definitions_ex_en": "ignoring such ridiculous flights of fancy",
+      "definitions_ex_vn": "bỏ qua các chuyến bay lạ lùng như vậy của Fancy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the tail of a dart.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "shoot (wildfowl) in flight.",
+      "definitions_ex_en": "duck and geese flighting",
+      "definitions_ex_vn": "Vịt và ngỗng bay",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058275_d6dc9f3973_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058275_ca84ec9809_o.png",
+      "id_image": "flight_3310773"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366437_09c98a5d21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366437_fd85ba4da3_o.png",
+      "id_image": "flight_384038"
+    }
+  ]
+}

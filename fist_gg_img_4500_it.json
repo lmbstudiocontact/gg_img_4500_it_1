@@ -1,0 +1,39 @@
+{
+  "english": "fist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nắm tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đấm nhau",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person's hand when the fingers are bent in toward the palm and held there tightly, typically in order to strike a blow or grasp something.",
+      "definitions_ex_en": "she pummeled him furiously with her fists",
+      "definitions_ex_vn": "Cô dồn nén anh dữ dội với nắm đấm của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "hit with or as with the fists or a fist.",
+      "definitions_ex_en": "a fastball he fisted into left field",
+      "definitions_ex_vn": "Một quả bóng nhanh mà anh ta nắm chặt vào cánh đồng trái",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325076_1cabe1edc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325076_0fa21ddfca_o.png",
+      "id_image": "fist_1480883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061870_01ab186919_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061870_5c00696041_o.png",
+      "id_image": "fist_2577509"
+    }
+  ]
+}

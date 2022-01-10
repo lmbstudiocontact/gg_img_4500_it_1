@@ -1,0 +1,44 @@
+{
+  "english": "evaluation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tính phỏng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the making of a judgment about the amount, number, or value of something; assessment.",
+      "definitions_ex_en": "the evaluation of each method",
+      "definitions_ex_vn": "đánh giá của từng phương pháp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668614_7b8a30fbe6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668614_e59b78618c_o.png",
+      "id_image": "evaluation_1006650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358002_97e355a922_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358002_4a6c10ba03_o.png",
+      "id_image": "evaluation_1469822"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357962_2410994102_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357962_ebd6b2623d_o.png",
+      "id_image": "evaluation_4301684"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428658_3528ae22aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428658_9dcaf565b9_o.png",
+      "id_image": "evaluation_5116385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668559_bebdb54c03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668559_3a47a0d121_o.png",
+      "id_image": "evaluation_5692145"
+    }
+  ]
+}

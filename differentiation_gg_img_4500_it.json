@@ -1,0 +1,48 @@
+{
+  "english": "differentiation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phân biệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phép toán vi phân",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of differentiating.",
+      "definitions_ex_en": "packaging can be a source of product differentiation",
+      "definitions_ex_vn": "Bao bì có thể là một nguồn khác biệt sản phẩm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677369_1f4f971e2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677369_4d4d846bae_o.png",
+      "id_image": "differentiation_1924398"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059020_fc8bb63df2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059020_27a401bf92_o.png",
+      "id_image": "differentiation_2311642"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058990_d46a80f84d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058990_f033c37e8d_o.png",
+      "id_image": "differentiation_2620347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058950_89fbb04541_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058950_c7bac0b201_o.png",
+      "id_image": "differentiation_2620356"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677414_e9216ca0f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677414_81aaa016d5_o.png",
+      "id_image": "differentiation_994626"
+    }
+  ]
+}

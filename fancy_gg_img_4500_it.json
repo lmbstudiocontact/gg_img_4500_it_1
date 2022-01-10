@@ -1,0 +1,113 @@
+{
+  "english": "fancy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có sắc đốm đốm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đặc biệt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hay thay đổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không nhứt định",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tưởng tượng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh bất thường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tư tưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc tưởng tượng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không tưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý ngông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mộng tưởng hão huyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "suy nghĩ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tưởng tượng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "elaborate in structure or decoration.",
+      "definitions_ex_en": "the furniture was very fancy",
+      "definitions_ex_vn": "Đồ nội thất rất lạ mắt",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a drawing, painting, or sculpture) created from the imagination rather than from life.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "feel a desire or liking for.",
+      "definitions_ex_en": "do you fancy a drink?",
+      "definitions_ex_vn": "Bạn có thích một thức uống?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "imagine; think.",
+      "definitions_ex_en": "he fancied he could smell the perfume of roses",
+      "definitions_ex_vn": "Anh ta tưởng tượng anh ta có thể ngửi thấy mùi hương hoa hồng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a feeling of liking or attraction, typically one that is superficial or transient.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the faculty of imagination.",
+      "definitions_ex_en": "my research assistant is prone to flights of fancy",
+      "definitions_ex_vn": "Trợ lý nghiên cứu của tôi dễ bị các chuyến bay của Fancy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in 16th and 17th century music) a composition for keyboard or strings in free or variation form.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073275_a26898ee0e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073275_a3d3e5dabd_o.png",
+      "id_image": "fancy_1808016"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381317_cc8fee49d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381317_2978d7ce33_o.png",
+      "id_image": "fancy_1808026"
+    }
+  ]
+}

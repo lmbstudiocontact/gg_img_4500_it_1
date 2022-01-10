@@ -1,0 +1,74 @@
+{
+  "english": "fawn",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hươu con",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nai con",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bợ người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hươu đẻ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khúm núm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nai đẻ con",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nịnh hót",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "luồn cúi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mừng bằng cách vẩy đuôi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a young deer in its first year.",
+      "definitions_ex_en": "a six-month-old roe fawn",
+      "definitions_ex_vn": "một con ruồi sáu tháng tuổi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a light yellowish-brown color.",
+      "definitions_ex_en": "soft shades of pale green and fawn",
+      "definitions_ex_vn": "sắc thái mềm mại của màu xanh nhạt và fawn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a deer) produce young.",
+      "definitions_ex_en": "the forest was closed for hunting when the does were fawning",
+      "definitions_ex_vn": "Rừng đã bị đóng cửa để săn bắn khi người làm đang lặn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a person) give a servile display of exaggerated flattery or affection, typically in order to gain favor or advantage.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333896_61ebbc79d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333896_aa1974c5d2_o.png",
+      "id_image": "fawn_5150889"
+    }
+  ]
+}

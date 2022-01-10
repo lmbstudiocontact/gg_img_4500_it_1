@@ -1,0 +1,54 @@
+{
+  "english": "flounder",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cá bơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giống cá như cá chim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dảy dụa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quơ tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chạy lung tung",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lội trong bùn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vùng vẩy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "struggle or stagger helplessly or clumsily in water or mud.",
+      "definitions_ex_en": "he was floundering about in the shallow offshore waters",
+      "definitions_ex_vn": "Anh ta đang lúng túng trong vùng biển nông thôn nông cạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a small flatfish that typically occurs in shallow coastal water.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056955_02532eff44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056955_ccfaa79e8e_o.png",
+      "id_image": "flounder_311601"
+    }
+  ]
+}

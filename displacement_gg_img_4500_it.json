@@ -1,0 +1,70 @@
+{
+  "english": "displacement",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cho ra rìa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đổi chổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hất người nào đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hoán vị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dời chổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thay thế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuyên chuyển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trục xuất",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the moving of something from its place or position.",
+      "definitions_ex_en": "vertical displacement of the shoreline",
+      "definitions_ex_vn": "dịch chuyển dọc của bờ biển",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the occupation by a submerged body or part of a body of a volume which would otherwise be occupied by a fluid.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the unconscious transfer of an intense emotion from its original object to another one.",
+      "definitions_ex_en": "this phobia was linked with the displacement of fear of his father",
+      "definitions_ex_vn": "Phobia này được liên kết với sự dịch chuyển của nỗi sợ hãi của cha mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the component of an electric field due to free separated charges, regardless of any polarizing effects.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669939_e395ee9edb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669939_dd698463be_o.png",
+      "id_image": "displacement_4844702"
+    }
+  ]
+}

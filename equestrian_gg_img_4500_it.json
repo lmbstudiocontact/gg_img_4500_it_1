@@ -1,0 +1,39 @@
+{
+  "english": "equestrian",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuật cỡi ngựa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người cỡi ngựa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to horse riding.",
+      "definitions_ex_en": "his amazing equestrian skills",
+      "definitions_ex_vn": "kỹ năng cưỡi ngựa tuyệt vời của anh ấy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a rider or performer on horseback.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052965_c675306bd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052965_66160af253_o.png",
+      "id_image": "equestrian_2072599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360752_547e3d0841_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360752_c41bdd6d2f_o.png",
+      "id_image": "equestrian_3965983"
+    }
+  ]
+}

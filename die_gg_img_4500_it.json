@@ -1,0 +1,126 @@
+{
+  "english": "die",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bàn kéo chỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đá mõng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đá tảng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự may rủi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hột lúc lắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hột súc sắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuôn dấu để khắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuôn đúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "băng hà",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mạng chung",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tạ thế",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tịch diệt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quá cố",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tử",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "từ trần",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "viên tịch",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person, animal, or plant) stop living.",
+      "definitions_ex_en": "the king died a violent death",
+      "definitions_ex_vn": "Nhà vua chết một cái chết dữ dội",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used to emphasize that one wants to do or have something very much.",
+      "definitions_ex_en": "they must be dying for a drink",
+      "definitions_ex_vn": "họ phải chết vì đồ uống",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "have an orgasm.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "singular form of dice.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device for cutting or molding metal into a particular shape.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the cubical part of a pedestal between the base and the cornice; a dado or plinth.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322801_1a04de47d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322801_92f1a1c6d9_o.png",
+      "id_image": "die_3387107"
+    }
+  ]
+}

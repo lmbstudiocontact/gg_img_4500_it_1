@@ -1,0 +1,24 @@
+{
+  "english": "foreclosure",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự tịch biên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of taking possession of a mortgaged property when the mortgagor fails to keep up their mortgage payments.",
+      "definitions_ex_en": "assistance for mortgage borrowers facing foreclosure",
+      "definitions_ex_vn": "Hỗ trợ cho người vay thế chấp phải đối mặt với việc tịch thu nhà bị tịch thu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359877_5d81f1d91a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359877_a934609a7d_o.png",
+      "id_image": "foreclosure_2762602"
+    }
+  ]
+}

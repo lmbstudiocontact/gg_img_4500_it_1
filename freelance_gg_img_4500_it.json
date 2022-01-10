@@ -1,0 +1,76 @@
+{
+  "english": "freelance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chánh khách độc lập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lính đánh giặc mướn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lính đánh thuê",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "working for different companies at different times rather than being permanently employed by one company.",
+      "definitions_ex_en": "a freelance journalist",
+      "definitions_ex_vn": "một nhà báo tự do",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "earning one's living as a freelance.",
+      "definitions_ex_en": "I work freelance from home",
+      "definitions_ex_vn": "Tôi làm việc tự do từ nhà",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "a freelance worker.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a medieval mercenary.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "earn one's living as a freelance.",
+      "definitions_ex_en": "he freelanced for the BBC and regional companies",
+      "definitions_ex_vn": "Ông tự tin về các công ty BBC và khu vực",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049400_02b6df9d62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049400_a102a436a9_o.png",
+      "id_image": "freelance_1329495"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356892_4313e340b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356892_99bdf19c6a_o.png",
+      "id_image": "freelance_1791917"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312866_8c42c81e07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312866_aa933845d1_o.png",
+      "id_image": "freelance_2765614"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427678_ee557cab81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427678_89cdd76a58_o.png",
+      "id_image": "freelance_3107788"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667684_faf1da0196_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667684_c4322c61df_o.png",
+      "id_image": "freelance_4633110"
+    }
+  ]
+}

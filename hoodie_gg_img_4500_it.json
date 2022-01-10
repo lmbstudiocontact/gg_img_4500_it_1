@@ -1,0 +1,24 @@
+{
+  "english": "hoodie",
+  "list_translation_mean": [
+    {
+      "translate_mean": "qụa khoan",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a hooded sweatshirt, jacket, or other top.",
+      "definitions_ex_en": "outerwear is either a denim jacket or a hoodie",
+      "definitions_ex_vn": "áo khoác ngoài là một chiếc áo khoác denim hoặc áo hoodie",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687974_48c06be00e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687974_70c1051ccf_o.png",
+      "id_image": "hoodie_592797"
+    }
+  ]
+}

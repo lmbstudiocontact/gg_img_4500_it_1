@@ -1,0 +1,121 @@
+{
+  "english": "file",
+  "list_translation_mean": [
+    {
+      "translate_mean": "văn thư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "báo sưu tập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái giũa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàng dãy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hộc tủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tập giấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tờ bìa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hồ sơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngăn cất hồ sơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "để",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đệ trình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp đặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thu xếp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi thành hàng dọc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a folder or box for holding loose papers that are typically arranged in a particular order for easy reference.",
+      "definitions_ex_en": "a file of correspondence",
+      "definitions_ex_vn": "một tập tin tương ứng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a line of people or things one behind another.",
+      "definitions_ex_en": "Plains Cree warriors riding in file down the slopes",
+      "definitions_ex_vn": "Đồng bằng CREE Warriors cưỡi trong tập tin xuống dốc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tool with a roughened surface or surfaces, typically of steel, used for smoothing or shaping a hard material.",
+      "definitions_ex_en": "it is possible to make the necessary notch with a file",
+      "definitions_ex_vn": "Có thể làm cho các notch cần thiết với một tập tin",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "place (a document) in a cabinet, box, or folder in a particular order for preservation and easy reference.",
+      "definitions_ex_en": "the contract, when signed, is filed",
+      "definitions_ex_vn": "Hợp đồng, khi được ký, được nộp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a group of people) walk one behind the other, typically in an orderly and solemn manner.",
+      "definitions_ex_en": "the mourners filed into the church",
+      "definitions_ex_vn": "những người than khóc đã nộp vào nhà thờ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "smooth or shape (something) with a file.",
+      "definitions_ex_en": "when I have nothing else to do, I file my nails",
+      "definitions_ex_vn": "Khi tôi không có gì khác để làm, tôi nộp móng tay của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374532_1fc7f8281e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374532_9baa43a972_o.png",
+      "id_image": "file_124837"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684804_6ded40f32c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684804_b0c3633188_o.png",
+      "id_image": "file_182138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066535_ae43e0ff4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066535_54e035e113_o.png",
+      "id_image": "file_194334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374402_75eae028aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374402_a6494e63a3_o.png",
+      "id_image": "file_283607"
+    }
+  ]
+}

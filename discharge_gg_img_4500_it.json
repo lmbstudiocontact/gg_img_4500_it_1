@@ -1,0 +1,187 @@
+{
+  "english": "discharge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bắn súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bốc hàng hóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cho trắng án",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đem xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy biên nhận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không giữ điện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm bớt sậm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm phai màu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm tròn bổn phận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lấy ra khỏi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phóng thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chia bớt trọng lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giải ngủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự miển dịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phục quyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tha bổng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc làm phai màu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trả hết nợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bải chức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bắn súng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bốc dở hàng hóa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cất hàng hóa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho giải ngủ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giãm bớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tròn bổn phận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "miển dịch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phóng điện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phóng thích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phục quyền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tha bổng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "tell (someone) officially that they can or must leave a place or situation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "allow (a liquid, gas, or other substance) to flow out from where it has been confined.",
+      "definitions_ex_en": "industrial plants discharge highly toxic materials into rivers",
+      "definitions_ex_vn": "Cây công nghiệp xả vật liệu độc hại cao vào sông",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "do all that is required to fulfill (a responsibility) or perform (a duty).",
+      "definitions_ex_en": "the bank had failed to discharge its supervisory duties",
+      "definitions_ex_vn": "Ngân hàng đã thất bại trong việc thực hiện nhiệm vụ giám sát của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a judge or court) cancel (an order of a court).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the action of discharging someone from a hospital or from a job.",
+      "definitions_ex_en": "he failed a drug test and was given a dishonorable discharge",
+      "definitions_ex_vn": "ông đã thất bại trong một thử nghiệm ma túy và được cung cấp một sự xả thải không trung thực",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of discharging a liquid, gas, or other substance.",
+      "definitions_ex_en": "those germs might lead to vaginal discharge",
+      "definitions_ex_vn": "Những mầm bệnh có thể dẫn đến xả âm đạo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of doing all that is required to fulfill a responsibility or perform a duty.",
+      "definitions_ex_en": "directors must use skill in the discharge of their duties",
+      "definitions_ex_vn": "Giám đốc phải sử dụng kỹ năng trong việc xả thuế của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of canceling an order of a court.",
+      "definitions_ex_en": "an application for discharge of a supervision order",
+      "definitions_ex_vn": "một ứng dụng để xả một trật tự giám sát",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054765_9ae33c72b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054765_41ecc5b705_o.png",
+      "id_image": "discharge_1446129"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318126_b544fbc283_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318126_ac96644e9b_o.png",
+      "id_image": "discharge_2781837"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "english": "ecological",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sinh thái học",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or concerned with the relation of living organisms to one another and to their physical surroundings.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376102_4f8459258b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376102_b8e97b4b4b_o.png",
+      "id_image": "ecological_1730771"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446328_2fe135abe9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446328_867cd86da6_o.png",
+      "id_image": "ecological_1764550"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068040_781c28dfe0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068040_09401f52d5_o.png",
+      "id_image": "ecological_2321633"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446263_403759ef38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446263_ba9771a502_o.png",
+      "id_image": "ecological_2321637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446238_94a1e278c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446238_f332cfc6e8_o.png",
+      "id_image": "ecological_4590174"
+    }
+  ]
+}

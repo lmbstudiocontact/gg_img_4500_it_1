@@ -1,0 +1,44 @@
+{
+  "english": "hangar",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xưởng cất máy bay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xưởng để máy bay",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large building with an extensive floor area, typically for housing aircraft.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "place or store in a hangar.",
+      "definitions_ex_en": "the army choppers that were hangared out at Springs",
+      "definitions_ex_vn": "những người nghiện quân đội đã bị hostrings tại suối",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082585_54cff7a3f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082585_370b0dcbe3_o.png",
+      "id_image": "hangar_1652886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459983_1d93d06dcb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459983_4607277f16_o.png",
+      "id_image": "hangar_280146"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459908_8daf2e878a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459908_afa0c903dc_o.png",
+      "id_image": "hangar_4283069"
+    }
+  ]
+}

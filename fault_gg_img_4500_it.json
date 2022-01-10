@@ -1,0 +1,72 @@
+{
+  "english": "fault",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chưa hoàn thành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều sai lầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tật xấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng dở dang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thói xấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nứt ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an unattractive or unsatisfactory feature, especially in a piece of work or in a person's character.",
+      "definitions_ex_en": "my worst fault is impatience",
+      "definitions_ex_vn": "lỗi tồi tệ nhất của tôi là thiếu kiên nhẫn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "responsibility for an accident or misfortune.",
+      "definitions_ex_en": "it was his fault she had died",
+      "definitions_ex_vn": "Đó là lỗi của anh ấy, cô ấy đã chết",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an extended break in a body of rock, marked by the relative displacement and discontinuity of strata on either side of a particular surface.",
+      "definitions_ex_en": "a landscape broken by numerous faults",
+      "definitions_ex_vn": "Một cảnh quan bị phá vỡ bởi nhiều lỗi lầm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "criticize for inadequacy or mistakes.",
+      "definitions_ex_en": "her colleagues and superiors could not fault her dedication to the job",
+      "definitions_ex_vn": "đồng nghiệp và cấp trên của cô không thể đưa ra sự cống hiến của cô cho công việc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a rock formation) be broken by a fault or faults.",
+      "definitions_ex_en": "rift valleys where the crust has been stretched and faulted",
+      "definitions_ex_vn": "Valleys Rift nơi lớp vỏ đã được kéo dài và bị lỗi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071230_3fa7407515_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071230_d77405767a_o.png",
+      "id_image": "fault_2867347"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "english": "fort",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a fortified building or strategic position.",
+      "definitions_ex_en": "the city was guarded by a ring of forts",
+      "definitions_ex_vn": "Thành phố được bảo vệ bởi một vòng pháo đài",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fortification.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "fortified.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358692_e03e47100b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358692_09a094e726_o.png",
+      "id_image": "fort_1354615"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809382036_5d62b18a0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809382036_69f8765164_o.png",
+      "id_image": "fort_4841906"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358637_5156c711e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358637_1cf5b0b624_o.png",
+      "id_image": "fort_6313940"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "english": "festive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về ngày lể",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vui vẻ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to a festival.",
+      "definitions_ex_en": "parties are held and festive food is served",
+      "definitions_ex_vn": "Các bên được tổ chức và thực phẩm lễ hội được phục vụ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446258_dc79cbb5fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446258_ec0b402109_o.png",
+      "id_image": "festive_6347811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686264_0194d96e48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686264_a8d9cb059a_o.png",
+      "id_image": "festive_6347838"
+    }
+  ]
+}

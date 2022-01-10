@@ -1,0 +1,83 @@
+{
+  "english": "downhill",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dốc nghiêng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dốc xuống",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đến tuổi về già",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "tuổi suy yếu",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đường dốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường xuống dốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sắp vản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lúc sắp chết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lúc sắp hết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lúc tàn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "toward the bottom of a slope.",
+      "definitions_ex_en": "he ran downhill",
+      "definitions_ex_vn": "Anh chạy xuống dốc.",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "leading down toward the bottom of a slope.",
+      "definitions_ex_en": "the route is downhill for part of the way",
+      "definitions_ex_vn": "tuyến đường đang xuống dốc cho một phần của con đường",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a downward slope.",
+      "definitions_ex_en": "on downhills brake gently",
+      "definitions_ex_vn": "Trên dốc xuống dốc nhẹ nhàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a downhill race.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307496_afc2a0ef52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307496_a7338e4b3a_o.png",
+      "id_image": "downhill_2259666"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662804_701d69c442_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662804_2a86524ff5_o.png",
+      "id_image": "downhill_984307"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "english": "girder",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rầm cái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sườn nhà",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large iron or steel beam or compound structure used for building bridges and the framework of large buildings.",
+      "definitions_ex_en": "the tower is made of steel girders criss-crossed to make it stronger",
+      "definitions_ex_vn": "Tháp được làm bằng dầm thép Criss-Crossed để làm cho nó mạnh mẽ hơn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332546_2d01ba3b2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332546_53561ea673_o.png",
+      "id_image": "girder_4631745"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377322_f99253cefc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377322_92c409c45a_o.png",
+      "id_image": "girder_4631782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687499_f87d2b0583_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687499_2aba6386a0_o.png",
+      "id_image": "girder_6078018"
+    }
+  ]
+}

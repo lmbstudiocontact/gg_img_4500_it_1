@@ -1,0 +1,36 @@
+{
+  "english": "fortitude",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có kiên trì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "có sức chịu đựng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cương nghị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghị lực",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "courage in pain or adversity.",
+      "definitions_ex_en": "she endured her illness with great fortitude",
+      "definitions_ex_vn": "Cô chịu đựng căn bệnh của mình với sự dũng cảm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358597_fafbf6574a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358597_267e1a42db_o.png",
+      "id_image": "fortitude_298720"
+    }
+  ]
+}

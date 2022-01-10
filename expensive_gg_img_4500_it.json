@@ -1,0 +1,41 @@
+{
+  "english": "expensive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đắt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đắt tiền",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mắc tiền",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tốn kém",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "costing a lot of money.",
+      "definitions_ex_en": "keeping a horse is expensive",
+      "definitions_ex_vn": "Giữ một con ngựa là đắt tiền",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425173_805f26c384_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425173_5a5cc14038_o.png",
+      "id_image": "expensive_1260014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310066_3de85fb018_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310066_3c594c13de_o.png",
+      "id_image": "expensive_5966664"
+    }
+  ]
+}

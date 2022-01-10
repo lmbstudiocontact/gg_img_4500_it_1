@@ -1,0 +1,62 @@
+{
+  "english": "experiment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc thử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thí nghiệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thí nghiệm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thực nghiệm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a scientific procedure undertaken to make a discovery, test a hypothesis, or demonstrate a known fact.",
+      "definitions_ex_en": "I have tested this by experiment",
+      "definitions_ex_vn": "Tôi đã thử nghiệm điều này bằng thí nghiệm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "perform a scientific procedure, especially in a laboratory, to determine something.",
+      "definitions_ex_en": "she experimented on chickens as well as mice",
+      "definitions_ex_vn": "Cô ấy đã thử nghiệm trên gà cũng như chuột",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046905_1cbbe9f01c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046905_49c1b29335_o.png",
+      "id_image": "experiment_2854718"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309961_023ba0efe6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309961_30846838d8_o.png",
+      "id_image": "experiment_3215972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309921_30dee2fddb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309921_f5ba4e5974_o.png",
+      "id_image": "experiment_3335300"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046885_5ec424f0d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046885_23c2ff747c_o.png",
+      "id_image": "experiment_3335669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665219_37c44c3ef8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665219_5b312a0769_o.png",
+      "id_image": "experiment_710506"
+    }
+  ]
+}

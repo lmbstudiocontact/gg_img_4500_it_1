@@ -1,0 +1,50 @@
+{
+  "english": "honeymoon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tuần trăng mật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a vacation spent together by a newly married couple.",
+      "definitions_ex_en": "romantic hand-holding breakfasts together on their honeymoon",
+      "definitions_ex_vn": "Lãng mạn cầm đồ ăn sáng cùng nhau trong tuần trăng mật của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "spend a honeymoon.",
+      "definitions_ex_en": "they are honeymooning in the south of France",
+      "definitions_ex_vn": "Họ là tuần trăng mật ở miền Nam nước Pháp",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688449_f7c5b121ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688449_0ee3854a45_o.png",
+      "id_image": "honeymoon_1775669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448453_f66c58ff93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448453_33fa44d412_o.png",
+      "id_image": "honeymoon_2904932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333336_67206ebceb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333336_10c65aac18_o.png",
+      "id_image": "honeymoon_4283533"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688339_eab0d49d9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688339_ec39b54c87_o.png",
+      "id_image": "honeymoon_4446279"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448523_5d6d25526f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448523_7ce398b050_o.png",
+      "id_image": "honeymoon_807686"
+    }
+  ]
+}

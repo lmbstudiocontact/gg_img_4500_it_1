@@ -1,0 +1,94 @@
+{
+  "english": "drone",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kêu vo vo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hát giọng điều",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm biếng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lười biếng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "điệu nhạc trầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ăn bám",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người không làm việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nói giọng điều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ong đực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng kêu vo vo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make a continuous low humming sound.",
+      "definitions_ex_en": "in the far distance a machine droned",
+      "definitions_ex_vn": "Ở khoảng cách xa một máy làm mờ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a low continuous humming sound.",
+      "definitions_ex_en": "he nodded off to the drone of the car engine",
+      "definitions_ex_vn": "Anh gật đầu với máy bay không người lái của động cơ xe hơi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a continuous musical note of low pitch.",
+      "definitions_ex_en": "the drone rose by a third to A",
+      "definitions_ex_vn": "máy bay không người lái đã tăng một phần ba cho một",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a male bee in a colony of social bees, which does no work but can fertilize a queen.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a remote-controlled pilotless aircraft or small flying device.",
+      "definitions_ex_en": "pilots use remote controls to guide a stealth reconnaissance drone",
+      "definitions_ex_vn": "Phi công sử dụng điều khiển từ xa để hướng dẫn người lái trinh sát tàng hình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452808_1307a00a80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452808_9fc8c90e09_o.png",
+      "id_image": "drone_386472"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074945_148f702967_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074945_7547858d3a_o.png",
+      "id_image": "drone_473187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452753_5d26bef4d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452753_f47316f21c_o.png",
+      "id_image": "drone_536707"
+    }
+  ]
+}

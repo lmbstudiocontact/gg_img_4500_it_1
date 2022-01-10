@@ -1,0 +1,61 @@
+{
+  "english": "dove",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chim bồ câu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chim cu đất",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a stocky seed- or fruit-eating bird with a small head, short legs, and a cooing voice. Doves are generally smaller and more delicate than pigeons, but many kinds have been given both names.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who advocates peaceful or conciliatory policies, especially in foreign affairs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in Christian art and poetry) the Holy Spirit (as represented in John 1:32).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "North American past of dive.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423003_91f9ff476a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423003_2a474392a1_o.png",
+      "id_image": "dove_3347380"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422973_906461afa5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422973_b31637abb7_o.png",
+      "id_image": "dove_3480222"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663044_a600bd0e6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663044_844779f39b_o.png",
+      "id_image": "dove_5002842"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307761_fbb75c95b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307761_c335dafc2f_o.png",
+      "id_image": "dove_5189202"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "english": "forum",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ công cộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hội nghị",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a place, meeting, or medium where ideas and views on a particular issue can be exchanged.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in an ancient Roman city) a public square or marketplace used for judicial and other business.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668899_f491e4cd6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668899_d209049897_o.png",
+      "id_image": "forum_2482283"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358337_2895dd0275_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358337_66319e6d5f_o.png",
+      "id_image": "forum_4248528"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668834_5a1e1133aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668834_831d6fa354_o.png",
+      "id_image": "forum_4716345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314171_6d75fa7f2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314171_fb3831f30f_o.png",
+      "id_image": "forum_943605"
+    }
+  ]
+}

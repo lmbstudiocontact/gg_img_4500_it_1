@@ -1,0 +1,37 @@
+{
+  "english": "exploration",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách khám mạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc thám hiểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khám phá",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of traveling in or through an unfamiliar area in order to learn about it.",
+      "definitions_ex_en": "voyages of exploration",
+      "definitions_ex_vn": "Voyage khám phá",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697204_6498be4a96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697204_99a9e28631_o.png",
+      "id_image": "exploration_3978008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341966_57dd5f1e47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341966_57d0dfa515_o.png",
+      "id_image": "exploration_4215293"
+    }
+  ]
+}

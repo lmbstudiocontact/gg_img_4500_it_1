@@ -1,0 +1,34 @@
+{
+  "english": "handmade",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm bằng tay",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "made by hand, not by machine, and typically therefore of superior quality.",
+      "definitions_ex_en": "his expensive handmade leather shoes",
+      "definitions_ex_vn": "Giày da handmade đắt tiền của anh ấy",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460698_0183c01c21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460698_2c6954375c_o.png",
+      "id_image": "handmade_1748878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083360_d1c8eda443_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083360_d7fda9304d_o.png",
+      "id_image": "handmade_3905007"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390827_f14bbd58c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390827_82e363aac7_o.png",
+      "id_image": "handmade_3967370"
+    }
+  ]
+}

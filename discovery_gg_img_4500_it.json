@@ -1,0 +1,58 @@
+{
+  "english": "discovery",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khám phá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tìm thấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật tìm thấy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of discovering or being discovered.",
+      "definitions_ex_en": "the discovery of the body",
+      "definitions_ex_vn": "khám phá cơ thể",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the compulsory disclosure, by a party to an action, of relevant documents referred to by the other party.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432493_80a4b171d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432493_acdc2da889_o.png",
+      "id_image": "discovery_2116910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361687_95f67fe56d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361687_6b1484ed0e_o.png",
+      "id_image": "discovery_3534064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432448_f7e26db18e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432448_1b5ed269fd_o.png",
+      "id_image": "discovery_4515584"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432428_da46a7bd33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432428_b18e73fa12_o.png",
+      "id_image": "discovery_4515650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432388_f2c644906c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432388_e5df49aeda_o.png",
+      "id_image": "discovery_5234365"
+    }
+  ]
+}

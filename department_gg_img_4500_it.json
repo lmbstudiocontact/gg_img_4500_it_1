@@ -1,0 +1,52 @@
+{
+  "english": "department",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ban",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ty",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chi nhánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gian hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tỉnh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a division of a large organization such as a government, university, business, or shop, dealing with a specific subject, commodity, or area of activity.",
+      "definitions_ex_en": "the English department",
+      "definitions_ex_vn": "Sở tiếng Anh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686119_5a472d771b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686119_8ccc4971ab_o.png",
+      "id_image": "department_2206541"
+    }
+  ]
+}

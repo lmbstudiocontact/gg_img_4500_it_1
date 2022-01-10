@@ -1,0 +1,52 @@
+{
+  "english": "dossier",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái gùi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái giỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật bọc lưng ghế",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a collection of documents about a particular person, event, or subject.",
+      "definitions_ex_en": "we have a dossier on him",
+      "definitions_ex_vn": "Chúng tôi có một hồ sơ về anh ta",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045710_0a1d4e1026_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045710_968685df6f_o.png",
+      "id_image": "dossier_1324139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423928_fea85d00c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423928_587335f1d9_o.png",
+      "id_image": "dossier_1428748"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352867_3d8f838396_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352867_cbb792cd97_o.png",
+      "id_image": "dossier_1442776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045625_6e12bc6e58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045625_052bd79398_o.png",
+      "id_image": "dossier_3636456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663994_fc9e979034_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663994_970f136b0b_o.png",
+      "id_image": "dossier_533972"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "english": "expectation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trông mong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoán trước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hy vọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chờ đợi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a strong belief that something will happen or be the case in the future.",
+      "definitions_ex_en": "reality had not lived up to expectations",
+      "definitions_ex_vn": "thực tế đã không sống theo mong đợi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047195_73798d760d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047195_36232ccd94_o.png",
+      "id_image": "expectation_4776046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425353_179caf2304_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425353_d6fcdbe5ee_o.png",
+      "id_image": "expectation_4797092"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310281_83d5980231_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310281_785b78ec20_o.png",
+      "id_image": "expectation_5778472"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425313_137850cea7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425313_65e77e16d9_o.png",
+      "id_image": "expectation_5998832"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310236_7bff6f3d02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310236_cf4485d48e_o.png",
+      "id_image": "expectation_6193213"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "english": "dislike",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không ưa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ghét người nào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gớm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tởm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "feel distaste for or hostility toward.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a feeling of distaste or hostility.",
+      "definitions_ex_en": "they had taken a dislike to each other",
+      "definitions_ex_vn": "họ đã không thích nhau",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430718_b04afb56b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430718_692044a833_o.png",
+      "id_image": "dislike_2665170"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052290_62e002ebb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052290_aca40dfb53_o.png",
+      "id_image": "dislike_5638824"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360027_8144f958d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360027_1278eea0f8_o.png",
+      "id_image": "dislike_951451"
+    }
+  ]
+}

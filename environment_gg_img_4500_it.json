@@ -1,0 +1,66 @@
+{
+  "english": "environment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cảnh chung quanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng chung quanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miền chung quanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "những vật chung quanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phủ chung quanh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the surroundings or conditions in which a person, animal, or plant lives or operates.",
+      "definitions_ex_en": "survival in an often hostile environment",
+      "definitions_ex_vn": "Sống sót trong một môi trường thường thù địch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the natural world, as a whole or in a particular geographical area, especially as affected by human activity.",
+      "definitions_ex_en": "the impact of pesticides on the environment",
+      "definitions_ex_vn": "Tác động của thuốc trừ sâu trên môi trường",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672079_e15a927f69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672079_3af025fcfc_o.png",
+      "id_image": "environment_1075063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361667_e2b0ae6a66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361667_72573585d9_o.png",
+      "id_image": "environment_1530449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361782_82a8c59242_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361782_b0a1d273fe_o.png",
+      "id_image": "environment_471515"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053865_8f4c6493e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053865_20a86311bf_o.png",
+      "id_image": "environment_860463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053815_d2c1229d04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053815_e44492f1f5_o.png",
+      "id_image": "environment_992266"
+    }
+  ]
+}

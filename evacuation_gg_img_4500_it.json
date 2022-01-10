@@ -1,0 +1,51 @@
+{
+  "english": "evacuation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bài tiết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rút ra khỏi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tản cư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "triệt thối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xổ ra",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of evacuating a person or a place.",
+      "definitions_ex_en": "there were waves of evacuation during the blitz",
+      "definitions_ex_vn": "Có những đợt sơ tán trong Blitz",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of emptying the bowels or another bodily organ.",
+      "definitions_ex_en": "patients with a feeling of incomplete evacuation",
+      "definitions_ex_vn": "Bệnh nhân có cảm giác sơ tán không hoàn toàn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050655_a54bb3d737_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050655_755393b56d_o.png",
+      "id_image": "evacuation_2400142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668739_f4ebb631cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668739_23642b116d_o.png",
+      "id_image": "evacuation_3436785"
+    }
+  ]
+}

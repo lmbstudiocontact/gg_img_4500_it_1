@@ -1,0 +1,38 @@
+{
+  "english": "esteem",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lòng kính mến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "yêu chuộng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "yêu mến",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "respect and admiration, typically for a person.",
+      "definitions_ex_en": "he was held in high esteem by colleagues",
+      "definitions_ex_vn": "anh ta bị đồng nghiệp cao lương.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "respect and admire.",
+      "definitions_ex_en": "many of these qualities are esteemed by managers",
+      "definitions_ex_vn": "Nhiều phẩm chất này được đánh giá cao bởi các nhà quản lý",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359037_d3b4afa2b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359037_3428a715b4_o.png",
+      "id_image": "esteem_4060932"
+    }
+  ]
+}

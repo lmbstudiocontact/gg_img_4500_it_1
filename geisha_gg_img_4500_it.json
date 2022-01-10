@@ -1,0 +1,34 @@
+{
+  "english": "geisha",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vũ nữ ở nhật bổn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a Japanese hostess trained to entertain men with conversation, dance, and song.",
+      "definitions_ex_en": "a glimpse of a geisha slipping into a teahouse",
+      "definitions_ex_vn": "Một cái nhìn thoáng qua về một geisha trượt vào một quán trà",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451733_ae1db89c88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451733_9d9cf9920b_o.png",
+      "id_image": "geisha_4539689"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692259_597e4f7735_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692259_396d3d2685_o.png",
+      "id_image": "geisha_595702"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336886_f04c4ddd0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336886_e767b3267c_o.png",
+      "id_image": "geisha_771368"
+    }
+  ]
+}

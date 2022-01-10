@@ -1,0 +1,46 @@
+{
+  "english": "destruction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phá hoại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "suy nhược",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phá hủy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật tàn phá",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of causing so much damage to something that it no longer exists or cannot be repaired.",
+      "definitions_ex_en": "the destruction of the library in Alexandria",
+      "definitions_ex_vn": "sự hủy diệt của thư viện ở Alexandria",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682754_949fcca84d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682754_e7c8a9b817_o.png",
+      "id_image": "destruction_2689928"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372327_7109447454_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372327_ae41058540_o.png",
+      "id_image": "destruction_3061870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442608_fcc2037dfa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442608_cf56cc8746_o.png",
+      "id_image": "destruction_4742503"
+    }
+  ]
+}

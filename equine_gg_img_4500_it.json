@@ -1,0 +1,47 @@
+{
+  "english": "equine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ về giống ngựa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giống ngựa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nói về ngựa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về ngựa",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or affecting horses or other members of the horse family.",
+      "definitions_ex_en": "equine infectious anemia",
+      "definitions_ex_vn": "thiếu máu truyền nhiễm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a horse or other member of the horse family.",
+      "definitions_ex_en": "they compared the behavior of humans and equines",
+      "definitions_ex_vn": "họ đã so sánh hành vi của con người và ngựa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431358_60a4c1b9b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431358_d34815057d_o.png",
+      "id_image": "equine_2233652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431318_b94b107683_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431318_e05e569f3d_o.png",
+      "id_image": "equine_2262919"
+    }
+  ]
+}

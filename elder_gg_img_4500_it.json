@@ -1,0 +1,49 @@
+{
+  "english": "elder",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lớn hơn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đàn anh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lớn tuổi hơn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of one or more out of a group of associated people) of a greater age.",
+      "definitions_ex_en": "my elder daughter",
+      "definitions_ex_vn": "Con gái lớn tuổi của tôi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person of greater age than someone specified.",
+      "definitions_ex_en": "schoolchildren were no less fascinated than their elders",
+      "definitions_ex_vn": "SchoolChildren không ít bị mê hoặc hơn những người lớn tuổi của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small tree or shrub with pithy stems, typically having white flowers and bluish-black or red berries.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681869_bd23d32b76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681869_21eea69a7c_o.png",
+      "id_image": "elder_3770861"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371457_66db731dd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371457_d924da5772_o.png",
+      "id_image": "elder_3891416"
+    }
+  ]
+}

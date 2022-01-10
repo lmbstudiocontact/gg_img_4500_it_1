@@ -1,0 +1,30 @@
+{
+  "english": "dimensional",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không gian",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to measurements or dimensions.",
+      "definitions_ex_en": "technicians check dimensional accuracy using coordinate measuring machines",
+      "definitions_ex_vn": "Kỹ thuật viên kiểm tra độ chính xác kích thước bằng cách sử dụng máy đo tọa độ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having sufficient depth and substance to be believable.",
+      "definitions_ex_en": "well-rounded, fully dimensional characters",
+      "definitions_ex_vn": "nhân vật tròn trịa, đầy đủ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058215_cf64506b7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058215_970642bdaf_o.png",
+      "id_image": "dimensional_4335009"
+    }
+  ]
+}

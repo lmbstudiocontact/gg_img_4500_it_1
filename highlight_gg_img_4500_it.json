@@ -1,0 +1,64 @@
+{
+  "english": "highlight",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây đinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chi tiết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm nỗi bật lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lộ lên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an outstanding part of an event or period of time.",
+      "definitions_ex_en": "he views that season as the highlight of his career",
+      "definitions_ex_vn": "Anh ấy xem mùa đó là điểm nhấn trong sự nghiệp của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bright or reflective area in a painting, picture, or design.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "pick out and emphasize.",
+      "definitions_ex_en": "the issues highlighted by the report",
+      "definitions_ex_vn": "Các vấn đề được nhấn mạnh bởi báo cáo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "create highlights in (hair).",
+      "definitions_ex_en": "I've had my hair highlighted regularly for the last ten years",
+      "definitions_ex_vn": "Tôi đã có mái tóc được nhấn mạnh thường xuyên trong mười năm qua",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692689_6ec810f4b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692689_43928d3c40_o.png",
+      "id_image": "highlight_1994341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074420_5122b40e08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074420_7efc6ce7a9_o.png",
+      "id_image": "highlight_2495209"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382347_84130bd74e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382347_fb25207d97_o.png",
+      "id_image": "highlight_5720922"
+    }
+  ]
+}

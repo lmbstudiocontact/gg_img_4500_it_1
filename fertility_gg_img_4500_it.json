@@ -1,0 +1,29 @@
+{
+  "english": "fertility",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sanh sản",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the quality of being fertile; productiveness.",
+      "definitions_ex_en": "improve the soil fertility by adding compost",
+      "definitions_ex_vn": "Cải thiện khả năng sinh sản đất bằng cách thêm phân ủ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446583_1da0e9e454_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446583_529935d9b0_o.png",
+      "id_image": "fertility_1742011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686644_457325a87c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686644_6a9cbd5be7_o.png",
+      "id_image": "fertility_527028"
+    }
+  ]
+}

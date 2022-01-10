@@ -1,0 +1,35 @@
+{
+  "english": "fluorescent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có huỳnh quang",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a substance) having or showing fluorescence.",
+      "definitions_ex_en": "a fluorescent dye",
+      "definitions_ex_vn": "một loại thuốc nhuộm huỳnh quang",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a fluorescent tube or lamp.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055935_1afa0be8b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055935_68eb7dfb3b_o.png",
+      "id_image": "fluorescent_2605857"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364022_3cbf2b463e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364022_a1d42ec891_o.png",
+      "id_image": "fluorescent_2624137"
+    }
+  ]
+}

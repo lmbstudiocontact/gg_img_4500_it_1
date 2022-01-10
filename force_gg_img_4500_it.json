@@ -1,0 +1,120 @@
+{
+  "english": "force",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ảnh hưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "có hiệu lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lực lượng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức mạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự công hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức tác dụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thế lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt buộc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cưởng đoạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dùng vọ lực để đoạn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đẩy tới",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "strength or energy as an attribute of physical action or movement.",
+      "definitions_ex_en": "he was thrown backward by the force of the explosion",
+      "definitions_ex_vn": "anh ta bị ném về phía sau bởi lực nổ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "coercion or compulsion, especially with the use or threat of violence.",
+      "definitions_ex_en": "they ruled by law and not by force",
+      "definitions_ex_vn": "họ cai trị theo luật chứ không phải bằng vũ lực",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "mental or moral strength or power.",
+      "definitions_ex_en": "the force of popular opinion",
+      "definitions_ex_vn": "lực lượng của ý kiến phổ biến",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an organized body of military personnel or police.",
+      "definitions_ex_en": "a soldier in a UN peacekeeping force",
+      "definitions_ex_vn": "một người lính trong một lực lượng gìn giữ hòa bình của Liên Hợp Quốc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in the Star Wars films) a mystical universal energy field which certain individuals, such as the Jedi, can harness to gain special powers or abilities.",
+      "definitions_ex_en": "Luke used the Force to draw his lightsaber to his hand",
+      "definitions_ex_vn": "Luke đã sử dụng lực để vẽ ánh sáng của mình lên tay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a force-out.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a way through or into by physical strength; break open by force.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (someone) do something against their will.",
+      "definitions_ex_en": "she was forced into early retirement",
+      "definitions_ex_vn": "Cô bị buộc phải nghỉ hưu sớm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052730_e26f893849_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052730_980b672f63_o.png",
+      "id_image": "force_1533964"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670869_99f15e1227_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670869_b542bbe323_o.png",
+      "id_image": "force_4305267"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431128_dc7818758b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431128_d67415e83a_o.png",
+      "id_image": "force_4542581"
+    }
+  ]
+}

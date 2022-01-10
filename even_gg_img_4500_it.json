@@ -1,0 +1,144 @@
+{
+  "english": "even",
+  "list_translation_mean": [
+    {
+      "translate_mean": "như nhau",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "cả những",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "cho đến",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "cũng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ngay đến",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "bằng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bằng nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phẳng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "số chẳn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bằng phẳng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "buổi chiều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngang vật gì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "để ngang với",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm bằng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm bằng phẳng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho bằng nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tròn bổn phận",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "flat and smooth.",
+      "definitions_ex_en": "prepare the site, then lay an even bed of mortar",
+      "definitions_ex_vn": "chuẩn bị trang web, sau đó đặt một chiếc giường thậm chí của cối",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "equal in number, amount, or value.",
+      "definitions_ex_en": "an even gender balance among staff and students",
+      "definitions_ex_vn": "một sự cân bằng thậm chí giới giữa các nhân viên và học sinh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a number, such as 2, 6, or 108) divisible by two without a remainder.",
+      "definitions_ex_en": "a meter that reads only in even numbers",
+      "definitions_ex_vn": "một mét chỉ đọc trong các số chẵn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to the Even or their language.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "make or become even.",
+      "definitions_ex_en": "she cut the hair again to even up the ends",
+      "definitions_ex_vn": "Cô lại cắt tóc ngay cả hai đầu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used to emphasize something surprising or extreme.",
+      "definitions_ex_en": "they have never even heard of the US",
+      "definitions_ex_vn": "Họ thậm chí chưa bao giờ nghe nói về Hoa Kỳ",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "the end of the day; evening.",
+      "definitions_ex_en": "bring it to my house this even",
+      "definitions_ex_vn": "mang nó đến nhà tôi thậm chí",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a member of an indigenous people of eastern Siberia.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the language of the Even, a Tungusic language with about 6,000 speakers, closely related to Evenki.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668509_cacb1aff1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668509_b65d1db1e6_o.png",
+      "id_image": "even_4557989"
+    }
+  ]
+}

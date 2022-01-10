@@ -1,0 +1,58 @@
+{
+  "english": "forecast",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự báo trước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đoán trước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dự liệu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "predict or estimate (a future event or trend).",
+      "definitions_ex_en": "rain is forecast for eastern Ohio",
+      "definitions_ex_vn": "Mưa được dự báo cho Đông Ohio",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a prediction or estimate of future events, especially coming weather or a financial trend.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360137_e71e9fa398_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360137_488303c086_o.png",
+      "id_image": "forecast_2274711"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315891_273e5ac592_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315891_41a59e3ab1_o.png",
+      "id_image": "forecast_2358660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360032_0908428828_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360032_1278eea0f8_o.png",
+      "id_image": "forecast_5493096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315811_7104224d54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315811_8bf5274a54_o.png",
+      "id_image": "forecast_5579975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360167_116ffdbbf1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360167_0ff6d63733_o.png",
+      "id_image": "forecast_994632"
+    }
+  ]
+}

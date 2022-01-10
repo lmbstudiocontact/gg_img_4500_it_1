@@ -1,0 +1,29 @@
+{
+  "english": "earache",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bịnh nhức lỗ tai",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pain inside the ear.",
+      "definitions_ex_en": "I've got earache",
+      "definitions_ex_vn": "Tôi đã có tai nghe",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688474_a355c74a91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688474_16f5c10947_o.png",
+      "id_image": "earache_2999165"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333416_a62b53ecce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333416_96d852d8cc_o.png",
+      "id_image": "earache_5745992"
+    }
+  ]
+}

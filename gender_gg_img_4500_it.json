@@ -1,0 +1,51 @@
+{
+  "english": "gender",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thứ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "either of the two sexes (male and female), especially when considered with reference to social and cultural differences rather than biological ones. The term is also used more broadly to denote a range of identities that do not correspond to established ideas of male and female.",
+      "definitions_ex_en": "a condition that affects people of both genders",
+      "definitions_ex_vn": "một tình trạng ảnh hưởng đến mọi người của cả hai giới",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in languages such as Latin, Greek, Russian, and German) each of the classes (typically masculine, feminine, common, neuter) of nouns and pronouns distinguished by the different inflections that they have and require in words syntactically associated with them. Grammatical gender is only very loosely associated with natural distinctions of sex.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381617_30ab793bdd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381617_2ed392e688_o.png",
+      "id_image": "gender_3939800"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336566_fce9eaf736_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336566_98bc864afe_o.png",
+      "id_image": "gender_5759827"
+    }
+  ]
+}

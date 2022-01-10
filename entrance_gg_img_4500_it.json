@@ -1,0 +1,76 @@
+{
+  "english": "entrance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỗ vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cửa vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lọt vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lối vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự len vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm mê man",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an opening, such as a door, passage, or gate, that allows access to a place.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fill (someone) with wonder and delight, holding their entire attention.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433103_41fecc8b6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433103_9d18e122bb_o.png",
+      "id_image": "entrance_2394551"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672714_411f4fb8d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672714_1af8b0549c_o.png",
+      "id_image": "entrance_2858870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054550_295bcef1b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054550_d030214ba0_o.png",
+      "id_image": "entrance_493461"
+    }
+  ]
+}

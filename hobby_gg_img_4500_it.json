@@ -1,0 +1,68 @@
+{
+  "english": "hobby",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chim ưng nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngựa nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giải trí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiêu khiển ưa thích",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an activity done regularly in one's leisure time for pleasure.",
+      "definitions_ex_en": "her hobbies are reading and gardening",
+      "definitions_ex_vn": "Sở thích của cô là đọc sách và làm vườn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small horse or pony.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a migratory Old World falcon with long, narrow wings, catching dragonflies and birds on the wing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690919_2903b2e73e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690919_40148f2573_o.png",
+      "id_image": "hobby_4968155"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335661_b03de8d69e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335661_d320bcccd0_o.png",
+      "id_image": "hobby_6133474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690849_5bf937c408_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690849_efbab81b19_o.png",
+      "id_image": "hobby_6133495"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072515_000ca3a55f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072515_d516c04e7c_o.png",
+      "id_image": "hobby_6133509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335566_b6c8ed27ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335566_fe12439cd0_o.png",
+      "id_image": "hobby_6133516"
+    }
+  ]
+}

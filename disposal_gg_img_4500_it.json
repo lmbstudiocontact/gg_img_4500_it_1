@@ -1,0 +1,65 @@
+{
+  "english": "disposal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách dàn quân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách xếp đặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giao hàng hóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhường lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền sử dụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tẩt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trừ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of throwing away or getting rid of something.",
+      "definitions_ex_en": "the disposal of radioactive waste",
+      "definitions_ex_vn": "Việc xử lý chất thải phóng xạ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the sale of shares, property, or other assets.",
+      "definitions_ex_en": "the disposal of his shares in the company",
+      "definitions_ex_vn": "Việc xử lý cổ phiếu của mình trong công ty",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the arrangement or positioning of something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359252_44e8238885_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359252_8a5edc40ee_o.png",
+      "id_image": "disposal_2911660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051605_eca663514f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051605_cb3956da6b_o.png",
+      "id_image": "disposal_3154583"
+    }
+  ]
+}

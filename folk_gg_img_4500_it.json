@@ -1,0 +1,60 @@
+{
+  "english": "folk",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dân tộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giống dân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "people in general.",
+      "definitions_ex_en": "some folk will do anything for money",
+      "definitions_ex_vn": "Một số dân gian sẽ làm bất cứ điều gì để kiếm tiền",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "folk music.",
+      "definitions_ex_en": "a mixture of folk and reggae",
+      "definitions_ex_vn": "một hỗn hợp của dân gian và reggae",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to the traditional art or culture of a community or nation.",
+      "definitions_ex_en": "a revival of interest in folk customs",
+      "definitions_ex_vn": "một sự hồi sinh quan tâm đến phong tục dân gian",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to folk music.",
+      "definitions_ex_en": "a folk club",
+      "definitions_ex_vn": "một câu lạc bộ dân gian",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054280_0efa6152f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054280_48d22e0f4f_o.png",
+      "id_image": "folk_122858"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317706_879d02494a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317706_dee7e301e7_o.png",
+      "id_image": "folk_352280"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362072_ee40160b17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362072_c518bbf49e_o.png",
+      "id_image": "folk_352315"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "geyser",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tánh kỳ dị",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a hot spring in which water intermittently boils, sending a tall column of water and steam into the air.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(especially of water or steam) gush or burst out with great force.",
+      "definitions_ex_en": "yellow smoke geysered upward",
+      "definitions_ex_vn": "Khói vàng chảy lên",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689089_226e8affb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689089_6fb6603635_o.png",
+      "id_image": "geyser_1079136"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448953_be25945154_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448953_d12c6b932e_o.png",
+      "id_image": "geyser_1208501"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689109_77ee4d6240_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689109_fe1d613a8f_o.png",
+      "id_image": "geyser_471520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070940_cdd6316db5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070940_97835d8322_o.png",
+      "id_image": "geyser_6253512"
+    }
+  ]
+}

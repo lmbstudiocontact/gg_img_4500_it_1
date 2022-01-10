@@ -1,0 +1,44 @@
+{
+  "english": "drizzle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mưa bụi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mưa phùn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "light rain falling in very fine drops.",
+      "definitions_ex_en": "Boston will be cloudy with patchy drizzle",
+      "definitions_ex_vn": "Boston sẽ nhiều mây với mưa phùn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "rain lightly.",
+      "definitions_ex_en": "it's started to drizzle",
+      "definitions_ex_vn": "Nó bắt đầu mưa phùn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383017_d1057b4781_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383017_990cfc3be0_o.png",
+      "id_image": "drizzle_1458930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075030_f5c982ca74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075030_6e3c9c11bf_o.png",
+      "id_image": "drizzle_1458939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452868_81aea88c7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452868_11d9aee804_o.png",
+      "id_image": "drizzle_1458966"
+    }
+  ]
+}

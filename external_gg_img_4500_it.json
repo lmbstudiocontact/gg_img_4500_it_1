@@ -1,0 +1,60 @@
+{
+  "english": "external",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bề ngoài",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngoài",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngoại diện",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ở nước ngoài",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ở ngoài",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "việc không thiết yếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xét theo bề ngoài",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "belonging to or forming the outer surface or structure of something.",
+      "definitions_ex_en": "the external walls",
+      "definitions_ex_vn": "các bức tường bên ngoài",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "coming or derived from a source outside the subject affected.",
+      "definitions_ex_en": "for many people the church was a symbol of external authority",
+      "definitions_ex_vn": "Đối với nhiều người, Giáo hội là một biểu tượng của cơ quan bên ngoài",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the outward features of something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340616_73c56f569b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340616_4d83ceae83_o.png",
+      "id_image": "external_4496216"
+    }
+  ]
+}

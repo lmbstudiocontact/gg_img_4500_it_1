@@ -1,0 +1,79 @@
+{
+  "english": "dribble",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách dẩn banh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách lừa banh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chảy nhỏ giọt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chảy từng giọt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước miếng trẻ con",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chảy nước dãi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chảy xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lừa banh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhỏ xuống",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a liquid) fall slowly in drops or a thin stream.",
+      "definitions_ex_en": "rain dribbled down the window",
+      "definitions_ex_vn": "Mưa rụt rát xuống cửa sổ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(chiefly in soccer, field hockey, and basketball) take (the ball) forward past opponents with slight touches of the feet or the stick, or (in basketball) by continuous bouncing.",
+      "definitions_ex_en": "he attempted to dribble the ball from the goal area",
+      "definitions_ex_vn": "Ông đã cố gắng rê bóng quả bóng từ khu vực mục tiêu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a thin stream of liquid; a trickle.",
+      "definitions_ex_en": "a dribble of blood",
+      "definitions_ex_vn": "một loạt máu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in soccer, hockey, and basketball) an act or instance of taking the ball forward with repeated slight touches or bounces.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421478_b8b47a570e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421478_cea90e2a77_o.png",
+      "id_image": "dribble_2934143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421463_7af13b0a98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421463_e45510646a_o.png",
+      "id_image": "dribble_5284221"
+    }
+  ]
+}

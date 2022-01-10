@@ -1,0 +1,45 @@
+{
+  "english": "disturb",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm lộn xộn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm phiền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm rối trí",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm rộn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm rung động",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "interfere with the normal arrangement or functioning of.",
+      "definitions_ex_en": "being sent to jail had apparently not disturbed his cheerfulness",
+      "definitions_ex_vn": "Được gửi đến tù đã rõ ràng không làm xáo trộn sự vui vẻ của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050205_963fd59673_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050205_25a51c6ae3_o.png",
+      "id_image": "disturb_1207877"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050170_d13c4d1202_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050170_199bae55ae_o.png",
+      "id_image": "disturb_3508251"
+    }
+  ]
+}

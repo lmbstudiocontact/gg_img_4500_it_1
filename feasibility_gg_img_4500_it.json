@@ -1,0 +1,40 @@
+{
+  "english": "feasibility",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có lẻ đúng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "có lẻ thật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thi hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thực hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thực hiện",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state or degree of being easily or conveniently done.",
+      "definitions_ex_en": "the feasibility of a manned flight to Mars",
+      "definitions_ex_vn": "Tính khả thi của một chuyến bay có người lái đến Sao Hỏa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378537_61bed8bcc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378537_811954023d_o.png",
+      "id_image": "feasibility_994631"
+    }
+  ]
+}

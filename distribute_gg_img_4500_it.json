@@ -1,0 +1,67 @@
+{
+  "english": "distribute",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chia",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tung tán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phân loại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phân phát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phân hạng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give shares of (something); deal out.",
+      "definitions_ex_en": "information leaflets are being distributed to hotels and guest houses",
+      "definitions_ex_vn": "Tờ rơi thông tin đang được phân phối cho khách sạn và nhà khách",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "occur throughout an area.",
+      "definitions_ex_en": "the birds are mainly distributed in marshes and river valleys",
+      "definitions_ex_vn": "Những con chim chủ yếu được phân phối trong đầm lầy và thung lũng sông",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "use (a term) to include every individual of the class to which it refers.",
+      "definitions_ex_en": "the middle term must be distributed, at least once, in the premises",
+      "definitions_ex_vn": "thuật ngữ trung bình phải được phân phối, ít nhất một lần, trong khuôn viên",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313946_80f02f17ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313946_4c9ae121f6_o.png",
+      "id_image": "distribute_1555844"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358122_4c1e0f5be5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358122_fcc86172ee_o.png",
+      "id_image": "distribute_2844316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428873_91e5568a80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428873_334bfddb2b_o.png",
+      "id_image": "distribute_407809"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358207_c57cbba838_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358207_ec0d6c990c_o.png",
+      "id_image": "distribute_705358"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "english": "downgrade",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hết thời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mạt vận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xuống dốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghèo mạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dốc xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "suy đồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "suy đồi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "reduce to a lower grade, rank, or level of importance.",
+      "definitions_ex_en": "some jobs had gradually been downgraded from skilled to semiskilled",
+      "definitions_ex_vn": "Một số công việc đã dần dần bị hạ cấp từ lành nghề đến bán phá hoại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an instance of reducing someone or something's rank, status, or level of importance.",
+      "definitions_ex_en": "downgrades by debt-rating agencies outnumber upgrades by five to one",
+      "definitions_ex_vn": "hạ cấp bởi các cơ quan xếp hạng nợ vượt trội hơn nâng mức năm đến một",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307561_1d338c7f7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307561_037bd25ac6_o.png",
+      "id_image": "downgrade_2921173"
+    }
+  ]
+}

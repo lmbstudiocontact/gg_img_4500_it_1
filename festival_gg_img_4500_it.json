@@ -1,0 +1,38 @@
+{
+  "english": "festival",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hội hè",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngày lể",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a day or period of celebration, typically a religious commemoration.",
+      "definitions_ex_en": "a tabulation of saints' days and other festivals",
+      "definitions_ex_vn": "một bảng của các ngày của các thánh và các lễ hội khác",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446383_72977447d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446383_a202595275_o.png",
+      "id_image": "festival_1312005"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446318_b06736f03e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446318_01f79fab19_o.png",
+      "id_image": "festival_3728797"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068030_0fd2c87be8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068030_3892681a35_o.png",
+      "id_image": "festival_3892281"
+    }
+  ]
+}

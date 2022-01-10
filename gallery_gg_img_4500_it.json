@@ -1,0 +1,76 @@
+{
+  "english": "gallery",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ban công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bao lơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuồng gà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàng ba",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hành lang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mái hiên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a room or building for the display or sale of works of art.",
+      "definitions_ex_en": "an art gallery",
+      "definitions_ex_vn": "một phong trưng bay nghệ thuật",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a balcony, especially a platform or upper floor, projecting from the back or sidewall inside a church or hall, providing space for an audience or musicians.",
+      "definitions_ex_en": "in the minstrels' gallery, a string orchestra plays themes from film soundtracks",
+      "definitions_ex_vn": "Trong bộ sưu tập Minstrels, một dàn nhạc chuỗi chơi các chủ đề từ phim phim",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long room or passage, typically one that is partly open at the side to form a portico or colonnade.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385252_50e9a901c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385252_eb39387268_o.png",
+      "id_image": "gallery_3309178"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455178_eca4fcc103_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455178_35726e7f4c_o.png",
+      "id_image": "gallery_4311650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455128_b6aa5922e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455128_08ec5c839b_o.png",
+      "id_image": "gallery_4344627"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695704_28c2f548b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695704_f2e1a4cab6_o.png",
+      "id_image": "gallery_751380"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077630_856853b4bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077630_0fee898ca9_o.png",
+      "id_image": "gallery_758515"
+    }
+  ]
+}

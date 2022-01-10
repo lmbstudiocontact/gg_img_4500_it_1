@@ -1,0 +1,35 @@
+{
+  "english": "gasket",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây nhỏ cuốn buồm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a shaped piece or ring of rubber or other material sealing the junction between two surfaces in an engine or other device.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cord securing a furled sail to the yard, boom, or gaff of a sailing vessel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338271_7be92ccc68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338271_02e5da356c_o.png",
+      "id_image": "gasket_2422821"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338241_52ec1c6415_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338241_257d8a9986_o.png",
+      "id_image": "gasket_4805892"
+    }
+  ]
+}

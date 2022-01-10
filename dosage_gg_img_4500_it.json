@@ -1,0 +1,42 @@
+{
+  "english": "dosage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cho uống thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "định phân lượng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "liều lượng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the size or frequency of a dose of a medicine or drug.",
+      "definitions_ex_en": "a dosage of 450 milligrams a day",
+      "definitions_ex_vn": "một liều 450 miligam mỗi ngày",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424063_95126dcb60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424063_74a17ab6d1_o.png",
+      "id_image": "dosage_1798587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353047_0d3eece6d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353047_f8296e7ae2_o.png",
+      "id_image": "dosage_2037103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308831_8a137b76cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308831_0bcbe9c66e_o.png",
+      "id_image": "dosage_4867023"
+    }
+  ]
+}

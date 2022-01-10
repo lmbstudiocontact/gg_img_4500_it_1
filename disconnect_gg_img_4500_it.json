@@ -1,0 +1,35 @@
+{
+  "english": "disconnect",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tháo ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "break the connection of or between.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an instance of disconnecting or being disconnected.",
+      "definitions_ex_en": "a disconnect message",
+      "definitions_ex_vn": "một thông báo ngắt kết nối",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672659_612fc31e6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672659_c6b56620c6_o.png",
+      "id_image": "disconnect_1055072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362257_f5c83e06e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362257_f44036b534_o.png",
+      "id_image": "disconnect_4614241"
+    }
+  ]
+}

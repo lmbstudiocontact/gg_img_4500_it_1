@@ -1,0 +1,32 @@
+{
+  "english": "gable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lời nói lắp bắp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nói nhảm nhí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng kêu của ngổng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the part of a wall that encloses the end of a pitched roof.",
+      "definitions_ex_en": "a house with mock-Tudor gables",
+      "definitions_ex_vn": "Một ngôi nhà với Mock-Tudor Gables",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455583_c274e5c167_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455583_0bc8faacb2_o.png",
+      "id_image": "gable_2016043"
+    }
+  ]
+}

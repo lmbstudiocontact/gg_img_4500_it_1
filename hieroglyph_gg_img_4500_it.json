@@ -1,0 +1,29 @@
+{
+  "english": "hieroglyph",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chữ khó đọc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a stylized picture of an object representing a word, syllable, or sound, as found in ancient Egyptian and other writing systems.",
+      "definitions_ex_en": "hieroglyphs describing the Mayan calendar",
+      "definitions_ex_vn": "chữ tượng hình mô tả lịch Maya",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074545_1788a1bda5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074545_cee6c9890f_o.png",
+      "id_image": "hieroglyph_287133"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692784_d0bb1538ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692784_95bd21c6af_o.png",
+      "id_image": "hieroglyph_4127105"
+    }
+  ]
+}

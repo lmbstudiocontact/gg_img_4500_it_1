@@ -1,0 +1,139 @@
+{
+  "english": "escape",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chạy trốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỗ rĩ nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chạy trốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thoát khỏi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người vượt ngục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lẫn tránh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trốn thoát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỗ xì hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tẩu thoát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cửa nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chảy ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không để ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không nhận thấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "người thoát khỏi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rịn ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thoát khỏi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thốt ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trốn thoát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vô tình nói ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trốn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vượt ngục",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trốn khỏi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xì ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "break free from confinement or control.",
+      "definitions_ex_en": "two burglars have just escaped from prison",
+      "definitions_ex_vn": "Hai kẻ trộm vừa thoát khỏi nhà tù",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fail to be noticed or remembered by (someone).",
+      "definitions_ex_en": "the name escaped him",
+      "definitions_ex_vn": "cái tên thoát khỏi anh ta",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "interrupt (an operation) by means of the escape key.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of breaking free from confinement or control.",
+      "definitions_ex_en": "the story of his escape from a POW camp",
+      "definitions_ex_vn": "Câu chuyện về trốn thoát khỏi trại Pow",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359702_360b59396e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359702_40c87bdef2_o.png",
+      "id_image": "escape_2456285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315571_e76ee4e9d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315571_0a931054db_o.png",
+      "id_image": "escape_2456288"
+    }
+  ]
+}

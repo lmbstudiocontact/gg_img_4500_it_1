@@ -1,0 +1,33 @@
+{
+  "english": "germination",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đâm mộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phát nha",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the development of a plant from a seed or spore after a period of dormancy.",
+      "definitions_ex_en": "successful germination of crops",
+      "definitions_ex_vn": "Nảy mầm thành công của cây trồng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449473_11c81fe8b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449473_1168c8be7b_o.png",
+      "id_image": "germination_2227319"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334471_8ca80be8c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334471_b74fdf2562_o.png",
+      "id_image": "germination_4328754"
+    }
+  ]
+}

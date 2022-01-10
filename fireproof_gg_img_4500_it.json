@@ -1,0 +1,48 @@
+{
+  "english": "fireproof",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không bốc lửa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không cháy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không thể đốt cháy được",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "able to withstand fire or great heat.",
+      "definitions_ex_en": "a fireproof dish",
+      "definitions_ex_vn": "một món ăn chống cháy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "make (something) fireproof.",
+      "definitions_ex_en": "nearby museum buildings will be fireproofed",
+      "definitions_ex_vn": "Các tòa nhà bảo tàng gần đó sẽ được chống cháy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370837_8557ec9d83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370837_06e5e71cea_o.png",
+      "id_image": "fireproof_2099951"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370772_c0157fdca4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370772_de6459ec20_o.png",
+      "id_image": "fireproof_4176656"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370742_ca6d8901ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370742_ff21764c97_o.png",
+      "id_image": "fireproof_5322132"
+    }
+  ]
+}

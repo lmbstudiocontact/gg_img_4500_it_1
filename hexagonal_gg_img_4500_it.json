@@ -1,0 +1,34 @@
+{
+  "english": "hexagonal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lục giác",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of or pertaining to a hexagon.",
+      "definitions_ex_en": "small, hexagonal pockets of honeycomb",
+      "definitions_ex_vn": "Túi nhỏ, hình lục giác của tổ ong",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383057_ae3a1b1c41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383057_743477f60c_o.png",
+      "id_image": "hexagonal_5226361"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693269_cd62f8a6a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693269_ecff82f3f9_o.png",
+      "id_image": "hexagonal_6181356"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382987_7d92bb82b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382987_3340fd04c6_o.png",
+      "id_image": "hexagonal_6181390"
+    }
+  ]
+}

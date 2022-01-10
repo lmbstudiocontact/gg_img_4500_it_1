@@ -1,0 +1,33 @@
+{
+  "english": "greedy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tham lam",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tham",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having or showing an intense and selfish desire for something, especially wealth or power.",
+      "definitions_ex_en": "greedy thieves who plundered a defense contractor",
+      "definitions_ex_vn": "Những tên trộm tham lam cướp bóc một nhà thầu phòng thủ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678089_e5b77edc81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678089_46b5775d4e_o.png",
+      "id_image": "greedy_2188612"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059645_7d12570fce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059645_ae66bebe4a_o.png",
+      "id_image": "greedy_5507677"
+    }
+  ]
+}

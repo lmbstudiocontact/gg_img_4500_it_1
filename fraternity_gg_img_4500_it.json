@@ -1,0 +1,30 @@
+{
+  "english": "fraternity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tình anh em",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a group of people sharing a common profession or interests.",
+      "definitions_ex_en": "members of the hunting fraternity",
+      "definitions_ex_vn": "Các thành viên của cuộc huynh đệ săn bắn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the state or feeling of friendship and mutual support within a group.",
+      "definitions_ex_en": "the ideals of liberty, equality, and fraternity",
+      "definitions_ex_vn": "những lý tưởng của tự do, bình đẳng và huynh đệ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667879_c70596e65d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667879_eba52eefae_o.png",
+      "id_image": "fraternity_2284947"
+    }
+  ]
+}

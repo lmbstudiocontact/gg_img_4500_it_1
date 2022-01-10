@@ -1,0 +1,42 @@
+{
+  "english": "election",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc tuyển cữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lựa chọn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tuyển lên thiên đường",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a formal and organized choice by vote of a person for a political office or other position.",
+      "definitions_ex_en": "an election year",
+      "definitions_ex_vn": "một năm bầu cử",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441463_b5048e464e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441463_e9e88d5ee4_o.png",
+      "id_image": "election_1902201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063335_0cc41a96be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063335_f17f2eabb7_o.png",
+      "id_image": "election_4327442"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441513_b37af630f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441513_80cf798604_o.png",
+      "id_image": "election_927301"
+    }
+  ]
+}

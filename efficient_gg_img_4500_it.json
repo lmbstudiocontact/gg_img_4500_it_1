@@ -1,0 +1,49 @@
+{
+  "english": "efficient",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có khả năng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có năng lực",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có tài năng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sanh hiệu qủa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sanh kết qủa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có đủ tài",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(especially of a system or machine) achieving maximum productivity with minimum wasted effort or expense.",
+      "definitions_ex_en": "fluorescent lamps are efficient at converting electricity into light",
+      "definitions_ex_vn": "Đèn huỳnh quang hiệu quả khi chuyển đổi điện thành ánh sáng",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064525_1aa03de9a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064525_729dc5262b_o.png",
+      "id_image": "efficient_4465633"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372507_6d84ec1869_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372507_174b7d5e65_o.png",
+      "id_image": "efficient_6041339"
+    }
+  ]
+}

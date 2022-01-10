@@ -1,0 +1,53 @@
+{
+  "english": "envy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đố kỵ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng ghen",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật làm đố kỵ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a feeling of discontented or resentful longing aroused by someone else's possessions, qualities, or luck.",
+      "definitions_ex_en": "she felt a twinge of envy for the people on board",
+      "definitions_ex_vn": "Cô cảm thấy một sự ghen tị của người dân trên tàu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "desire to have a quality, possession, or other desirable attribute belonging to (someone else).",
+      "definitions_ex_en": "he envied people who did not have to work on weekends",
+      "definitions_ex_vn": "Ông ghen tị với những người không phải làm việc vào cuối tuần",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053570_7a71d7bb03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053570_61335c4220_o.png",
+      "id_image": "envy_3362436"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671819_5a6385e4af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671819_f4f8aacedc_o.png",
+      "id_image": "envy_6000894"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432158_596ab818fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432158_7efbd3847d_o.png",
+      "id_image": "envy_6002668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361457_03778b5aff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361457_ccc557e032_o.png",
+      "id_image": "envy_708644"
+    }
+  ]
+}

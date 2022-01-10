@@ -1,0 +1,46 @@
+{
+  "english": "evacuate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài tiết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rút ra khỏi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tản cư",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thải ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "triệt thoái khỏi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "remove (someone) from a place of danger to a safer place.",
+      "definitions_ex_en": "several families were evacuated from their homes",
+      "definitions_ex_vn": "Một số gia đình đã được sơ tán khỏi nhà của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "remove air, water, or other contents from (a container).",
+      "definitions_ex_en": "when it springs a leak, evacuate the pond",
+      "definitions_ex_vn": "Khi nó phun rò rỉ, sơ tán ao",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358277_f942bf9f29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358277_717aba094b_o.png",
+      "id_image": "evacuate_1973154"
+    }
+  ]
+}

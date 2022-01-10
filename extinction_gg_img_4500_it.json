@@ -1,0 +1,51 @@
+{
+  "english": "extinction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự dập tắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm tắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tô vô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiêu diệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trả hết nợ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the fact or process of a species, family, or other group of animals or plants becoming extinct.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "reduction in the intensity of light or other radiation as it passes through a medium or object, due to absorption, reflection, and scattering.",
+      "definitions_ex_en": "ultraviolet extinction",
+      "definitions_ex_vn": "tuyệt chủng cực tím",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340586_ab576808cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340586_a1fb263fe8_o.png",
+      "id_image": "extinction_2590838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385512_7eddc8ddcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385512_9bb3c0bca0_o.png",
+      "id_image": "extinction_2640372"
+    }
+  ]
+}

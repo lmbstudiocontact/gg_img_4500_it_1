@@ -1,0 +1,59 @@
+{
+  "english": "haze",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có hơi mù",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hơi bốc lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mơ hồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sương mù",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sương mù buổi sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bao bọc sương mù",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mưa phùn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a slight obscuration of the lower atmosphere, typically caused by fine suspended particles.",
+      "definitions_ex_en": "the cold air has no pollution and very little haze",
+      "definitions_ex_vn": "Không khí lạnh không có ô nhiễm và rất ít khói mù",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a state of mental obscurity or confusion.",
+      "definitions_ex_en": "through an alcoholic haze",
+      "definitions_ex_vn": "thông qua một khói mù",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457658_02af214db2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457658_001ab1f9d0_o.png",
+      "id_image": "haze_3104495"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342821_438828e00b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342821_1e422e1c36_o.png",
+      "id_image": "haze_6236517"
+    }
+  ]
+}

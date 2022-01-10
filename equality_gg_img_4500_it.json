@@ -1,0 +1,39 @@
+{
+  "english": "equality",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bằng nhau",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being equal, especially in status, rights, and opportunities.",
+      "definitions_ex_en": "an organization aiming to promote racial equality",
+      "definitions_ex_vn": "Một tổ chức nhằm thúc đẩy bình đẳng chủng tộc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361207_045f3eb9c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361207_869b950e9c_o.png",
+      "id_image": "equality_325669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316826_f60ec3fc54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316826_a5e746d51f_o.png",
+      "id_image": "equality_3814171"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671549_2825814d34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671549_2623cd71db_o.png",
+      "id_image": "equality_734906"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316871_a032aa1733_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316871_7fc936d857_o.png",
+      "id_image": "equality_860465"
+    }
+  ]
+}

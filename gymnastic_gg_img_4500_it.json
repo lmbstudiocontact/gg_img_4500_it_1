@@ -1,0 +1,33 @@
+{
+  "english": "gymnastic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về thể dục",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về thể thao",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to gymnastics.",
+      "definitions_ex_en": "a gymnastic display",
+      "definitions_ex_vn": "một màn hình thể dục",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361507_c2776b9167_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361507_4369d24ece_o.png",
+      "id_image": "gymnastic_4205498"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317181_00f1355e26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317181_712ef4fd56_o.png",
+      "id_image": "gymnastic_5252833"
+    }
+  ]
+}

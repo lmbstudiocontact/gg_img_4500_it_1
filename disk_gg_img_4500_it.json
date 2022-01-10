@@ -1,0 +1,58 @@
+{
+  "english": "disk",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dĩa hát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng tròn và mõng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phiến tròn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật hình tròn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a flat, thin, round object.",
+      "definitions_ex_en": "heavy metal disks the size of hockey pucks",
+      "definitions_ex_vn": "Đĩa kim loại nặng Kích thước của Pucks khúc côn cầu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a shape or surface that is round and flat in appearance.",
+      "definitions_ex_en": "the smudged yellow disk of the moon",
+      "definitions_ex_vn": "đĩa màu vàng nhòe của mặt trăng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cultivate (a field) with a disk harrow.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360157_483043ae6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360157_5647d109ef_o.png",
+      "id_image": "disk_170907"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430793_3045a52f16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430793_3fc6e704fa_o.png",
+      "id_image": "disk_391129"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360087_b1eb28dfca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360087_7e39218375_o.png",
+      "id_image": "disk_4542209"
+    }
+  ]
+}

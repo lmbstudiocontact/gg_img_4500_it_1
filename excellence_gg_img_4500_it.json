@@ -1,0 +1,50 @@
+{
+  "english": "excellence",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tuyệt diệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tuyệt luân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tuyệt hảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ưu tú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xuất sắc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the quality of being outstanding or extremely good.",
+      "definitions_ex_en": "a center of academic excellence",
+      "definitions_ex_vn": "Một trung tâm của sự xuất sắc học tập",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356752_ac97598caa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356752_d2a6b772c8_o.png",
+      "id_image": "excellence_2617930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427563_8bc7a03772_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427563_91a7b74c56_o.png",
+      "id_image": "excellence_4185520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356712_3ae926cbb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356712_6cb83f3ef4_o.png",
+      "id_image": "excellence_6092245"
+    }
+  ]
+}

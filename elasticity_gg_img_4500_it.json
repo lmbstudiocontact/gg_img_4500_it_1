@@ -1,0 +1,60 @@
+{
+  "english": "elasticity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự mềm dẻo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh mềm mỏng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the ability of an object or material to resume its normal shape after being stretched or compressed; stretchiness.",
+      "definitions_ex_en": "aging can decrease the elasticity of your skin",
+      "definitions_ex_vn": "lão hóa có thể làm giảm độ đàn hồi của da bạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "ability to change and adapt; adaptability.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the degree to which a demand or supply is sensitive to changes in price or income.",
+      "definitions_ex_en": "the price elasticity of electricity demand",
+      "definitions_ex_vn": "Độ co giãn giá của nhu cầu điện",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682284_5a801f625a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682284_7b26ae047a_o.png",
+      "id_image": "elasticity_1466549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371802_1897dbf641_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371802_9050a2367e_o.png",
+      "id_image": "elasticity_1466551"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442098_64b8d1e8a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442098_674e24c79a_o.png",
+      "id_image": "elasticity_1466552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682159_20730b2d07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682159_dcdcb11f3d_o.png",
+      "id_image": "elasticity_4542487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063860_f5ab304019_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063860_9f370f658c_o.png",
+      "id_image": "elasticity_5091351"
+    }
+  ]
+}

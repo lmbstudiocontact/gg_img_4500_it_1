@@ -1,0 +1,60 @@
+{
+  "english": "fiddle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ dùng để gác lên cho khô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người kéo vĩ cầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vĩ cầm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a violin, especially when used to play folk music.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a contrivance, such as a raised rim, that prevents things from rolling or sliding off a table in bad weather.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "play the fiddle.",
+      "definitions_ex_en": "he fiddled with the band from 1949 to 1951",
+      "definitions_ex_vn": "Anh nghịch ngợm với ban nhạc từ 1949 đến 1951",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "touch or fidget with something in a restless or nervous way.",
+      "definitions_ex_en": "Laura fiddled with her cup",
+      "definitions_ex_vn": "Laura nghịch ngợm với cốc của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445828_844506c038_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445828_2aef6e3f5a_o.png",
+      "id_image": "fiddle_2128786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375602_37fc3148e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375602_9da5baf740_o.png",
+      "id_image": "fiddle_350449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445873_c266a0a9fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445873_390619eb25_o.png",
+      "id_image": "fiddle_352491"
+    }
+  ]
+}

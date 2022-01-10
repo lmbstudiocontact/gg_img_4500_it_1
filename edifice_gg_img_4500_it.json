@@ -1,0 +1,38 @@
+{
+  "english": "edifice",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biệt thự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lâu đài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tòa lâu đài",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a building, especially a large, imposing one.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a complex system of beliefs.",
+      "definitions_ex_en": "the concepts on which the edifice of capitalism was built",
+      "definitions_ex_vn": "các khái niệm mà các tòa nhà của chủ nghĩa tư bản được xây dựng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066950_ae092a2a13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066950_e538bbe134_o.png",
+      "id_image": "edifice_1255729"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "dual",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hai",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chia làn hai",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chia đôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số ít và số nhiều",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "consisting of two parts, elements, or aspects.",
+      "definitions_ex_en": "their dual role at work and home",
+      "definitions_ex_vn": "vai trò kép của họ tại nơi làm việc và nhà",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a theorem, expression, etc.) related to another by the interchange of particular pairs of terms, such as “point” and “line.”.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a dual form of a word.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a theorem, expression, etc., that is dual to another.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380927_993a5fb070_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380927_7ed80d120b_o.png",
+      "id_image": "dual_3603712"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691089_4e4e2bf077_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691089_41a32f780a_o.png",
+      "id_image": "dual_4044551"
+    }
+  ]
+}

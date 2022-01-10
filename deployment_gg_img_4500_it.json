@@ -1,0 +1,54 @@
+{
+  "english": "deployment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuyển thành trận thế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dàn quân",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the movement of troops or equipment to a place or position for military action.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of bringing resources into effective action.",
+      "definitions_ex_en": "the rapid deployment of high-speed cable internet services to consumers",
+      "definitions_ex_vn": "Việc triển khai nhanh chóng các dịch vụ Internet cáp tốc độ cao cho người tiêu dùng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067540_e7942595f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067540_9b334fa196_o.png",
+      "id_image": "deployment_1508878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330701_0e98a2778f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330701_6b3d4e7108_o.png",
+      "id_image": "deployment_1769123"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685729_7111a1e720_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685729_5842852b72_o.png",
+      "id_image": "deployment_1988217"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445568_314c2cf865_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445568_224736a37f_o.png",
+      "id_image": "deployment_2535503"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375277_fa8568550b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375277_9bcde82bcc_o.png",
+      "id_image": "deployment_2620954"
+    }
+  ]
+}

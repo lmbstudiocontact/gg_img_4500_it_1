@@ -1,0 +1,40 @@
+{
+  "english": "frustration",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm hỏng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chống đối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chống lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phản kháng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thất bại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the feeling of being upset or annoyed, especially because of inability to change or achieve something.",
+      "definitions_ex_en": "I sometimes feel like screaming with frustration",
+      "definitions_ex_vn": "Đôi khi tôi cảm thấy như la hét với sự thất vọng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343196_2d6ae3a965_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343196_f0aeeb9b6b_o.png",
+      "id_image": "frustration_3588981"
+    }
+  ]
+}

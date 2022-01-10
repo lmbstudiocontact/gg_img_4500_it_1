@@ -1,0 +1,170 @@
+{
+  "english": "dress",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách ăn mặc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quần áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trang phục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật che lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật phủ lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "y phục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn mặc đơn giản",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bào cho nhẩn mặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chải tóc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho hết sần sùi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp thành hàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sửa soạn đầu tóc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trang sức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bày hàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chưng bày",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tháo ở khuôn ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "băng bó",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đứng sắp hàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trang điểm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bới tóc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giũa cho bằng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mặc quần áo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nấu đồ ăn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "put on one's clothes.",
+      "definitions_ex_en": "Graham showered and dressed quickly",
+      "definitions_ex_vn": "Graham tắm và mặc quần áo nhanh chóng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "decorate (something) in an artistic or attractive way.",
+      "definitions_ex_en": "they had dressed the doorframes with sprays of bittersweet",
+      "definitions_ex_vn": "Họ đã mặc trang phục các khung cửa bằng thuốc xịt của Bittersweet",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "clean, treat, or apply a dressing to (a wound).",
+      "definitions_ex_en": "she washed the wound and dressed it with fresh bandages",
+      "definitions_ex_vn": "Cô rửa vết thương và mặc nó bằng băng tươi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "clean and prepare (food, especially poultry or shellfish) for cooking or eating.",
+      "definitions_ex_en": "dress the crab and shell the prawns",
+      "definitions_ex_vn": "Đầm cua và vỏ tôm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "apply a fertilizing substance to (a field, garden, or plant).",
+      "definitions_ex_en": "the field was dressed with unrotted farmyard manure",
+      "definitions_ex_vn": "cánh đồng đã mặc đồ trang trại chưa được phân trang",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "draw up (troops) in the proper alignment.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "prepare (an artificial fly) for use in fishing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a one-piece garment worn by women and girls that covers the body and extends down over the legs.",
+      "definitions_ex_en": "a white cotton dress",
+      "definitions_ex_vn": "một chiếc váy cotton trắng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "clothing of a specified kind for men or women.",
+      "definitions_ex_en": "traditional African dress",
+      "definitions_ex_vn": "Váy truyền thống châu Phi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043435_85184f7d39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043435_182384c8da_o.png",
+      "id_image": "dress_272630"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306421_7cbfb54587_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306421_4ece84c4ff_o.png",
+      "id_image": "dress_394466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661759_ae13fde8d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661759_e92ffda05c_o.png",
+      "id_image": "dress_669284"
+    }
+  ]
+}

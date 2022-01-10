@@ -1,0 +1,72 @@
+{
+  "english": "gate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cổng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cổng vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cửa song sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cửa vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đèo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đuổi người nào ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuông cửa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a hinged barrier used to close an opening in a wall, fence, or hedge.",
+      "definitions_ex_en": "she closed the front gate",
+      "definitions_ex_vn": "Cô đóng cửa trước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the number of people who pay to enter a sports facility, exhibition hall, etc., for any one event.",
+      "definitions_ex_en": "gate receipts",
+      "definitions_ex_vn": "Biên lai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device resembling a gate in structure or function.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an electric circuit with an output which depends on the combination of several inputs.",
+      "definitions_ex_en": "a logic gate",
+      "definitions_ex_vn": "một cổng logic.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "in nouns denoting an actual or alleged scandal, especially one involving a cover-up.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338056_951877761f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338056_48e1074e2a_o.png",
+      "id_image": "gate_4413103"
+    }
+  ]
+}

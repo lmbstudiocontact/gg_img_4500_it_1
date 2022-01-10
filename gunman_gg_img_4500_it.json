@@ -1,0 +1,33 @@
+{
+  "english": "gunman",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người dùng súng ăn cướp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người dùng súng giết ai",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a man who uses a gun to commit a crime or terrorist act.",
+      "definitions_ex_en": "a gang of masked gunmen",
+      "definitions_ex_vn": "một nhóm súng đeo mặt nạ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672309_9a3b317fb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672309_8b3d86ee6f_o.png",
+      "id_image": "gunman_1256805"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054020_e94d4eb2a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054020_31bd4a512f_o.png",
+      "id_image": "gunman_2495713"
+    }
+  ]
+}

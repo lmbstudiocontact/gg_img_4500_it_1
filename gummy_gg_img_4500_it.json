@@ -1,0 +1,62 @@
+{
+  "english": "gummy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "keo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có nhiều chất nhựa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hồ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dính như gôm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhựa",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "viscous; sticky.",
+      "definitions_ex_en": "a gummy discharge",
+      "definitions_ex_vn": "một gummy xả",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "toothless.",
+      "definitions_ex_en": "a gummy grin",
+      "definitions_ex_vn": "một nụ cười gummy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a small, edible shark of Australasian coastal waters, with rounded teeth that it uses to crush hard-shelled prey.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432843_b7eb1f320b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432843_8d6366258b_o.png",
+      "id_image": "gummy_119510"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362017_b1c1fbe212_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362017_3187a673d1_o.png",
+      "id_image": "gummy_452529"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361997_460115f4e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361997_cea0092706_o.png",
+      "id_image": "gummy_452542"
+    }
+  ]
+}

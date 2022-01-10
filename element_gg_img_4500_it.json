@@ -1,0 +1,86 @@
+{
+  "english": "element",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hoàn cảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguyên tố",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần tử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sơ luận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sở trường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thành phần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "yếu tố",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a part or aspect of something abstract, especially one that is essential or characteristic.",
+      "definitions_ex_en": "the death had all the elements of a great tabloid story",
+      "definitions_ex_vn": "Cái chết có tất cả các yếu tố của một câu chuyện tuyệt vời với một tờ báo lá cải",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of more than one hundred substances that cannot be chemically interconverted or broken down into simpler substances and are primary constituents of matter. Each element is distinguished by its atomic number, i.e. the number of protons in the nuclei of its atoms.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the weather, especially strong winds, heavy rain, and other kinds of bad weather.",
+      "definitions_ex_en": "there was no barrier against the elements",
+      "definitions_ex_vn": "Không có rào cản chống lại các yếu tố",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a part in an electric teapot, heater, or stove that contains a wire through which an electric current is passed to provide heat.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061760_f1e00e13ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061760_ae25843b20_o.png",
+      "id_image": "element_191103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439878_4522191730_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439878_d16ca97fed_o.png",
+      "id_image": "element_2311647"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679964_21febd8065_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679964_b97857654e_o.png",
+      "id_image": "element_2563440"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324721_5d10889b22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324721_9f85304df0_o.png",
+      "id_image": "element_3527748"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679879_0e80802d2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679879_7bf52c37cb_o.png",
+      "id_image": "element_5740896"
+    }
+  ]
+}

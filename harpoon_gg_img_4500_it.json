@@ -1,0 +1,40 @@
+{
+  "english": "harpoon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây lao để đâm cá voi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a barbed missile resembling a spear that is attached to a long rope and thrown by hand or fired from a gun, used for catching whales and other large sea creatures.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "spear with a harpoon.",
+      "definitions_ex_en": "Gilbert's father harpooned a five-meter basking shark",
+      "definitions_ex_vn": "Cha của Gilbert harpooned một con cá mập lớn năm mét",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388867_a748e1c27c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388867_286dc9f3b5_o.png",
+      "id_image": "harpoon_2439740"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343956_f2c5da2b2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343956_e4efcd9b22_o.png",
+      "id_image": "harpoon_4632642"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081235_59bc2fb239_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081235_7ed7a0b490_o.png",
+      "id_image": "harpoon_4690500"
+    }
+  ]
+}

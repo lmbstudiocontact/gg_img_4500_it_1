@@ -1,0 +1,110 @@
+{
+  "english": "flag",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây bồ hoàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đá để ló đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lông cánh chim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lá cờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lá lúa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lót đá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phủ lớp lá lúa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "treo cờ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of cloth or similar material, typically oblong or square, attachable by one edge to a pole or rope and used as the symbol or emblem of a country or institution or as a decoration during public festivities.",
+      "definitions_ex_en": "the American flag",
+      "definitions_ex_vn": "Cờ Mỹ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small piece of cloth attached at one edge to a pole and used as a marker or signal in various sports.",
+      "definitions_ex_en": "jumped the starter's flag, did he?",
+      "definitions_ex_vn": "nhảy cờ của người khởi xướng, anh ta có không?",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a variable used to indicate a particular property of the data in a record.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a flat stone slab, typically rectangular or square, used for paving.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a plant with sword-shaped leaves that grow from a rhizome.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "mark (an item) for attention or treatment in a specified way.",
+      "definitions_ex_en": "“greatfully” would be flagged as a misspelling of “gratefully.”",
+      "definitions_ex_vn": "\"Tuyệt vời\" sẽ được gắn cờ như một vụspelling của \"biết ơn\".",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an official in football, soccer, and other sports) raise or throw a flag to indicate a breach of the rules.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "provide or decorate with a flag or flags.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a person) become tired, weaker, or less enthusiastic.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060855_3892af8f5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060855_d755875e7d_o.png",
+      "id_image": "flag_124757"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323891_9cb16c11f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323891_fa080c05c9_o.png",
+      "id_image": "flag_202621"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060765_cd9386a436_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060765_1bd915d175_o.png",
+      "id_image": "flag_649087"
+    }
+  ]
+}

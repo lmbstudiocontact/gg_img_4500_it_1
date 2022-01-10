@@ -1,0 +1,82 @@
+{
+  "english": "flux",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tuôn ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước triều lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biến chuyển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thăng trầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trào ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phun ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm chảy ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of flowing or flowing out.",
+      "definitions_ex_en": "the flux of men and women moving back and forth",
+      "definitions_ex_vn": "thông lượng của đàn ông và phụ nữ di chuyển qua lại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an abnormal discharge of blood or other matter from or within the body.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "continuous change.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a substance mixed with a solid to lower its melting point, used especially in soldering and brazing metals or to promote vitrification in glass or ceramics.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "treat (a metal object) with a flux to promote melting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319026_529efc205f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319026_df1fd0b1b2_o.png",
+      "id_image": "flux_6090866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319006_edfe360d4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319006_9cefdf7b65_o.png",
+      "id_image": "flux_6091330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318971_b7abfa52d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318971_133ba8bc5d_o.png",
+      "id_image": "flux_6134438"
+    }
+  ]
+}

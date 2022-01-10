@@ -1,0 +1,225 @@
+{
+  "english": "drop",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ một chử",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hạ sườn xe xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hạ xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ném",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngã xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhỏ xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xệ xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chảy xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm rớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy dù",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rớt xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho xuống xe",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thấp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhiệt độ xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sụt giá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để rớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liệng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhìn xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giãm xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giọt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhỏ xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giãm giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mở dù",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sụt giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thả dù",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "let or make (something) fall vertically.",
+      "definitions_ex_en": "the fire was caused by someone dropping a lighted cigarette",
+      "definitions_ex_vn": "ngọn lửa được gây ra bởi một người nào đó thả một điếu thuốc thắp sáng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fall vertically.",
+      "definitions_ex_en": "the spoon dropped with a clatter from her hand",
+      "definitions_ex_vn": "cái muỗng rơi với một tiếng kêu từ tay cô",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make or become lower, weaker, or less.",
+      "definitions_ex_en": "he dropped his voice as she came into the room",
+      "definitions_ex_vn": "Anh ta thả giọng nói khi cô vào phòng.",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "abandon or discontinue (a course of action or study).",
+      "definitions_ex_en": "the charges against him were dropped last year",
+      "definitions_ex_vn": "Các cáo buộc chống lại anh ta đã bị loại bỏ vào năm ngoái",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "set down or unload (a passenger or goods), especially on the way to somewhere else.",
+      "definitions_ex_en": "his mom dropped him outside and drove off to work",
+      "definitions_ex_vn": "Mẹ anh buông anh ra ngoài và lái xe đi làm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in sports) fail to win (a point, game, or match).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be forced to play (a relatively high card) as a loser under an opponent's higher card, because it is the only card in its suit held in the hand.",
+      "definitions_ex_en": "West dropped the nine",
+      "definitions_ex_vn": "West thả chín",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a small round or pear-shaped portion of liquid that hangs or falls or adheres to a surface.",
+      "definitions_ex_en": "the first drops of rain splashed on the ground",
+      "definitions_ex_vn": "Những giọt mưa đầu tiên bắn tung tóe trên mặt đất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instance of falling or dropping.",
+      "definitions_ex_en": "they left within five minutes of the drop of the curtain",
+      "definitions_ex_vn": "Họ để lại trong vòng năm phút sau giọt rèm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a delivery.",
+      "definitions_ex_en": "I got to the depot and made the drop",
+      "definitions_ex_vn": "Tôi đã đến kho và thực hiện thả",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece of candy or a lozenge.",
+      "definitions_ex_en": "a lemon drop",
+      "definitions_ex_vn": "một quả chanh thả.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an earring that hangs down from the earlobe.",
+      "definitions_ex_en": "simple amethyst and diamond drops",
+      "definitions_ex_vn": "Amethyst đơn giản và giọt kim cương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a section of theatrical scenery lowered from the flies; a drop cloth or drop curtain.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a trapdoor on a gallows, the opening of which causes the prisoner to fall and thus be hanged.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452563_ff1ce3c553_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452563_5ecf02423f_o.png",
+      "id_image": "drop_1730590"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337646_f57c68e98b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337646_32d65e67df_o.png",
+      "id_image": "drop_1730776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074750_95ed54911b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074750_ac947d36fb_o.png",
+      "id_image": "drop_242120"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382607_1ca3581bd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382607_5a2521170c_o.png",
+      "id_image": "drop_4984708"
+    }
+  ]
+}

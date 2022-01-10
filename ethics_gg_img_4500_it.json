@@ -1,0 +1,49 @@
+{
+  "english": "ethics",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đạo đức học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "luân lý học",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "moral principles that govern a person's behavior or the conducting of an activity.",
+      "definitions_ex_en": "medical ethics also enter into the question",
+      "definitions_ex_vn": "Đạo đức y tế cũng tham gia vào câu hỏi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the branch of knowledge that deals with moral principles.",
+      "definitions_ex_en": "neither metaphysics nor ethics is the home of religion",
+      "definitions_ex_vn": "không siêu hình học hay đạo đức là ngôi nhà của tôn giáo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669294_75b08c65fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669294_5522193c92_o.png",
+      "id_image": "ethics_2191171"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314621_bfbe6cc2df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314621_e1dfbde2d4_o.png",
+      "id_image": "ethics_2631523"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314581_13c872fd06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314581_79d3a74fbb_o.png",
+      "id_image": "ethics_4201345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429413_b515238c74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429413_1390456267_o.png",
+      "id_image": "ethics_4635453"
+    }
+  ]
+}

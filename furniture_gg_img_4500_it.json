@@ -1,0 +1,54 @@
+{
+  "english": "furniture",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bàn ghế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ đạc bày biện",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "large movable equipment, such as tables and chairs, used to make a house, office, or other space suitable for living or working.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "small accessories or fittings for a particular use or piece of equipment.",
+      "definitions_ex_en": "computer hardware, software, and furniture",
+      "definitions_ex_vn": "Phần cứng máy tính, phần mềm và đồ nội thất",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696434_80a3bbb95d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696434_a9b0313d76_o.png",
+      "id_image": "furniture_2394598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078650_3efa25bc85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078650_dd05aff7b2_o.png",
+      "id_image": "furniture_360148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386152_044c8a4c32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386152_735260f853_o.png",
+      "id_image": "furniture_4698430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455953_e63b7e0169_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455953_ddfe137984_o.png",
+      "id_image": "furniture_5222768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341236_46c2172c72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341236_1ec18337e5_o.png",
+      "id_image": "furniture_963806"
+    }
+  ]
+}

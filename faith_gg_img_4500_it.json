@@ -1,0 +1,65 @@
+{
+  "english": "faith",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chân thành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng tin",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng trung thành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tin cậy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tín ngưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tín nhiệm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "complete trust or confidence in someone or something.",
+      "definitions_ex_en": "this restores one's faith in politicians",
+      "definitions_ex_vn": "Điều này phục hồi niềm tin của một người vào các chính trị gia",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "strong belief in God or in the doctrines of a religion, based on spiritual apprehension rather than proof.",
+      "definitions_ex_en": "bereaved people who have shown supreme faith",
+      "definitions_ex_vn": "Những người đang mất người đã cho thấy đức tin tối cao",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074280_b8eba9bc24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074280_c3cdb76b3f_o.png",
+      "id_image": "faith_1783653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074260_94601326a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074260_b6a8df149a_o.png",
+      "id_image": "faith_2849804"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382202_de93bb2a10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382202_17d58a6122_o.png",
+      "id_image": "faith_4118167"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074180_be0b4fd8be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074180_013e545127_o.png",
+      "id_image": "faith_6396814"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "english": "eviction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lấy lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thu hồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trục xuất",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of expelling someone, especially a tenant, from a property; expulsion.",
+      "definitions_ex_en": "the forced eviction of residents",
+      "definitions_ex_vn": "sự trục xuất bắt buộc của cư dân",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050010_e45721bea4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050010_d3db743196_o.png",
+      "id_image": "eviction_2558052"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357492_5278bea158_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357492_3a1635abe5_o.png",
+      "id_image": "eviction_2762604"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049950_53d69dfc42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049950_539345b222_o.png",
+      "id_image": "eviction_5091863"
+    }
+  ]
+}

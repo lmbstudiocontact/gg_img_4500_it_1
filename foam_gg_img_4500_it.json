@@ -1,0 +1,58 @@
+{
+  "english": "foam",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bọt nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nổi sóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nổi bọt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a mass of small bubbles formed on or in liquid, typically by agitation or fermentation.",
+      "definitions_ex_en": "a beer with a thick head of foam",
+      "definitions_ex_vn": "một loại bia với một cái đầu dày của bọt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "form or produce a mass of small bubbles; froth.",
+      "definitions_ex_en": "the sea foamed beneath them",
+      "definitions_ex_vn": "biển bị bọt bên dưới họ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055165_2e84ea2901_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055165_9f5fd423aa_o.png",
+      "id_image": "foam_280081"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363057_c7073fd391_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363057_da0d55b6a3_o.png",
+      "id_image": "foam_3035194"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055060_d55e67c2e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055060_68e48c7297_o.png",
+      "id_image": "foam_3959087"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318561_e5c7f69166_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318561_28d9dd3068_o.png",
+      "id_image": "foam_456666"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055110_1a488b8f99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055110_58aca5f9a7_o.png",
+      "id_image": "foam_534216"
+    }
+  ]
+}

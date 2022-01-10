@@ -1,0 +1,46 @@
+{
+  "english": "diver",
+  "list_translation_mean": [
+    {
+      "translate_mean": "loại chim lặn dưới nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lặn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người phóng xuống nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ lặn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who dives as a sport.",
+      "definitions_ex_en": "an Olympic diver",
+      "definitions_ex_vn": "một thợ lặn olympic.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050030_0639861aa8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050030_fb007be5d9_o.png",
+      "id_image": "diver_2112135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313521_d7be03b7c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313521_76355f7a40_o.png",
+      "id_image": "diver_816556"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357572_92d1ca7933_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357572_6a40de65ea_o.png",
+      "id_image": "diver_843335"
+    }
+  ]
+}

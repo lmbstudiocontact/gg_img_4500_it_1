@@ -1,0 +1,52 @@
+{
+  "english": "godfather",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bố già",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cha đở đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đở đầu đứa trẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cha đở đầu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a man who presents a child at baptism and promises to take responsibility for their religious education.",
+      "definitions_ex_en": "he is godfather to her son",
+      "definitions_ex_vn": "anh ấy là cha đỡ đầu với con trai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a man who is influential or pioneering in a movement or organization.",
+      "definitions_ex_en": "the godfather of alternative comedy",
+      "definitions_ex_vn": "Bố già hài kịch thay thế",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329711_6104a073af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329711_afc6bc05ca_o.png",
+      "id_image": "godfather_1427405"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329671_5071912504_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329671_53de7b4086_o.png",
+      "id_image": "godfather_1427422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684584_e89947cf55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684584_2f853c3af9_o.png",
+      "id_image": "godfather_1427434"
+    }
+  ]
+}

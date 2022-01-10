@@ -1,0 +1,76 @@
+{
+  "english": "dirty",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bẩn thỉu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dơ dáy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đất",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lời thô tục",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dơ bẩn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đầy bùn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thô tục",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trời xấu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vấy bùn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm dơ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "covered or marked with an unclean substance.",
+      "definitions_ex_en": "a tray of dirty cups and saucers",
+      "definitions_ex_vn": "một khay cốc bẩn và đĩa",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "make dirty.",
+      "definitions_ex_en": "she didn't like him dirtying her nice clean towels",
+      "definitions_ex_vn": "Cô ấy không thích anh ta bẩn những chiếc khăn sạch đẹp của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055910_6372ca4f1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055910_4b457b5ff7_o.png",
+      "id_image": "dirty_2873662"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055880_0916c28a03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055880_99fc9c5336_o.png",
+      "id_image": "dirty_3027497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674149_f8bd80cb83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674149_17280bcef4_o.png",
+      "id_image": "dirty_5256932"
+    }
+  ]
+}

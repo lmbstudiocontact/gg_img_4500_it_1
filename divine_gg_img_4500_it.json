@@ -1,0 +1,76 @@
+{
+  "english": "divine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "được tôn kính như thần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "được xem như thần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về thần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hoàn toàn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhà thần học",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bói",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đoán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiên đoán",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of, from, or like God or a god.",
+      "definitions_ex_en": "heroes with divine powers",
+      "definitions_ex_vn": "anh hùng với sức mạnh thần thánh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "excellent; delightful.",
+      "definitions_ex_en": "he had the most divine smile",
+      "definitions_ex_vn": "anh ấy có nụ cười thiêng liêng nhất",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a cleric or theologian.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "providence or God.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "discover (something) by guesswork or intuition.",
+      "definitions_ex_en": "his brother usually divined his ulterior motives",
+      "definitions_ex_vn": "Anh trai của anh ấy thường tỏa ra động cơ thầm kín của anh ấy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427718_78cdb545d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427718_530c0282bf_o.png",
+      "id_image": "divine_1806453"
+    }
+  ]
+}

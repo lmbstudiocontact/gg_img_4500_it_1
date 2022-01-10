@@ -1,0 +1,43 @@
+{
+  "english": "garment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quần áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "y phục",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an item of clothing.",
+      "definitions_ex_en": "a windproof outer garment",
+      "definitions_ex_vn": "một quần áo ngoài chống gió",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453703_691d70bc63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453703_2124e86cbe_o.png",
+      "id_image": "garment_1175601"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383547_f459e3a18f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383547_b803dc25c1_o.png",
+      "id_image": "garment_2856498"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075660_4a94eea359_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075660_a79582bc58_o.png",
+      "id_image": "garment_4819183"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075625_7ded112fec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075625_0302df22d8_o.png",
+      "id_image": "garment_5939295"
+    }
+  ]
+}

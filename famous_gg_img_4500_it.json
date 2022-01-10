@@ -1,0 +1,47 @@
+{
+  "english": "famous",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có danh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có tiếng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nổi danh",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "known about by many people.",
+      "definitions_ex_en": "the country is famous for its natural beauty",
+      "definitions_ex_vn": "Đất nước nổi tiếng với vẻ đẹp tự nhiên của nó",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691854_ea68811199_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691854_bd99da96cb_o.png",
+      "id_image": "famous_1449041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451428_c5c04e7944_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451428_99959a24a2_o.png",
+      "id_image": "famous_5904451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451388_06e6232e58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451388_a1e83d7493_o.png",
+      "id_image": "famous_5906117"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381462_c82fe38810_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381462_9b471ea150_o.png",
+      "id_image": "famous_6347717"
+    }
+  ]
+}

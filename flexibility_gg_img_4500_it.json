@@ -1,0 +1,48 @@
+{
+  "english": "flexibility",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dịu dàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mềm dẻo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the quality of bending easily without breaking.",
+      "definitions_ex_en": "players gained improved flexibility in their ankles",
+      "definitions_ex_vn": "Người chơi đạt được sự linh hoạt được cải thiện trong mắt cá chân của họ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437073_bd3ba3ce33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437073_5f85ccc4b8_o.png",
+      "id_image": "flexibility_2534369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676939_c090fea206_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676939_a63e355dfc_o.png",
+      "id_image": "flexibility_2720692"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676879_e1829caaf3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676879_48f36be0f9_o.png",
+      "id_image": "flexibility_3475764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676844_f042f34e78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676844_ed33540e11_o.png",
+      "id_image": "flexibility_3899941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321756_c9ecfb81ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321756_80f7369e97_o.png",
+      "id_image": "flexibility_5663349"
+    }
+  ]
+}

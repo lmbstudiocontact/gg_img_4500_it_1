@@ -1,0 +1,90 @@
+{
+  "english": "earth",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vun",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đắp đất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "núp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rượt theo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trốn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "địa cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trái đất",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the planet on which we live; the world.",
+      "definitions_ex_en": "the diversity of life on earth",
+      "definitions_ex_vn": "sự đa dạng của cuộc sống trên trái đất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the substance of the land surface; soil.",
+      "definitions_ex_en": "a layer of earth",
+      "definitions_ex_vn": "một lớp đất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the underground den or home of a badger or fox.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover the root and lower stem of a plant with heaped-up earth.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "drive (a fox) to its underground lair.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069445_7b66d1e5a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069445_8b79ec126a_o.png",
+      "id_image": "earth_169789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447608_264086f415_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447608_a608209bf6_o.png",
+      "id_image": "earth_721081"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687529_d3e1b020a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687529_0e706304b3_o.png",
+      "id_image": "earth_825001"
+    }
+  ]
+}

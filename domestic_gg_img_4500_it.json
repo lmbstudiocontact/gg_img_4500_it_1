@@ -1,0 +1,80 @@
+{
+  "english": "domestic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gia đình",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gia tộc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quốc nội",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trong nước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm tại trong nước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đồ dùng trong nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ở",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the running of a home or to family relations.",
+      "definitions_ex_en": "domestic chores",
+      "definitions_ex_vn": "việc vặt trong nhà",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "existing or occurring inside a particular country; not foreign or international.",
+      "definitions_ex_en": "the current state of US domestic affairs",
+      "definitions_ex_vn": "Tình trạng hiện tại của các vấn đề trong nước Hoa Kỳ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person who is paid to help with menial tasks such as cleaning.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354882_38403b3c84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354882_73e220dfea_o.png",
+      "id_image": "domestic_261917"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354832_0763719b5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354832_7fe9974fae_o.png",
+      "id_image": "domestic_261921"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310651_e2fbafc70f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310651_352a24fef6_o.png",
+      "id_image": "domestic_298182"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047390_df61241288_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047390_374dac993e_o.png",
+      "id_image": "domestic_298186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665769_594a98da17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665769_9393b7ab82_o.png",
+      "id_image": "domestic_3046246"
+    }
+  ]
+}

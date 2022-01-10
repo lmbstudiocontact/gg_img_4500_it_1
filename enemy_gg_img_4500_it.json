@@ -1,0 +1,36 @@
+{
+  "english": "enemy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bên địch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đối phương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kẻ địch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kẻ thù",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who is actively opposed or hostile to someone or something.",
+      "definitions_ex_en": "the traditional enemies of his tribe",
+      "definitions_ex_vn": "Những kẻ thù truyền thống của bộ lạc của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056540_3b2b650966_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056540_8d55c5f212_o.png",
+      "id_image": "enemy_1477179"
+    }
+  ]
+}

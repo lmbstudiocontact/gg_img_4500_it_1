@@ -1,0 +1,42 @@
+{
+  "english": "excellent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hoàn toàn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ưu tú",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xuất chúng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xuất sắc",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "extremely good; outstanding.",
+      "definitions_ex_en": "their results are excellent",
+      "definitions_ex_vn": "Kết quả của họ là tuyệt vời",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "used to indicate approval or pleasure.",
+      "definitions_ex_en": "“What a lovely idea! Excellent!”",
+      "definitions_ex_vn": "Thật là một ý tưởng đáng yêu!",
+      "definitions_type_word": "exclamation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049220_d939736853_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049220_7dd5951365_o.png",
+      "id_image": "excellent_6030483"
+    }
+  ]
+}

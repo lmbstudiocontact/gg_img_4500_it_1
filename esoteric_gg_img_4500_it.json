@@ -1,0 +1,45 @@
+{
+  "english": "esoteric",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bí giáo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bí mật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bí truyền",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về bí mật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về bí truyền",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "intended for or likely to be understood by only a small number of people with a specialized knowledge or interest.",
+      "definitions_ex_en": "esoteric philosophical debates",
+      "definitions_ex_vn": "Cuộc tranh luận triết học bí truyền",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670114_a376da986b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670114_81dcc87d5d_o.png",
+      "id_image": "esoteric_1679082"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051915_afcecf61b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051915_f11a005096_o.png",
+      "id_image": "esoteric_5318693"
+    }
+  ]
+}

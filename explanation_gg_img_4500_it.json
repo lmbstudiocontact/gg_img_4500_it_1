@@ -1,0 +1,32 @@
+{
+  "english": "explanation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cắt nghỉa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giải nghỉa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giải thích",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a statement or account that makes something clear.",
+      "definitions_ex_en": "the birth rate is central to any explanation of population trends",
+      "definitions_ex_vn": "Tỷ lệ sinh là trung tâm đối với bất kỳ lời giải thích về xu hướng dân số",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309581_838530f19e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309581_a600dd6b29_o.png",
+      "id_image": "explanation_5986426"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "english": "flower",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hoa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nở hoa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the seed-bearing part of a plant, consisting of reproductive organs (stamens and carpels) that are typically surrounded by a brightly colored corolla (petals) and a green calyx (sepals).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the finest individuals out of a number of people or things.",
+      "definitions_ex_en": "the flower of college track athletes",
+      "definitions_ex_vn": "Hoa của các vận động viên theo dõi trường đại học",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a plant) produce flowers; bloom.",
+      "definitions_ex_en": "these daisies can flower as late as October",
+      "definitions_ex_vn": "Những bông hoa cúc này có thể hoa vào cuối tháng 10",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be in or reach an optimum stage of development; develop fully and richly.",
+      "definitions_ex_en": "it is there that the theory of deconstruction has flowered most extravagantly",
+      "definitions_ex_vn": "nó ở đó rằng lý thuyết về việc giải cấu đã nở hoa nhiều hơn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056565_84b4d08446_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056565_ac765821c0_o.png",
+      "id_image": "flower_209197"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435028_b70a2ee99c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435028_5abfb7cac3_o.png",
+      "id_image": "flower_256870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674829_a89d6c2d25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674829_22bd262186_o.png",
+      "id_image": "flower_326334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674784_209ea16241_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674784_dff1c60c26_o.png",
+      "id_image": "flower_350958"
+    }
+  ]
+}

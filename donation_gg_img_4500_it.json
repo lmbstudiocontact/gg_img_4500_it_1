@@ -1,0 +1,52 @@
+{
+  "english": "donation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vật biếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật cho",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật tặng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "something that is given to a charity, especially a sum of money.",
+      "definitions_ex_en": "a tax-deductible donation of $200",
+      "definitions_ex_vn": "một khoản đóng góp khấu trừ thuế 200 đô la",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425238_c69ced4b4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425238_f1bf1f4aa5_o.png",
+      "id_image": "donation_1312479"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354302_3edd9cecca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354302_b876d4f68e_o.png",
+      "id_image": "donation_1312508"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425153_9268f2aba5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425153_843c783388_o.png",
+      "id_image": "donation_1312510"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425293_9261bfb690_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425293_0f03190758_o.png",
+      "id_image": "donation_328032"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354347_79b02e36d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354347_a7aa146470_o.png",
+      "id_image": "donation_489116"
+    }
+  ]
+}

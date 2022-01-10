@@ -1,0 +1,43 @@
+{
+  "english": "homeless",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vô gia cư",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không nhà",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person) without a home, and therefore typically living on the streets.",
+      "definitions_ex_en": "the plight of young homeless people",
+      "definitions_ex_vn": "hoàn cảnh của những người vô gia cư trẻ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379297_d049e29c5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379297_b01d422ff8_o.png",
+      "id_image": "homeless_4812313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379267_d7a466aaa8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379267_a1f3f1c365_o.png",
+      "id_image": "homeless_5017482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449358_526c2ccb98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449358_2e426bb082_o.png",
+      "id_image": "homeless_5256206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334251_f3dcb84373_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334251_a0a02e1081_o.png",
+      "id_image": "homeless_6418258"
+    }
+  ]
+}

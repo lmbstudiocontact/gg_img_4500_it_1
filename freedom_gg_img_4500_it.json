@@ -1,0 +1,39 @@
+{
+  "english": "freedom",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự tự do",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the power or right to act, speak, or think as one wants without hindrance or restraint.",
+      "definitions_ex_en": "we do have some freedom of choice",
+      "definitions_ex_vn": "Chúng tôi có một số quyền tự do lựa chọn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049435_e86d04feae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049435_93beb50d52_o.png",
+      "id_image": "freedom_4729333"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667764_296732c6a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667764_73776e0e68_o.png",
+      "id_image": "freedom_5778514"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667734_19d0363a8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667734_b5138bfa40_o.png",
+      "id_image": "freedom_6009766"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427733_7e821ec2d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427733_2bcb64d1f8_o.png",
+      "id_image": "freedom_6174489"
+    }
+  ]
+}

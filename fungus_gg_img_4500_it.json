@@ -1,0 +1,47 @@
+{
+  "english": "fungus",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bướu xùi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lớn lên như thổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật mau lớn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "any of a group of spore-producing organisms feeding on organic matter, including molds, yeast, mushrooms, and toadstools.",
+      "definitions_ex_en": "truffles are fungi but not mushrooms",
+      "definitions_ex_vn": "Truffles là nấm nhưng không nấm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341876_1d5967ff70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341876_e3b73bee20_o.png",
+      "id_image": "fungus_2268983"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079290_ed53f63081_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079290_50e7aaa5b6_o.png",
+      "id_image": "fungus_3075148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079270_0a73457bc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079270_ed7c738961_o.png",
+      "id_image": "fungus_4178824"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079220_28cfb82822_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079220_18304f1e1d_o.png",
+      "id_image": "fungus_5969584"
+    }
+  ]
+}

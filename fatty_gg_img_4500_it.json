@@ -1,0 +1,36 @@
+{
+  "english": "fatty",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có mỡ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "như mỡ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phì nhiêu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người mập",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "containing a large amount of fat.",
+      "definitions_ex_en": "fatty foods",
+      "definitions_ex_vn": "thực phẩm giàu chất béo",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379347_44b9e0e88a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379347_c72a58d086_o.png",
+      "id_image": "fatty_3411775"
+    }
+  ]
+}

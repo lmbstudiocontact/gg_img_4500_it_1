@@ -1,0 +1,39 @@
+{
+  "english": "ethical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ về đạo đức",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chỉ về luân lý",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to moral principles or the branch of knowledge dealing with these.",
+      "definitions_ex_en": "ethical issues in nursing",
+      "definitions_ex_vn": "Các vấn đề đạo đức trong điều dưỡng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a medicine) legally available only on a doctor's prescription and usually not advertised to the general public.",
+      "definitions_ex_en": "all types of drugs, including ethical drugs and over-the-counter pharmaceuticals",
+      "definitions_ex_vn": "Tất cả các loại thuốc, bao gồm thuốc đạo đức và dược phẩm không kê đơn",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669334_6b664b8029_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669334_71636c771f_o.png",
+      "id_image": "ethical_1354738"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314686_7b670963aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314686_df08614b9b_o.png",
+      "id_image": "ethical_3317662"
+    }
+  ]
+}

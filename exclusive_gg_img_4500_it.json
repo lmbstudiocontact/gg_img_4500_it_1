@@ -1,0 +1,82 @@
+{
+  "english": "exclusive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chấp nhứt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chỉ có một",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chọn lọc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "độc chiếm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khó gia nhập",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lựa kỷ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "duy nhứt",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "excluding or not admitting other things.",
+      "definitions_ex_en": "my exclusive focus is on San Antonio issues",
+      "definitions_ex_vn": "Trọng tâm độc quyền của tôi là về các vấn đề SAN ANTONIO",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "restricted or limited to the person, group, or area concerned.",
+      "definitions_ex_en": "the couple had exclusive possession of the condo",
+      "definitions_ex_vn": "Cặp đôi đã sở hữu độc quyền căn hộ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "catering or available to only a few, select people; high class and expensive.",
+      "definitions_ex_en": "an exclusive Georgetown neighborhood",
+      "definitions_ex_vn": "một khu phố Georgetown độc quyền",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not including; excepting.",
+      "definitions_ex_en": "prices are exclusive of tax and delivery",
+      "definitions_ex_vn": "Giá cả không bao gồm thuế và giao hàng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an item or story published or broadcast by only one source.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667079_a13597dd72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667079_d5a64ece6b_o.png",
+      "id_image": "exclusive_4171875"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048740_62702e8420_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048740_0a0feede88_o.png",
+      "id_image": "exclusive_5360000"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667014_67046d6eb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667014_8cf9105c8c_o.png",
+      "id_image": "exclusive_5619772"
+    }
+  ]
+}

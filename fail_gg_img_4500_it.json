@@ -1,0 +1,84 @@
+{
+  "english": "fail",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không sai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chắc chắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh rớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hỏng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phá sản",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tàn tạ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thất bại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thiếu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thiếu sót",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "be unsuccessful in achieving one's goal.",
+      "definitions_ex_en": "he failed in his attempt to secure election",
+      "definitions_ex_vn": "ông đã thất bại trong nỗ lực của mình để bảo đảm bầu cử",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "neglect to do something.",
+      "definitions_ex_en": "the firm failed to give adequate risk warnings",
+      "definitions_ex_vn": "Công ty thất bại trong việc đưa ra những cảnh báo rủi ro đầy đủ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "break down; cease to work well.",
+      "definitions_ex_en": "a truck whose brakes had failed",
+      "definitions_ex_vn": "một chiếc xe tải có phanh đã thất bại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a grade that is not high enough to pass an examination or test.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452633_f62207e6ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452633_c823d4f660_o.png",
+      "id_image": "failed_3188157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074745_43e6013e68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074745_bcec20d42e_o.png",
+      "id_image": "failed_4313065"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074810_24729392f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074810_d88aa3d0ef_o.png",
+      "id_image": "fail_5705141"
+    }
+  ]
+}

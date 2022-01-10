@@ -1,0 +1,104 @@
+{
+  "english": "figure",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dung mạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình dáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngoại hình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhân vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phỏng chừng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tượng trưng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "viết bằng số",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a number, especially one which forms part of official statistics or relates to the financial performance of a company.",
+      "definitions_ex_en": "official census figures",
+      "definitions_ex_vn": "Số liệu điều tra dân số chính thức",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's bodily shape, especially that of a woman and when considered to be attractive.",
+      "definitions_ex_en": "she had always been so proud of her figure",
+      "definitions_ex_vn": "Cô ấy đã luôn rất tự hào về con số của cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person of a particular kind, especially one who is important or distinctive in some way.",
+      "definitions_ex_en": "Williams became something of a cult figure",
+      "definitions_ex_vn": "Williams trở thành một thứ gì đó của một nhân vật sùng bái",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a shape which is defined by one or more lines in two dimensions (such as a circle or a triangle), or one or more surfaces in three dimensions (such as a sphere or a cuboid), either considered mathematically in geometry or used as a decorative design.",
+      "definitions_ex_en": "a red ground with white and blue geometric figures",
+      "definitions_ex_vn": "một mặt đất màu đỏ với các hình hình học màu trắng và màu xanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a short succession of notes producing a single impression.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the form of a syllogism, classified according to the position of the middle term.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be a significant and noticeable part of something.",
+      "definitions_ex_en": "the issue of nuclear policy figured prominently in the talks",
+      "definitions_ex_vn": "Vấn đề chính sách hạt nhân hình dung nổi bật trong các cuộc đàm phán",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "represent (something) in a diagram or picture.",
+      "definitions_ex_en": "varieties of this Cape genus are figured from drawings made there",
+      "definitions_ex_vn": "Các giống của chi Cape này được hình dung từ các bản vẽ được thực hiện ở đó",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066900_4152356586_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066900_29b5e1e6f6_o.png",
+      "id_image": "figures_2714592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374752_75da500005_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374752_ea6a9f3edb_o.png",
+      "id_image": "figures_6366716"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374812_e3c580725d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374812_b5e8c34285_o.png",
+      "id_image": "figure_1413097"
+    }
+  ]
+}

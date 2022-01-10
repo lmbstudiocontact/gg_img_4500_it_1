@@ -1,0 +1,103 @@
+{
+  "english": "honor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "danh dự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "danh giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trinh bạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trinh tiết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thể diện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vinh dự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "địa vị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiết thục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm vẻ vang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm vinh dự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tôn kính",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tôn trọng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "high respect; great esteem.",
+      "definitions_ex_en": "his portrait hangs in the place of honor",
+      "definitions_ex_vn": "Chân dung của anh ấy treo ở nơi vinh dự",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "adherence to what is right or to a conventional standard of conduct.",
+      "definitions_ex_en": "I must as a matter of honor avoid any taint of dishonesty",
+      "definitions_ex_vn": "Tôi phải là một vấn đề của danh dự, tránh bất kỳ sự không trung thực của bất kỳ sự không trung thực",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "something regarded as a rare opportunity and bringing pride and pleasure; a privilege.",
+      "definitions_ex_en": "the great poet of whom it is my honor to speak tonight",
+      "definitions_ex_vn": "Nhà thơ vĩ đại của ai là vinh dự của tôi để nói tối nay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an ace, king, queen, or jack.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "regard with great respect.",
+      "definitions_ex_en": "they honore their parents in all they did",
+      "definitions_ex_vn": "Họ vinh sự cha mẹ của họ trong tất cả những gì họ đã làm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fulfill (an obligation) or keep (an agreement).",
+      "definitions_ex_en": "make sure the franchisees honor the terms of the contract",
+      "definitions_ex_vn": "Hãy chắc chắn rằng những người nhượng quyền tôn vinh các điều khoản của hợp đồng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378082_0c9355e257_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378082_82fa295094_o.png",
+      "id_image": "honor_1237676"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688199_1a203417f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688199_503198d84a_o.png",
+      "id_image": "honor_1440976"
+    }
+  ]
+}

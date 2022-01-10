@@ -1,0 +1,45 @@
+{
+  "english": "disco",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điệu nhẩy nhót",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sàn nhảy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a club or party at which people dance to recorded pop music.",
+      "definitions_ex_en": "on Friday evenings, he often attended a disco with school friends",
+      "definitions_ex_vn": "Vào thứ Sáu Buổi tối, anh ấy thường tham dự một vũ trường với những người bạn học",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a style of pop music intended mainly for dancing to, typically soul-influenced and melodic with a regular bass beat, popular particularly in the late 1970s.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "attend or dance at a disco.",
+      "definitions_ex_en": "for the next three hours he discoed nonstop",
+      "definitions_ex_vn": "Trong ba giờ tiếp theo, ông đã bỏ qua không ngừng nghỉ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054485_6fd4bec994_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054485_5da0c1263f_o.png",
+      "id_image": "disco_1060315"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317856_3d453d57b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317856_ae05f70178_o.png",
+      "id_image": "disco_4472573"
+    }
+  ]
+}

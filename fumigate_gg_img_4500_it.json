@@ -1,0 +1,32 @@
+{
+  "english": "fumigate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tẩy uế",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trừ độc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xông khói",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "disinfect or purify (an area) with the fumes of certain chemicals.",
+      "definitions_ex_en": "we got sulfur candles to fumigate the house",
+      "definitions_ex_vn": "Chúng tôi có nến lưu huỳnh để khử trùng ngôi nhà",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342781_0b524c499e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342781_00ffabc915_o.png",
+      "id_image": "fumigate_2636868"
+    }
+  ]
+}

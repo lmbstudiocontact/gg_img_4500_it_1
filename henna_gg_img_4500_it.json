@@ -1,0 +1,41 @@
+{
+  "english": "henna",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây móng tay",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the powdered leaves of a tropical shrub, used as a dye to color the hair and decorate the body.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the Old World shrub which produces henna, with small pink, red, or white flowers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "dye (hair) with henna.",
+      "definitions_ex_en": "Renee hennaed my hair the night before the interview",
+      "definitions_ex_vn": "Renee henna chúc được mái tóc của tôi đêm trước cuộc phỏng vấn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075800_5370ffdf81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075800_cb02848982_o.png",
+      "id_image": "henna_2431391"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075785_8420cea605_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075785_9c17d5315a_o.png",
+      "id_image": "henna_2448503"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "english": "discussion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bàn bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tài sản kiểm kê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thảo luận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thưởng thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tranh luận",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of talking about something in order to reach a decision or to exchange ideas.",
+      "definitions_ex_en": "the proposals are not a blueprint but ideas for discussion",
+      "definitions_ex_vn": "Các đề xuất không phải là một kế hoạch chi tiết nhưng ý tưởng để thảo luận",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053325_a1a22a17e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053325_0e5592170b_o.png",
+      "id_image": "discussion_2139528"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361172_a1d9a07ae6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361172_88ebe4f1a7_o.png",
+      "id_image": "discussion_2643487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316866_35d94cd7e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316866_fd06a3a3a7_o.png",
+      "id_image": "discussion_3381432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671639_4484f81673_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671639_f506b5f1d9_o.png",
+      "id_image": "discussion_745195"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671614_d7f19b6ede_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671614_0dde1182af_o.png",
+      "id_image": "discussion_745202"
+    }
+  ]
+}

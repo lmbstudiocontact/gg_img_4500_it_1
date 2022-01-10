@@ -1,0 +1,32 @@
+{
+  "english": "gardener",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người làm rẩy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người làm vườn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người trồng vườn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who tends and cultivates a garden as a pastime or for a living.",
+      "definitions_ex_en": "a part-time gardener and handyman",
+      "definitions_ex_vn": "Một người làm vườn bán thời gian và người siêng năng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383887_da5dfa4df9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383887_860e30c679_o.png",
+      "id_image": "gardener_360446"
+    }
+  ]
+}

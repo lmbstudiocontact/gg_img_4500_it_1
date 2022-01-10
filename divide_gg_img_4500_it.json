@@ -1,0 +1,97 @@
+{
+  "english": "divide",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chia",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phân chia",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phân ly",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngăn ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phân ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chia rẻ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gieo mối bất hòa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi bỏ phiếu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rẻ ra nhiều ngả",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xẻ ra từng phần",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đường phân thủy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "separate or be separated into parts.",
+      "definitions_ex_en": "consumer magazines can be divided into a number of different categories",
+      "definitions_ex_vn": "Tạp chí tiêu dùng có thể được chia thành một số loại khác nhau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "disagree or cause to disagree.",
+      "definitions_ex_en": "the question had divided Frenchmen since the Revolution",
+      "definitions_ex_vn": "câu hỏi đã chia người Pháp kể từ cuộc cách mạng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "find how many times (a number) contains another.",
+      "definitions_ex_en": "36 divided by 2 equals 18",
+      "definitions_ex_vn": "36 chia cho 2 bằng 18",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a wide divergence between two groups, typically producing tension or hostility.",
+      "definitions_ex_en": "there was still a profound cultural divide between the parties",
+      "definitions_ex_vn": "Vẫn còn một sự phân chia văn hóa sâu sắc giữa các bên",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668019_4ba74e94aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668019_3b4de01055_o.png",
+      "id_image": "divide_1589480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668004_82f94bb2a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668004_c39cc6cffa_o.png",
+      "id_image": "divide_1753659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049630_16355f00cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049630_c535819567_o.png",
+      "id_image": "divide_1827171"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427963_ffe06be0fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427963_1586c3ca30_o.png",
+      "id_image": "divide_5376871"
+    }
+  ]
+}

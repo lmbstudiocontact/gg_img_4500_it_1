@@ -1,0 +1,81 @@
+{
+  "english": "exchange",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đổi chác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giao dịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thị trường chứng khoán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật đổi lẩn nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trao đổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đổi chác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giao dịch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giao hoán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trao đổi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an act of giving one thing and receiving another (especially of the same type or value) in return.",
+      "definitions_ex_en": "negotiations should eventually lead to an exchange of land for peace",
+      "definitions_ex_vn": "Các cuộc đàm phán cuối cùng nên dẫn đến một cuộc trao đổi đất để hòa bình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give something and receive something of the same kind in return.",
+      "definitions_ex_en": "we exchanged addresses",
+      "definitions_ex_vn": "Chúng tôi trao đổi địa chỉ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049180_998ba90e5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049180_c65673abae_o.png",
+      "id_image": "exchange_377033"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312601_d9cd8bf3ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312601_125b98e823_o.png",
+      "id_image": "exchange_536143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049145_089e45e252_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049145_ab44d929e1_o.png",
+      "id_image": "exchange_617061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312526_5075b13034_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312526_8a955c77cc_o.png",
+      "id_image": "exchange_642469"
+    }
+  ]
+}

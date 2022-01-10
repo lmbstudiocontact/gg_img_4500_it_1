@@ -1,0 +1,76 @@
+{
+  "english": "far",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xa",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "hơn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "cách xa đây",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đến bây giờ",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "nhiều",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "sâu xuống",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "làm hơn nhiều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm việc nhiều",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "at, to, or by a great distance (used to indicate the extent to which one thing is distant from another).",
+      "definitions_ex_en": "it was not too far away",
+      "definitions_ex_vn": "Nó không quá xa",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "over a large expanse of space or time.",
+      "definitions_ex_en": "he had not traveled far",
+      "definitions_ex_vn": "anh ấy đã không đi xa",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "by a great deal.",
+      "definitions_ex_en": "he is able to function far better than usual",
+      "definitions_ex_vn": "anh ấy có thể hoạt động tốt hơn bình thường",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "situated at a great distance in space or time.",
+      "definitions_ex_en": "the far reaches of the universe",
+      "definitions_ex_vn": "khoảng cách xa của vũ trụ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "faraday.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691109_2948b659d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691109_8e7888885e_o.png",
+      "id_image": "far_2165949"
+    }
+  ]
+}

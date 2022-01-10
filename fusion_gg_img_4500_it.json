@@ -1,0 +1,38 @@
+{
+  "english": "fusion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hợp nhứt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm cho chảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự liên hợp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process or result of joining two or more things together to form a single entity.",
+      "definitions_ex_en": "a fusion of an idea from anthropology and an idea from psychology",
+      "definitions_ex_vn": "một sự hợp nhất của một ý tưởng từ nhân học và một ý tưởng từ tâm lý học",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "referring to food or cooking that incorporates elements of diverse cuisines.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078265_af56e3cd66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078265_3841b07509_o.png",
+      "id_image": "fusion_2934081"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "headline",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bảng tin tức tóm tắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàng ở đầu trang",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a heading at the top of an article or page in a newspaper or magazine.",
+      "definitions_ex_en": "a front-page headline",
+      "definitions_ex_vn": "Một tiêu đề trang trước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "denoting or relating to a figure for unemployment based on the unadjusted total number of people out of work, as a percentage of the population.",
+      "definitions_ex_en": "the headline unemployment rate has surprised the markets by dropping slightly",
+      "definitions_ex_vn": "Tỷ lệ thất nghiệp tiêu đề đã gây ngạc nhiên cho các thị trường bằng cách giảm nhẹ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide with a headline.",
+      "definitions_ex_en": "a feature that was headlined “Invest in Your Future.”",
+      "definitions_ex_vn": "một tính năng được định đầu đầu tư vào tương lai của bạn.",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "appear as the star performer at (a concert).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456788_c9885ffe3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456788_3074b82a11_o.png",
+      "id_image": "headline_2620402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341886_e5536753fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341886_89ecd23697_o.png",
+      "id_image": "headline_3527571"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386877_6afe8863f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386877_257cbb7490_o.png",
+      "id_image": "headline_3966403"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456683_4d2a01ce3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456683_4f6e3e7a97_o.png",
+      "id_image": "headline_4896243"
+    }
+  ]
+}

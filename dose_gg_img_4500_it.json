@@ -1,0 +1,60 @@
+{
+  "english": "dose",
+  "list_translation_mean": [
+    {
+      "translate_mean": "liều thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phân lượng xác định",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "truyền bịnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dùng trong một lần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cho uống thuốc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "định phân lượng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a quantity of a medicine or drug taken or recommended to be taken at a particular time.",
+      "definitions_ex_en": "he took a dose of cough medicine",
+      "definitions_ex_vn": "Anh lấy một liều thuốc ho",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "administer a dose to (a person or animal).",
+      "definitions_ex_en": "he dosed himself with vitamins",
+      "definitions_ex_vn": "Anh ta nhị với vitamin",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353007_9c5c81e7ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353007_7d13038e1e_o.png",
+      "id_image": "dose_1488157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664049_19263f6cd3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664049_2d125b95d9_o.png",
+      "id_image": "dose_2688622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045775_b7f3b441ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045775_596c5650a9_o.png",
+      "id_image": "dose_5671548"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "english": "exit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ra đi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "từ giả cỏi đời",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ra đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cửa ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lối ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "từ giả cỏi đời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngả ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngỏ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a way out, especially of a public building, room, or passenger vehicle.",
+      "definitions_ex_en": "she slipped out by the rear exit",
+      "definitions_ex_vn": "Cô trượt ra khỏi lối ra phía sau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of going out of or leaving a place.",
+      "definitions_ex_en": "he made a hasty exit from the room",
+      "definitions_ex_vn": "Anh ấy đã có một lối ra vội vàng từ phòng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "go out of or leave a place.",
+      "definitions_ex_en": "the bullet entered her back and exited through her chest",
+      "definitions_ex_vn": "Viên đạn vào lưng cô và thoát qua ngực cô",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354987_9528ef8547_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354987_4d64798a79_o.png",
+      "id_image": "exit_2034093"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047590_76c8feeebf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047590_66c628eda0_o.png",
+      "id_image": "exit_4628291"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665964_fb9fb27a2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665964_57884c8837_o.png",
+      "id_image": "exit_891374"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "english": "engine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cơ giới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu máy xe lữa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "động cơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy móc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương pháp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương tiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thủ đoạn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a machine with moving parts that converts power into motion.",
+      "definitions_ex_en": "the roar of a car engine",
+      "definitions_ex_vn": "tiếng gầm của một động cơ xe hơi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a railroad locomotive.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674349_7888fb260f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674349_42389c4977_o.png",
+      "id_image": "engine_1643498"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674304_5bbd2569f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674304_4a60422596_o.png",
+      "id_image": "engine_3211840"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674429_7d8cf556e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674429_6215449790_o.png",
+      "id_image": "engine_998313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319471_1e81ae323d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319471_6451be391f_o.png",
+      "id_image": "engine_998316"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "english": "fox",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chồn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm phai màu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lừa phỉnh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a carnivorous mammal of the dog family with a pointed muzzle and bushy tail, proverbial for its cunning.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cunning or sly person.",
+      "definitions_ex_en": "a wily old fox",
+      "definitions_ex_vn": "một con cáo già wily",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a member of a North American people formerly living in southern Wisconsin, and now mainly in Iowa, Nebraska, and Kansas.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the Algonquian language of the Fox.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "baffle or deceive (someone).",
+      "definitions_ex_en": "the bad light and dark shadows foxed him",
+      "definitions_ex_vn": "Ánh sáng xấu và bóng tối cáo cáo anh ta",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "repair (a boot or shoe) by renewing the upper leather.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "relating to the Fox or their language.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050150_0bdfc0c502_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050150_877dc91cce_o.png",
+      "id_image": "fox_311602"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313546_d622ea9265_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313546_cc24ddde4c_o.png",
+      "id_image": "fox_371908"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050085_6d97ce35c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050085_6d3d4c557f_o.png",
+      "id_image": "fox_5483778"
+    }
+  ]
+}

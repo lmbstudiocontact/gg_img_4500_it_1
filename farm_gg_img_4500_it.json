@@ -1,0 +1,78 @@
+{
+  "english": "farm",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao thuê",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đất để trồng trọt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồn điền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng ruộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nông trại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an area of land and its buildings used for growing crops and rearing animals, typically under the control of one owner or manager.",
+      "definitions_ex_en": "a farm of 100 acres",
+      "definitions_ex_vn": "một trang trại của 100 mẫu Anh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make one's living by growing crops or keeping livestock.",
+      "definitions_ex_en": "he has farmed organically for five years",
+      "definitions_ex_vn": "Ông đã nuôi hữu cơ trong năm năm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "send out or subcontract work to others.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "allow someone to collect and keep the revenues from (a tax) on payment of a fee.",
+      "definitions_ex_en": "the customs had been farmed to the collector for a fixed sum",
+      "definitions_ex_vn": "Hải quan đã được trang bị cho người sưu tập một khoản tiền cố định",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690949_4a2bbda2c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690949_73ae6964cf_o.png",
+      "id_image": "farm_1408038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380737_b2b7ffdef4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380737_f98f605745_o.png",
+      "id_image": "farm_2373257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072560_1ff2230e41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072560_02ed5314c7_o.png",
+      "id_image": "farm_4327432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072695_487c580ac4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072695_0396696c20_o.png",
+      "id_image": "farm_804583"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072660_2cc37121df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072660_332c46c6b5_o.png",
+      "id_image": "farm_804587"
+    }
+  ]
+}

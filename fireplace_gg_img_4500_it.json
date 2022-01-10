@@ -1,0 +1,33 @@
+{
+  "english": "fireplace",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lò sưởi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nơi phòng ngừa hỏa hoạn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a place for a domestic fire, especially a grate or hearth at the base of a chimney.",
+      "definitions_ex_en": "Tess cleared the ashes from the fireplace",
+      "definitions_ex_vn": "Tess dọn tro từ lò sưởi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062900_424286f4b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062900_5a7f44ef00_o.png",
+      "id_image": "fireplace_1043342"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326096_e6bbb3811e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326096_886fbf7daf_o.png",
+      "id_image": "fireplace_1395941"
+    }
+  ]
+}

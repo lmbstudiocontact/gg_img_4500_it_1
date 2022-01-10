@@ -1,0 +1,70 @@
+{
+  "english": "expense",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chi tiêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kinh phí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "món tiêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sở phí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền phí tổn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền xuất ra",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the cost required for something; the money spent on something.",
+      "definitions_ex_en": "we had ordered suits at great expense",
+      "definitions_ex_vn": "Chúng tôi đã đặt hàng phù hợp với chi phí lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "offset (an item of expenditure) as an expense against taxable income.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354352_736df172f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354352_51432cefe4_o.png",
+      "id_image": "expense_2867713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047040_6a2fe520eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047040_6e62e1fc2f_o.png",
+      "id_image": "expense_3772930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425258_4cd5c3f87d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425258_2b86f534a3_o.png",
+      "id_image": "expense_5138402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310181_794cb329b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310181_8112d973c5_o.png",
+      "id_image": "expense_5965574"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310161_d2f94749ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310161_82538a5924_o.png",
+      "id_image": "expense_6078603"
+    }
+  ]
+}

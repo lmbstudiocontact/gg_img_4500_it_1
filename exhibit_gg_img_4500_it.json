@@ -1,0 +1,64 @@
+{
+  "english": "exhibit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chứng vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy tờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "văn kiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật trưng bày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình quảng cáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tang vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chưng bày",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "truy tố",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "publicly display (a work of art or item of interest) in an art gallery or museum or at a trade fair.",
+      "definitions_ex_en": "only one sculpture was exhibited in the artist's lifetime",
+      "definitions_ex_vn": "Chỉ có một tác phẩm điêu khắc được trưng bày trong cuộc đời của nghệ sĩ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "manifest or deliberately display (a quality or a type of behavior).",
+      "definitions_ex_en": "he could exhibit a saintlike submissiveness",
+      "definitions_ex_vn": "anh ta có thể biểu hiện một sự phục tùng Saint Shike",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an object or collection of objects on public display in an art gallery or museum or at a trade fair.",
+      "definitions_ex_en": "the museum is rich in exhibits",
+      "definitions_ex_vn": "Bảo tàng rất giàu triển lãm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426078_61dc59728a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426078_6223dc1e33_o.png",
+      "id_image": "exhibit_223257"
+    }
+  ]
+}

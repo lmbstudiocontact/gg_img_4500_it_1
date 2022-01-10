@@ -1,0 +1,28 @@
+{
+  "english": "explain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giải thích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giảng nghỉa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make (an idea, situation, or problem) clear to someone by describing it in more detail or revealing relevant facts or ideas.",
+      "definitions_ex_en": "they explained that their lives centered on the religious rituals",
+      "definitions_ex_vn": "Họ giải thích rằng cuộc sống của họ tập trung vào các nghi lễ tôn giáo",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309596_215e28c2f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309596_e13789b870_o.png",
+      "id_image": "explain_5956443"
+    }
+  ]
+}

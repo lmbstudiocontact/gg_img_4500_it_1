@@ -1,0 +1,39 @@
+{
+  "english": "heartbreak",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đau lòng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "overwhelming distress.",
+      "definitions_ex_en": "an unforgettable tale of joy and heartbreak",
+      "definitions_ex_vn": "một câu chuyện khó quên về niềm vui và đau lòng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340556_e9c5a50bdd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340556_365bf2f1a4_o.png",
+      "id_image": "heartbreak_1612947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695839_18d261caca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695839_80b786b767_o.png",
+      "id_image": "heartbreak_5156344"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695819_73125d10c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695819_e15094b0bd_o.png",
+      "id_image": "heartbreak_6349798"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077925_ccecc2204e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077925_fba81d619c_o.png",
+      "id_image": "heartbreak_708617"
+    }
+  ]
+}

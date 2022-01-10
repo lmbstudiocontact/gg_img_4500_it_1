@@ -1,0 +1,83 @@
+{
+  "english": "discount",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bớt giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giãm giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hạ giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sụt giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền chiết khấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiết khấu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không để ý đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không kể",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không tính vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trừ tiền lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a deduction from the usual cost of something, typically given for prompt or advance payment or to a special category of buyers.",
+      "definitions_ex_en": "many stores will offer a discount on bulk purchases",
+      "definitions_ex_vn": "Nhiều cửa hàng sẽ giảm giá cho việc mua hàng số lượng lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "deduct an amount from (the usual price of something).",
+      "definitions_ex_en": "current users qualify for a discounted price",
+      "definitions_ex_vn": "Người dùng hiện tại đủ điều kiện nhận giá giảm giá",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "regard (a possibility, fact, or person) as being unworthy of consideration because it lacks credibility.",
+      "definitions_ex_en": "I'd heard rumors, but discounted them",
+      "definitions_ex_vn": "Tôi đã nghe tin đồn, nhưng giảm giá chúng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a store or business) offering goods for sale at discounted prices.",
+      "definitions_ex_en": "a discount drugstore chain",
+      "definitions_ex_vn": "Chuỗi nhà thuốc giảm giá",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432708_834f37ed0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432708_218b9f84b7_o.png",
+      "id_image": "discount_1057477"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054120_a0ec00f82c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054120_55a01f3a03_o.png",
+      "id_image": "discount_675752"
+    }
+  ]
+}

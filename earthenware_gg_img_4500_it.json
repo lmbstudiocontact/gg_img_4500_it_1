@@ -1,0 +1,44 @@
+{
+  "english": "earthenware",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ bằng sành",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đồ bằng đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ bằng xứ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ gốm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ kiểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ nung",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pottery made of clay fired to a porous state which can be made impervious to liquids by the use of a glaze.",
+      "definitions_ex_en": "an earthenware jug",
+      "definitions_ex_vn": "Một bình bằng đất nung.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687494_db0a564d08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687494_d0e8f8f197_o.png",
+      "id_image": "earthenware_2811154"
+    }
+  ]
+}

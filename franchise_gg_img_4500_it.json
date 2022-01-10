@@ -1,0 +1,64 @@
+{
+  "english": "franchise",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quyền bầu cử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền công dân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự miển thuế",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an authorization granted by a government or company to an individual or group enabling them to carry out specified commercial activities, e.g., providing a broadcasting service or acting as an agent for a company's products.",
+      "definitions_ex_en": "Toyota granted the group a franchise",
+      "definitions_ex_vn": "Toyota cấp cho nhóm một nhượng quyền thương mại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the right to vote.",
+      "definitions_ex_en": "the franchise was limited to Estonian citizens",
+      "definitions_ex_vn": "Nhượng quyền được giới hạn ở công dân Estonia",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "grant a franchise to (an individual or group).",
+      "definitions_ex_en": "a franchised dealer",
+      "definitions_ex_vn": "một đại lý nhượng quyền",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427923_7b11f5c78a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427923_83459cbb2f_o.png",
+      "id_image": "franchise_2345213"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357052_5ea5eafa03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357052_fae87ab9cc_o.png",
+      "id_image": "franchise_2631411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049560_3487e26ee6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049560_92a50a2579_o.png",
+      "id_image": "franchise_4148666"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313081_58de789407_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313081_7ea540d3ea_o.png",
+      "id_image": "franchise_6082850"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049585_d0f5d545fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049585_9fec6cd3fd_o.png",
+      "id_image": "franchise_649629"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "english": "equity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công bằng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không thiên vị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự công bình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vô tư",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the quality of being fair and impartial.",
+      "definitions_ex_en": "equity of treatment",
+      "definitions_ex_vn": "Vốn chủ sở hữu của điều trị",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the value of the shares issued by a company.",
+      "definitions_ex_en": "he owns 62% of the group's equity",
+      "definitions_ex_vn": "He% 2062 %%%%%%%%%%%%%%%%%%%%%%%%%% 20",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the value of a mortgaged property after deduction of charges against it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in the US, UK, and several other countries) a trade union to which most professional actors belong.",
+      "definitions_ex_en": "an Equity card",
+      "definitions_ex_vn": "một thẻ vốn chủ sở hữu.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316231_44798f6fd7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316231_8f645540bf_o.png",
+      "id_image": "equity_2719773"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360447_10c4738b72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360447_319e2d8480_o.png",
+      "id_image": "equity_4695168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431048_6122290297_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431048_c95ab85fe5_o.png",
+      "id_image": "equity_4695171"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360377_0d9720f761_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360377_8b0a26593f_o.png",
+      "id_image": "equity_5267387"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430973_c779c89e92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430973_6179497940_o.png",
+      "id_image": "equity_6159091"
+    }
+  ]
+}

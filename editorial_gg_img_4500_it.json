@@ -1,0 +1,58 @@
+{
+  "english": "editorial",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về bộ biên tập",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về tòa soạn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về xuất bản",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the commissioning or preparing of material for publication.",
+      "definitions_ex_en": "the editorial team",
+      "definitions_ex_vn": "Đội ngũ biên tập",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a newspaper article written by or on behalf of an editor that gives an opinion on a topical issue.",
+      "definitions_ex_en": "the paper ran an editorial denouncing his hawkish stand",
+      "definitions_ex_vn": "Bài viết chạy một biên tập tố cáo giá đỡ diều hâu của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444368_2be45490ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444368_2c3db9acca_o.png",
+      "id_image": "editorial_1277318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329376_de92407b55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329376_a23718c45f_o.png",
+      "id_image": "editorial_1806592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329351_94ea2cf9b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329351_ac0c25f7dc_o.png",
+      "id_image": "editorial_2662853"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444223_4dee5b1329_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444223_5b37ac09cc_o.png",
+      "id_image": "editorial_4514996"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444153_54df4595cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444153_b18b08147e_o.png",
+      "id_image": "editorial_4514997"
+    }
+  ]
+}

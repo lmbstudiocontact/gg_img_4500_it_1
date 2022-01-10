@@ -1,0 +1,37 @@
+{
+  "english": "harassment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khuấy rối liên tiếp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm phiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quấy rầy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "aggressive pressure or intimidation.",
+      "definitions_ex_en": "they face daily harassment and assault on the streets",
+      "definitions_ex_vn": "Họ phải đối mặt với sự quấy rối hàng ngày và tấn công trên đường phố",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459578_ebc9c9234b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459578_daa49859d6_o.png",
+      "id_image": "harassment_4576589"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344751_6a400bd936_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344751_ce2c36f7df_o.png",
+      "id_image": "harassment_4576628"
+    }
+  ]
+}

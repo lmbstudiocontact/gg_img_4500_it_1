@@ -1,0 +1,42 @@
+{
+  "english": "foreign",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không có quan hệ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngoại quốc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về một nước khác",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xa lạ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of, from, in, or characteristic of a country or language other than one's own.",
+      "definitions_ex_en": "a foreign language",
+      "definitions_ex_vn": "một ngôn ngữ nước ngoài",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "strange and unfamiliar.",
+      "definitions_ex_en": "I suppose this all feels pretty foreign to you",
+      "definitions_ex_vn": "Tôi cho rằng tất cả cảm thấy khá xa lạ với bạn",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052065_82934c0ac6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052065_fcdbcbea14_o.png",
+      "id_image": "foreign_381607"
+    }
+  ]
+}

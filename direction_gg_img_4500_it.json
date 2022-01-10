@@ -1,0 +1,82 @@
+{
+  "english": "direction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ huy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ thị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "địa chỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều khiển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giám đốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "huấn lịnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời chỉ bảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương hướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quản lý",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a course along which someone or something moves.",
+      "definitions_ex_en": "she set off in the opposite direction",
+      "definitions_ex_vn": "Cô ấy đặt ra theo hướng ngược lại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the management or guidance of someone or something.",
+      "definitions_ex_en": "under his direction, the college has developed an international reputation",
+      "definitions_ex_vn": "dưới sự chỉ đạo của mình, trường đại học đã phát triển một danh tiếng quốc tế",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435293_6ddd9a15d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435293_486d146d01_o.png",
+      "id_image": "direction_1412261"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056800_68a0143b06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056800_05f8854cec_o.png",
+      "id_image": "direction_1864020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364887_c3536dac4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364887_a2263a094d_o.png",
+      "id_image": "direction_1900180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435193_f58f8ec43c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435193_6ff425d072_o.png",
+      "id_image": "direction_2373764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056670_ef94b931ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056670_2680b3dc4c_o.png",
+      "id_image": "direction_3380706"
+    }
+  ]
+}

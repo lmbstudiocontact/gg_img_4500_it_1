@@ -1,0 +1,72 @@
+{
+  "english": "goggle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mắt lồi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trợn tròn xoe mắt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thao láo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mắt thao láo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mắt tròn xoe",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trợn tròn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "look with wide open eyes, typically in amazement.",
+      "definitions_ex_en": "I goggled at them in total disbelief",
+      "definitions_ex_vn": "Tôi loggled với họ trong sự hoài nghi hoàn toàn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of the eyes) protuberant or rolling.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "close-fitting eyeglasses with side shields, for protecting the eyes from glare, dust, water, etc.",
+      "definitions_ex_en": "a pair of goggles",
+      "definitions_ex_vn": "một cặp kính bảo hộ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a stare with protruding eyes.",
+      "definitions_ex_en": "their goggle mesmerizes even fishmongers",
+      "definitions_ex_vn": "Goggle của họ mê hoặc ngay cả những người bán cá",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329586_1362af1a37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329586_e65822575d_o.png",
+      "id_image": "goggle_1280476"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444513_8a7b90045b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444513_44cb6a43c4_o.png",
+      "id_image": "goggle_2646798"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374147_1c87873615_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374147_b442d6a6d2_o.png",
+      "id_image": "goggle_5132556"
+    }
+  ]
+}

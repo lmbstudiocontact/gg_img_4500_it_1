@@ -1,0 +1,34 @@
+{
+  "english": "ghee",
+  "list_translation_mean": [
+    {
+      "translate_mean": "một thứ bơ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "clarified butter made from the milk of a buffalo or cow, used in South Asian cooking.",
+      "definitions_ex_en": "a delicious meal cooked in ghee",
+      "definitions_ex_vn": "Một bữa ăn ngon nấu trong ghee",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688984_61388c328f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688984_ba32bcd0ca_o.png",
+      "id_image": "ghee_3844772"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070865_30ec0f078d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070865_ab50095f1d_o.png",
+      "id_image": "ghee_4681956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688914_1f309597ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688914_ebfbbfd9ac_o.png",
+      "id_image": "ghee_5015411"
+    }
+  ]
+}

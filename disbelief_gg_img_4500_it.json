@@ -1,0 +1,33 @@
+{
+  "english": "disbelief",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không tin việc gì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vô tôn giáo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "inability or refusal to accept that something is true or real.",
+      "definitions_ex_en": "Laura shook her head in disbelief",
+      "definitions_ex_vn": "Laura lắc đầu trong sự hoài nghi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318281_99195ea5e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318281_84270c46f5_o.png",
+      "id_image": "disbelief_1316878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362842_81e9f35bb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362842_76a3aee26e_o.png",
+      "id_image": "disbelief_708640"
+    }
+  ]
+}

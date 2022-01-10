@@ -1,0 +1,81 @@
+{
+  "english": "evidence",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chứng cớ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hiển nhiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "minh bạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rỏ rệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rỏ ràng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứng tỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm biểu lộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thấy rỏ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the available body of facts or information indicating whether a belief or proposition is true or valid.",
+      "definitions_ex_en": "the study finds little evidence of overt discrimination",
+      "definitions_ex_vn": "Nghiên cứu tìm thấy ít bằng chứng về sự phân biệt đối xử",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be or show evidence of.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313386_95c929dc5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313386_dd74e01d4a_o.png",
+      "id_image": "evidence_2034524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049890_d2f9fc3b9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049890_0d9721ddb4_o.png",
+      "id_image": "evidence_2322927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357347_fb173ffe23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357347_e5b43f84b7_o.png",
+      "id_image": "evidence_2399410"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668209_18029b347b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668209_c837a621ec_o.png",
+      "id_image": "evidence_533968"
+    }
+  ]
+}

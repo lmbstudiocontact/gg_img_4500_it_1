@@ -1,0 +1,89 @@
+{
+  "english": "finish",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chung cuộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hoàn thành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kết cuộc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết liểu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho xong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm hoàn thành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm rồi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm trọn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm xong",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "bring (a task or activity) to an end; complete.",
+      "definitions_ex_en": "they were straining to finish the job",
+      "definitions_ex_vn": "họ đã căng thẳng để hoàn thành công việc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "complete the manufacture or decoration of (a material, object, or place) by giving it an attractive surface appearance.",
+      "definitions_ex_en": "the interior was finished with V-jointed American oak",
+      "definitions_ex_vn": "Nội thất đã hoàn thành với gỗ sồi Mỹ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "prepare (a girl) for entry into fashionable society.",
+      "definitions_ex_en": "where were you finished?",
+      "definitions_ex_vn": "Bạn đã hoàn thành ở đâu?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an end or final part or stage of something.",
+      "definitions_ex_en": "a bowl of raspberries was the perfect finish to the meal",
+      "definitions_ex_vn": "Một bát quả mâm xôi là kết thúc hoàn hảo cho bữa ăn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the manner in which the manufacture of an article is completed in detail.",
+      "definitions_ex_en": "wide variation in specification and finish",
+      "definitions_ex_vn": "Biến thể rộng về đặc điểm kỹ thuật và kết thúc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441923_c30fce847c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441923_9fe812a061_o.png",
+      "id_image": "finish_1929097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441978_641e546cff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441978_71762d5299_o.png",
+      "id_image": "finish_495469"
+    }
+  ]
+}

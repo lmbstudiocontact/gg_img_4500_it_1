@@ -1,0 +1,50 @@
+{
+  "english": "domain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lảnh địa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lảnh thổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tài sản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật sở hửu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an area of territory owned or controlled by a ruler or government.",
+      "definitions_ex_en": "the southwestern French domains of the Plantagenets",
+      "definitions_ex_vn": "các lĩnh vực Tây Nam Pháp của Plantagenets",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666034_4629f19def_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666034_9d2edea775_o.png",
+      "id_image": "domain_287492"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425858_b02e4610e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425858_a70475f0de_o.png",
+      "id_image": "domain_4496196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047650_a7d229122a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047650_e656f0c138_o.png",
+      "id_image": "domain_5030933"
+    }
+  ]
+}

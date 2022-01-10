@@ -1,0 +1,46 @@
+{
+  "english": "elegant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lịch sự",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sang trọng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tao nhã",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thanh nhã",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pleasingly graceful and stylish in appearance or manner.",
+      "definitions_ex_en": "she will look elegant in black",
+      "definitions_ex_vn": "cô ấy sẽ trông thanh lịch trong màu đen",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369852_fca7a3a296_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369852_cac1c862f9_o.png",
+      "id_image": "elegant_1482343"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369747_720f0dbc9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369747_27437fd8cd_o.png",
+      "id_image": "elegant_1618577"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680144_68555a0ea8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680144_ba918d2e31_o.png",
+      "id_image": "elegant_343857"
+    }
+  ]
+}

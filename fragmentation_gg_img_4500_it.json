@@ -1,0 +1,28 @@
+{
+  "english": "fragmentation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mảnh vở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "từng đoạn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process or state of breaking or being broken into small or separate parts.",
+      "definitions_ex_en": "the fragmentation of society into a collection of interest groups",
+      "definitions_ex_vn": "sự phân mảnh của xã hội thành một tập hợp các nhóm lợi ích",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049820_a649987469_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049820_fe2aa370ba_o.png",
+      "id_image": "fragmentation_2369317"
+    }
+  ]
+}

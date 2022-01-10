@@ -1,0 +1,34 @@
+{
+  "english": "handrail",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lan can",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a rail fixed to posts or a wall for people to hold on to for support.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460508_7d72ba6f0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460508_036dfaa6bd_o.png",
+      "id_image": "handrail_1347844"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700869_0d8ea43a1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700869_e4d6a9993a_o.png",
+      "id_image": "handrail_647095"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083225_fc87be323a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083225_60c13f81fe_o.png",
+      "id_image": "handrail_647096"
+    }
+  ]
+}

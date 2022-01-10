@@ -1,0 +1,45 @@
+{
+  "english": "generic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chủng loại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về loài",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "characteristic of or relating to a class or group of things; not specific.",
+      "definitions_ex_en": "chèvre is a generic term for all goat's milk cheese",
+      "definitions_ex_vn": "Chèvre là một thuật ngữ chung chung cho tất cả phô mai sữa dê",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to a genus.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a consumer product having no brand name or registered trademark.",
+      "definitions_ex_en": "substituting generics for brand-name drugs",
+      "definitions_ex_vn": "Thay thế generic cho thuốc thương hiệu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336076_45a0210398_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336076_e3b409d3f5_o.png",
+      "id_image": "generic_1490875"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072965_50958a81d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072965_743a84bbc6_o.png",
+      "id_image": "generic_1818679"
+    }
+  ]
+}

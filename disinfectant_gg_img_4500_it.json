@@ -1,0 +1,49 @@
+{
+  "english": "disinfectant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuốc tẩy uế",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuốc trừ độc",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a chemical liquid that destroys bacteria.",
+      "definitions_ex_en": "all surfaces are cleaned manually or by pressure washer with disinfectant",
+      "definitions_ex_vn": "Tất cả các bề mặt được làm sạch bằng tay hoặc bằng máy rửa áp lực với chất khử trùng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "causing the destruction of bacteria.",
+      "definitions_ex_en": "cleansing and disinfectant products",
+      "definitions_ex_vn": "Sản phẩm tẩy rửa và khử trùng",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431118_687893d6e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431118_461551dacf_o.png",
+      "id_image": "disinfectant_2473084"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431093_b5565271b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431093_a63b6d63f1_o.png",
+      "id_image": "disinfectant_2718114"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431028_145f8a54c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431028_2468054e55_o.png",
+      "id_image": "disinfectant_3553673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360382_512468068b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360382_6cdd1f19f8_o.png",
+      "id_image": "disinfectant_4310232"
+    }
+  ]
+}

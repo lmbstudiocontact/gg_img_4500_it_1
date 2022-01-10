@@ -1,0 +1,40 @@
+{
+  "english": "forgery",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuyện bịa đặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giả mạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm giả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngụy tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "văn kiện giả mạo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of forging or producing a copy of a document, signature, banknote, or work of art.",
+      "definitions_ex_en": "he was found guilty of forgery",
+      "definitions_ex_vn": "anh ta bị kết tội giả mạo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430163_f93c062d81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430163_1c01e1d1d1_o.png",
+      "id_image": "forgery_5411049"
+    }
+  ]
+}

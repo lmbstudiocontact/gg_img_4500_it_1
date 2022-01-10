@@ -1,0 +1,50 @@
+{
+  "english": "disable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hết chạy được",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hết làm gì được",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm kiệt sức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phá hỏng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tàn tật",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a disease, injury, or accident) limit (someone) in their movements, senses, or activities.",
+      "definitions_ex_en": "it's an injury that could disable somebody for life",
+      "definitions_ex_vn": "Đó là một chấn thương có thể vô hiệu hóa ai đó cho cuộc sống",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319151_d3d1896466_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319151_cb88208eea_o.png",
+      "id_image": "disable_2799885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319101_dd524ec471_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319101_d0dd0f18b5_o.png",
+      "id_image": "disable_4370686"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319076_fe69908699_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319076_7ea659a847_o.png",
+      "id_image": "disable_4777564"
+    }
+  ]
+}

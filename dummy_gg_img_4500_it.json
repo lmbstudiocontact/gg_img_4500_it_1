@@ -1,0 +1,120 @@
+{
+  "english": "dummy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đần độn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giả mạo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giả tạo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khờ dại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khờ khạo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm giả",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngu đần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngụy tạo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngụy trang",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bù nhìn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đạo tỳ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ giả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình nộm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người câm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đần độn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người khờ dại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người khờ khạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ngu đần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phu đám ma",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật giả mạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật ngụy tạo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a model or replica of a human being.",
+      "definitions_ex_en": "a waxwork dummy",
+      "definitions_ex_vn": "một hình nộm waxwork.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "something designed to resemble and serve as a substitute for the real or usual thing; a counterfeit or sham.",
+      "definitions_ex_en": "tests using stuffed owls and wooden dummies",
+      "definitions_ex_vn": "Các xét nghiệm sử dụng cú nhồi và hình nộm bằng gỗ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the declarer's partner, whose cards are exposed on the table after the opening lead and played by the declarer.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072365_b59cd9c7a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072365_8c7c317bac_o.png",
+      "id_image": "dummy_820786"
+    }
+  ]
+}

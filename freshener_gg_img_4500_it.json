@@ -1,0 +1,34 @@
+{
+  "english": "freshener",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm bớt mặn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a substance or device that makes something fresher or cleaner.",
+      "definitions_ex_en": "parsley is a natural breath freshener",
+      "definitions_ex_vn": "Parsley là một nước ngọt tự nhiên",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699624_6f27d98237_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699624_8f71c9b11c_o.png",
+      "id_image": "freshener_1333377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081940_91a1355dde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081940_d938ae1a18_o.png",
+      "id_image": "freshener_2444908"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389402_06bface8db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389402_ef43de3475_o.png",
+      "id_image": "freshener_4471659"
+    }
+  ]
+}

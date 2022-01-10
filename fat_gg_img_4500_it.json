@@ -1,0 +1,78 @@
+{
+  "english": "fat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "béo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "béo bở",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mập",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phì nhiêu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chổ thịt mỡ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mỡ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người phát phì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nuôi cho mập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phái phì",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a natural oily or greasy substance occurring in animal bodies, especially when deposited as a layer under the skin or around certain organs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a person or animal) having a large amount of excess flesh.",
+      "definitions_ex_en": "the driver was a fat, wheezing man",
+      "definitions_ex_vn": "Người lái xe là một người đàn ông béo, thở khò khè",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "make or become fat.",
+      "definitions_ex_en": "numbers of black cattle are fatted here",
+      "definitions_ex_vn": "Số lượng gia súc đen được vỗ béo ở đây",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334876_d52c398cde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334876_38532b72c5_o.png",
+      "id_image": "fat_2376394"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071845_684eb464cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071845_b025e1817a_o.png",
+      "id_image": "fat_2843563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071790_3a594bc1f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071790_e4969ec332_o.png",
+      "id_image": "fat_3703381"
+    }
+  ]
+}

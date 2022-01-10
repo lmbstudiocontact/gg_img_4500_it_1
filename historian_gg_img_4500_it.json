@@ -1,0 +1,29 @@
+{
+  "english": "historian",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sử gia",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an expert in or student of history, especially that of a particular period, geographical region, or social phenomenon.",
+      "definitions_ex_en": "a military historian",
+      "definitions_ex_vn": "một nhà sử học quân sự",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073280_6b31563344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073280_20bfbfcc3d_o.png",
+      "id_image": "historian_5234380"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073245_8a6516e4f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073245_00ed472a3d_o.png",
+      "id_image": "historian_6036771"
+    }
+  ]
+}

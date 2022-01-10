@@ -1,0 +1,40 @@
+{
+  "english": "forever",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mãi mãi",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "tồn tại",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "for all future time; for always.",
+      "definitions_ex_en": "she would love him forever",
+      "definitions_ex_vn": "cô ấy sẽ yêu anh ấy mãi mãi",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "continually.",
+      "definitions_ex_en": "she was forever pushing her hair out of her eyes",
+      "definitions_ex_vn": "Cô ấy mãi mãi đẩy tóc ra khỏi mắt cô ấy",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "lasting or permanent.",
+      "definitions_ex_en": "these puppies need a forever home",
+      "definitions_ex_vn": "Những chú chó con cần một ngôi nhà mãi mãi",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359487_e65780b2c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359487_08c1bb3db2_o.png",
+      "id_image": "forever_1925208"
+    }
+  ]
+}

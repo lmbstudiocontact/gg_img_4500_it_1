@@ -1,0 +1,53 @@
+{
+  "english": "funnel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái phểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái quặn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miệng ống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống khói",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a tube or pipe that is wide at the top and narrow at the bottom, used for guiding liquid or powder into a small opening.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a metal chimney on a ship or steam engine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "guide or channel (something) through or as if through a funnel.",
+      "definitions_ex_en": "some $12.8 billion was funneled through the Marshall Plan",
+      "definitions_ex_vn": "khoảng 12,8 tỷ đô la đã được chuyển qua kế hoạch Marshall",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696824_0cd9fb8364_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696824_072b581c27_o.png",
+      "id_image": "funnel_1295794"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696809_447ac3ff05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696809_0361b54f6f_o.png",
+      "id_image": "funnel_2503693"
+    }
+  ]
+}

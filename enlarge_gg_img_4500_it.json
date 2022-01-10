@@ -1,0 +1,72 @@
+{
+  "english": "enlarge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tăng gia",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thêm lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khuếch trương",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm lớn thêm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mở mang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nở lớn ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phóng đại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rộng ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make or become bigger or more extensive.",
+      "definitions_ex_en": "they have renovated and enlarged the four-story building",
+      "definitions_ex_vn": "họ đã cải tạo và mở rộng tòa nhà bốn tầng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433903_69f2730730_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433903_f3c28884c3_o.png",
+      "id_image": "enlarge_1891357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673499_5e8de90d35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673499_40d4b55175_o.png",
+      "id_image": "enlarge_2142330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673464_17f234c01f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673464_3b6c887fa9_o.png",
+      "id_image": "enlarge_2460094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363167_c6a6a7f413_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363167_7bbbb4b158_o.png",
+      "id_image": "enlarge_3058427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055310_b06bc0bb2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055310_ddc7112e29_o.png",
+      "id_image": "enlarge_847654"
+    }
+  ]
+}

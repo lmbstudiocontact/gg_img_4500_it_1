@@ -1,0 +1,68 @@
+{
+  "english": "energy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cơ năng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khí lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghị lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức mạnh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the strength and vitality required for sustained physical or mental activity.",
+      "definitions_ex_en": "changes in the levels of vitamins can affect energy and well-being",
+      "definitions_ex_vn": "Những thay đổi về mức độ vitamin có thể ảnh hưởng đến năng lượng và hạnh phúc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "power derived from the utilization of physical or chemical resources, especially to provide light and heat or to work machines.",
+      "definitions_ex_en": "nuclear energy",
+      "definitions_ex_vn": "năng lượng hạt nhân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the property of matter and radiation which is manifest as a capacity to perform work (such as causing motion or the interaction of molecules).",
+      "definitions_ex_en": "a collision in which no energy is transferred",
+      "definitions_ex_vn": "một vụ va chạm trong đó không có năng lượng được chuyển",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364477_aed2c019a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364477_3ce2f92cca_o.png",
+      "id_image": "energy_167862"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434828_d5da5bc2e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434828_47ea28493e_o.png",
+      "id_image": "energy_1886443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674559_f0bc4f4d70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674559_93c87b10c1_o.png",
+      "id_image": "energy_2321652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434888_ef5b4ef8e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434888_8f6d98924a_o.png",
+      "id_image": "energy_523338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434848_9a6b3134b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434848_34faf8e65e_o.png",
+      "id_image": "energy_523354"
+    }
+  ]
+}

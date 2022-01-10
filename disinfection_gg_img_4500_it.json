@@ -1,0 +1,48 @@
+{
+  "english": "disinfection",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự trừ độc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tẩy uế",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process of cleaning something, especially with a chemical, in order to destroy bacteria.",
+      "definitions_ex_en": "instruments must undergo high-level disinfection before reuse",
+      "definitions_ex_vn": "dụng cụ phải trải qua khử trùng cao cấp trước khi sử dụng lại",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360347_6b6763447d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360347_8f7f73efd3_o.png",
+      "id_image": "disinfection_3022079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360312_6def861622_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360312_c31480c199_o.png",
+      "id_image": "disinfection_3022119"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360282_e546967242_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360282_2e7f6c7106_o.png",
+      "id_image": "disinfection_3159932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052460_b09d35daed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052460_64b926fa54_o.png",
+      "id_image": "disinfection_3159957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052430_dfbbd1fcf9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052430_6f2fe397d4_o.png",
+      "id_image": "disinfection_3165299"
+    }
+  ]
+}

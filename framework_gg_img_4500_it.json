@@ -1,0 +1,47 @@
+{
+  "english": "framework",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm khung",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đóng vào khuông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lắp vào khuông",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an essential supporting structure of a building, vehicle, or object.",
+      "definitions_ex_en": "a conservatory in a delicate framework of iron",
+      "definitions_ex_vn": "Nhạc viện trong một khuôn khổ tinh tế của sắt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313176_f90e93d95a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313176_c4876abc9e_o.png",
+      "id_image": "framework_2519420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427978_ffc7cfa436_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427978_75b850f7ce_o.png",
+      "id_image": "framework_2535512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313146_4f058c7a4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313146_ac28091867_o.png",
+      "id_image": "framework_2621174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313136_c775a42dde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313136_88bb8f8a3a_o.png",
+      "id_image": "framework_3097919"
+    }
+  ]
+}

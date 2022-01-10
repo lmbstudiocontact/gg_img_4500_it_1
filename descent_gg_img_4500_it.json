@@ -1,0 +1,76 @@
+{
+  "english": "descent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con cháu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc tấn công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đổ bộ thình lình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường giốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hạ xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khám sét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dòng dỏi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hạ xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự suy sụp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xuống",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an action of moving downward, dropping, or falling.",
+      "definitions_ex_en": "the plane had gone into a steep descent",
+      "definitions_ex_vn": "Máy bay đã đi vào một dòng dõi dốc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the origin or background of a person in terms of family or nationality.",
+      "definitions_ex_en": "American families of Hungarian descent",
+      "definitions_ex_vn": "Gia đình Mỹ gốc Hungary",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sudden violent attack.",
+      "definitions_ex_en": "a descent on the enemy airstrip",
+      "definitions_ex_vn": "một người đứng đầu trên Airstrip của kẻ thù",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329721_caaa15b7bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329721_f5fcb157e7_o.png",
+      "id_image": "descent_4344686"
+    }
+  ]
+}

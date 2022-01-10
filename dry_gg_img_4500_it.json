@@ -1,0 +1,143 @@
+{
+  "english": "dry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khô",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khô khan",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cạn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khát nước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ráo nước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tiền mặt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tiền nổi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khô gáo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vắt khô",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cạn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hết sữa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho hết sữa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho khô",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sấy khô",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giếng cạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàng hóa khô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiệm bán hàng vải",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "free from moisture or liquid; not wet or moist.",
+      "definitions_ex_en": "the jacket kept me warm and dry",
+      "definitions_ex_vn": "Chiếc áo khoác giữ cho tôi ấm áp và khô ráo",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "bare or lacking adornment.",
+      "definitions_ex_en": "the dry facts",
+      "definitions_ex_vn": "sự thật khô ráo",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a joke or sense of humor) subtle, expressed in a matter-of-fact way, and having the appearance of being unconscious or unintentional.",
+      "definitions_ex_en": "he delighted his friends with a dry, covert sense of humor",
+      "definitions_ex_vn": "Anh ấy đã làm bạn hài lòng với một khiếu hài hước khô ráo, che chở",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "prohibiting the sale or consumption of alcoholic drink.",
+      "definitions_ex_en": "Indiana stayed dry after the end of prohibition",
+      "definitions_ex_vn": "Indiana giữ khô sau khi kết thúc cấm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an alcoholic drink) not sweet.",
+      "definitions_ex_en": "a dry, medium-bodied red wine",
+      "definitions_ex_vn": "một loại rượu vang đỏ khô, trung bình",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "become dry.",
+      "definitions_ex_en": "allow 24 hours for the paint to dry",
+      "definitions_ex_vn": "Cho phép 24 giờ để sơn khô",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "forget one's lines.",
+      "definitions_ex_en": "a colleague of mine once dried in the middle of a scene",
+      "definitions_ex_vn": "một đồng nghiệp của tôi một khi khô ở giữa một cảnh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336141_256773c2ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336141_42129a5356_o.png",
+      "id_image": "dry_3690258"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381097_ec95c8c991_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381097_881f98ab66_o.png",
+      "id_image": "dry_3762151"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691374_c9782ecc04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691374_5eccb17175_o.png",
+      "id_image": "dry_4636691"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691534_25bf5a80b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691534_6f486e5a87_o.png",
+      "id_image": "dry_577963"
+    }
+  ]
+}

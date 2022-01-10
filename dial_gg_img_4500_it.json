@@ -1,0 +1,65 @@
+{
+  "english": "dial",
+  "list_translation_mean": [
+    {
+      "translate_mean": "la bàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòng tròn để nhắm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt đồng hồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt la bàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quay số",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quay số điện thoại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a face of a clock, watch, or sundial that is marked to show units of time.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "call (a phone number) by turning a disk with numbered holes or using a keypad or touchscreen.",
+      "definitions_ex_en": "he dialed 911",
+      "definitions_ex_vn": "Anh quay số 911.",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369067_bac0b6603e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369067_ea06ced758_o.png",
+      "id_image": "dial_1042072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061060_c3bfa1e9db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061060_fce52fe8b6_o.png",
+      "id_image": "dial_1677219"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369087_f0447cd35d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369087_fed204597a_o.png",
+      "id_image": "dial_247637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679314_2dc32635a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679314_a9b4ff15f7_o.png",
+      "id_image": "dial_5517638"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "editor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người sửa chửa tác phẩm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who is in charge of and determines the final content of a text, particularly a newspaper or magazine.",
+      "definitions_ex_en": "the editor of The New York Times",
+      "definitions_ex_vn": "biên tập viên của Times New York",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a computer program enabling the user to enter or alter text.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066300_a832d50f0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066300_81fa7ecc30_o.png",
+      "id_image": "editor_1188482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444478_dfd1f3db89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444478_97af66e656_o.png",
+      "id_image": "editor_1899340"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684434_e8bda49c74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684434_7f0af3c983_o.png",
+      "id_image": "editor_3966346"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374087_084e17e981_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374087_88be80c03a_o.png",
+      "id_image": "editor_4695764"
+    }
+  ]
+}

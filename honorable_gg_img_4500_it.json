@@ -1,0 +1,59 @@
+{
+  "english": "honorable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có tiếng tâm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đáng kính trọng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đáng tôn kính",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không có nghề nào hèn cả",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm vinh dự",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thật vinh dự",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vẻ vang",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "bringing or worthy of honor.",
+      "definitions_ex_en": "this is the only honorable course",
+      "definitions_ex_vn": "Đây là khóa học danh dự duy nhất",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "used as a title indicating eminence or distinction, given especially to judges and certain high officials.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688134_61dde67ba4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688134_340f55fa1c_o.png",
+      "id_image": "honorable_3199501"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448178_7530aaa18c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448178_0473e7a815_o.png",
+      "id_image": "honorable_3199508"
+    }
+  ]
+}

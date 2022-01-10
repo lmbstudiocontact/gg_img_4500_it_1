@@ -1,0 +1,34 @@
+{
+  "english": "gangster",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kẻ bất lương",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a member of a gang of violent criminals.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339536_2de057b7fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339536_10792dfc71_o.png",
+      "id_image": "gangster_1074392"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384447_410b22a0e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384447_86a957daf8_o.png",
+      "id_image": "gangster_1256801"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694719_ebc4083ff9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694719_0e6c277ded_o.png",
+      "id_image": "gangster_2144237"
+    }
+  ]
+}

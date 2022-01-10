@@ -1,0 +1,60 @@
+{
+  "english": "destination",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ đưa đến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ nhận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ thâu nhận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đích đến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điểm đến",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the place to which someone or something is going or being sent.",
+      "definitions_ex_en": "a popular destination for golfers",
+      "definitions_ex_vn": "Một điểm đến phổ biến cho người chơi golf",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "being a place that people will make a special trip to visit.",
+      "definitions_ex_en": "a destination restaurant",
+      "definitions_ex_vn": "một nhà hàng đích",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064760_4ddae31f13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064760_a28ab9f5b9_o.png",
+      "id_image": "destination_3203028"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683069_89f371d02e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683069_7975e10c94_o.png",
+      "id_image": "destination_4683598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064820_ebba4049d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064820_a2fd4d9838_o.png",
+      "id_image": "destination_854945"
+    }
+  ]
+}

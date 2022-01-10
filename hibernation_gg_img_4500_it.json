@@ -1,0 +1,39 @@
+{
+  "english": "hibernation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự ngũ suốt mùa đông",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the condition or period of an animal or plant spending the winter in a dormant state.",
+      "definitions_ex_en": "grizzly bears gorge on seeds to prepare for hibernation",
+      "definitions_ex_vn": "Grizzly Bears hẻm núi trên hạt giống để chuẩn bị cho ngủ đông",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382932_d34504276e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382932_0dfd88cac7_o.png",
+      "id_image": "hibernation_3391113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074960_2dc0bd3682_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074960_32fda75901_o.png",
+      "id_image": "hibernation_3755344"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382872_d436473d55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382872_135117e23c_o.png",
+      "id_image": "hibernation_6236426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382957_2b134710d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382957_7e9b57bf21_o.png",
+      "id_image": "hibernation_661333"
+    }
+  ]
+}

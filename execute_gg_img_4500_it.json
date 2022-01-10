@@ -1,0 +1,54 @@
+{
+  "english": "execute",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hành hình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hoàn thành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "diển tấu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tròn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm xong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thi hành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thực hành",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "carry out or put into effect (a plan, order, or course of action).",
+      "definitions_ex_en": "the corporation executed a series of financial deals",
+      "definitions_ex_vn": "Tổng công ty đã thực hiện một loạt các giao dịch tài chính",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "carry out a sentence of death on (a legally condemned person).",
+      "definitions_ex_en": "he was convicted of treason and executed",
+      "definitions_ex_vn": "Anh ta bị kết án về tội phản quốc và bị xử tử",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666829_a0b82b9334_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666829_b7ec8a53d1_o.png",
+      "id_image": "execute_2654584"
+    }
+  ]
+}

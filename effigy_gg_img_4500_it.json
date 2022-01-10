@@ -1,0 +1,28 @@
+{
+  "english": "effigy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tượng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sculpture or model of a person.",
+      "definitions_ex_en": "coins bearing the effigy of Maria Theresa of Austria",
+      "definitions_ex_vn": "Tiền xu mang olwigy của Maria Theresa của Áo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372442_420cc5f408_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372442_2749822cdf_o.png",
+      "id_image": "effigy_4065217"
+    }
+  ]
+}

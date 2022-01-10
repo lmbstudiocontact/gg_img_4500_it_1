@@ -1,0 +1,39 @@
+{
+  "english": "duel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc đấu giửa hai người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc tranh luận",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a contest with deadly weapons arranged between two people in order to settle a point of honor.",
+      "definitions_ex_en": "twice he had seriously wounded men in duels",
+      "definitions_ex_vn": "hai lần anh ta đã làm những người đàn ông bị thương nặng trong cuộc đấu tay đôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fight a duel or duels.",
+      "definitions_ex_en": "dueling had been forbidden for serving officers",
+      "definitions_ex_vn": "Dueling đã bị cấm phục vụ cán bộ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450603_291d95f90c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450603_4225f11a07_o.png",
+      "id_image": "duel_3570424"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450583_c0ac0b95a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450583_c579177f89_o.png",
+      "id_image": "duel_3746461"
+    }
+  ]
+}

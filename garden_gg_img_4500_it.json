@@ -1,0 +1,52 @@
+{
+  "english": "garden",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công viên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vườn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vườn rau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm vườn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small piece of ground used to grow vegetables, fruit, herbs, or flowers.",
+      "definitions_ex_en": "they brought us tomatoes from their garden",
+      "definitions_ex_vn": "Họ đã mang lại cho chúng tôi cà chua từ khu vườn của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cultivate or work in a garden.",
+      "definitions_ex_en": "she wrote books, kept journals, and gardened",
+      "definitions_ex_vn": "cô ấy đã viết sách, giữ các tạp chí, và làm vườn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453998_d3f6683477_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453998_dac930d5b4_o.png",
+      "id_image": "garden_2071668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694129_a14bc76a0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694129_cdc7d52b74_o.png",
+      "id_image": "garden_2808470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339096_59473daea1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339096_31114fc41f_o.png",
+      "id_image": "garden_327405"
+    }
+  ]
+}

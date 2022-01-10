@@ -1,0 +1,48 @@
+{
+  "english": "friendship",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tình bạn bè",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình thân hửu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the emotions or conduct of friends; the state of being friends.",
+      "definitions_ex_en": "old ties of love and friendship",
+      "definitions_ex_vn": "Ties cũ của tình yêu và tình bạn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389112_5f6e092da9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389112_41ce33acd0_o.png",
+      "id_image": "friendship_1001211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458898_eb1943d985_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458898_190f0fe1a4_o.png",
+      "id_image": "friendship_1001226"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344071_6d0a9c37ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344071_997f658b81_o.png",
+      "id_image": "friendship_1001230"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081465_9c8a2a0277_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081465_9ce905191c_o.png",
+      "id_image": "friendship_1622612"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699204_a253f32301_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699204_aaabc71a46_o.png",
+      "id_image": "friendship_1706040"
+    }
+  ]
+}

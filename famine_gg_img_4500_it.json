@@ -1,0 +1,33 @@
+{
+  "english": "famine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nạn đói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng thiếu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "extreme scarcity of food.",
+      "definitions_ex_en": "drought could result in famine throughout the region",
+      "definitions_ex_vn": "Hạn hán có thể dẫn đến nạn đói trong toàn khu vực",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451518_988fe7630e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451518_9020067bbd_o.png",
+      "id_image": "famine_1999880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381577_efaae2cd61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381577_35a146bfb2_o.png",
+      "id_image": "famine_5208443"
+    }
+  ]
+}

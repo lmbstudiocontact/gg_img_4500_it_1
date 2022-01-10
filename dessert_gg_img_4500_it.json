@@ -1,0 +1,48 @@
+{
+  "english": "dessert",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ ăn tráng miệng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tráng miệng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the sweet course eaten at the end of a meal.",
+      "definitions_ex_en": "a dessert of chocolate mousse",
+      "definitions_ex_vn": "một món tráng miệng của mousse sô cô la",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373012_2415cb51da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373012_87771ca3a7_o.png",
+      "id_image": "dessert_2484324"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328211_f9934dd140_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328211_08204339f9_o.png",
+      "id_image": "dessert_2484349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443243_79f8b85b15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443243_7b552d1e22_o.png",
+      "id_image": "dessert_2484370"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443198_d0896a751a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443198_3fd1428867_o.png",
+      "id_image": "dessert_2836624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443143_101cf3529c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443143_cc7ab52327_o.png",
+      "id_image": "dessert_4072145"
+    }
+  ]
+}

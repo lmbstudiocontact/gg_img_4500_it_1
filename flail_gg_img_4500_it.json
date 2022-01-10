@@ -1,0 +1,45 @@
+{
+  "english": "flail",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đòn đập lúa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đập lúa bằng đòn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a threshing tool consisting of a wooden staff with a short heavy stick swinging from it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "wave or swing or cause to wave or swing wildly.",
+      "definitions_ex_en": "his arms were flailing helplessly",
+      "definitions_ex_vn": "Cánh tay anh đang bay bất lực",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "beat; flog.",
+      "definitions_ex_en": "he escorted them, flailing their shoulders with his cane",
+      "definitions_ex_vn": "Anh hộ tống chúng, vẫy vai bằng gậy của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438723_65135fe657_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438723_dee0a7ba8d_o.png",
+      "id_image": "flail_1866943"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438698_3ef1d99624_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438698_dc06719ec3_o.png",
+      "id_image": "flail_2397111"
+    }
+  ]
+}

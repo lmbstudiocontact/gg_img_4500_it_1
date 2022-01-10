@@ -1,0 +1,139 @@
+{
+  "english": "front",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ở phía trước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "diện mạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt trận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt trước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chống chọi với",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đối mặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xoay mặt về",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the side or part of an object that presents itself to view or that is normally seen or used first; the most forward part of something.",
+      "definitions_ex_en": "a page at the front of the book had been torn out",
+      "definitions_ex_vn": "một trang ở phía trước của cuốn sách đã bị xé ra",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the foremost line or part of an armed force; the furthest position that an army has reached and where the enemy is or may be engaged.",
+      "definitions_ex_en": "his regiment was immediately sent to the front",
+      "definitions_ex_vn": "Trung đoàn của anh ta ngay lập tức được gửi đến phía trước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an appearance or form of behavior assumed by a person to conceal their genuine feelings.",
+      "definitions_ex_en": "she put on a brave front",
+      "definitions_ex_vn": "Cô ấy đặt trên một mặt trước dũng cảm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "boldness and confidence of manner.",
+      "definitions_ex_en": "he's got a bit of talent and a lot of front",
+      "definitions_ex_vn": "Anh ấy có một chút tài năng và rất nhiều phía trước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's face or forehead.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "of or at the front.",
+      "definitions_ex_en": "the front cover of the magazine",
+      "definitions_ex_vn": "bìa trước của tạp chí",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a vowel sound) formed by raising the tongue, excluding the blade and tip, toward the hard palate.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a building or piece of land) have the front facing or directed toward.",
+      "definitions_ex_en": "the houses that front Beacon Street",
+      "definitions_ex_vn": "những ngôi nhà mà đường Beacon phía trước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "provide (something) with a front or facing of a particular type or material.",
+      "definitions_ex_en": "a metal box fronted by an alloy panel",
+      "definitions_ex_vn": "một hộp kim loại phía trước bởi một bảng hợp kim",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "lead or be the most prominent member in (an organization, activity, or group of musicians).",
+      "definitions_ex_en": "the group is fronted by two girl singers",
+      "definitions_ex_vn": "Nhóm được hai ca sĩ cô gái phía trước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "act as a front or cover for someone or something acting illegally or wishing to conceal something.",
+      "definitions_ex_en": "he fronted for them in illegal property deals",
+      "definitions_ex_vn": "Ông đứng trước cho họ trong các giao dịch bất động sản bất hợp pháp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "articulate (a vowel sound) with the tongue further forward.",
+      "definitions_ex_en": "all speakers use raised and fronted variants more in spontaneous speech",
+      "definitions_ex_vn": "Tất cả các loa sử dụng các biến thể được nâng lên và phía trước nhiều hơn trong bài phát biểu tự phát",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "place (a sentence element) at the beginning of a sentence instead of in its usual position, typically for emphasis or as a feature of some dialects, as in horrible it was.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used to summon someone to the front or to command them to assume a forward-facing position, as in calling a bellhop to the front desk or giving orders to troops on parade.",
+      "definitions_ex_en": "scouts, front and center !",
+      "definitions_ex_vn": "Hướng đạo sinh, phía trước và trung tâm!",
+      "definitions_type_word": "exclamation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081065_9d9ee5914f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081065_292242c31e_o.png",
+      "id_image": "front_1838105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698909_4d156b5321_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698909_177e84e00c_o.png",
+      "id_image": "front_232902"
+    }
+  ]
+}

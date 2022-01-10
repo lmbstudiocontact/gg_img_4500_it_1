@@ -1,0 +1,38 @@
+{
+  "english": "foreground",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đặt vấn đề trước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đề xuất một vấn đề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vùng đất phía trước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the part of a view that is nearest to the observer, especially in a picture or photograph.",
+      "definitions_ex_en": "the images show vegetation in the foreground",
+      "definitions_ex_vn": "Những hình ảnh cho thấy thảm thực vật ở phía trước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make (something) the most prominent or important feature.",
+      "definitions_ex_en": "sexual relationships are foregrounded and idealized",
+      "definitions_ex_vn": "Mối quan hệ tình dục là tiền cảnh và lý tưởng hóa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052160_aa237f3fd7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052160_c7c6d323bd_o.png",
+      "id_image": "foreground_232868"
+    }
+  ]
+}

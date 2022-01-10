@@ -1,0 +1,34 @@
+{
+  "english": "epic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về anh hùng ca",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "anh hùng ca",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long poem, typically one derived from ancient oral tradition, narrating the deeds and adventures of heroic or legendary figures or the history of a nation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to or characteristic of an epic or epics.",
+      "definitions_ex_en": "England's national epic poem Beowulf",
+      "definitions_ex_vn": "Bài thơ sử thi quốc gia của Anh Beowulf",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361367_962e588d56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361367_f985e82fc8_o.png",
+      "id_image": "epic_2178175"
+    }
+  ]
+}

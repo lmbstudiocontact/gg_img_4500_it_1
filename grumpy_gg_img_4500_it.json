@@ -1,0 +1,41 @@
+{
+  "english": "grumpy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cộc cằn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hay quạu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khó tính",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhăn nhó",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "bad-tempered and irritable.",
+      "definitions_ex_en": "his performance as the grumpy gateman",
+      "definitions_ex_vn": "màn trình diễn của anh ấy là Gateman gắt gỏng",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363912_ef535017e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363912_afb3abb974_o.png",
+      "id_image": "grumpy_2777024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319211_0df93b8aa2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319211_03a13503fb_o.png",
+      "id_image": "grumpy_5507261"
+    }
+  ]
+}

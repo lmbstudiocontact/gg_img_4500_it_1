@@ -1,0 +1,61 @@
+{
+  "english": "gauze",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hơi nhẹ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "màng khói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tơ mỏng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vải mỏng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thin translucent fabric of silk, linen, or cotton.",
+      "definitions_ex_en": "a hat swathed in green gauze",
+      "definitions_ex_vn": "Một chiếc mũ tràn vào gạc xanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a very fine wire mesh.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692994_ac4f12da64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692994_cf65e9c1df_o.png",
+      "id_image": "gauze_1856798"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692949_3e4482b333_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692949_4649cee631_o.png",
+      "id_image": "gauze_1881280"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337636_51306c2a4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337636_98b4b9bf41_o.png",
+      "id_image": "gauze_2051632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692864_0d73c98e23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692864_ae3a474812_o.png",
+      "id_image": "gauze_2682110"
+    }
+  ]
+}

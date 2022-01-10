@@ -1,0 +1,47 @@
+{
+  "english": "funeral",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tang lể",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đám ma",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lể đám ma",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the ceremonies honoring a dead person, typically involving burial or cremation.",
+      "definitions_ex_en": "in the afternoon, he'd attended a funeral",
+      "definitions_ex_vn": "Vào buổi chiều, anh đã tham dự một đám tang",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342101_00010a9e93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342101_79b0dd8c40_o.png",
+      "id_image": "funeral_1699157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387067_c0d7c908b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387067_42f0b3ef88_o.png",
+      "id_image": "funeral_3768607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697189_aa0f3bd55a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697189_f2cf4b2b41_o.png",
+      "id_image": "funeral_5826070"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079390_f10d7c06ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079390_7ce1318158_o.png",
+      "id_image": "funeral_6000833"
+    }
+  ]
+}

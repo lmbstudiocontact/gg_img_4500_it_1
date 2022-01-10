@@ -1,0 +1,74 @@
+{
+  "english": "freak",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hành vi ngông cuồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hiện tượng huyền bí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "màu sắc hoa hòe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bất thường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biến đổi thình lình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tô màu sặc sở",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a very unusual and unexpected event or situation.",
+      "definitions_ex_en": "the teacher says the accident was a total freak",
+      "definitions_ex_vn": "Giáo viên nói rằng vụ tai nạn là một sự quái đản hoàn toàn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person, animal, or plant with an unusual physical abnormality.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who is obsessed with or unusually enthusiastic about a specified interest.",
+      "definitions_ex_en": "a fitness freak",
+      "definitions_ex_vn": "một freak thể dục",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sudden arbitrary change of mind; a whim.",
+      "definitions_ex_en": "follow this way or that, as the freak takes you",
+      "definitions_ex_vn": "Thực hiện theo cách này hoặc điều đó, như Freak đưa bạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "behave or cause to behave in a wild and irrational way, typically because of the effects of extreme emotion, mental illness, or drugs.",
+      "definitions_ex_en": "I could have freaked out and started smashing the place up",
+      "definitions_ex_vn": "Tôi có thể đã hoảng hốt và bắt đầu đập vỡ nơi này",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fleck or streak randomly.",
+      "definitions_ex_en": "the white pink and the pansy freaked with jet",
+      "definitions_ex_vn": "màu hồng trắng và pansy bị phản chiếu với máy bay phản lực",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049480_f268f8050f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049480_31706f97ba_o.png",
+      "id_image": "freak_2777003"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "directional",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về phương hướng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or indicating the direction in which someone or something is situated, moving, or developing.",
+      "definitions_ex_en": "directional signs wherever two paths joined",
+      "definitions_ex_vn": "Dấu hiệu định hướng bất cứ nơi nào hai đường dẫn tham gia",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having a particular direction of motion, progression, or orientation.",
+      "definitions_ex_en": "coiling the wire permits directional flow of the magnetic flux",
+      "definitions_ex_vn": "cuộn dây cho phép lưu lượng phương hướng của thông lượng từ tính",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319966_9c844b1cfa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319966_4b61213c69_o.png",
+      "id_image": "directional_1692051"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056640_89bacfdba4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056640_eb85547f23_o.png",
+      "id_image": "directional_169497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364717_10d8c85b8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364717_30bb4a54a2_o.png",
+      "id_image": "directional_216871"
+    }
+  ]
+}

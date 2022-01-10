@@ -1,0 +1,43 @@
+{
+  "english": "donate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cho",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tặng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give (money or goods) for a good cause, for example to a charity.",
+      "definitions_ex_en": "a portion of the proceeds will be donated to charity",
+      "definitions_ex_vn": "Một phần tiền thu được sẽ được quyên góp cho từ thiện",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310366_385f08cb97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310366_8b507f61ed_o.png",
+      "id_image": "donate_2417819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310326_dde47fa9c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310326_dfd47d886f_o.png",
+      "id_image": "donate_3724816"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354432_b46013a164_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354432_8a80277f5a_o.png",
+      "id_image": "donate_4483337"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665589_5a5586a0a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665589_321be6f480_o.png",
+      "id_image": "donate_523211"
+    }
+  ]
+}

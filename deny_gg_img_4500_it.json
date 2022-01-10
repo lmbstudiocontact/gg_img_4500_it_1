@@ -1,0 +1,60 @@
+{
+  "english": "deny",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không nhận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không nhìn nhận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quên mình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "từ chối",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "state that one refuses to admit the truth or existence of.",
+      "definitions_ex_en": "they deny any responsibility for the tragedy",
+      "definitions_ex_vn": "Họ phủ nhận bất kỳ trách nhiệm cho bi kịch",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "refuse to give or grant (something requested or desired) to (someone).",
+      "definitions_ex_en": "the inquiry was denied access to intelligence sources",
+      "definitions_ex_vn": "Cuộc điều tra đã bị từ chối truy cập vào các nguồn thông minh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068100_f8da650d88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068100_7c823b1c9c_o.png",
+      "id_image": "deny_2313327"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331336_bc6cbd403f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331336_6e6caa48ab_o.png",
+      "id_image": "deny_2598753"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331306_47951f61ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331306_de45c7a270_o.png",
+      "id_image": "deny_2776427"
+    }
+  ]
+}

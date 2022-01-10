@@ -1,0 +1,42 @@
+{
+  "english": "fruit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kết quả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trái cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho cây sanh trái",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the sweet and fleshy product of a tree or other plant that contains seed and can be eaten as food.",
+      "definitions_ex_en": "tropical fruits such as mangoes and papaya",
+      "definitions_ex_vn": "Trái cây nhiệt đới như xoài và đu đủ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a tree or other plant) produce fruit, typically at a specified time.",
+      "definitions_ex_en": "the trees fruit very early",
+      "definitions_ex_vn": "cây cây rất sớm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343381_1de8611c16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343381_8d2364a4a3_o.png",
+      "id_image": "fruit_3194591"
+    }
+  ]
+}

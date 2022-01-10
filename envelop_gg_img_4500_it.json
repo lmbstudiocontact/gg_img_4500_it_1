@@ -1,0 +1,28 @@
+{
+  "english": "envelop",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao bọc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bao phủ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "wrap up, cover, or surround completely.",
+      "definitions_ex_en": "a figure enveloped in a black cloak",
+      "definitions_ex_vn": "một con số bao bọc trong một chiếc áo choàng đen",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432813_c8072c1fe6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432813_7867513c26_o.png",
+      "id_image": "envelop_5387297"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "english": "excavation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "moi lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bới lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đào lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đào sâu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khai quật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm lở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dọn đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xoi lủng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of excavating something, especially an archaeological site.",
+      "definitions_ex_en": "the methods of excavation have to be extremely rigorous",
+      "definitions_ex_vn": "Các phương pháp khai quật phải cực kỳ nghiêm ngặt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667749_1a7dfa2b41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667749_ee6beed196_o.png",
+      "id_image": "excavation_1891909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427688_585949b612_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427688_edff6abb39_o.png",
+      "id_image": "excavation_4127096"
+    }
+  ]
+}

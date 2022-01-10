@@ -1,0 +1,126 @@
+{
+  "english": "deposit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "của cải gởi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặc tiền trước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đóng cặn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gởi tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ký thác trong ngân hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lắng cặn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền cọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền đặc cọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền thế chưn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gởi tiền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ký thác trong ngân hàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lắng cặn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sum of money placed or kept in a bank account, usually to gain interest.",
+      "definitions_ex_en": "cash funds which are an alternative to bank or building society deposits",
+      "definitions_ex_vn": "quỹ tiền mặt là một thay thế cho tiền gửi của ngân hàng hoặc xây dựng xã hội",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sum payable as a first installment on the purchase of something or as a pledge for a contract, the balance being payable later.",
+      "definitions_ex_en": "we've saved enough for a deposit on a house",
+      "definitions_ex_vn": "Chúng tôi đã tiết kiệm đủ cho một khoản tiền gửi trên một ngôi nhà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a layer or body of accumulated matter.",
+      "definitions_ex_en": "the deposits of salt on the chrome",
+      "definitions_ex_vn": "tiền gửi muối trên chrome",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of placing something in a specified place.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put or set down (something or someone) in a specific place, typically unceremoniously.",
+      "definitions_ex_en": "he deposited a pile of schoolbooks on the kitchen table",
+      "definitions_ex_vn": "Anh ký gửi một đống sách học trên bàn bếp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "store or entrust with someone for safekeeping.",
+      "definitions_ex_en": "a vault in which guests may deposit valuable property",
+      "definitions_ex_vn": "một hầm trong đó khách có thể gửi tài sản có giá trị",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375137_04f4b490b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375137_a0abdfb591_o.png",
+      "id_image": "deposit_1610402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445413_a4561d7d21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445413_51ae94df2f_o.png",
+      "id_image": "deposit_2867595"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685539_e43f38ae45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685539_422e535e85_o.png",
+      "id_image": "deposit_422158"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375077_a024074ff5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375077_750db63588_o.png",
+      "id_image": "deposit_4237074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375022_311951ab84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375022_66d6a3d17e_o.png",
+      "id_image": "deposit_5848031"
+    }
+  ]
+}

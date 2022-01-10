@@ -1,0 +1,54 @@
+{
+  "english": "fantasy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ảo tưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phóng túng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tưởng tượng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the faculty or activity of imagining things, especially things that are impossible or improbable.",
+      "definitions_ex_en": "his research had moved into the realm of fantasy",
+      "definitions_ex_vn": "Nghiên cứu của ông đã chuyển đến cõi tưởng tượng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a musical composition, free in form, typically involving variation on an existing work or the imaginative representation of a situation or story; a fantasia.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "imagine the occurrence of; fantasize about.",
+      "definitions_ex_en": "it is ludicrous to fantasy “disinventing” the hydrogen bomb",
+      "definitions_ex_vn": "Thật lố bịch để tưởng tượng \"Disinventing\" bom hydro",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072890_8ae4fa1063_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072890_a6f48c0a69_o.png",
+      "id_image": "fantasy_2040675"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335891_b0e580b1ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335891_7aa95efe1e_o.png",
+      "id_image": "fantasy_3500690"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072820_09dc0d0ef3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072820_3e238514dd_o.png",
+      "id_image": "fantasy_3839827"
+    }
+  ]
+}

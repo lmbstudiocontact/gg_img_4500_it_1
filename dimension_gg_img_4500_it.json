@@ -1,0 +1,60 @@
+{
+  "english": "dimension",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ kiểu mẫu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kích thước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a measurable extent of some kind, such as length, breadth, depth, or height.",
+      "definitions_ex_en": "the final dimensions of the pond were 14 ft. x 8 ft",
+      "definitions_ex_vn": "Kích thước cuối cùng của ao là 14 ft x 8 ft",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an aspect or feature of a situation, problem, or thing.",
+      "definitions_ex_en": "sun-dried tomatoes add a new dimension to this sauce",
+      "definitions_ex_vn": "Tomatoes phơi nắng thêm một chiều hướng mới vào nước sốt này",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "form or shape (something) to particular measurements.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321331_0743cba7b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321331_9d85c38117_o.png",
+      "id_image": "dimensions_1605816"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321476_66362b8e79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321476_92f836aacf_o.png",
+      "id_image": "dimensions_217221"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058050_cde259affd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058050_88fafe7753_o.png",
+      "id_image": "dimensions_4761232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436723_4380e48f62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436723_3691e8405b_o.png",
+      "id_image": "dimension_4092787"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436783_d87627a761_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436783_e0fb6d2964_o.png",
+      "id_image": "dimension_992621"
+    }
+  ]
+}

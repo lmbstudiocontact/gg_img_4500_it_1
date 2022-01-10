@@ -1,0 +1,36 @@
+{
+  "english": "district",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khu vực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chia ra từng khu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an area of a country or city, especially one regarded as a distinct unit because of a particular characteristic.",
+      "definitions_ex_en": "an elegant shopping district",
+      "definitions_ex_vn": "một khu mua sắm thanh lịch",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313646_74dc43cfc7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313646_976daeb19b_o.png",
+      "id_image": "district_2968355"
+    }
+  ]
+}

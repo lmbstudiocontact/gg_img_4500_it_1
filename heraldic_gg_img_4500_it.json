@@ -1,0 +1,24 @@
+{
+  "english": "heraldic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về huy chương",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to heraldry.",
+      "definitions_ex_en": "heraldic devices",
+      "definitions_ex_vn": "thiết bị huy chương",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075740_162cb61d0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075740_2debd061cc_o.png",
+      "id_image": "heraldic_2858846"
+    }
+  ]
+}

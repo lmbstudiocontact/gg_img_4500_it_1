@@ -1,0 +1,94 @@
+{
+  "english": "dog",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bám lấy vật khác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật để móc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chó săn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xảo quyệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giá sắt ở lò sưởi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đê tiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tinh ranh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "theo dỏi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "theo hút",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, nonretractable claws, and a barking, howling, or whining voice.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mechanical device for gripping.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for firedog.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "follow (someone or their movements) closely and persistently.",
+      "definitions_ex_en": "photographers seemed to dog her every step",
+      "definitions_ex_vn": "Các nhiếp ảnh gia dường như cho chó của cô ấy từng bước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "grip (something) with a mechanical device.",
+      "definitions_ex_en": "she has dogged the door shut",
+      "definitions_ex_vn": "Cô ấy đã khiến cửa đóng cửa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426333_8c6b4745d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426333_44f93e9e06_o.png",
+      "id_image": "dog_1049341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355632_302354b221_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355632_deb5423f47_o.png",
+      "id_image": "dog_421604"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426363_8c6b4745d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426363_d3d4d26318_o.png",
+      "id_image": "dog_877112"
+    }
+  ]
+}

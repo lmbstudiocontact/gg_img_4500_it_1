@@ -1,0 +1,77 @@
+{
+  "english": "freight",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mướn tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chở bằng đường thủy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chuyên chở hàng hóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thuê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền mướn chở hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cho mướn tàu chở hàng hóa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "goods transported in bulk by truck, train, ship, or aircraft.",
+      "definitions_ex_en": "a decline in the amount of freight carried by rail",
+      "definitions_ex_vn": "sự suy giảm lượng cước vận chuyển bằng đường sắt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a load or burden.",
+      "definitions_ex_en": "these warm winds deposit their freight of moisture in showers of rain",
+      "definitions_ex_vn": "Những cơn gió ấm áp này lắng đọng vận chuyển độ ẩm của họ trong mưa rào của mưa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "transport (goods) in bulk by truck, train, ship, or aircraft.",
+      "definitions_ex_en": "the metals had been freighted from the city",
+      "definitions_ex_vn": "Các kim loại đã được vận chuyển từ thành phố",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be laden or burdened with.",
+      "definitions_ex_en": "each word was freighted with anger",
+      "definitions_ex_vn": "Mỗi từ đã được tự do với sự tức giận",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699919_a114a0fe4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699919_405d514da9_o.png",
+      "id_image": "freight_2825503"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389722_6a3e1108b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389722_7b80d3865d_o.png",
+      "id_image": "freight_2928836"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344856_99a6f1a53a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344856_1bef176fc1_o.png",
+      "id_image": "freight_384036"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389697_1081efc501_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389697_889c52749c_o.png",
+      "id_image": "freight_4899495"
+    }
+  ]
+}

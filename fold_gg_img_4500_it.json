@@ -1,0 +1,138 @@
+{
+  "english": "fold",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách xếp giấy sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cánh cửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giáo hội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lằn xếp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xếp lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thánh đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ lồi lõm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuồng nuôi thú vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "có thể bẻ lại được",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "có thể xếp lại được",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bẻ vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gấp lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gập lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhốt vào chuồng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xếp lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "bend (something flexible and relatively flat) over on itself so that one part of it covers another.",
+      "definitions_ex_en": "she folded all her clothes and packed all her bags",
+      "definitions_ex_vn": "Cô gập tất cả quần áo và đóng gói tất cả các túi của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cover or wrap something in (a soft or flexible material).",
+      "definitions_ex_en": "a plastic bag was folded around the book",
+      "definitions_ex_vn": "Một túi nhựa được gấp xung quanh cuốn sách",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an enterprise or organization) cease operating as a result of financial problems or a lack of support.",
+      "definitions_ex_en": "the club folded earlier this year",
+      "definitions_ex_vn": "Câu lạc bộ đã gấp lại sớm hơn trong năm nay",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "shut (livestock) in a fold.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a form or shape produced by the gentle draping of a loose, full garment or piece of cloth.",
+      "definitions_ex_en": "the fabric fell in soft folds",
+      "definitions_ex_vn": "Vải rơi trong nếp gấp mềm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a line or crease produced in paper or cloth as the result of folding it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pen or enclosure in a field where livestock, especially sheep, can be kept.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "in an amount multiplied by.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    },
+    {
+      "definitions_word_en": "consisting of so many parts or facets.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433143_d33703f59d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433143_8923ae48d4_o.png",
+      "id_image": "fold_4145093"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672734_9404921605_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672734_c26fc1fd38_o.png",
+      "id_image": "fold_4145102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054480_f8846696ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054480_3bcbf63cfe_o.png",
+      "id_image": "fold_4145109"
+    }
+  ]
+}

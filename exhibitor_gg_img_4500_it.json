@@ -1,0 +1,28 @@
+{
+  "english": "exhibitor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người chưng bày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đệ trình",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who displays works of art or other items of interest at an exhibition.",
+      "definitions_ex_en": "the trade fair attracted 89 exhibitors and 37,000 visitors",
+      "definitions_ex_vn": "Hội chợ thương mại đã thu hút 89 nhà triển lãm và 37.000 du khách",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047695_f2aef47a6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047695_5125e43a2b_o.png",
+      "id_image": "exhibitor_3981078"
+    }
+  ]
+}

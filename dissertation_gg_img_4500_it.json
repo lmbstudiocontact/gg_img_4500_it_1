@@ -1,0 +1,24 @@
+{
+  "english": "dissertation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài nghị luận",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long essay on a particular subject, especially one written as a requirement for the Doctor of Philosophy degree.",
+      "definitions_ex_en": "Joe wrote his doctoral dissertation on Thucydides",
+      "definitions_ex_vn": "Joe đã viết luận án tiến sĩ của mình về Thucydides",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429668_56d3f22fc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429668_f3d4bd7745_o.png",
+      "id_image": "dissertation_5352128"
+    }
+  ]
+}

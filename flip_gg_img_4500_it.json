@@ -1,0 +1,80 @@
+{
+  "english": "flip",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái búng tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh nhẹ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "turn over with a sudden quick movement.",
+      "definitions_ex_en": "the plane flipped over and then exploded",
+      "definitions_ex_vn": "Máy bay lật đổ và sau đó bùng nổ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move, push, or throw (something) with a sudden sharp movement.",
+      "definitions_ex_en": "she flipped off her dark glasses",
+      "definitions_ex_vn": "cô ấy lật kính bóng tối của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "suddenly lose control or become very angry.",
+      "definitions_ex_en": "my mom will flip if I don't get my homework done tonight",
+      "definitions_ex_vn": "Mẹ tôi sẽ lật nếu tôi không làm bài tập về nhà tối nay",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "buy and sell (something, especially real estate or shares) quickly to make a profit.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a sudden sharp movement.",
+      "definitions_ex_en": "she dismissed his qualms with a flip of her hand",
+      "definitions_ex_vn": "Cô gạt bỏ những thứ bạn gạt bằng tay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for eggnog.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "glib or flippant.",
+      "definitions_ex_en": "he couldn't get away with flip, funny conversation",
+      "definitions_ex_vn": "Anh ta không thể thoát khỏi với Flip, trò chuyện hài hước",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "used to express mild annoyance.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "exclamation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436628_ddd4ec0e42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436628_7df8fba2df_o.png",
+      "id_image": "flip_1850074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058110_fcb6223f69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058110_a9532d3e52_o.png",
+      "id_image": "flip_2985617"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058185_2df154a72f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058185_1c9b498bec_o.png",
+      "id_image": "flip_648438"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "english": "fashion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách làm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hợp thời trang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thói quen",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình dáng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho thích hợp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm theo cách thức",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a popular trend, especially in styles of dress and ornament or manners of behavior.",
+      "definitions_ex_en": "his hair is cut in the latest fashion",
+      "definitions_ex_vn": "Tóc của anh ấy bị cắt trong thời trang mới nhất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a manner of doing something.",
+      "definitions_ex_en": "the work is done in a rather casual fashion",
+      "definitions_ex_vn": "Công việc được thực hiện trong một thời trang khá bình thường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make into a particular or the required form.",
+      "definitions_ex_en": "the bottles were fashioned from green glass",
+      "definitions_ex_vn": "Các chai đã được thời trang từ kính xanh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "in the manner of something specified.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380322_c63664369a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380322_c17e7ff37d_o.png",
+      "id_image": "fashion_4515576"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072155_823545bf46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072155_4199cb6681_o.png",
+      "id_image": "fashion_4647174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335206_48f9a3291b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335206_cab48cdee3_o.png",
+      "id_image": "fashion_4647299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380222_d2d562e4b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380222_d806eddc21_o.png",
+      "id_image": "fashion_5825559"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "english": "exodus",
+  "list_translation_mean": [
+    {
+      "translate_mean": "di cư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "di dân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "di tản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "di trú",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a mass departure of people, especially emigrants.",
+      "definitions_ex_en": "the annual exodus of sun-seeking Canadians to Florida",
+      "definitions_ex_vn": "cuộc di cư hàng năm của người Canada tìm kiếm ánh nắng mặt trời đến Florida",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425763_f24b41a5e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425763_15abe1b32d_o.png",
+      "id_image": "exodus_4223062"
+    }
+  ]
+}

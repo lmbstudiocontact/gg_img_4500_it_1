@@ -1,0 +1,77 @@
+{
+  "english": "diet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kiêng ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cử ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quốc hội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhịn ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt kiêng cử",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhịn ăn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the kinds of food that a person, animal, or community habitually eats.",
+      "definitions_ex_en": "a vegetarian diet",
+      "definitions_ex_vn": "một chế độ ăn chay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a special course of food to which one restricts oneself, either to lose weight or for medical reasons.",
+      "definitions_ex_en": "I'm going on a diet",
+      "definitions_ex_vn": "Tôi đang đi ăn kiêng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a legislative assembly in certain countries.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "restrict oneself to small amounts or special kinds of food in order to lose weight.",
+      "definitions_ex_en": "it's difficult to diet",
+      "definitions_ex_vn": "Thật khó để ăn kiêng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322611_05dd80c624_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322611_bd1f3eb1fb_o.png",
+      "id_image": "diet_1719938"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367562_10a5bae650_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367562_5b8630e6a7_o.png",
+      "id_image": "diet_3475542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437858_d6be3bc50f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437858_b5615f9961_o.png",
+      "id_image": "diet_5798223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367482_b9cd160344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367482_3eff720e43_o.png",
+      "id_image": "diet_6181882"
+    }
+  ]
+}

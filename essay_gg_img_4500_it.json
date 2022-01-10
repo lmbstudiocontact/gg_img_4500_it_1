@@ -1,0 +1,54 @@
+{
+  "english": "essay",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự thử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thử làm việc gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thử người nào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a short piece of writing on a particular subject.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an attempt or effort.",
+      "definitions_ex_en": "a misjudged essay",
+      "definitions_ex_vn": "một bài luận sai lầm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "attempt or try.",
+      "definitions_ex_en": "essay a smile",
+      "definitions_ex_vn": "Tiểu luận một nụ cười",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051735_098fed8609_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051735_8af4143640_o.png",
+      "id_image": "essay_174691"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315146_f23cf0eed5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315146_b470185e96_o.png",
+      "id_image": "essay_1760849"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669789_abe338c60d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669789_53d0f3ece7_o.png",
+      "id_image": "essay_3253275"
+    }
+  ]
+}

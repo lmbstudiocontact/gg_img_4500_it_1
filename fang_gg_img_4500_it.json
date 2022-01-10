@@ -1,0 +1,55 @@
+{
+  "english": "fang",
+  "list_translation_mean": [
+    {
+      "translate_mean": "răng nanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu nhọn của con dao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "răng chó",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large sharp tooth, especially a canine tooth of a dog or wolf.",
+      "definitions_ex_en": "the dog was bounding toward him, its fangs bared",
+      "definitions_ex_vn": "Con chó đang trói về phía anh ta, răng nanh của nó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a member of a people inhabiting parts of Cameroon, Equatorial Guinea, and Gabon.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the Bantu language of the Fang.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to the Fang or their language.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691454_20fbcd5313_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691454_553bb96d0c_o.png",
+      "id_image": "fang_5398346"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381102_6e8679c6a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381102_8bd15dc94c_o.png",
+      "id_image": "fang_5939426"
+    }
+  ]
+}

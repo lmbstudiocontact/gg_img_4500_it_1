@@ -1,0 +1,66 @@
+{
+  "english": "gang",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đám",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tốp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lũ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một bọn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "một lũ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "một tốp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an organized group of criminals.",
+      "definitions_ex_en": "a gang of bank robbers",
+      "definitions_ex_vn": "một nhóm cướp ngân hàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of switches, sockets, or other electrical or mechanical devices grouped together.",
+      "definitions_ex_en": "the machine had a gang of cutter chains on a swiveling head",
+      "definitions_ex_vn": "Máy có một chuỗi các chuỗi cắt trên đầu xoay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a number of people) form a group or gang.",
+      "definitions_ex_en": "the smaller supermarket chains are ganging together to beat the big boys",
+      "definitions_ex_vn": "Các chuỗi siêu thị nhỏ hơn đang ganging với nhau để đánh bại các chàng trai lớn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "arrange (electrical devices or machines) together to work in coordination.",
+      "definitions_ex_en": "adjacent faders can be ganged for common manipulation",
+      "definitions_ex_vn": "Fader liền kề có thể được ganged cho thao tác chung",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454478_5ba9d9bae3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454478_8aeb443f66_o.png",
+      "id_image": "gang_2495707"
+    }
+  ]
+}

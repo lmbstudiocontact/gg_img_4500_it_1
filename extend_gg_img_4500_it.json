@@ -1,0 +1,80 @@
+{
+  "english": "extend",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thêm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dăng tay ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đưa tay ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tăng gia",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dàn binh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chạy dài đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kéo dài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kéo dài ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khuếch trương",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lập chứng thư",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mở rộng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tịch thâu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause to cover a larger area; make longer or wider.",
+      "definitions_ex_en": "the Forest Service plans to extend a gravel road nearly a mile",
+      "definitions_ex_vn": "Dịch vụ lâm nghiệp có kế hoạch mở rộng một con đường sỏi gần một dặm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hold (something) out toward someone.",
+      "definitions_ex_en": "I nod and extend my hand",
+      "definitions_ex_vn": "Tôi gật đầu và kéo dài tay",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "exert or exercise oneself to the utmost.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340976_01a8b52d1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340976_f1304a8f26_o.png",
+      "id_image": "extend_1833988"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "english": "economy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cần kiệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dành dụm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hà tiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiết kiệm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the wealth and resources of a country or region, especially in terms of the production and consumption of goods and services.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "careful management of available resources.",
+      "definitions_ex_en": "even heat distribution and fuel economy",
+      "definitions_ex_vn": "Ngay cả sự phân phối nhiệt và tiết kiệm nhiên liệu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a product) offering the best value for the money.",
+      "definitions_ex_en": "an economy pack",
+      "definitions_ex_vn": "một gói kinh tế",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685694_d63bf1f936_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685694_8b079838e3_o.png",
+      "id_image": "economy_1924403"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445543_11c66ed784_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445543_836fce953e_o.png",
+      "id_image": "economy_2390275"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330531_1eea077be9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330531_de7af08e77_o.png",
+      "id_image": "economy_6203099"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375202_25e5aecd6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375202_812d044de2_o.png",
+      "id_image": "economy_6203187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375132_1213dffdb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375132_c0aed806ea_o.png",
+      "id_image": "economy_6203291"
+    }
+  ]
+}

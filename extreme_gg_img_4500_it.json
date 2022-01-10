@@ -1,0 +1,63 @@
+{
+  "english": "extreme",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cùng cực",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cực",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hết sức",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xa nhứt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chổ tột cùng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "reaching a high or the highest degree; very great.",
+      "definitions_ex_en": "extreme cold",
+      "definitions_ex_vn": "cực lạnh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "furthest from the center or a given point; outermost.",
+      "definitions_ex_en": "the extreme northwest of Scotland",
+      "definitions_ex_vn": "cực tây của scotland",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "either of two abstract things that are as different from each other as possible.",
+      "definitions_ex_en": "unbridled talk at one extreme and total silence at the other",
+      "definitions_ex_vn": "nói chuyện không ngớt ở một sự im lặng cực độ và hoàn toàn ở bên kia",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the subject or predicate in a proposition, or the major or minor term in a syllogism (as contrasted with the middle term).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695059_6aef443ec7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695059_0c3f068537_o.png",
+      "id_image": "extreme_2503406"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339926_e6d417bffc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339926_82e7e4257b_o.png",
+      "id_image": "extreme_805531"
+    }
+  ]
+}

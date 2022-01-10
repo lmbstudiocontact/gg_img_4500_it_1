@@ -1,0 +1,136 @@
+{
+  "english": "flash",
+  "list_translation_mean": [
+    {
+      "translate_mean": "diêm dúa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gian xảo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xảo quyệt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xa xỉ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lòe loẹt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ánh sáng lòe ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bùng sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tia sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trong nháy mắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đèn nháy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sáng lấp lánh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tia ánh sáng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a light or something that reflects light) shine in a bright but brief, sudden, or intermittent way.",
+      "definitions_ex_en": "the lights started flashing",
+      "definitions_ex_vn": "Đèn bắt đầu nhấp nháy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move or pass very quickly.",
+      "definitions_ex_en": "a look of terror flashed across Kirov's face",
+      "definitions_ex_vn": "Một cái nhìn khủng bố lóe lên trên khuôn mặt của Kirov",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "display (an image, words, or information) suddenly on a television or computer screen or electronic sign, typically briefly or repeatedly.",
+      "definitions_ex_en": "suddenly the screen flashes a message",
+      "definitions_ex_vn": "Đột nhiên màn hình nhấp nháy một tin nhắn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a sudden brief burst of bright light or a sudden glint from a reflective surface.",
+      "definitions_ex_en": "a lightning flash",
+      "definitions_ex_vn": "một tia sáng lấp lánh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sudden instance or manifestation of a quality, understanding, or humor.",
+      "definitions_ex_en": "she had a flash of inspiration",
+      "definitions_ex_vn": "Cô ấy có một tia cảm hứng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a camera attachment that produces a brief very bright light, used for taking photographs in poor light.",
+      "definitions_ex_en": "an electronic flash",
+      "definitions_ex_vn": "một flash điện tử",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a platform for producing and displaying animation and video in web browsers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "excess plastic or metal forced between facing surfaces as two halves of a mold close up, forming a thin projection on the finished object.",
+      "definitions_ex_en": "flap wheels are ideal for grinding off fiberglass flash",
+      "definitions_ex_vn": "Wheels Flap là lý tưởng để mài flash sợi thủy tinh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to thieves, prostitutes, or the underworld, especially their language.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322701_d2a4eae477_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322701_2436f5e5f6_o.png",
+      "id_image": "flash_1339289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677829_74cf38af8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677829_8b90e2a9e9_o.png",
+      "id_image": "flash_1366106"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677789_459c218b4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677789_a56b7b5326_o.png",
+      "id_image": "flash_1901947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059540_b8dab83af2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059540_18c25d9ed5_o.png",
+      "id_image": "flash_488535"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677909_426eb9e364_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677909_de6ac8810c_o.png",
+      "id_image": "flash_526861"
+    }
+  ]
+}

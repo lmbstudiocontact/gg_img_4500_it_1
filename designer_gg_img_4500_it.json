@@ -1,0 +1,68 @@
+{
+  "english": "designer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người hay âm mưu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hay mưu mô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ra ý kiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người sắp đặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người vẻ hàng mẫu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người vẻ kiểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người vẻ kiểu mẫu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who plans the form, look, or workings of something before its being made or built, typically by drawing it in detail.",
+      "definitions_ex_en": "he's one of the world's leading car designers",
+      "definitions_ex_vn": "anh ấy là một trong những nhà thiết kế xe hơi hàng đầu thế giới",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329071_fbed66d293_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329071_aa4cf8552e_o.png",
+      "id_image": "designer_2310243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444083_146da9d8d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444083_4aa5039a83_o.png",
+      "id_image": "designer_439279"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373722_7cbda81b2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373722_a663d3e537_o.png",
+      "id_image": "designer_4861263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443903_e81cee4583_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443903_1d523155d9_o.png",
+      "id_image": "designer_5965526"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328941_dd747519a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328941_20afc5a03a_o.png",
+      "id_image": "designer_6385077"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "english": "detail",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bày tỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bộ phận của máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chi tiết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kê khai tường tận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phân đội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quân lịnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tỉ mỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kể tường tận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rỏ ràng từng chi tiết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trình bày",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an individual feature, fact, or item.",
+      "definitions_ex_en": "we shall consider every detail of the Bill",
+      "definitions_ex_vn": "Chúng tôi sẽ xem xét từng chi tiết của hóa đơn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small detachment of troops or police officers given a special duty.",
+      "definitions_ex_en": "the candidate's security detail",
+      "definitions_ex_vn": "Chi tiết bảo mật của ứng viên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "describe item by item; give the full particulars of.",
+      "definitions_ex_en": "the report details the environmental and health costs of the car",
+      "definitions_ex_vn": "Báo cáo chi tiết chi phí môi trường và sức khỏe của xe",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "assign (someone) to undertake a particular task.",
+      "definitions_ex_en": "the ships were detailed to keep watch",
+      "definitions_ex_vn": "Các tàu được chi tiết để giữ đồng hồ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372162_f3555a60cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372162_c9551268d4_o.png",
+      "id_image": "detail_3527250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372107_9f738248dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372107_4fc219ebbd_o.png",
+      "id_image": "detail_3534606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372052_712ed9d220_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372052_18bd06d4a2_o.png",
+      "id_image": "detail_5673243"
+    }
+  ]
+}

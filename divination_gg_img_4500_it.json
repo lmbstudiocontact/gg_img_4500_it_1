@@ -1,0 +1,32 @@
+{
+  "english": "divination",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chiêm đoán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tài đoán trước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuật bói toán",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the practice of seeking knowledge of the future or the unknown by supernatural means.",
+      "definitions_ex_en": "the Celtic art of divination",
+      "definitions_ex_vn": "Nghệ thuật bói toán Celtic",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427743_69e5b7fbf6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427743_be955a179a_o.png",
+      "id_image": "divination_4330729"
+    }
+  ]
+}

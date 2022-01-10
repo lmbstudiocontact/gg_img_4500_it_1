@@ -1,0 +1,76 @@
+{
+  "english": "director",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường chuẩn của toán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giám đốc của một bộ phận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy nhắm để phóng ngư lôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chỉ huy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người điều khiển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giám đốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người quản lý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà đạo diển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thầy giáo đạo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who is in charge of an activity, department, or organization.",
+      "definitions_ex_en": "he has been appointed finance director",
+      "definitions_ex_vn": "Ông đã được bổ nhiệm Giám đốc Tài chính",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364482_3670df612a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364482_263a0b2ae6_o.png",
+      "id_image": "director_323958"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319801_884da5ff46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319801_77c28a27e0_o.png",
+      "id_image": "director_4214792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319766_934179c838_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319766_ea070a51b8_o.png",
+      "id_image": "director_4736340"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319706_726070d846_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319706_64e8a10b0b_o.png",
+      "id_image": "director_6225675"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056230_db23284278_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056230_730edfb2e4_o.png",
+      "id_image": "director_6347654"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "english": "display",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phô trương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoe khoang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biểu lộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc triển lãm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biểu dương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trưng bày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chưng ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khoe khoang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bày ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biểu dương",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để lộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tỏ ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make a prominent exhibition of (something) in a place where it can be easily seen.",
+      "definitions_ex_en": "the palace used to display a series of Flemish tapestries",
+      "definitions_ex_vn": "Cung điện được sử dụng để hiển thị một loạt các tấm thảm Flemish",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a performance, show, or event intended for public entertainment.",
+      "definitions_ex_en": "a display of fireworks",
+      "definitions_ex_vn": "trưng bày pháo hoa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an electronic device for the visual presentation of data.",
+      "definitions_ex_en": "a 17-inch color display",
+      "definitions_ex_vn": "Màn hình màu 17 inch",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669879_e47d00aa49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669879_08c3b66ab2_o.png",
+      "id_image": "display_1473085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359372_a762c20811_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359372_a014439706_o.png",
+      "id_image": "display_4456340"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315241_1bf10db7b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315241_ae6d9550c9_o.png",
+      "id_image": "display_994137"
+    }
+  ]
+}

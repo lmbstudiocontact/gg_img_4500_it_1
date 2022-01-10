@@ -1,0 +1,48 @@
+{
+  "english": "domino",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con bài cẩu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người khiêu vủ hóa trang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dương cầm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "any of 28 small oblong pieces marked with 0–6 dots (pips) in each half.",
+      "definitions_ex_en": "everyone will fall over like a row of dominoes",
+      "definitions_ex_vn": "Mọi người sẽ ngã như một dãy Dominoes",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a loose cloak, worn with a mask for the upper part of the face at masquerades.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425468_dc38f8cdf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425468_f1c9e8b407_o.png",
+      "id_image": "domino_1728659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047270_aa84136aaa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047270_9200549480_o.png",
+      "id_image": "domino_2094474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665614_e125f1529e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665614_127d00bff1_o.png",
+      "id_image": "domino_5798100"
+    }
+  ]
+}

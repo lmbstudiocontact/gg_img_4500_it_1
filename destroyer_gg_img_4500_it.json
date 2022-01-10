@@ -1,0 +1,38 @@
+{
+  "english": "destroyer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người phá hoại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tự vận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật phá hủy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small, fast warship, especially one equipped for a defensive role against submarines and aircraft.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or thing that destroys something.",
+      "definitions_ex_en": "this starfish has a bad reputation as a destroyer of coral reefs",
+      "definitions_ex_vn": "Con sao biển này có tiếng xấu như một kẻ hủy diệt các rạn san hô",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682784_14c9979766_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682784_e383e65108_o.png",
+      "id_image": "destroyer_3806893"
+    }
+  ]
+}

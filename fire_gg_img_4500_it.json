@@ -1,0 +1,120 @@
+{
+  "english": "fire",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cháy nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứng sốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc hỏa hoạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng hăng hái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sốt sắng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nổ súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bốc lửa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "châm cứu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đốt cháy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khuyến khích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nổ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "combustion or burning, in which substances combine chemically with oxygen from the air and typically give out bright light, heat, and smoke.",
+      "definitions_ex_en": "his house was destroyed by fire",
+      "definitions_ex_vn": "Ngôi nhà của anh ta bị phá hủy bởi lửa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a burning sensation in the body.",
+      "definitions_ex_en": "the whiskey lit a fire in the back of his throat",
+      "definitions_ex_vn": "Whisky thắp một ngọn lửa ở phía sau cổ họng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the shooting of projectiles from weapons, especially bullets from guns.",
+      "definitions_ex_en": "a burst of machine-gun fire",
+      "definitions_ex_vn": "một vụ nổ súng máy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "discharge a gun or other weapon in order to explosively propel (a bullet or projectile).",
+      "definitions_ex_en": "he fired a shot at the retreating prisoners",
+      "definitions_ex_vn": "Anh bắn một phát vào các tù nhân rút lui",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "dismiss (an employee) from a job.",
+      "definitions_ex_en": "having to fire men who've been with me for years",
+      "definitions_ex_vn": "phải bắn những người đàn ông đã ở bên tôi trong nhiều năm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "supply (a furnace, engine, boiler, or power station) with fuel.",
+      "definitions_ex_en": "liquefied petroleum gas can fire room heaters",
+      "definitions_ex_vn": "khí hóa lỏng khí có thể lò sưởi phòng lửa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "stimulate or excite (the imagination or an emotion).",
+      "definitions_ex_en": "India fired my imagination",
+      "definitions_ex_vn": "Ấn Độ đã bắn trí tưởng tượng của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bake or dry (pottery, bricks, etc.) in a kiln.",
+      "definitions_ex_en": "methane gas is being used to fire bricks at a nearby factory",
+      "definitions_ex_vn": "Khí metan đang được sử dụng để chữa cháy gạch tại một nhà máy gần đó",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326811_0b251150fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326811_80073f0120_o.png",
+      "id_image": "fire_170313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441818_78a58412fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441818_e7dab500f7_o.png",
+      "id_image": "fire_394580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681804_e5bd6d1bdd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681804_de778b0fee_o.png",
+      "id_image": "fire_518609"
+    }
+  ]
+}

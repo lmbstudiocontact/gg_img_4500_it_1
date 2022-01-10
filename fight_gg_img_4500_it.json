@@ -1,0 +1,72 @@
+{
+  "english": "fight",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giao tranh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chống lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giao chiến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vận dụng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cuộc chiến đấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc giao chiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tranh đấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trận đánh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "take part in a violent struggle involving the exchange of physical blows or the use of weapons.",
+      "definitions_ex_en": "the men were fighting",
+      "definitions_ex_vn": "Những người đàn ông đang chiến đấu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a violent confrontation or struggle.",
+      "definitions_ex_en": "we'll get into a fight and wind up with bloody noses",
+      "definitions_ex_vn": "Chúng ta sẽ chiến đấu và gió lên với mũi đẫm máu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445283_5c770a3084_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445283_6346055707_o.png",
+      "id_image": "fight_1256796"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375117_42f67f7fbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375117_6b6982f747_o.png",
+      "id_image": "fight_188982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330361_ef7157533e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330361_419f3eef00_o.png",
+      "id_image": "fight_649628"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "english": "footer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người đi bộ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing of a specified number of feet in length or height.",
+      "definitions_ex_en": "a tall, sturdy six-footer",
+      "definitions_ex_vn": "một sáu chân cao, mạnh mẽ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a line or block of text appearing at the foot of each page of a book or document.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671484_25d8ea5d4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671484_22ceb15758_o.png",
+      "id_image": "footer_3527969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671454_3da0c804dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671454_e416fd8d5f_o.png",
+      "id_image": "footer_3602927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431743_33de6bd999_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431743_b81722e585_o.png",
+      "id_image": "footer_3602953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360952_620754b28b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360952_03955d5363_o.png",
+      "id_image": "footer_6146690"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360927_41d33d8aff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360927_a7aca3ece6_o.png",
+      "id_image": "footer_6357934"
+    }
+  ]
+}

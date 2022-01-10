@@ -1,0 +1,24 @@
+{
+  "english": "handwork",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thủ công",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "work done with the hands.",
+      "definitions_ex_en": "the transition from handwork to machine production",
+      "definitions_ex_vn": "Sự chuyển đổi từ thủ công đến sản xuất máy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345366_a2a438834c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345366_2e5690e9de_o.png",
+      "id_image": "handwork_4371326"
+    }
+  ]
+}

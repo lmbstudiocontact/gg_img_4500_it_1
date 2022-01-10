@@ -1,0 +1,42 @@
+{
+  "english": "diverge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phân ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chia ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm phân kỳ ánh sáng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rẻ ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a road, route, or line) separate from another route, especially a main one, and go in a different direction.",
+      "definitions_ex_en": "the flight path diverged from the original flight plan",
+      "definitions_ex_vn": "Con đường bay chuyển hướng từ kế hoạch bay ban đầu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a series) increase indefinitely as more of its terms are added.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668274_d6ebc1e707_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668274_eb65cf77d6_o.png",
+      "id_image": "diverge_1900215"
+    }
+  ]
+}

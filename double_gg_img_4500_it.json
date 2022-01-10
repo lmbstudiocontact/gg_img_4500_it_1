@@ -1,0 +1,180 @@
+{
+  "english": "double",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đôi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hai",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cặp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có hai nghỉa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giả dối",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không minh bạch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không rỏ ràng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xấp đôi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gấp đôi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hai lần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không thành thật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hai lần dài hơn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "nhìn vật gì thànhn hai",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "bản sao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hồn người chết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng hai người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số gấp đôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đánh đôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chạy bước mau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chắp đôi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gấp đôi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gấp hai lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tăng gấp đôi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "uốn khúc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "consisting of two equal, identical, or similar parts or things.",
+      "definitions_ex_en": "the double doors",
+      "definitions_ex_vn": "cửa đôi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "lower in pitch by an octave.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "at or to twice the amount or extent.",
+      "definitions_ex_en": "you have to be careful, and this counts double for older people",
+      "definitions_ex_vn": "Bạn phải cẩn thận, và điều này chiếm gấp đôi cho người già",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "a thing which is twice as large as usual or is made up of two standard units or things.",
+      "definitions_ex_en": "join the two sleeping bags together to make a double",
+      "definitions_ex_vn": "Tham gia hai túi ngủ với nhau để tạo ra một đôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who looks exactly like another.",
+      "definitions_ex_en": "you could pass yourself off as his double",
+      "definitions_ex_vn": "Bạn có thể truyền lại bản thân như đôi của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(especially in tennis and badminton) a game or competition involving sides made up of two players.",
+      "definitions_ex_en": "the semifinals of the doubles",
+      "definitions_ex_vn": "các bán kết của đôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a number or amount which is twice as large as a contrasting or usual number or amount.",
+      "definitions_ex_en": "he paid double and had a room all to himself",
+      "definitions_ex_vn": "Anh ta trả gấp đôi và có một căn phòng tất cả cho mình",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "become twice as much or as many.",
+      "definitions_ex_en": "profits doubled in one year",
+      "definitions_ex_vn": "Lợi nhuận tăng gấp đôi trong một năm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fold or bend (paper, cloth, or other material) over on itself.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be used in or play another, different role.",
+      "definitions_ex_en": "a laser printer doubles as a photocopier",
+      "definitions_ex_vn": "một máy in laser nhân đôi như một máy photocopy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423628_9b0c222a5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423628_283757aea7_o.png",
+      "id_image": "double_1088886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308361_5ae14ec0a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308361_7772f53cb5_o.png",
+      "id_image": "double_4651071"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423583_cf1be31128_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423583_eee30a95c4_o.png",
+      "id_image": "double_6436425"
+    }
+  ]
+}

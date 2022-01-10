@@ -1,0 +1,54 @@
+{
+  "english": "hardcore",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây cáp",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the most active, committed, or strict members of a group or movement.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "pornography of a very explicit or extreme kind.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "popular music that is experimental in nature and typically characterized by high volume and aggressive presentation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "highly committed in one's support for or dedication to something.",
+      "definitions_ex_en": "hardcore gamers",
+      "definitions_ex_vn": "Game thủ Hardcore",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting or relating to pornography of a very explicit or extreme kind.",
+      "definitions_ex_en": "online hardcore porn",
+      "definitions_ex_vn": "Hardcore khiêu dâm trực tuyến",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting or relating to a type of experimental popular music that is typically characterized by high volume and aggressive presentation.",
+      "definitions_ex_en": "hardcore punk",
+      "definitions_ex_vn": "Hardcore punk.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699564_43edd119d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699564_80085efdc6_o.png",
+      "id_image": "hardcore_5928164"
+    }
+  ]
+}

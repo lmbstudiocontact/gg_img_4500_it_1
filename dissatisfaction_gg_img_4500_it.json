@@ -1,0 +1,37 @@
+{
+  "english": "dissatisfaction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bất mản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không bằng lòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không vui lòng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "lack of satisfaction.",
+      "definitions_ex_en": "widespread public dissatisfaction with incumbent politicians",
+      "definitions_ex_vn": "phổ biến sự không hài lòng của công chúng với các chính trị gia đương nhiệm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429743_95369ed13b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429743_d96306b486_o.png",
+      "id_image": "dissatisfaction_3930433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358962_4f21d237c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358962_5678f808ea_o.png",
+      "id_image": "dissatisfaction_5823825"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "english": "fair",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vô tư",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có thể nhận được",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dịu dàng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đẹp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không thiên vị",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuận tiện",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trắng trẻo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngọt ngào",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phái đẹp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tốt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có thiện ý",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "thành thật",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "chợ phiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc triển lãm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hội chợ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in accordance with the rules or standards; legitimate.",
+      "definitions_ex_en": "the group has achieved fair and equal representation for all its members",
+      "definitions_ex_vn": "Nhóm đã đạt được đại diện công bằng và bằng nhau cho tất cả các thành viên của nó",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of hair or complexion) light; blond.",
+      "definitions_ex_en": "a pretty girl with long fair hair",
+      "definitions_ex_vn": "Một cô gái xinh đẹp với mái tóc dài",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "considerable though not outstanding in size or amount.",
+      "definitions_ex_en": "he did a fair bit of coaching",
+      "definitions_ex_vn": "Anh ấy đã làm một chút huấn luyện",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of weather) fine and dry.",
+      "definitions_ex_en": "a fair autumn day",
+      "definitions_ex_vn": "một ngày mùa thu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "beautiful: attractive.",
+      "definitions_ex_en": "the fairest of her daughters",
+      "definitions_ex_vn": "người công bằng nhất của con gái cô",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "without cheating or trying to achieve unjust advantage.",
+      "definitions_ex_en": "no one could say he played fair",
+      "definitions_ex_vn": "Không ai có thể nói anh ấy chơi hội chợ",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "to a high degree.",
+      "definitions_ex_en": "she'll be fair delighted to see you",
+      "definitions_ex_vn": "Cô ấy sẽ rất vui được gặp bạn",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "a beautiful woman.",
+      "definitions_ex_en": "pursuing his fair in a solitary street",
+      "definitions_ex_vn": "theo đuổi hội chợ của mình trong một con đường đơn độc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a gathering of stalls and amusements for public entertainment.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of the weather) become fine.",
+      "definitions_ex_en": "looks like it's fairing off some",
+      "definitions_ex_vn": "có vẻ như nó sững sờ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "smooth the lines of (a vehicle, boat, or aircraft) to reduce drag; streamline.",
+      "definitions_ex_en": "we've sanded and faired the hull and have primed it for winter",
+      "definitions_ex_vn": "Chúng tôi đã chà nhám và công bằng thân tàu và đã chuẩn bị cho mùa đông",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692664_b60f274566_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692664_06e51eef84_o.png",
+      "id_image": "fair_1819827"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382337_622e06b770_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382337_1c177fcdc1_o.png",
+      "id_image": "fair_3260927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337406_729751a191_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337406_db5c9e1953_o.png",
+      "id_image": "fair_895538"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337391_e11b488bc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337391_858e6b1e99_o.png",
+      "id_image": "fair_950744"
+    }
+  ]
+}

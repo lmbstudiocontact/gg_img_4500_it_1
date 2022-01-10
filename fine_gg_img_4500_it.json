@@ -1,0 +1,139 @@
+{
+  "english": "fine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cao quý",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đẹp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nguyên chất",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phong nhã",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tốt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thanh lịch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đẹp đẽ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tuyệt sắc",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "sau chót",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sau cùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền phạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt phạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lọc trong rượu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tinh luyện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trả tiền bù",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of high quality.",
+      "definitions_ex_en": "this was a fine piece of filmmaking",
+      "definitions_ex_vn": "Đây là một mảnh phim tốt",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a thread, filament, or person's hair) thin.",
+      "definitions_ex_en": "I have always had fine and dry hair",
+      "definitions_ex_vn": "Tôi luôn luôn có mái tóc đẹp và khô",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "very small particles found in mining, milling, etc.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sum of money exacted as a penalty by a court of law or other authority.",
+      "definitions_ex_en": "a parking fine",
+      "definitions_ex_vn": "một bãi đậu xe tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "French brandy of high quality made from distilled wine rather than from pomace.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in musical directions) the place where a piece of music finishes (when this is not at the end of the score but at the end of an earlier section which is repeated at the end of the piece).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "in a satisfactory or pleasing manner; very well.",
+      "definitions_ex_en": "“And how's the job-hunting going?” “Oh, fine.”",
+      "definitions_ex_vn": "\"Và việc săn việc đang diễn ra như thế nào?\"",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "clarify (beer or wine) by causing the precipitation of sediment during production.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make or become thinner.",
+      "definitions_ex_en": "she'd certainly fined down —her face was thinner",
+      "definitions_ex_vn": "Cô ấy chắc chắn đã bị phạt xuống -her Meat rất mỏng hơn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "punish (someone) by making them pay a sum of money, typically as a penalty for breaking the law.",
+      "definitions_ex_en": "he was fined $600 and sentenced to one day in jail",
+      "definitions_ex_vn": "Anh ta bị phạt 600 đô la và bị kết án một ngày trong tù",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442573_19e2345bba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442573_3324c82c9d_o.png",
+      "id_image": "fine_1566580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327506_a49db5e274_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327506_7732d469eb_o.png",
+      "id_image": "fine_6333316"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "english": "discrimination",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhận rỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phán đoán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phân biệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trí xét đoán",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the unjust or prejudicial treatment of different categories of people or things, especially on the grounds of race, age, or sex.",
+      "definitions_ex_en": "victims of racial discrimination",
+      "definitions_ex_vn": "Nạn nhân phân biệt chủng tộc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "recognition and understanding of the difference between one thing and another.",
+      "definitions_ex_en": "discrimination between right and wrong",
+      "definitions_ex_vn": "phân biệt đối xử giữa quyền và sai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the selection of a signal having a required characteristic, such as frequency or amplitude, by means of a discriminator that rejects all unwanted signals.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432358_4b539b30ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432358_51563eb148_o.png",
+      "id_image": "discrimination_3115612"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432328_8b4076ec8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432328_ffc00712e9_o.png",
+      "id_image": "discrimination_4177172"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671914_6a26e975b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671914_398d2e7423_o.png",
+      "id_image": "discrimination_4484345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053590_62ca7fd6b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053590_dd67889fc6_o.png",
+      "id_image": "discrimination_5308197"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432238_5660c4883c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432238_c01023aef2_o.png",
+      "id_image": "discrimination_6009782"
+    }
+  ]
+}

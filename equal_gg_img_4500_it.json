@@ -1,0 +1,75 @@
+{
+  "english": "equal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "như nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngang nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cân nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bằng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bằng nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đều nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô song",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vô địch",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "being the same in quantity, size, degree, or value.",
+      "definitions_ex_en": "add equal amounts of water and flour",
+      "definitions_ex_vn": "thêm một lượng bằng nhau của nước và bột",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having the ability or resources to meet (a challenge).",
+      "definitions_ex_en": "the players proved equal to the task",
+      "definitions_ex_vn": "Các cầu thủ đã chứng minh bằng với nhiệm vụ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person or thing considered to be the same as another in status or quality.",
+      "definitions_ex_en": "we all treat each other as equals",
+      "definitions_ex_vn": "tất cả chúng ta đều đối xử với nhau như bằng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be the same as in number or amount.",
+      "definitions_ex_en": "four plus six divided by two equals five",
+      "definitions_ex_vn": "bốn cộng sáu chia cho hai bằng năm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053355_721c6bfa4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053355_ab552a2921_o.png",
+      "id_image": "equal_1774096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361242_9f33750364_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361242_7bd9657e42_o.png",
+      "id_image": "equal_6314029"
+    }
+  ]
+}

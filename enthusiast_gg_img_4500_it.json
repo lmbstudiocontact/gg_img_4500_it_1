@@ -1,0 +1,33 @@
+{
+  "english": "enthusiast",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có lòng hâm mộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nhiệt tâm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who is very interested in a particular activity or subject.",
+      "definitions_ex_en": "a sports car enthusiast",
+      "definitions_ex_vn": "một người đam mê xe thể thao",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318006_ca93d82ccb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318006_74c6b3f0a4_o.png",
+      "id_image": "enthusiast_2464142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433173_145699a516_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433173_af9558655f_o.png",
+      "id_image": "enthusiast_4729319"
+    }
+  ]
+}

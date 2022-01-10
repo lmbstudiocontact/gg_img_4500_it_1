@@ -1,0 +1,54 @@
+{
+  "english": "environmental",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bọc chung quanh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trạng cảnh chung quanh",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the natural world and the impact of human activity on its condition.",
+      "definitions_ex_en": "acid rain may have caused major environmental damage",
+      "definitions_ex_vn": "Mưa axit có thể đã gây ra thiệt hại môi trường lớn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to or arising from a person's surroundings.",
+      "definitions_ex_en": "environmental noise",
+      "definitions_ex_vn": "Tiếng ồn môi trường",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053710_d7bd4b359f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053710_b4290c9688_o.png",
+      "id_image": "environmental_2037038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317296_33a6d84423_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317296_1027d11145_o.png",
+      "id_image": "environmental_2191425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671974_d718806d34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671974_b129b128c5_o.png",
+      "id_image": "environmental_2911685"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053655_2e60ba4678_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053655_c0d84ba255_o.png",
+      "id_image": "environmental_3904971"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671904_4874bd4b8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671904_6e4fa37b3d_o.png",
+      "id_image": "environmental_6333226"
+    }
+  ]
+}

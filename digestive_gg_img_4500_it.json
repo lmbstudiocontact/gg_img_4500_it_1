@@ -1,0 +1,34 @@
+{
+  "english": "digestive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giúp dể tiêu hóa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự tiêu hóa",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the process of digesting food.",
+      "definitions_ex_en": "stomach ulcers and other digestive disorders",
+      "definitions_ex_vn": "Loét dạ dày và các rối loạn tiêu hóa khác",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a food or medicine that aids or promotes the digestion of food.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058640_2962aaf6a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058640_98ee2565b7_o.png",
+      "id_image": "digestive_2721094"
+    }
+  ]
+}

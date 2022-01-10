@@ -1,0 +1,33 @@
+{
+  "english": "equilibrium",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bình quân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thế cân bằng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a state in which opposing forces or influences are balanced.",
+      "definitions_ex_en": "the maintenance of social equilibrium",
+      "definitions_ex_vn": "việc duy trì cân bằng xã hội",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431423_0950c16511_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431423_8b2e04d675_o.png",
+      "id_image": "equilibrium_1900222"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671149_182663ce53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671149_10c5c2cf89_o.png",
+      "id_image": "equilibrium_3163759"
+    }
+  ]
+}

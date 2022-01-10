@@ -1,0 +1,45 @@
+{
+  "english": "herbal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bách thảo tập",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or made from herbs, especially those used in cooking and medicine.",
+      "definitions_ex_en": "herbal remedies",
+      "definitions_ex_vn": "biện pháp thảo dược",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a book that describes herbs and their culinary and medicinal properties.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338561_5d014a091f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338561_3092c32251_o.png",
+      "id_image": "herbal_1407893"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693669_d50b71b397_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693669_5000a04688_o.png",
+      "id_image": "herbal_1407895"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075515_0e7193dfdd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075515_f1255aaf48_o.png",
+      "id_image": "herbal_3023749"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383367_3965f3a2b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383367_2281b6d20c_o.png",
+      "id_image": "herbal_4061407"
+    }
+  ]
+}

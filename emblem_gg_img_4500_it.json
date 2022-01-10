@@ -1,0 +1,55 @@
+{
+  "english": "emblem",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự biểu hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật tượng trưng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biểu hiệu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biểu tượng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tượng trưng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a heraldic device or symbolic object as a distinctive badge of a nation, organization, or family.",
+      "definitions_ex_en": "America's national emblem, the bald eagle",
+      "definitions_ex_vn": "Biểu tượng quốc gia của Mỹ, đại bàng hói",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677999_19ddab37f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677999_21789db3a1_o.png",
+      "id_image": "emblem_328010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059565_04a1ee3537_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059565_e247248bb2_o.png",
+      "id_image": "emblem_344685"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322791_717a7b0e54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322791_5a045d79c8_o.png",
+      "id_image": "emblem_6311978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322746_ddcf30fd0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322746_56727526af_o.png",
+      "id_image": "emblem_6311993"
+    }
+  ]
+}

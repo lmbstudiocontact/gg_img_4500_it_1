@@ -1,0 +1,54 @@
+{
+  "english": "distributor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "máy phân phối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chia",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đại lý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người phân chia",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người phân loại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người sắp đặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sắp chử vào hộc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an agent who supplies goods to stores and other businesses that sell to consumers.",
+      "definitions_ex_en": "a wholesale liquor distributor",
+      "definitions_ex_vn": "một nhà phân phối rượu bán buôn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device in a gasoline engine for passing electric current to each spark plug in turn.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357817_eb20843347_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357817_08d712e971_o.png",
+      "id_image": "distributor_4867560"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "english": "fund",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bản chất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bản tánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hiện kim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quỷ chánh phủ cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tài năng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền của hiện có",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền vốn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sum of money saved or made available for a particular purpose.",
+      "definitions_ex_en": "he had set up a fund to coordinate economic investment",
+      "definitions_ex_vn": "Ông đã thành lập một quỹ để phối hợp đầu tư kinh tế",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide with money for a particular purpose.",
+      "definitions_ex_en": "the World Bank refused to fund the project",
+      "definitions_ex_vn": "Ngân hàng Thế giới từ chối tài trợ cho dự án",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387507_012c458ee0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387507_d9e28d7be0_o.png",
+      "id_image": "fund_1753697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342421_9dcc744f54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342421_83119c0dcb_o.png",
+      "id_image": "fund_2176973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079905_c5ebe01fd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079905_fba6688070_o.png",
+      "id_image": "fund_4234512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079855_23373574eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079855_f0ea350948_o.png",
+      "id_image": "fund_4514863"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697574_d34baa5b15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697574_432d1a9bcc_o.png",
+      "id_image": "fund_6001178"
+    }
+  ]
+}

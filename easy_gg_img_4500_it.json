@@ -1,0 +1,100 @@
+{
+  "english": "easy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khoan thai",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thung dung",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "yên tâm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bình dị",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dể dãi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dể dàng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dể tánh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khinh khoái",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không lo ngại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tự do",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "yên lòng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dể",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "dể dàng",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "achieved without great effort; presenting few difficulties.",
+      "definitions_ex_en": "an easy way of retrieving information",
+      "definitions_ex_vn": "Một cách dễ dàng để truy xuất thông tin",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a period of time or way of life) free from worries or problems.",
+      "definitions_ex_en": "promises of an easy life in the New World",
+      "definitions_ex_vn": "Lời hứa về một cuộc sống dễ dàng trong thế giới mới",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an object of attack or criticism) having no defense; vulnerable.",
+      "definitions_ex_en": "he was vulnerable and an easy target",
+      "definitions_ex_vn": "anh ấy dễ bị tổn thương và một mục tiêu dễ dàng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "be careful.",
+      "definitions_ex_en": "easy, girl—you'll knock me over!",
+      "definitions_ex_vn": "Dễ thôi, cô gái, bạn sẽ đánh gục tôi!",
+      "definitions_type_word": "exclamation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377067_10af66f8a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377067_206c695ef1_o.png",
+      "id_image": "easy_2647573"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447278_2255785f6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447278_ed4dbd5027_o.png",
+      "id_image": "easy_5360589"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376977_88effe9956_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376977_b0232d71de_o.png",
+      "id_image": "easy_5906078"
+    }
+  ]
+}

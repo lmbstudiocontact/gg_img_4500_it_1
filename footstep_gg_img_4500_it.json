@@ -1,0 +1,36 @@
+{
+  "english": "footstep",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bước chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu chân đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bước đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng bước chân",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a step taken by a person in walking, especially as heard by another person.",
+      "definitions_ex_en": "he heard footsteps behind him",
+      "definitions_ex_vn": "Anh nghe thấy tiếng bước chân phía sau anh.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671199_b7488bfbf0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671199_f8caa06a41_o.png",
+      "id_image": "footstep_1022320"
+    }
+  ]
+}

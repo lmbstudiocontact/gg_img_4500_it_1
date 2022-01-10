@@ -1,0 +1,66 @@
+{
+  "english": "funny",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buồn cười",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đùa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kỳ cục",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kỳ quặc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khôi hài",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vui cười",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "causing laughter or amusement; humorous.",
+      "definitions_ex_en": "a funny story",
+      "definitions_ex_vn": "Một câu chuyện vui nhộn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "difficult to explain or understand; strange or odd.",
+      "definitions_ex_en": "I had a funny feeling you'd be around",
+      "definitions_ex_vn": "Tôi đã có một cảm giác hài hước, bạn sẽ ở đây",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a joke or witty remark.",
+      "definitions_ex_en": "I was trying to make a funny, but failed miserably",
+      "definitions_ex_vn": "Tôi đã cố gắng để làm cho một hài hước, nhưng thất bại thảm hại",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456418_19fea73eb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456418_b19429537e_o.png",
+      "id_image": "funny_2173889"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341551_3c54842338_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341551_a55d271782_o.png",
+      "id_image": "funny_2978195"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078980_e7c17afe39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078980_bc89a302f1_o.png",
+      "id_image": "funny_4138870"
+    }
+  ]
+}

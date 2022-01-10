@@ -1,0 +1,28 @@
+{
+  "english": "fortification",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự làm cho chắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vững chắc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a defensive wall or other reinforcement built to strengthen a place against attack.",
+      "definitions_ex_en": "the building and maintenance of fortifications",
+      "definitions_ex_vn": "Tòa nhà và bảo trì các công sự",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429368_64b1a75c2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429368_3256865fd2_o.png",
+      "id_image": "fortification_353321"
+    }
+  ]
+}

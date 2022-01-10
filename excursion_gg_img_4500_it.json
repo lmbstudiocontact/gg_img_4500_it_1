@@ -1,0 +1,78 @@
+{
+  "english": "excursion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuyến du ngoạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc đi chơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lạc đề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi lệch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "du ngoạn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a short journey or trip, especially one engaged in as a leisure activity.",
+      "definitions_ex_en": "an excursion to Mount Etna",
+      "definitions_ex_vn": "một chuyến tham quan để gắn etna",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a deviation from a regular pattern, path, or level of operation.",
+      "definitions_ex_en": "the firm's disastrous excursion into the US electrical market",
+      "definitions_ex_vn": "Chuyến tham quan thảm họa của công ty vào thị trường điện Hoa Kỳ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instance of the movement of something along a path or through an angle.",
+      "definitions_ex_en": "large excursions of the hip and knee joint",
+      "definitions_ex_vn": "Du ngoạn lớn của khớp hông và đầu gối",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a military sortie.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666924_30568dd500_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666924_41dc5d6705_o.png",
+      "id_image": "excursion_1732939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312061_90234628f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312061_90529d33df_o.png",
+      "id_image": "excursion_2017258"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666869_a878fa72b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666869_a209532f0b_o.png",
+      "id_image": "excursion_4127097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312021_3f0ca24dc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312021_b956d33da5_o.png",
+      "id_image": "excursion_5778688"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666954_8403b18cfd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666954_5e3018ae6e_o.png",
+      "id_image": "excursion_827055"
+    }
+  ]
+}

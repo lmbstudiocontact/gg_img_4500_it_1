@@ -1,0 +1,46 @@
+{
+  "english": "floppy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dịu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lòng thòng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mềm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xụ xuống",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "yếu ớt",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "tending to hang or move in a limp, loose, or ungainly way.",
+      "definitions_ex_en": "the dog had floppy ears",
+      "definitions_ex_vn": "Con chó có tai mềm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a flexible removable magnetic disk (typically encased in a hard plastic shell) for storing data.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320486_5db8f14387_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320486_4cbfc80acb_o.png",
+      "id_image": "floppy_417595"
+    }
+  ]
+}

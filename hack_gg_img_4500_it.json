@@ -1,0 +1,168 @@
+{
+  "english": "hack",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuê",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cỡi ngựa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khuông để phơi gạch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mỗ xẽ vụng về",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mướn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xe cho thuê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "búa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cảnh sát viên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cú đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuốc nhọn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm việc nặng nhọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngựa cho thuê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngựa xấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết nẻ da",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người gác đêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết trầy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người khổ công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe cho mướn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rìu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cut with rough or heavy blows.",
+      "definitions_ex_en": "hack off the dead branches",
+      "definitions_ex_vn": "hack các nhánh chết",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "use a computer to gain unauthorized access to data in a system.",
+      "definitions_ex_en": "they hacked into the bank's computer",
+      "definitions_ex_vn": "Họ đã hack vào máy tính của ngân hàng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "manage; cope.",
+      "definitions_ex_en": "lots of people leave because they can't hack it",
+      "definitions_ex_vn": "nhiều người rời đi vì họ không thể hack nó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "ride a horse for pleasure or exercise.",
+      "definitions_ex_en": "the two riders hacked along the trail through the woods",
+      "definitions_ex_vn": "Hai tay đua bị hack dọc theo đường mòn xuyên rừng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a rough cut, blow, or stroke.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of computer hacking.",
+      "definitions_ex_en": "the challenge of the hack itself",
+      "definitions_ex_vn": "thử thách của bản hack",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a writer or journalist producing dull, unoriginal work.",
+      "definitions_ex_en": "a bunch of Hollywood hacks rewrite it five times",
+      "definitions_ex_vn": "một loạt các hack hollywood viết lại năm lần",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a horse for ordinary riding.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a board on which a hawk's meat is laid.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a wooden frame for drying bricks, cheeses, etc.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431958_ca6b2ecdbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431958_07b52b454c_o.png",
+      "id_image": "hack_1590049"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053320_1b8ccd3412_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053320_4dd0663b54_o.png",
+      "id_image": "hack_1897388"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053305_b3438d4af2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053305_71b85b9374_o.png",
+      "id_image": "hack_2456775"
+    }
+  ]
+}

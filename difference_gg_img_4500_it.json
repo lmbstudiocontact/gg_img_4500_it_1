@@ -1,0 +1,63 @@
+{
+  "english": "difference",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bất đồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hiệu số của hai số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng khác nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dị đồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khác nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phân biệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phân biệt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phần hơn kém",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a point or way in which people or things are not the same.",
+      "definitions_ex_en": "the differences between men and women",
+      "definitions_ex_vn": "sự khác biệt giữa nam và nữ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "alter (a coat of arms) to distinguish members or branches of a family.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059210_ac35a0bd53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059210_9f96cb00c2_o.png",
+      "id_image": "difference_2586944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059175_262d6fa300_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059175_10cb408836_o.png",
+      "id_image": "difference_3053704"
+    }
+  ]
+}

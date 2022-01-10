@@ -1,0 +1,110 @@
+{
+  "english": "dig",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bới đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ trích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chuyên cần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người siêng năng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ở nhà có đồ đặc sẳn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bới",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chuyên cần",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sưu tầm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm tòi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xới",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lật",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "break up and move earth with a tool or machine, or with hands, paws, snout, etc.",
+      "definitions_ex_en": "the boar had been digging for roots",
+      "definitions_ex_vn": "heo rừng đã đào rễ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "push or poke something in or into.",
+      "definitions_ex_en": "he dug his hands into his pockets",
+      "definitions_ex_vn": "Anh ta đào hai tay vào túi của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "like, appreciate, or understand.",
+      "definitions_ex_en": "I really dig heavy rock",
+      "definitions_ex_vn": "Tôi thực sự đào đá nặng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act or spell of digging.",
+      "definitions_ex_en": "a thorough dig of the whole plot",
+      "definitions_ex_vn": "một khối kỹ lưỡng của toàn bộ cốt truyện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a push or poke with one's elbow, finger, etc.",
+      "definitions_ex_en": "Ginnie gave her sister a dig in the ribs",
+      "definitions_ex_vn": "Ginnie đã cho chị gái của mình một khối trong xương sườn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322021_faefbc4ea6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322021_c0c5550ce3_o.png",
+      "id_image": "dig_1406304"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321991_ec43487cc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321991_0434fb2786_o.png",
+      "id_image": "dig_5826051"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058680_2018bc7d04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058680_959ebcca48_o.png",
+      "id_image": "dig_6041525"
+    }
+  ]
+}

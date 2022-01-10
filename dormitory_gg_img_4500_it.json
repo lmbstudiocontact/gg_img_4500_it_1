@@ -1,0 +1,50 @@
+{
+  "english": "dormitory",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ký túc xá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng có nhiều phòng ngũ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng ngũ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vùng ngoại ô",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large bedroom for a number of people in a school or institution.",
+      "definitions_ex_en": "he visited the boarders in their dormitory",
+      "definitions_ex_vn": "ông đã đến thăm các nội trú trong ký túc xá của họ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424143_e89636db6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424143_025aecff9b_o.png",
+      "id_image": "dormitory_2387625"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664179_a9e7ca2cc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664179_f282a67155_o.png",
+      "id_image": "dormitory_5352132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424078_04a53cc05a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424078_84f7687106_o.png",
+      "id_image": "dormitory_6254112"
+    }
+  ]
+}

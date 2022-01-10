@@ -1,0 +1,29 @@
+{
+  "english": "eyebrow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lông mày",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the strip of hair growing on the ridge above a person's eye socket.",
+      "definitions_ex_en": "he had eyes of blue beneath bushy eyebrows",
+      "definitions_ex_vn": "Anh ta có đôi mắt màu xanh bên dưới lông mày rậm rạp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454468_5ee930a930_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454468_3e8a3af6f2_o.png",
+      "id_image": "eyebrow_2418010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694749_9d743561bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694749_26141d8e21_o.png",
+      "id_image": "eyebrow_4011698"
+    }
+  ]
+}

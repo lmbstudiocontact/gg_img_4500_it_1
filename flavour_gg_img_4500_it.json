@@ -1,0 +1,76 @@
+{
+  "english": "flavour",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hương thơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mùi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mùi thơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khử cho thơm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho có mùi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nêm gia vị",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho thơm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the distinctive taste of a food or drink.",
+      "definitions_ex_en": "the yogurt comes in eight fruit flavors",
+      "definitions_ex_vn": "Sữa chua có trong tám hương vị trái cây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an indication of the essential character of something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a kind, variety, or sort.",
+      "definitions_ex_en": "various flavors of firewall are evolving",
+      "definitions_ex_vn": "Hương vị khác nhau của tường lửa đang phát triển",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a quantized property of quarks that differentiates them into at least six varieties (up, down, charmed, strange, top, bottom).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "alter or enhance the taste of (food or drink) by adding a particular ingredient.",
+      "definitions_ex_en": "chunks of chicken flavored with herbs",
+      "definitions_ex_vn": "Chunks của gà có hương vị với các loại thảo mộc",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677124_4c8d423cf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677124_227dab3acb_o.png",
+      "id_image": "flavour_527773"
+    }
+  ]
+}

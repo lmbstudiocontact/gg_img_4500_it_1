@@ -1,0 +1,73 @@
+{
+  "english": "follow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "theo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "theo sau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi sau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đuổi theo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nối nghiệp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiếp theo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "go or come after (a person or thing proceeding ahead); move or travel behind.",
+      "definitions_ex_en": "she went back into the house, and Ben followed her",
+      "definitions_ex_vn": "Cô quay lại vào nhà, và Ben đi theo cô.",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "come after in time or order.",
+      "definitions_ex_en": "the six years that followed his restoration",
+      "definitions_ex_vn": "Sáu năm sau phục hồi của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "act according to (an instruction or precept).",
+      "definitions_ex_en": "he has difficulty in following written instructions",
+      "definitions_ex_vn": "Anh ấy gặp khó khăn trong việc theo hướng dẫn bằng văn bản",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pay close attention to (something).",
+      "definitions_ex_en": "I've been following this discussion closely",
+      "definitions_ex_vn": "Tôi đã theo dõi cuộc thảo luận này chặt chẽ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "practice (a trade or profession).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361992_ce22f99866_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361992_b8595bbe1b_o.png",
+      "id_image": "follow_3057912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672414_9015358a6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672414_0e6620e8ce_o.png",
+      "id_image": "follow_874672"
+    }
+  ]
+}

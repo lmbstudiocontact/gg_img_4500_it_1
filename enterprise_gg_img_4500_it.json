@@ -1,0 +1,57 @@
+{
+  "english": "enterprise",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gan dạ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kế hoạch khó khăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mạo hiểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "táo bạo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a project or undertaking, typically one that is difficult or requires effort.",
+      "definitions_ex_en": "a joint enterprise between French and Japanese companies",
+      "definitions_ex_vn": "Một doanh nghiệp chung giữa các công ty Pháp và Nhật Bản",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a business or company.",
+      "definitions_ex_en": "a state-owned enterprise",
+      "definitions_ex_vn": "một doanh nghiệp nhà nước",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673154_97b4815ff3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673154_5fc08ed919_o.png",
+      "id_image": "enterprise_1622607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318276_94d1112496_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318276_6fa9040e7b_o.png",
+      "id_image": "enterprise_2503673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054855_c1325a1cd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054855_963ea0056d_o.png",
+      "id_image": "enterprise_4133434"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433558_1f83fcc805_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433558_01c5fa1a4f_o.png",
+      "id_image": "enterprise_875309"
+    }
+  ]
+}

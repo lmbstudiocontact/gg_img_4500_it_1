@@ -1,0 +1,87 @@
+{
+  "english": "hike",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đi lang thang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc đi chơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi dạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lêu lổng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi lang thang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chuồn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lêu lổng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trốn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long walk, especially in the country or wilderness.",
+      "definitions_ex_en": "a five-mile hike across rough terrain",
+      "definitions_ex_vn": "một chuyến đi bộ năm dặm trên địa hình gồ ghề",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sharp increase, especially in price.",
+      "definitions_ex_en": "a price hike",
+      "definitions_ex_vn": "tăng giá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a snap.",
+      "definitions_ex_en": "he takes the hike, drops back, and fakes to his right",
+      "definitions_ex_vn": "Anh ta lấy đi lang thang, rơi lại và giả mạo quyền của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "walk for a long distance, especially across country or in the woods.",
+      "definitions_ex_en": "we planned to hike another mile up a steep trail",
+      "definitions_ex_vn": "Chúng tôi dự định đi lang thang một dặm khác lên một con đường dốc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pull or lift up (something, especially clothing).",
+      "definitions_ex_en": "he hiked up his sweatpants and marched to the door",
+      "definitions_ex_vn": "Anh ta leo lên mồ hôi của mình và diễu hành đến cửa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "snap (a football).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074325_02f01e299d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074325_bac16dab0d_o.png",
+      "id_image": "hike_1855456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382262_dd00a16b6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382262_c6f3d56f03_o.png",
+      "id_image": "hike_3729796"
+    }
+  ]
+}

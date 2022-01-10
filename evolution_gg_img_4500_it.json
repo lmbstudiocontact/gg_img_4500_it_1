@@ -1,0 +1,86 @@
+{
+  "english": "evolution",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bành trướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lấy căn số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mở mang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nét vẻ đường cong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phát triển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiến triển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thao diển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vận động",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process by which different kinds of living organisms are thought to have developed and diversified from earlier forms during the history of the earth.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the gradual development of something, especially from a simple to a more complex form.",
+      "definitions_ex_en": "the forms of written languages undergo constant evolution",
+      "definitions_ex_vn": "Các hình thức ngôn ngữ viết trải qua sự tiến hóa không đổi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the giving off of a gaseous product, or of heat.",
+      "definitions_ex_en": "the evolution of oxygen occurs rapidly in this process",
+      "definitions_ex_vn": "Sự phát triển của oxy xảy ra nhanh chóng trong quá trình này",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pattern of movements or maneuvers.",
+      "definitions_ex_en": "silk ribbons waving in fanciful evolutions",
+      "definitions_ex_vn": "Ruy băng lụa vẫy trong sự phát triển huyền ảo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the extraction of a root from a given quantity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357197_0c24033872_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357197_f85783305a_o.png",
+      "id_image": "evolution_2586952"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049675_e5c9033f13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049675_44e16a0f84_o.png",
+      "id_image": "evolution_2597668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357132_f8c815ffd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357132_64bba5a020_o.png",
+      "id_image": "evolution_5660272"
+    }
+  ]
+}

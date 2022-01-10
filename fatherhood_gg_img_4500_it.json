@@ -1,0 +1,39 @@
+{
+  "english": "fatherhood",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tư cách",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being a father.",
+      "definitions_ex_en": "the joys of fatherhood had softened him",
+      "definitions_ex_vn": "Niềm vui của việc làm cha đã làm dịu anh ta",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689834_a99c9e17eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689834_6010c00a55_o.png",
+      "id_image": "fatherhood_392757"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071705_33f5f56ca4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071705_15180b5d31_o.png",
+      "id_image": "fatherhood_769649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449718_4a74a0da73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449718_5b2325d592_o.png",
+      "id_image": "fatherhood_859958"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449658_bc0fa6fbcc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449658_e7b896eaf4_o.png",
+      "id_image": "fatherhood_859980"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "english": "dresser",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngoại trú viên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bày hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người băng bó vết thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chưng bày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người phục sức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người sửa soạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tháo vật trong khuôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người trang điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tủ đựng chén bát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ hồ vải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ khắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ làm da",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who dresses in a specified way.",
+      "definitions_ex_en": "a snappy dresser",
+      "definitions_ex_vn": "một tủ quần áo linh bích",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person whose job is to look after theatrical costumes and help actors to dress.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who prepares, treats, or finishes a material or piece of equipment.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043375_32cdde60a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043375_0fb1386e59_o.png",
+      "id_image": "dresser_3650790"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306386_91c2b1a78f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306386_98a9c97db5_o.png",
+      "id_image": "dresser_673283"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421573_a258342299_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421573_9e4e29338d_o.png",
+      "id_image": "dresser_804105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043395_9b993175cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043395_38204f24ec_o.png",
+      "id_image": "dresser_899168"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "english": "detergent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuốc rữa vết thương",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a water-soluble cleansing agent which combines with impurities and dirt to make them more soluble, and differs from soap in not forming a scum with the salts in hard water.",
+      "definitions_ex_en": "liquid detergents",
+      "definitions_ex_vn": "chất tẩy rửa lỏng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to detergent compounds or their action.",
+      "definitions_ex_en": "staining that resists detergent action",
+      "definitions_ex_vn": "nhuộm màu mà chống lại hành động chất tẩy rửa",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326606_e344c6c6c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326606_29f4c66368_o.png",
+      "id_image": "detergent_2383719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681659_b575c941fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681659_a075e169ce_o.png",
+      "id_image": "detergent_3022067"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063440_a0b277d745_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063440_343a5e2ef6_o.png",
+      "id_image": "detergent_4110559"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681744_23c0595891_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681744_abf367b356_o.png",
+      "id_image": "detergent_518975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371377_2f775e025e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371377_10185df7d9_o.png",
+      "id_image": "detergent_525795"
+    }
+  ]
+}

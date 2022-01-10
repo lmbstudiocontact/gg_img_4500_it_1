@@ -1,0 +1,51 @@
+{
+  "english": "douche",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ống bơm nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tia nước để tắm bịnh nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòi nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rửa bằng ống bơm nước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tắm bằng vòi nước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a shower of water.",
+      "definitions_ex_en": "a daily douche",
+      "definitions_ex_vn": "một douche hàng ngày",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "spray or shower with water.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352317_2f7774ce5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352317_781e2b71b4_o.png",
+      "id_image": "douche_3217876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045080_cd7c7a3ba8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045080_172719c5f2_o.png",
+      "id_image": "douche_6060133"
+    }
+  ]
+}

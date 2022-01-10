@@ -1,0 +1,63 @@
+{
+  "english": "encounter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chạm trán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đụng độ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gặp gỡ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự gặp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giao chiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chạm trán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đụng độ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gặp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "unexpectedly experience or be faced with (something difficult or hostile).",
+      "definitions_ex_en": "we have encountered one small problem",
+      "definitions_ex_vn": "Chúng tôi đã gặp một vấn đề nhỏ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an unexpected or casual meeting with someone or something.",
+      "definitions_ex_en": "she felt totally unnerved by the encounter",
+      "definitions_ex_vn": "Cô cảm thấy hoàn toàn vô định bởi cuộc gặp gỡ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320361_8b3d0984d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320361_6923e40fa4_o.png",
+      "id_image": "encounter_3035316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365217_c670c7668d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365217_c4ab902858_o.png",
+      "id_image": "encounter_3232944"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "english": "hallucination",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự ảo tưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tưởng tượng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an experience involving the apparent perception of something not present.",
+      "definitions_ex_en": "he continued to suffer from horrific hallucinations",
+      "definitions_ex_vn": "Anh tiếp tục bị ảo giác kinh hoàng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430853_3018916e10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430853_95823b8e59_o.png",
+      "id_image": "hallucination_2332342"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360172_3e9f8178ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360172_da1aac42d2_o.png",
+      "id_image": "hallucination_3997830"
+    }
+  ]
+}

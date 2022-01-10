@@ -1,0 +1,47 @@
+{
+  "english": "erase",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gôm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chùi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xóa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "rub out or remove (writing or marks).",
+      "definitions_ex_en": "graffiti had been erased from the wall",
+      "definitions_ex_vn": "Graffiti đã bị xóa khỏi tường",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670709_1fd3d8689d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670709_bdaa2a15e8_o.png",
+      "id_image": "erase_1827180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316076_87bae83a3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316076_8e8e581e01_o.png",
+      "id_image": "erase_2720496"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316021_d191146124_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316021_d9ed5432d0_o.png",
+      "id_image": "erase_4598398"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670649_249ddd8dfa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670649_0f0b4af1af_o.png",
+      "id_image": "erase_5433079"
+    }
+  ]
+}

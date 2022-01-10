@@ -1,0 +1,59 @@
+{
+  "english": "emission",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bốc hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bốc lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phát hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phát ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xuất tinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật phát ra",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the production and discharge of something, especially gas or radiation.",
+      "definitions_ex_en": "the effects of lead emission on health",
+      "definitions_ex_vn": "Tác dụng của phát thải dẫn đến sức khỏe",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676814_15db6bc6fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676814_d8dfe6e715_o.png",
+      "id_image": "emission_1619241"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366627_2a34e8d79e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366627_e9de1f6265_o.png",
+      "id_image": "emission_1890044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366592_e87f240d22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366592_a4f485ff69_o.png",
+      "id_image": "emission_1998706"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366542_7c1337389f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366542_e82dc795fd_o.png",
+      "id_image": "emission_3211836"
+    }
+  ]
+}

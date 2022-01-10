@@ -1,0 +1,65 @@
+{
+  "english": "fool",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người bị lừa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người dại dột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đần độn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giả ngu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm bộ ngu si",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lừa gạt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who acts unwisely or imprudently; a silly person.",
+      "definitions_ex_en": "what a fool I was to do this",
+      "definitions_ex_vn": "Thật là một kẻ ngốc tôi đã làm điều này",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "trick or deceive (someone); dupe.",
+      "definitions_ex_en": "he fooled nightclub managers into believing he was a successful businessman",
+      "definitions_ex_vn": "Ông đã đánh lừa các nhà quản lý hộp đêm tin rằng anh ta là một doanh nhân thành đạt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "foolish; silly.",
+      "definitions_ex_en": "that damn fool waiter",
+      "definitions_ex_vn": "người phục vụ ngốc chết tiệt đó",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317186_cfbbec2805_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317186_f55c98402a_o.png",
+      "id_image": "fool_1128972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053565_f2de6ba840_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053565_dd9ce2aba3_o.png",
+      "id_image": "fool_1747649"
+    }
+  ]
+}

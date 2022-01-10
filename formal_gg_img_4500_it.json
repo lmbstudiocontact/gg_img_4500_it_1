@@ -1,0 +1,63 @@
+{
+  "english": "formal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chánh thức",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "theo đúng luật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "theo nghi lể",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về hình thức",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "done in accordance with rules of convention or etiquette; suitable for or constituting an official or important situation or occasion.",
+      "definitions_ex_en": "a formal dinner party",
+      "definitions_ex_vn": "một bữa tiệc tối chính thức",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "officially sanctioned or recognized.",
+      "definitions_ex_en": "a formal complaint",
+      "definitions_ex_vn": "một khiếu nại chính thức",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of or concerned with outward form or appearance, especially as distinct from content or matter.",
+      "definitions_ex_en": "I don't know enough about art to appreciate the purely formal qualities",
+      "definitions_ex_vn": "Tôi không biết đủ về nghệ thuật để đánh giá cao những phẩm chất hoàn toàn chính thức",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314916_71fd62383a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314916_3cb4d54670_o.png",
+      "id_image": "formal_2488440"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051420_af4840237d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051420_83f9b4eea6_o.png",
+      "id_image": "formal_2488484"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358977_385814f6cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358977_d41a92f361_o.png",
+      "id_image": "formal_6032223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314856_0a3b55b80f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314856_7596d3d42b_o.png",
+      "id_image": "formal_6032236"
+    }
+  ]
+}

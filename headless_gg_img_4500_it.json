@@ -1,0 +1,65 @@
+{
+  "english": "headless",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây đinh không đầu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không có người cầm đầu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thú không đầu",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a body) having no head.",
+      "definitions_ex_en": "a headless corpse",
+      "definitions_ex_vn": "một xác chết không đầu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an object) lacking a tip, end, or top part.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an organization) lacking a person in charge; having no director or leader.",
+      "definitions_ex_en": "the department is headless",
+      "definitions_ex_vn": "Sở không có đầu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having no sense; stupid.",
+      "definitions_ex_en": "headless idiots who can't string more than two passes together",
+      "definitions_ex_vn": "những kẻ ngốc không đầu không thể xâu chuỗi nhiều hơn hai lần chuyền cùng nhau",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456983_e218bcb74a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456983_a641c4181f_o.png",
+      "id_image": "headless_1089503"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456938_d8f3b5f763_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456938_00329855f2_o.png",
+      "id_image": "headless_2136664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079500_c28a22b15f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079500_7a927ab428_o.png",
+      "id_image": "headless_2144219"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079475_864d053e81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079475_a05c52772b_o.png",
+      "id_image": "headless_2463657"
+    }
+  ]
+}

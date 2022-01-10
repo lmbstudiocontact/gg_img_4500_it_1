@@ -1,0 +1,142 @@
+{
+  "english": "frame",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ xương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách kết cấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gọng kiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình ảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuông cửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuông hình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sườn nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cấu tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chánh thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuồng nhốt ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặt ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết cấu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lắp vào khuông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát âm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rèn luyện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp đặt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a rigid structure that surrounds or encloses something such as a door or window.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's body with reference to its size or build.",
+      "definitions_ex_en": "a shiver shook her slim frame",
+      "definitions_ex_vn": "Một cơn rùng mình rung động khung hình mỏng của cô",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a basic structure that underlies or supports a system, concept, or text.",
+      "definitions_ex_en": "the establishment of conditions provides a frame for interpretation",
+      "definitions_ex_vn": "Việc thiết lập các điều kiện cung cấp một khung để giải thích",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a structural environment within which a class of words or other linguistic units can be correctly used. For example I — him is a frame for a large class of transitive verbs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a single complete picture in a series forming a movie, television, or video film.",
+      "definitions_ex_en": "video footage slowed down to 20 frames a second",
+      "definitions_ex_vn": "Đoạn phim video chậm lại xuống 20 khung hình một giây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for rack1 (sense 4 of the noun).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "place (a picture or photograph) in a frame.",
+      "definitions_ex_en": "he had the photo framed",
+      "definitions_ex_vn": "anh ấy đã có bức ảnh đóng khung",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "create or formulate (a concept, plan, or system).",
+      "definitions_ex_en": "the staff have proved invaluable in framing the proposals",
+      "definitions_ex_vn": "Các nhân viên đã chứng minh vô giá trong việc đóng khung các đề xuất",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "produce false evidence against (an innocent person) so that they appear guilty.",
+      "definitions_ex_en": "he claims he was framed",
+      "definitions_ex_vn": "anh ta tuyên bố anh ta đã đóng khung",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428023_fdc77a5626_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428023_10f7f5e841_o.png",
+      "id_image": "frame_305719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357177_77a3ae5d2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357177_73279455fd_o.png",
+      "id_image": "frame_837195"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313211_6256d14a79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313211_7f8c5bb51c_o.png",
+      "id_image": "frame_964014"
+    }
+  ]
+}

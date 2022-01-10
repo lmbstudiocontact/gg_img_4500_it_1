@@ -1,0 +1,125 @@
+{
+  "english": "entry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ban đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỗ vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cửa sông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cửa vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đăng lục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường hầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lối vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lúc đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngã vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bắt đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ghi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vào sổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trước bạ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an act of going or coming in.",
+      "definitions_ex_en": "the door was locked, but he forced an entry",
+      "definitions_ex_vn": "cánh cửa đã bị khóa, nhưng anh ta đã buộc một lối vào",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an item written or printed in a diary, list, ledger, or reference book.",
+      "definitions_ex_en": "the entries in the cash book",
+      "definitions_ex_vn": "Các mục trong sổ tiền mặt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or thing competing in a race or competition.",
+      "definitions_ex_en": "from the hundreds of entries we received, twelve winners were finally chosen",
+      "definitions_ex_vn": "từ hàng trăm mục chúng tôi nhận được, mười hai người chiến thắng cuối cùng đã được chọn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the forward part of a ship's hull below the waterline, considered in terms of breadth or narrowness.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362212_49ec40e25a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362212_7ff6450e86_o.png",
+      "id_image": "entry_1010333"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317736_658f60a73a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317736_86c06414ed_o.png",
+      "id_image": "entry_2049097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362142_b9f14574e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362142_30ffb4e6b9_o.png",
+      "id_image": "entry_5664092"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362077_65863a2642_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362077_63ee549b55_o.png",
+      "id_image": "entry_6265006"
+    }
+  ]
+}

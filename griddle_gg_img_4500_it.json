@@ -1,0 +1,63 @@
+{
+  "english": "griddle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nướng món gì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nướng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nướng bánh trên vĩ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sàng khoáng vật",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a heavy, flat iron plate that is heated and used for cooking food.",
+      "definitions_ex_en": "griddle cakes",
+      "definitions_ex_vn": "Bánh nướng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a miner's wire-bottomed sieve.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cook on a griddle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "screen (ore) with a griddle.",
+      "definitions_ex_en": "black copper ore is generally griddled out",
+      "definitions_ex_vn": "Quặng đồng đen thường được tạo ra",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677129_a740037ef9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677129_5729ec3ffa_o.png",
+      "id_image": "griddle_1393932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367032_6fe804a2cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367032_8085f91fa5_o.png",
+      "id_image": "griddle_455385"
+    }
+  ]
+}

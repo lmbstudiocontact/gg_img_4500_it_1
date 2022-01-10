@@ -1,0 +1,44 @@
+{
+  "english": "disinfect",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trừ độc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "clean (something), especially with a chemical, in order to destroy bacteria.",
+      "definitions_ex_en": "he disinfected and dressed the cut on his forehead",
+      "definitions_ex_vn": "Anh ta khử trùng và mặc đồ cắt trên trán",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671019_079a7d25ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671019_1ae474686c_o.png",
+      "id_image": "disinfect_2746485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670999_4123b07c41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670999_7155153c3a_o.png",
+      "id_image": "disinfect_2785825"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431193_e41e8a3e1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431193_eb3ee9cdd9_o.png",
+      "id_image": "disinfect_3663421"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316291_5770ce7b82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316291_5d82b651ea_o.png",
+      "id_image": "disinfect_3663427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431168_a9586a187d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431168_a3d80cc270_o.png",
+      "id_image": "disinfect_5047000"
+    }
+  ]
+}

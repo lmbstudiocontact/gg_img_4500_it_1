@@ -1,0 +1,38 @@
+{
+  "english": "donor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người biếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tặng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who donates something, especially money to a fund or charity.",
+      "definitions_ex_en": "an anonymous donor has given $25",
+      "definitions_ex_vn": "Một nhà tài trợ ẩn danh đã đưa ra $ 25",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665114_f6c613c253_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665114_5ac4542cfd_o.png",
+      "id_image": "donor_1056565"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424928_847ff33b5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424928_1f0a7daec2_o.png",
+      "id_image": "donor_1075044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424898_4af67ae6f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424898_55818c14aa_o.png",
+      "id_image": "donor_1142105"
+    }
+  ]
+}

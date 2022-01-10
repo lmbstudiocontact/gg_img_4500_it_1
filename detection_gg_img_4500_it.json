@@ -1,0 +1,46 @@
+{
+  "english": "detection",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khám phá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhận thấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dò ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tìm ra",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of identifying the presence of something concealed.",
+      "definitions_ex_en": "the early detection of fetal abnormalities",
+      "definitions_ex_vn": "phát hiện sớm các bất thường của thai nhi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442248_d58b6121de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442248_f967966b14_o.png",
+      "id_image": "detection_4310118"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064020_88edd0445a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064020_bd12e43490_o.png",
+      "id_image": "detection_4412624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327071_94f7f85a3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327071_c9fd74a110_o.png",
+      "id_image": "detection_5060300"
+    }
+  ]
+}

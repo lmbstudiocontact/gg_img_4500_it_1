@@ -1,0 +1,54 @@
+{
+  "english": "economic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kinh tế",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về kinh tế học",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to economics or the economy.",
+      "definitions_ex_en": "pest species of great economic importance",
+      "definitions_ex_vn": "Loài dịch hại có tầm quan trọng kinh tế lớn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "justified in terms of profitability.",
+      "definitions_ex_en": "many organizations must become larger if they are to remain economic",
+      "definitions_ex_vn": "Nhiều tổ chức phải trở nên lớn hơn nếu họ vẫn còn kinh tế",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445983_ae14297f7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445983_d56b7acb3f_o.png",
+      "id_image": "economic_2361871"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375672_34fdfd8eb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375672_0665220f31_o.png",
+      "id_image": "economic_2719736"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685944_891b66698e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685944_df98489c70_o.png",
+      "id_image": "economic_3310586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330936_3185184786_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330936_893674ce44_o.png",
+      "id_image": "economic_3310624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375537_8b4c5c0e11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375537_5832914f10_o.png",
+      "id_image": "economic_6203178"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "english": "honk",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tiếng kèn xe hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng kêu của ngỗng trời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng kêu hộc của heo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bóp kèn xe hơi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the cry of a wild goose.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make or cause to make a honk.",
+      "definitions_ex_en": "geese circled around and honked",
+      "definitions_ex_vn": "Ngỗng được khoanh tròn xung quanh và bấm còi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378127_14a1ef3499_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378127_22f99d9688_o.png",
+      "id_image": "honk_2369562"
+    }
+  ]
+}

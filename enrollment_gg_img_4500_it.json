@@ -1,0 +1,45 @@
+{
+  "english": "enrollment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự biên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biên sổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vô sổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thuê mướn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự viết",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of enrolling or being enrolled.",
+      "definitions_ex_en": "the amount due must be paid on enrollment in October",
+      "definitions_ex_vn": "Số tiền đến hạn phải được thanh toán khi đăng ký vào tháng 10",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433683_b26f2f9c2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433683_26bfb4ca54_o.png",
+      "id_image": "enrollment_2621764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673254_75ca0119da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673254_cd48d12905_o.png",
+      "id_image": "enrollment_4412904"
+    }
+  ]
+}

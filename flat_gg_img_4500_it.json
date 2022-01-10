@@ -1,0 +1,167 @@
+{
+  "english": "flat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bằng phẳng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "buồn tẻ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đế bằng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không thay đổi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khờ dại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mặt bằng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mặt phẳng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "minh bạch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nằm ngang",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rỏ ràng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quả quyết",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "chổ đất thấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồng bằng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt phẳng của vật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "smooth and even; without marked lumps or indentations.",
+      "definitions_ex_en": "trim the surface of the cake to make it completely flat",
+      "definitions_ex_vn": "Cắt bề mặt của bánh để làm cho nó hoàn toàn phẳng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "lacking interest or emotion; dull and lifeless.",
+      "definitions_ex_en": "“I'm sorry,” he said, in a flat voice",
+      "definitions_ex_vn": "\"Tôi xin lỗi,\" anh nói, trong một giọng nói phẳng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a sparkling drink) having lost its effervescence.",
+      "definitions_ex_en": "flat champagne",
+      "definitions_ex_vn": "Champagne phẳng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a fee, wage, or price) the same in all cases, not varying with changed conditions or in particular cases.",
+      "definitions_ex_en": "a $30 flat fare",
+      "definitions_ex_vn": "một giá vé phẳng $ 30",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of musical sound) below true or normal pitch.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to flat racing.",
+      "definitions_ex_en": "the Flat season",
+      "definitions_ex_vn": "mùa căn hộ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "in or to a horizontal position.",
+      "definitions_ex_en": "he was lying flat on his back",
+      "definitions_ex_vn": "Anh đang nằm thẳng trên lưng",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "completely; absolutely.",
+      "definitions_ex_en": "I'm turning you down flat",
+      "definitions_ex_vn": "Tôi đang biến bạn xuống phẳng",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "below the true or normal pitch of musical sound.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "the flat part of something.",
+      "definitions_ex_en": "she placed the flat of her hand over her glass",
+      "definitions_ex_vn": "Cô đặt căn hộ của cô lên kính của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an upright section of painted stage scenery mounted on a frame.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a musical note lowered a semitone below natural pitch.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make flat; flatten.",
+      "definitions_ex_en": "flat the loaves down",
+      "definitions_ex_vn": "phẳng các loaves xuống",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367422_9c74b5c6de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367422_6734059a8b_o.png",
+      "id_image": "flat_203881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322431_2e7987e127_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322431_df3a8635ac_o.png",
+      "id_image": "flat_460545"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367297_c191ea2a8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367297_3dfc69e5a5_o.png",
+      "id_image": "flat_4845883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677504_c5cc2d25bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677504_c373cc4f4b_o.png",
+      "id_image": "flat_553978"
+    }
+  ]
+}

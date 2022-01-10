@@ -1,0 +1,72 @@
+{
+  "english": "distinction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biệt đải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách biệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "có biệt tài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lổi lạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phân biệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phân biệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính khác nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ưu đải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xuất chúng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a difference or contrast between similar things or people.",
+      "definitions_ex_en": "I was completely unaware of class distinctions",
+      "definitions_ex_vn": "Tôi hoàn toàn không biết về sự phân biệt đẳng cấp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "excellence that sets someone or something apart from others.",
+      "definitions_ex_en": "a novelist of distinction",
+      "definitions_ex_vn": "một tiểu thuyết gia phân biệt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314286_370333bf26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314286_8728a22a8f_o.png",
+      "id_image": "distinction_1701672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050895_84d4397b67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050895_bd79628097_o.png",
+      "id_image": "distinction_1701673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050860_0f9c1474bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050860_879a53188d_o.png",
+      "id_image": "distinction_2311645"
+    }
+  ]
+}

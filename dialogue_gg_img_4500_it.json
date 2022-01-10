@@ -1,0 +1,48 @@
+{
+  "english": "dialogue",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc đối thoại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đàm thoại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "conversation between two or more people as a feature of a book, play, or movie.",
+      "definitions_ex_en": "the book consisted of a series of dialogues",
+      "definitions_ex_vn": "Cuốn sách bao gồm một loạt các cuộc đối thoại",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679149_4ba31739a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679149_a5fc183880_o.png",
+      "id_image": "dialogue_1330204"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060950_5929cd202b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060950_aee5e0e647_o.png",
+      "id_image": "dialogue_422160"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439083_35c1764cb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439083_ca4c16d24b_o.png",
+      "id_image": "dialogue_547070"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368842_6f29fbc4f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368842_4cbe5c23c1_o.png",
+      "id_image": "dialogue_6347634"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060800_f0003a2530_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060800_f9ec6bc0a4_o.png",
+      "id_image": "dialogue_6347649"
+    }
+  ]
+}

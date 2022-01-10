@@ -1,0 +1,44 @@
+{
+  "english": "flatten",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giẹp lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm bằng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm phẳng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make or become flat or flatter.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "raze (a building or settlement) to the ground.",
+      "definitions_ex_en": "the hurricane flattened thousands of homes",
+      "definitions_ex_vn": "cơn bão làm phẳng hàng ngàn ngôi nhà",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "lower (a note) in pitch by a half step.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058955_0a0a1a20a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058955_022aae9607_o.png",
+      "id_image": "flatten_232956"
+    }
+  ]
+}

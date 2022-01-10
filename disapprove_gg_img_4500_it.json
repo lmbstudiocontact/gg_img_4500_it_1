@@ -1,0 +1,24 @@
+{
+  "english": "disapprove",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không tán thành",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "have or express an unfavorable opinion about something.",
+      "definitions_ex_en": "Bob strongly disapproved of drinking and driving",
+      "definitions_ex_vn": "Bob mạnh mẽ không chấp nhận uống rượu và lái xe",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673304_ff0c6ca3fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673304_7ff01518d5_o.png",
+      "id_image": "disapprove_1982943"
+    }
+  ]
+}

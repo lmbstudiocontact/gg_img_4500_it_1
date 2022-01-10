@@ -1,0 +1,59 @@
+{
+  "english": "dome",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỏm đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chòm nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mái tròn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a rounded vault forming the roof of a building or structure, typically with a circular base.",
+      "definitions_ex_en": "the dome of St. Paul's Cathedral",
+      "definitions_ex_vn": "Mái vòm của Nhà thờ St. Paul",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing shaped like a dome.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a stately building.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665949_23dae5d4b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665949_b947151b8f_o.png",
+      "id_image": "dome_1594703"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665919_dba6be81ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665919_3a76241c61_o.png",
+      "id_image": "dome_2069538"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425753_1750ecac22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425753_1492540740_o.png",
+      "id_image": "dome_2484050"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310716_69ffc1b5ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310716_7e243c4d26_o.png",
+      "id_image": "dome_2918268"
+    }
+  ]
+}

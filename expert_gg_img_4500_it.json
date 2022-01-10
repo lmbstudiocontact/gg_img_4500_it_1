@@ -1,0 +1,57 @@
+{
+  "english": "expert",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tinh thông",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lão luyện",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thạo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thông thạo",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who has a comprehensive and authoritative knowledge of or skill in a particular area.",
+      "definitions_ex_en": "a financial expert",
+      "definitions_ex_vn": "một chuyên gia tài chính",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "having or involving authoritative knowledge.",
+      "definitions_ex_en": "he had received expert academic advice",
+      "definitions_ex_vn": "Ông đã nhận được lời khuyên học thuật chuyên nghiệp",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424968_d0b921fe92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424968_fabd4f928c_o.png",
+      "id_image": "expert_3645122"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046790_6f3e25e95f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046790_789b470ce9_o.png",
+      "id_image": "expert_4646857"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354037_3b39b07dca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354037_816d75176c_o.png",
+      "id_image": "expert_4668457"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665094_eab936815d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665094_ec731c85b6_o.png",
+      "id_image": "expert_5661391"
+    }
+  ]
+}

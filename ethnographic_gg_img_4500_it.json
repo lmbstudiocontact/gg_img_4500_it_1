@@ -1,0 +1,29 @@
+{
+  "english": "ethnographic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc nhân chủng học",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the scientific description of peoples and cultures with their customs, habits, and mutual differences.",
+      "definitions_ex_en": "ethnographic research in European border communities",
+      "definitions_ex_vn": "Nghiên cứu dân tộc học tại cộng đồng biên giới châu Âu",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669134_e25503fd05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669134_967a3f4aaf_o.png",
+      "id_image": "ethnographic_2503679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669104_41570156db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669104_67ed87354c_o.png",
+      "id_image": "ethnographic_6064884"
+    }
+  ]
+}

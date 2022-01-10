@@ -1,0 +1,40 @@
+{
+  "english": "embassy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tòa đại sứ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the official residence or offices of an ambassador.",
+      "definitions_ex_en": "the Chilean embassy in Moscow",
+      "definitions_ex_vn": "Đại sứ quán Chile ở Moscow",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a deputation or mission sent by one ruler or state to another.",
+      "definitions_ex_en": "Worsley failed to be selected to join the embassy to Sweden",
+      "definitions_ex_vn": "Worsley không thể được chọn tham gia Đại sứ quán vào Thụy Điển",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323156_82d4f68ea6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323156_e224297719_o.png",
+      "id_image": "embassy_4697255"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678304_49f86f9717_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678304_02f8cb6297_o.png",
+      "id_image": "embassy_4849744"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059805_1240f2d8e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059805_e7263e6c27_o.png",
+      "id_image": "embassy_4960716"
+    }
+  ]
+}

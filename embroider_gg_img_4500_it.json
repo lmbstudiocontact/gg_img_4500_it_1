@@ -1,0 +1,62 @@
+{
+  "english": "embroider",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thêu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tô điểm thêm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thêu dệt thêm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thêu thùa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "decorate (cloth) by sewing patterns on it with thread.",
+      "definitions_ex_en": "she was teaching one of the girls how to embroider",
+      "definitions_ex_vn": "Cô đang dạy một trong những cô gái cách thêu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "add fictitious or exaggerated details to (an account) to make it more interesting.",
+      "definitions_ex_en": "she embroidered her stories with colorful detail",
+      "definitions_ex_vn": "Cô ấy thêu những câu chuyện của mình với chi tiết đầy màu sắc",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322541_58975b4db2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322541_aba7d48e11_o.png",
+      "id_image": "embroidery_2589578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059270_b8ab2e7679_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059270_cea6529316_o.png",
+      "id_image": "embroidery_2961456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367362_ff1a3a3dbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367362_7cece68632_o.png",
+      "id_image": "embroidery_2961473"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437653_e91a7456a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437653_b29db693c8_o.png",
+      "id_image": "embroidery_5558251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677759_da19389dba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677759_d46ffd9946_o.png",
+      "id_image": "embroider_2927825"
+    }
+  ]
+}

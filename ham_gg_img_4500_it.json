@@ -1,0 +1,81 @@
+{
+  "english": "ham",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giăm bông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắp chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đít",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt giăm bông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đùi thịt muối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhượng chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ram bông",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "meat from the upper part of a pig's leg salted and dried or smoked.",
+      "definitions_ex_en": "thin slices of ham",
+      "definitions_ex_vn": "lát giăm bông mỏng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the backs of the thighs or the thighs and buttocks.",
+      "definitions_ex_en": "he squatted down on his hams",
+      "definitions_ex_vn": "Anh ngồi xổm xuống giăm bông của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an excessively theatrical actor.",
+      "definitions_ex_en": "nobody gets to emote more than a ham on the witness stand",
+      "definitions_ex_vn": "không ai được đưa ra nhiều hơn một ham trên đứng nhân chứng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an amateur radio operator.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "overact.",
+      "definitions_ex_en": "he was hamming it up, doing all the voices and the effects",
+      "definitions_ex_vn": "Anh ta đã đập nó lên, làm tất cả các giọng nói và hiệu ứng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315931_50a8fec82e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315931_469ffdc3ce_o.png",
+      "id_image": "ham_1391396"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430803_767f2ddab9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430803_8f5b20b27e_o.png",
+      "id_image": "ham_1660603"
+    }
+  ]
+}

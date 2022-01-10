@@ -1,0 +1,96 @@
+{
+  "english": "fork",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái chĩa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái nĩa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nĩa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhánh cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây nạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chĩa ra nhiều nhánh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an implement with two or more prongs used for lifting food to the mouth or holding it when cutting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the point where something, especially a road or river, divides into two parts.",
+      "definitions_ex_en": "turn right at the next fork",
+      "definitions_ex_vn": "rẽ phải tại ngã ba tiếp theo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a unit consisting of a pair of supports in which a bicycle or motorcycle wheel revolves.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a flash of forked lightning.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a simultaneous attack on two or more pieces by one piece.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(especially of a road or other route) divide into two parts.",
+      "definitions_ex_en": "the place where the road forks",
+      "definitions_ex_vn": "Nơi mà dĩa đường",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "dig, lift, or manipulate (something) with a fork.",
+      "definitions_ex_en": "fork in some compost",
+      "definitions_ex_vn": "nĩa trong một số phân ủ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "attack (two pieces) simultaneously with one piece.",
+      "definitions_ex_en": "he has forked my bishop and knight",
+      "definitions_ex_vn": "anh ấy đã ngã ba giám mục và hiệp sĩ của tôi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315111_121f127a01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315111_cd5fc170a6_o.png",
+      "id_image": "fork_3006739"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315086_6dba433ff6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315086_58f3294c06_o.png",
+      "id_image": "fork_4711413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315056_44717c9405_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315056_049db67d0a_o.png",
+      "id_image": "fork_6332067"
+    }
+  ]
+}

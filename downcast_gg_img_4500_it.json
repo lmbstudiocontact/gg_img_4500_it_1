@@ -1,0 +1,56 @@
+{
+  "english": "downcast",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chán mản",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhìn thẳng xuống đất",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thất vọng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gió thổi từ trên xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hầm không khí ở hầm mỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "luồng gió thổi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person's eyes) looking downward.",
+      "definitions_ex_en": "her modestly downcast eyes",
+      "definitions_ex_vn": "đôi mắt downcast khiêm tốn của cô",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) feeling despondent.",
+      "definitions_ex_en": "you mustn't be downcast",
+      "definitions_ex_vn": "Bạn không được hạ thấp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a shaft dug in a mine for extra ventilation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307591_547483644f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307591_ca24e99202_o.png",
+      "id_image": "downcast_4126518"
+    }
+  ]
+}

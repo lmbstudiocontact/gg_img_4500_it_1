@@ -1,0 +1,34 @@
+{
+  "english": "dermatologist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bác sĩ trị về da",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a medical practitioner qualified to diagnose and treat skin disorders.",
+      "definitions_ex_en": "visit your dermatologist yearly for a full-body skin check",
+      "definitions_ex_vn": "Ghé thăm bác sĩ da liễu của bạn hàng năm để kiểm tra toàn thân",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066620_474a42abc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066620_690f181710_o.png",
+      "id_image": "dermatologist_3468053"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329866_7ab74279cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329866_56e42306f1_o.png",
+      "id_image": "dermatologist_4148328"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684769_b3e64f70b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684769_dc826a29b3_o.png",
+      "id_image": "dermatologist_4148339"
+    }
+  ]
+}

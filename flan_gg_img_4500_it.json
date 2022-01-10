@@ -1,0 +1,40 @@
+{
+  "english": "flan",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bánh flan",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a baked dish consisting of an open-topped pastry case with a savory or sweet filling.",
+      "definitions_ex_en": "an egg and bacon flan",
+      "definitions_ex_vn": "một quả trứng và thịt xông khói flan",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a disk of metal such as one from which a coin is made.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678354_9867371457_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678354_d6cd112ed7_o.png",
+      "id_image": "flan_2690267"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059855_377b3a922f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059855_c4c58bfaa9_o.png",
+      "id_image": "flan_4516491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678244_a24e6a2bbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678244_d45ec3fce9_o.png",
+      "id_image": "flan_6313400"
+    }
+  ]
+}

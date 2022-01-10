@@ -1,0 +1,24 @@
+{
+  "english": "enigma",
+  "list_translation_mean": [
+    {
+      "translate_mean": "câu đố",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that is mysterious, puzzling, or difficult to understand.",
+      "definitions_ex_en": "Madeleine was still an enigma to him",
+      "definitions_ex_vn": "Madeleine vẫn là một bí ẩn với anh ta",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673754_92fb643aeb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673754_488a95b59a_o.png",
+      "id_image": "enigma_4843098"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "english": "fizzy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có bọt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có hơi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có sùi bọt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rượu sâm banh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a beverage) containing bubbles of gas; effervescent.",
+      "definitions_ex_en": "fizzy mineral water",
+      "definitions_ex_vn": "nước khoáng fizzy",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368877_293a7f7ac2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368877_313572cd66_o.png",
+      "id_image": "fizzy_1408444"
+    }
+  ]
+}

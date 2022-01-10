@@ -1,0 +1,45 @@
+{
+  "english": "eject",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài tiết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách chức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đuổi ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tống ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trục xuất",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "force or throw (something) out, typically in a violent or sudden way.",
+      "definitions_ex_en": "many types of rock are ejected from volcanoes as solid, fragmentary material",
+      "definitions_ex_vn": "Nhiều loại đá được đẩy ra từ núi lửa như vật liệu phân mảnh, rắn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372112_ff7758c3a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372112_b27851cb0e_o.png",
+      "id_image": "eject_183624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327401_9f563a04dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327401_514deffe37_o.png",
+      "id_image": "eject_5869939"
+    }
+  ]
+}

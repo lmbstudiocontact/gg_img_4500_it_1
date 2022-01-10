@@ -1,0 +1,71 @@
+{
+  "english": "father",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cha",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ba",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cha trong nhà thờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người phát minh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người sáng lập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người sáng tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phát minh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a man in relation to his child or children.",
+      "definitions_ex_en": "Margaret's father died at an early age",
+      "definitions_ex_vn": "Cha của Margaret đã chết khi còn nhỏ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(often as a title or form of address) a priest.",
+      "definitions_ex_en": "pray for me, father",
+      "definitions_ex_vn": "cầu nguyện cho tôi, cha",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "early Christian theologians (in particular of the first five centuries) whose writings are regarded as especially authoritative.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a man) cause a pregnancy resulting in the birth of (a child).",
+      "definitions_ex_en": "he fathered three children",
+      "definitions_ex_vn": "anh ấy đã ba đứa con",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449818_84bb99a410_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449818_dacfa6b228_o.png",
+      "id_image": "father_2880554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071780_de52005783_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071780_8339d6429c_o.png",
+      "id_image": "father_437504"
+    }
+  ]
+}

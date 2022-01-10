@@ -1,0 +1,58 @@
+{
+  "english": "documentation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phim tài liệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tài liệu tham khảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dựa vào tài liệu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "material that provides official information or evidence or that serves as a record.",
+      "definitions_ex_en": "you will have to complete the relevant documentation",
+      "definitions_ex_vn": "Bạn sẽ phải hoàn thành các tài liệu liên quan",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process of classifying and annotating texts, photographs, etc.",
+      "definitions_ex_en": "she arranged the collection and documentation of photographs",
+      "definitions_ex_vn": "Cô sắp xếp bộ sưu tập và tài liệu về các bức ảnh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355837_d6bc285400_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355837_cd8061d728_o.png",
+      "id_image": "documentation_1076360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355812_27164cde2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355812_2c67c4b8d0_o.png",
+      "id_image": "documentation_1831982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426518_d5499f5521_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426518_1b067839bf_o.png",
+      "id_image": "documentation_2861719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666639_1360a33e42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666639_7758567d94_o.png",
+      "id_image": "documentation_3043497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311801_38cbd4d38d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311801_a9c01c0220_o.png",
+      "id_image": "documentation_439270"
+    }
+  ]
+}

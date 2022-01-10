@@ -1,0 +1,76 @@
+{
+  "english": "drunk",
+  "list_translation_mean": [
+    {
+      "translate_mean": "say",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "say sưa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "uống say",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người say",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quá khứ của drink",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "say mèm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "past participle of drink.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "affected by alcohol to the extent of losing control of one's faculties or behavior.",
+      "definitions_ex_en": "he was so drunk he lurched from wall to wall",
+      "definitions_ex_vn": "Anh ấy đã say như vậy anh ấy đã chao đảo từ tường này sang bức tường",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person who is drunk or who habitually drinks to excess.",
+      "definitions_ex_en": "we staggered up the path like a couple of drunks",
+      "definitions_ex_vn": "Chúng tôi lảo đảo lên con đường như một vài người say rượu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336351_0a4dcbddc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336351_5eaaf3b2d7_o.png",
+      "id_image": "drunk_1917681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451223_c8b4a1999e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451223_e7020ccd1c_o.png",
+      "id_image": "drunk_2132396"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451203_b30b587dd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451203_b6af3c86cb_o.png",
+      "id_image": "drunk_2688626"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451173_20fcabc197_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451173_d72b403c55_o.png",
+      "id_image": "drunk_5020390"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451143_91d8944e90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451143_a505b21faf_o.png",
+      "id_image": "drunk_6333490"
+    }
+  ]
+}

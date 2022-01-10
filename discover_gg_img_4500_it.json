@@ -1,0 +1,66 @@
+{
+  "english": "discover",
+  "list_translation_mean": [
+    {
+      "translate_mean": "để thấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khám phá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát giác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiết lộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm thấy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "find (something or someone) unexpectedly or in the course of a search.",
+      "definitions_ex_en": "firemen discovered a body in the debris",
+      "definitions_ex_vn": "Lính cứu hỏa phát hiện ra một cơ thể trong các mảnh vỡ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "divulge (a secret).",
+      "definitions_ex_en": "they contain some secrets which Time will discover",
+      "definitions_ex_vn": "Chúng chứa một số bí mật mà thời gian sẽ khám phá",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054025_70d5388676_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054025_51f1aaa400_o.png",
+      "id_image": "discover_2196209"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672254_34d18ac76e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672254_d3364d7c37_o.png",
+      "id_image": "discover_3775255"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053925_28b06b9e02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053925_fe34bc5d11_o.png",
+      "id_image": "discover_4776027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317441_baa37d9459_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317441_39bcbf0d84_o.png",
+      "id_image": "discover_4785366"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432518_1d059752a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432518_42bab84400_o.png",
+      "id_image": "discover_4797094"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "english": "dentition",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách mọc răng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình đôi của răng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the arrangement or condition of the teeth in a particular species or individual.",
+      "definitions_ex_en": "mammals can be reliably identified from a study of their dentition alone",
+      "definitions_ex_vn": "động vật có vú có thể được xác định một cách đáng tin cậy từ một nghiên cứu về nha khoa của họ một mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068380_5cca357f14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068380_ce3191c0dd_o.png",
+      "id_image": "dentition_4215133"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068330_b5455a9fc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068330_9722fb25d4_o.png",
+      "id_image": "denture_1328989"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686614_78b430f5c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686614_b3b5ae10c3_o.png",
+      "id_image": "denture_2681954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446673_3773097bff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446673_52c0910451_o.png",
+      "id_image": "denture_315486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376267_f0e0b217bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376267_e33be80ee9_o.png",
+      "id_image": "denture_5635625"
+    }
+  ]
+}

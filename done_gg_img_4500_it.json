@@ -1,0 +1,72 @@
+{
+  "english": "done",
+  "list_translation_mean": [
+    {
+      "translate_mean": "được rồi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hoàn thành",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm xong",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngày tàn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dọn dẹp xong",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thi hành xong",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "past participle of do1.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of food) cooked thoroughly.",
+      "definitions_ex_en": "the turkey will be done soon",
+      "definitions_ex_vn": "Thổ Nhĩ Kỳ sẽ được thực hiện sớm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "no longer happening or existing.",
+      "definitions_ex_en": "her hunting days were done",
+      "definitions_ex_vn": "Những ngày săn bắn của cô đã được thực hiện",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "used to indicate that the speaker accepts the terms of an offer.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "exclamation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310026_4a822d9207_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310026_7568e09ee2_o.png",
+      "id_image": "done_1042010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665234_b16858bdf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665234_6dea5b90eb_o.png",
+      "id_image": "done_5216773"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046900_3911315c0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046900_f5eceed913_o.png",
+      "id_image": "done_5622617"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "english": "eat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ăn cơm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ăn lủng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ăn mụt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm hư",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đồ ăn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "put (food) into the mouth and chew and swallow it.",
+      "definitions_ex_en": "he was eating a hot dog",
+      "definitions_ex_vn": "anh ấy đang ăn một con chó nóng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "food or snacks.",
+      "definitions_ex_en": "people would stop for soft drinks or eats",
+      "definitions_ex_vn": "mọi người sẽ dừng lại cho nước ngọt hoặc ăn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447233_59615e0f67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447233_37ac10e7a4_o.png",
+      "id_image": "eat_5722032"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068890_42cfed0a68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068890_cb404ea1e6_o.png",
+      "id_image": "eat_5970922"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447133_47c8acb92f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447133_39d34d84a5_o.png",
+      "id_image": "eat_6334870"
+    }
+  ]
+}

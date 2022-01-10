@@ -1,0 +1,71 @@
+{
+  "english": "false",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sai",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giả dối",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gỉa bộ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sai lầm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không ngay thật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đồ giả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngụy tạo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not according with truth or fact; incorrect.",
+      "definitions_ex_en": "the allegations were false",
+      "definitions_ex_vn": "Các cáo buộc là sai",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "appearing to be the thing denoted; deliberately made or meant to deceive.",
+      "definitions_ex_en": "a false passport",
+      "definitions_ex_vn": "một hộ chiếu giả",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "illusory; not actually so.",
+      "definitions_ex_en": "sunscreens give users a false sense of security",
+      "definitions_ex_vn": "Kem chống nắng cho người dùng một cảm giác an toàn sai lầm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "treacherous; unfaithful.",
+      "definitions_ex_en": "a false lover",
+      "definitions_ex_vn": "Một người yêu sai",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692109_2fa56b805f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692109_6dbdbc9ffa_o.png",
+      "id_image": "false_5226409"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692074_0bba974a30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692074_cc55fc980a_o.png",
+      "id_image": "false_5706113"
+    }
+  ]
+}

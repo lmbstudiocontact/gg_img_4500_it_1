@@ -1,0 +1,71 @@
+{
+  "english": "expand",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bơm phồng lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dản ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giãm bớt áp lực",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khai triển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm phồng ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lớn lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mở mang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mỡ rộng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát triển",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "become or make larger or more extensive.",
+      "definitions_ex_en": "their business expanded into other hotels and properties",
+      "definitions_ex_vn": "doanh nghiệp của họ mở rộng sang các khách sạn và tài sản khác",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354842_1db4cbf2ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354842_9bea845e5b_o.png",
+      "id_image": "expand_1753282"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310706_94da92ddc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310706_4f2c164cf7_o.png",
+      "id_image": "expand_271248"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425653_18bf968ed8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425653_4ec95a314c_o.png",
+      "id_image": "expand_3558024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047395_df1f109dac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047395_7bd0ede26f_o.png",
+      "id_image": "expand_4637095"
+    }
+  ]
+}

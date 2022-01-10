@@ -1,0 +1,39 @@
+{
+  "english": "dictionary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tự điển",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a book or electronic resource that lists the words of a language (typically in alphabetical order) and gives their meaning, or gives the equivalent words in a different language, often also providing information about pronunciation, origin, and usage.",
+      "definitions_ex_en": "I'll look up ‘love’ in the dictionary",
+      "definitions_ex_vn": "Tôi sẽ tìm kiếm 'tình yêu' trong từ điển",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367857_5e764cca5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367857_b24cd08f09_o.png",
+      "id_image": "dictionary_4509557"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322921_fa22d680d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322921_c5a541f2d7_o.png",
+      "id_image": "dictionary_4509605"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678009_3fcf76dc5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678009_48bdcb4654_o.png",
+      "id_image": "dictionary_6090928"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677954_3f2ecaae9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677954_9c63f1c5a4_o.png",
+      "id_image": "dictionary_6150909"
+    }
+  ]
+}

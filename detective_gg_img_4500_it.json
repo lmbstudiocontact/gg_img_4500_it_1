@@ -1,0 +1,51 @@
+{
+  "english": "detective",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cảnh sát chìm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cảnh sát đặc biệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà trinh thám",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thám tử",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person, especially a police officer, whose occupation is to investigate and solve crimes.",
+      "definitions_ex_en": "detectives are anxious to interview anyone who saw the car",
+      "definitions_ex_vn": "thám tử lo lắng để phỏng vấn bất cứ ai nhìn thấy chiếc xe",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063935_3f75a58508_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063935_2abaa6c58a_o.png",
+      "id_image": "detective_1865678"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063895_eeaa4ca177_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063895_f3751227c3_o.png",
+      "id_image": "detective_2267553"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063855_f2f48af9ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063855_6bd5b10043_o.png",
+      "id_image": "detective_2307565"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682059_315d30153f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682059_6e76e33199_o.png",
+      "id_image": "detective_2646542"
+    }
+  ]
+}

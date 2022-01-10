@@ -1,0 +1,80 @@
+{
+  "english": "drip",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bình để lọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "để chảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "để nhỏ xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giọt nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước chảy xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhỏ xuống từng giọt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chảy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "let fall or be so wet as to shed small drops of liquid.",
+      "definitions_ex_en": "the faucet won't stop dripping",
+      "definitions_ex_vn": "Vòi sẽ không ngừng nhỏ giọt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a small drop of a liquid.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a projection or groove on the underside of a cornice, windowsill, or molding that prevents rain from running down the wall below.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693794_ae4d040b44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693794_1a97ded9fe_o.png",
+      "id_image": "drip_1111094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338621_44cf25097e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338621_a043747cc3_o.png",
+      "id_image": "drip_3360460"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383487_35f9bdb1e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383487_b544038026_o.png",
+      "id_image": "drip_3380341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338546_45b9f8777e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338546_213f94cc10_o.png",
+      "id_image": "drip_4417733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453463_50aa30a9f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453463_82bf2276dd_o.png",
+      "id_image": "drip_6316550"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "english": "ferret",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chồn đèn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tò mò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tọc mạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vải bằng tơ thô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phát giác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "săn thỏ bằng chồn đèn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a domesticated polecat kept as a pet or used, especially in Europe, for catching rabbits. It is typically albino or brown.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a person) hunt with ferrets, typically for rabbits.",
+      "definitions_ex_en": "I could show you how to ferret for rabbits",
+      "definitions_ex_vn": "Tôi có thể chỉ cho bạn cách ferret cho thỏ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068515_16c822b435_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068515_0215814da3_o.png",
+      "id_image": "ferret_427458"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331826_68252958bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331826_2fd08fbfdf_o.png",
+      "id_image": "ferret_4359607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446843_5617fa792f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446843_8d9d498ace_o.png",
+      "id_image": "ferret_523533"
+    }
+  ]
+}

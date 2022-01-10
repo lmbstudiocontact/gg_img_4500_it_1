@@ -1,0 +1,51 @@
+{
+  "english": "fart",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái địt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh rắm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "emit gas from the anus.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "waste time on silly or trivial things.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an emission of gas from the anus.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a boring or contemptible person.",
+      "definitions_ex_en": "he was such an old fart",
+      "definitions_ex_vn": "Anh ấy là một cái rắm cũ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380367_b434eb4e82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380367_3302b840f6_o.png",
+      "id_image": "fart_2688274"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690509_5bcb4c32e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690509_5b8ca8621a_o.png",
+      "id_image": "fart_599514"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "english": "funky",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhát gan",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of music) having or using a strong dance rhythm, in particular that of funk.",
+      "definitions_ex_en": "some excellent funky beats",
+      "definitions_ex_vn": "một số nhịp điệu sôi nổi tuyệt vời",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079060_196f00a442_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079060_e2e8950ff9_o.png",
+      "id_image": "funky_1425358"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456468_afa039687c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456468_573042561c_o.png",
+      "id_image": "funky_1902274"
+    }
+  ]
+}

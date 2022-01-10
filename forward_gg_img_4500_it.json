@@ -1,0 +1,163 @@
+{
+  "english": "forward",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nóng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ơ trước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phía trước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sốt ruột",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sớm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô lể",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô liêm sỉ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự đưa banh tới trước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xấc xược",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hiển nhiên",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "kể từ ngày ấy",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ở phía trước",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "rõ rệt",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "từ nay về sau",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "người chơi ở hàng tiền đại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giúp ích",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in the direction that one is facing or traveling; toward the front.",
+      "definitions_ex_en": "he started up the engine and the car moved forward",
+      "definitions_ex_vn": "Anh ấy bắt đầu động cơ và chiếc xe tiến về phía trước",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "onward so as to make progress; toward a successful conclusion.",
+      "definitions_ex_en": "there's no way forward for the relationship",
+      "definitions_ex_vn": "Không có cách nào về phía trước cho mối quan hệ",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "toward the future; ahead in time.",
+      "definitions_ex_en": "from that day forward, the assembly was at odds with us",
+      "definitions_ex_vn": "từ ngày hôm đó về phía trước, hội đồng đã ở mức cược với chúng tôi",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "directed or facing toward the front or the direction that one is facing or traveling.",
+      "definitions_ex_en": "forward flight",
+      "definitions_ex_vn": "Chuyển tiếp chuyến bay",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to or concerned with the future.",
+      "definitions_ex_en": "a twelve-month forward forecast",
+      "definitions_ex_vn": "Dự báo về phía trước mười hai tháng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "moving or tending onward to a successful conclusion.",
+      "definitions_ex_en": "the decision is a forward step",
+      "definitions_ex_vn": "Quyết định là một bước tiến về phía trước",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) bold or familiar in manner, especially in a presumptuous way.",
+      "definitions_ex_en": "I am not usually a forward sort of person",
+      "definitions_ex_vn": "Tôi thường không phải là một loại người về phía trước",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an attacking player in basketball, hockey, or other sports.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for forward contract.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "send (a letter or email) on to a further destination.",
+      "definitions_ex_en": "my emails were forwarded to a friend",
+      "definitions_ex_vn": "Email của tôi đã được chuyển đến một người bạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "help to advance (something); promote.",
+      "definitions_ex_en": "the scientists are forwarding the development of biotechnology",
+      "definitions_ex_vn": "Các nhà khoa học đang chuyển tiếp sự phát triển của công nghệ sinh học",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428903_2bb679733e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428903_b95c7ccfc1_o.png",
+      "id_image": "forward_1624571"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314006_5cebcaf132_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314006_f0e01b3023_o.png",
+      "id_image": "forward_1915665"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358202_ba703032c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358202_ee235fa4df_o.png",
+      "id_image": "forward_3160937"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358272_28a3f7fe68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358272_4f7631ddc7_o.png",
+      "id_image": "forward_785726"
+    }
+  ]
+}

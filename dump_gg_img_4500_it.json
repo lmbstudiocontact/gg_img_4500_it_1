@@ -1,0 +1,107 @@
+{
+  "english": "dump",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bù lon làm cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ bỏ vật phế thải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kẹo bòn bon",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kho vủ khí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng của vật nặng rơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồng tiền bằng chì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một thứ kẹo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thẻ đánh bài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người to béo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quán trọ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đổ xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trút xuốmg",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a site for depositing garbage.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an unpleasant or dreary place.",
+      "definitions_ex_en": "she says the town has become a dump",
+      "definitions_ex_vn": "Cô nói rằng thị trấn đã trở thành một bãi rác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a copying of stored data to a different location, performed typically as a protection against loss.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "deposit or dispose of (garbage, waste, or unwanted material), typically in a careless or hurried way.",
+      "definitions_ex_en": "trucks dumped 1,900 tons of refuse here",
+      "definitions_ex_vn": "Xe tải đổ 1.900 tấn rác thải ra đây",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "copy (stored data) to a different location, especially so as to protect against loss.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "tackle (a quarterback) before he can throw a pass.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450418_f185a818b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450418_fd0ac355a5_o.png",
+      "id_image": "dump_3022156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335421_4f476b8b7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335421_a83e486ae8_o.png",
+      "id_image": "dump_3937403"
+    }
+  ]
+}

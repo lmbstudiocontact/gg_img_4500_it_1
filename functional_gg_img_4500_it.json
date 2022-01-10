@@ -1,0 +1,42 @@
+{
+  "english": "functional",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về cơ năng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of or having a special activity, purpose, or task; relating to the way in which something works or operates.",
+      "definitions_ex_en": "there are important functional differences between left and right brain",
+      "definitions_ex_vn": "Có sự khác biệt chức năng quan trọng giữa não trái và phải",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "designed to be practical and useful, rather than attractive.",
+      "definitions_ex_en": "she had assumed the apartment would be functional and simple",
+      "definitions_ex_vn": "Cô đã cho rằng căn hộ sẽ là chức năng và đơn giản",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "working or operating.",
+      "definitions_ex_en": "the museum will be fully functional from the opening of the festival",
+      "definitions_ex_vn": "Bảo tàng sẽ có đầy đủ chức năng từ việc khai mạc lễ hội",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to a variable quantity whose value depends upon one or more other variables.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080055_e5653be570_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080055_8b2647633c_o.png",
+      "id_image": "functional_4529349"
+    }
+  ]
+}

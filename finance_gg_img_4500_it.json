@@ -1,0 +1,62 @@
+{
+  "english": "finance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tài chánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền của",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cấp tiền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xuất vốn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the management of large amounts of money, especially by governments or large companies.",
+      "definitions_ex_en": "the firm's finance department",
+      "definitions_ex_vn": "Sở tài chính của công ty",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide funding for (a person or enterprise).",
+      "definitions_ex_en": "the city and county originally financed the project",
+      "definitions_ex_vn": "Thành phố và quận ban đầu được tài trợ cho dự án",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683549_1cf23974f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683549_7a747e1465_o.png",
+      "id_image": "finance_5695781"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065235_c9dd67721e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065235_aa27614bc2_o.png",
+      "id_image": "finance_5695834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328366_a05af368b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328366_9b34a57e4e_o.png",
+      "id_image": "finance_5695846"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443358_7295295a46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443358_73860d0b69_o.png",
+      "id_image": "finance_5695911"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443323_1d7f21c217_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443323_8152861c8b_o.png",
+      "id_image": "finance_6000832"
+    }
+  ]
+}

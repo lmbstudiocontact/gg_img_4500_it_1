@@ -1,0 +1,34 @@
+{
+  "english": "gargle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "súc miệng bằng nước thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc súc miệng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "wash one's mouth and throat with a liquid kept in motion by exhaling through it.",
+      "definitions_ex_en": "instruct patients to gargle with warm water",
+      "definitions_ex_vn": "hướng dẫn bệnh nhân súc miệng với nước ấm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act or instance or the sound of gargling.",
+      "definitions_ex_en": "a swig and gargle of mouthwash",
+      "definitions_ex_vn": "một swig và súc miệng nước súc miệng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453858_4ba257c215_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453858_4b14d6ea33_o.png",
+      "id_image": "gargle_1686021"
+    }
+  ]
+}

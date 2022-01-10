@@ -1,0 +1,58 @@
+{
+  "english": "funk",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người hay sợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nhát gan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sợ hải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hoảng sợ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kinh hoàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "run sợ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sợ hãi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khiếp đãm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a style of popular dance music of US black origin, based on elements of blues and soul and having a strong rhythm that typically accentuates the first beat in the bar.",
+      "definitions_ex_en": "a mixture of punk and funk",
+      "definitions_ex_vn": "một hỗn hợp của punk và funk",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give music elements of funk.",
+      "definitions_ex_en": "we're bringing back the old Motown sound and funking it up",
+      "definitions_ex_vn": "Chúng tôi đang mang lại âm thanh Motown cũ và gây cho nó lên",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079095_45660e18cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079095_e3a6f609ef_o.png",
+      "id_image": "funk_122861"
+    }
+  ]
+}

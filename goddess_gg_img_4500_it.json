@@ -1,0 +1,48 @@
+{
+  "english": "goddess",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nữ thần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thần vệ nữ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a female deity.",
+      "definitions_ex_en": "a temple to Athena Nike, goddess of victory",
+      "definitions_ex_vn": "một ngôi đền đến Athena Nike, nữ thần chiến thắng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684854_d5876b5ef4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684854_cb51c4fbbb_o.png",
+      "id_image": "goddess_2332754"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684814_d7a625ca33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684814_7078ae6b55_o.png",
+      "id_image": "goddess_2332824"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444813_f2c203d08f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444813_e609147c3a_o.png",
+      "id_image": "goddess_4134298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444743_3f551970b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444743_8fa4d46b37_o.png",
+      "id_image": "goddess_5235965"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444708_18cedf023c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444708_cc7881291d_o.png",
+      "id_image": "goddess_5706367"
+    }
+  ]
+}

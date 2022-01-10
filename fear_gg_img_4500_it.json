@@ -1,0 +1,65 @@
+{
+  "english": "fear",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lo ngại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sợ hải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tôn trọng pháp luật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kinh hải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lo sợ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an unpleasant emotion caused by the belief that someone or something is dangerous, likely to cause pain, or a threat.",
+      "definitions_ex_en": "he is prey to irrational fears",
+      "definitions_ex_vn": "anh ấy là con mồi để sợ hãi phi lý",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be afraid of (someone or something) as likely to be dangerous, painful, or threatening.",
+      "definitions_ex_en": "farmers fear that they will lose business",
+      "definitions_ex_vn": "Nông dân sợ rằng họ sẽ mất kinh doanh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070680_d0cdcf5921_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070680_3c79bc4135_o.png",
+      "id_image": "fear_2367133"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688774_8a83dfa598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688774_c3dd51b80d_o.png",
+      "id_image": "fear_4897333"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688879_6767bcc03c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688879_22d8bdb56b_o.png",
+      "id_image": "fear_708633"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378657_5dcdb43def_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378657_b6367d1879_o.png",
+      "id_image": "fear_817782"
+    }
+  ]
+}

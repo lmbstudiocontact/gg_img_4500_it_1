@@ -1,0 +1,43 @@
+{
+  "english": "downward",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đi xuống",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhìn xuống",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "từ trên xuống dưới",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "toward a lower place, point, or level.",
+      "definitions_ex_en": "he was lying face downward",
+      "definitions_ex_vn": "anh ấy đang nằm ngửa xuống",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "moving or leading toward a lower place or level.",
+      "definitions_ex_en": "a downward trend in inflation",
+      "definitions_ex_vn": "một xu hướng giảm trong lạm phát",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662619_ba64dd74de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662619_249ba0db1d_o.png",
+      "id_image": "downward_2647562"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307351_7c8382681c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307351_55c0a555e1_o.png",
+      "id_image": "downward_959116"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "english": "doorbell",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuông cửa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a bell in a building which can be rung by visitors outside to signal their arrival.",
+      "definitions_ex_en": "Charlotte rang the doorbell",
+      "definitions_ex_vn": "Charlotte rang chuông cửa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046595_6acdcc887b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046595_9409e779c5_o.png",
+      "id_image": "doorbell_1035454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309526_1bff9a1877_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309526_8784a42a3e_o.png",
+      "id_image": "doorbell_2036806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664859_f92a9cb073_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664859_e6d5dd78ce_o.png",
+      "id_image": "doorbell_4413065"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046445_f5efbbc7b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046445_116c47f2a4_o.png",
+      "id_image": "doorbell_4413840"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046415_3da3bfa20c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046415_f6e0d6cf37_o.png",
+      "id_image": "doorbell_5512950"
+    }
+  ]
+}

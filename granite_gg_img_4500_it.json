@@ -1,0 +1,24 @@
+{
+  "english": "granite",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đá dùng để cất nhà",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a very hard, granular, crystalline, igneous rock consisting mainly of quartz, mica, and feldspar and often used as a building stone.",
+      "definitions_ex_en": "granite columns",
+      "definitions_ex_vn": "cột đá granit.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325381_eb1a1838ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325381_d98ba0a8aa_o.png",
+      "id_image": "granite_6224567"
+    }
+  ]
+}

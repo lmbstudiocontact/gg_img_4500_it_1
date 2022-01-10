@@ -1,0 +1,49 @@
+{
+  "english": "endorsement",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chuyển nhượng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kiểm nhận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thừa nhận",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an act of giving one's public approval or support to someone or something.",
+      "definitions_ex_en": "the issue of full independence received overwhelming endorsement",
+      "definitions_ex_vn": "Vấn đề độc lập hoàn toàn nhận được chứng thực áp đảo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a clause in an insurance policy detailing an exemption from or change in coverage.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of endorsing a check or bill of exchange.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056645_41163ce578_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056645_b7976a833b_o.png",
+      "id_image": "endorsement_2473055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435118_9d369e1501_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435118_8a69c4a96c_o.png",
+      "id_image": "endorsement_4658949"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "english": "engagement",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc chiến đấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hôn ước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khế ước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lể đính hôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời hứa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời ước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mướn thợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mộ lính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thuê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trận đánh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a formal agreement to get married.",
+      "definitions_ex_en": "she'd broken off her engagement to Paul",
+      "definitions_ex_vn": "cô ấy đã phá vỡ sự tham gia của mình để Paul",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an arrangement to do something or go somewhere at a fixed time.",
+      "definitions_ex_en": "a dinner engagement",
+      "definitions_ex_vn": "một bữa ăn tối",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of engaging or being engaged.",
+      "definitions_ex_en": "Britain's continued engagement in open trading",
+      "definitions_ex_vn": "Tiếp tục đính hôn trong giao dịch mở",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fight or battle between armed forces.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434658_98b95d82be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434658_2cb0afa1c8_o.png",
+      "id_image": "engagement_4446318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319571_a3816e3cdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319571_7bbd8387b6_o.png",
+      "id_image": "engagement_5526176"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434698_701de17b7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434698_e94350cfb6_o.png",
+      "id_image": "engagement_980211"
+    }
+  ]
+}

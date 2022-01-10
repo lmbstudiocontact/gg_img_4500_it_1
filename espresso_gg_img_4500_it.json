@@ -1,0 +1,39 @@
+{
+  "english": "espresso",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cà phê hơi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "strong black coffee made by forcing steam through ground coffee beans.",
+      "definitions_ex_en": "he bought an espresso and a couple of croissants",
+      "definitions_ex_vn": "Anh ta đã mua một quả espresso và một vài bánh croissants",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315301_94575ab517_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315301_a71828ea10_o.png",
+      "id_image": "espresso_1423984"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315246_8df3f1ebc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315246_82a63770e3_o.png",
+      "id_image": "espresso_5158868"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051755_627c459dbc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051755_50480d8a20_o.png",
+      "id_image": "espresso_5181586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430193_3dfc711cc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430193_5131f7ae52_o.png",
+      "id_image": "espresso_808784"
+    }
+  ]
+}

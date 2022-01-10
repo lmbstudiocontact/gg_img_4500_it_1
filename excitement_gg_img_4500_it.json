@@ -1,0 +1,33 @@
+{
+  "english": "excitement",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khó chịu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nóng nảy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a feeling of great enthusiasm and eagerness.",
+      "definitions_ex_en": "her cheeks were flushed with excitement",
+      "definitions_ex_vn": "Má cô bị đỏ mặt vì phấn khích",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356362_48747a87b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356362_2930f8138d_o.png",
+      "id_image": "excitement_6000906"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356342_a5847e5636_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356342_616d219338_o.png",
+      "id_image": "excitement_6002692"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "english": "explore",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chẩn mạch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khám bịnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khám phá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dò xét",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm tòi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thám hiểm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "travel in or through (an unfamiliar country or area) in order to learn about or familiarize oneself with it.",
+      "definitions_ex_en": "the best way to explore Iceland's northwest",
+      "definitions_ex_vn": "Cách tốt nhất để khám phá Tây Bắc Iceland",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386882_e063dcdc0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386882_f8a9c874c5_o.png",
+      "id_image": "explore_1014668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386847_04fb530905_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386847_11d98c469d_o.png",
+      "id_image": "explore_3775263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697139_a48d57c904_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697139_3d6e449d20_o.png",
+      "id_image": "explore_471012"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456643_5d65077c81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456643_cc60d9cfb1_o.png",
+      "id_image": "explore_6396563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697109_31d14eb327_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697109_c96eabe407_o.png",
+      "id_image": "explore_709273"
+    }
+  ]
+}

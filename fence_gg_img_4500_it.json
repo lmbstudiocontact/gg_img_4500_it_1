@@ -1,0 +1,87 @@
+{
+  "english": "fence",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đánh kiếm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàng rào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người oa trữ đồ ăn cắp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tường xây chung quanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuật đánh gươm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "che chở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đấu gươm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rào lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a barrier, railing, or other upright structure, typically of wood or wire, enclosing an area of ground to mark a boundary, control access, or prevent escape.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a guard or guide on a plane, saw, or other tool.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who deals in stolen goods.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "surround or protect with a fence.",
+      "definitions_ex_en": "our garden was not fully fenced",
+      "definitions_ex_vn": "Khu vườn của chúng tôi không được rào đầy đủ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "deal in (stolen goods).",
+      "definitions_ex_en": "after stealing your ring, he didn't even know how to fence it",
+      "definitions_ex_vn": "Sau khi đánh cắp chiếc nhẫn của bạn, anh ta thậm chí còn không biết cách hàng rào nó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fight with swords, especially as a sport.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377102_a0dd6850b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377102_c2e5d5ee98_o.png",
+      "id_image": "fence_517597"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447343_22d0b971d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447343_dc64602e35_o.png",
+      "id_image": "fence_899187"
+    }
+  ]
+}

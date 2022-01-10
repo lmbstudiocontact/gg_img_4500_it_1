@@ -1,0 +1,52 @@
+{
+  "english": "eucharist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bánh thánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây có hoa trắng hình chuông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thánh thể",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the Christian ceremony commemorating the Last Supper, in which bread and wine are consecrated and consumed.",
+      "definitions_ex_en": "we went to an early morning Eucharist",
+      "definitions_ex_vn": "Chúng tôi đã đi đến một Bí tích Thánh Thể sáng sớm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358392_4a204921ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358392_d1b2e46a58_o.png",
+      "id_image": "eucharist_3781872"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314151_41feec4540_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314151_27e946ccaa_o.png",
+      "id_image": "eucharist_4118477"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429133_636d42ee87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429133_0469f080e8_o.png",
+      "id_image": "eucharist_443572"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429023_41587caca8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429023_5184d2fd03_o.png",
+      "id_image": "eucharist_6396780"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050730_e338ebbdf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050730_8dd489d58d_o.png",
+      "id_image": "eucharist_6396791"
+    }
+  ]
+}

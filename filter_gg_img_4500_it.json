@@ -1,0 +1,49 @@
+{
+  "english": "filter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái lọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái sàng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a porous device for removing impurities or solid particles from a liquid or gas passed through it.",
+      "definitions_ex_en": "an oil filter",
+      "definitions_ex_vn": "một bộ lọc dầu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "pass (a liquid, gas, light, or sound) through a device to remove unwanted material.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065720_4c16bc5af9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065720_06eff777e9_o.png",
+      "id_image": "filter_1555845"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328841_36988b8aba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328841_90a9a54702_o.png",
+      "id_image": "filter_2132365"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373552_035dd0fe75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373552_64dfd3b0d8_o.png",
+      "id_image": "filter_2451345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443868_46531f713e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443868_0218a86df0_o.png",
+      "id_image": "filter_909854"
+    }
+  ]
+}

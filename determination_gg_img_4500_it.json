@@ -1,0 +1,73 @@
+{
+  "english": "determination",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cương quyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "định rỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phán quyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyết định",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thủ tiêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xác định",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "firmness of purpose; resoluteness.",
+      "definitions_ex_en": "he advanced with an unflinching determination",
+      "definitions_ex_vn": "ông tiến lên với một quyết tâm không rõ ràng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process of establishing something exactly by calculation or research.",
+      "definitions_ex_en": "determination of molecular structures",
+      "definitions_ex_vn": "Xác định cấu trúc phân tử",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the controlling or deciding of something's nature or outcome.",
+      "definitions_ex_en": "genetic sex determination",
+      "definitions_ex_vn": "XÁC ĐỊNH SEX MOX",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the cessation of an estate or interest.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tendency to move in a fixed direction.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441478_3a4a08e43c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441478_ac681819af_o.png",
+      "id_image": "determination_1006628"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063345_7524c6b28d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063345_f2e5536de3_o.png",
+      "id_image": "determination_5661047"
+    }
+  ]
+}

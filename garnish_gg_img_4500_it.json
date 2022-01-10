@@ -1,0 +1,48 @@
+{
+  "english": "garnish",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ hoa vị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trang sức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trang trí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rắc đồ hoa vị",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "decorate or embellish (something, especially food).",
+      "definitions_ex_en": "salad garnished with an orange slice",
+      "definitions_ex_vn": "Salad trang trí với một lát cam",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "serve with a garnishment.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a decoration or embellishment for something, especially food.",
+      "definitions_ex_en": "reserve a few watercress leaves for a garnish",
+      "definitions_ex_vn": "Dự trữ một vài lá cải xoong cho một trang trí",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453513_724a986e26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453513_a015bb81d4_o.png",
+      "id_image": "garnish_1900796"
+    }
+  ]
+}

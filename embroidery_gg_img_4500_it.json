@@ -1,0 +1,57 @@
+{
+  "english": "embroidery",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ thêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghề thêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thêm thắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thêu dệt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the art or pastime of embroidering cloth.",
+      "definitions_ex_en": "my mother decided I should learn embroidery",
+      "definitions_ex_vn": "Mẹ tôi quyết định tôi nên học thêu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "embellishment or exaggeration in the description or reporting of an event.",
+      "definitions_ex_en": "fanciful embroidery of the facts",
+      "definitions_ex_vn": "Thêu huyền ảo của sự thật",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322541_58975b4db2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322541_aba7d48e11_o.png",
+      "id_image": "embroidery_2589578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677654_7fb29965e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677654_81d6f6a61c_o.png",
+      "id_image": "embroidery_2818482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059270_b8ab2e7679_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059270_cea6529316_o.png",
+      "id_image": "embroidery_2961456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437653_e91a7456a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437653_b29db693c8_o.png",
+      "id_image": "embroidery_5558251"
+    }
+  ]
+}

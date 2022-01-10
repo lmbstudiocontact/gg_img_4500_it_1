@@ -1,0 +1,28 @@
+{
+  "english": "gunnery",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bắn súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuật bắn súng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the design, manufacture, or firing of heavy guns.",
+      "definitions_ex_en": "a pioneer of naval gunnery",
+      "definitions_ex_vn": "một người tiên phong của súng bắn súng hải quân",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432608_55c5d69f2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432608_93364a8320_o.png",
+      "id_image": "gunnery_2822367"
+    }
+  ]
+}

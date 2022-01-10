@@ -1,0 +1,48 @@
+{
+  "english": "hidden",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chôn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giấu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "past participle of hide1.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "kept out of sight; concealed.",
+      "definitions_ex_en": "hidden dangers",
+      "definitions_ex_vn": "nguy hiểm tiềm ẩn",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074830_f1ece617af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074830_1d108a52eb_o.png",
+      "id_image": "hidden_2456840"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337786_8054ace49d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337786_6f529fe347_o.png",
+      "id_image": "hidden_4500302"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074885_0871a80f32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074885_e045d8d156_o.png",
+      "id_image": "hidden_508273"
+    }
+  ]
+}

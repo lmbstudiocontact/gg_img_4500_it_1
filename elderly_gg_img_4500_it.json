@@ -1,0 +1,39 @@
+{
+  "english": "elderly",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hơi già",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person) old or aging.",
+      "definitions_ex_en": "she was elderly and silver-haired",
+      "definitions_ex_vn": "Cô ấy già và tóc bạc",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326701_14f1c3b41e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326701_f0b3292bf8_o.png",
+      "id_image": "elderly_2395173"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063565_1a427128e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063565_f96976eed5_o.png",
+      "id_image": "elderly_4561061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441603_fc54f5a5c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441603_21cf7d11d9_o.png",
+      "id_image": "elderly_4561109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681639_516a7bab0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681639_a075e169ce_o.png",
+      "id_image": "elderly_5256081"
+    }
+  ]
+}

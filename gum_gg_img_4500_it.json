@@ -1,0 +1,107 @@
+{
+  "english": "gum",
+  "list_translation_mean": [
+    {
+      "translate_mean": "keo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất nhầy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất nhớt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cục gôm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cục tẩy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kẹo cao su",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kẹo gôm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dán băng keo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a viscous secretion of some trees and shrubs that hardens on drying but is soluble in water, and from which adhesives and other products are made.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for chewing gum or bubblegum.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a gum tree, especially a eucalyptus.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the firm area of flesh around the roots of the teeth in the upper or lower jaw.",
+      "definitions_ex_en": "a tooth broken off just above the gum",
+      "definitions_ex_vn": "một chiếc răng vỡ ra ngay phía trên kẹo cao su",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover with gum or glue.",
+      "definitions_ex_en": "we gummed the photos on to our papers",
+      "definitions_ex_vn": "Chúng tôi đã chụp những bức ảnh vào giấy tờ của chúng tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "chew with toothless gums.",
+      "definitions_ex_en": "some grandmother gumming a meal",
+      "definitions_ex_vn": "Một số bà ngoại Gumming một bữa ăn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "genitourinary medicine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317746_c43935d8e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317746_6f4fbbb97e_o.png",
+      "id_image": "gum_1075916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672574_94e5ff56f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672574_f33d392eb4_o.png",
+      "id_image": "gum_119533"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054245_9389784dda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054245_09df19e7fb_o.png",
+      "id_image": "gum_1398542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317781_2db44e401c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317781_8756a6a86a_o.png",
+      "id_image": "gum_790628"
+    }
+  ]
+}

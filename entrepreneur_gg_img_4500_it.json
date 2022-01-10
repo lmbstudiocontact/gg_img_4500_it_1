@@ -1,0 +1,46 @@
+{
+  "english": "entrepreneur",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bầu gánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bầu hát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chủ gánh hát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bao thầu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who organizes and operates a business or businesses, taking on greater than normal financial risks in order to do so.",
+      "definitions_ex_en": "many entrepreneurs see potential in this market",
+      "definitions_ex_vn": "Nhiều doanh nhân nhìn thấy tiềm năng trong thị trường này",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054380_12c58f4983_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054380_2929a8c119_o.png",
+      "id_image": "entrepreneur_1012347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317806_96cf12fa64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317806_cb9b79e211_o.png",
+      "id_image": "entrepreneur_2761035"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317841_380aecab4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317841_ced7ee26ed_o.png",
+      "id_image": "entrepreneur_875297"
+    }
+  ]
+}

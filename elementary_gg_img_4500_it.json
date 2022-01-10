@@ -1,0 +1,48 @@
+{
+  "english": "elementary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tiểu học",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về đơn giản",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về sơ bộ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về sơ lược",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the basic elements of a subject.",
+      "definitions_ex_en": "an elementary astronomy course",
+      "definitions_ex_vn": "một khóa học thiên văn học tiểu học",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "straightforward and uncomplicated.",
+      "definitions_ex_en": "a series of elementary exercises",
+      "definitions_ex_vn": "một loạt các bài tập tiểu học",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not able to be decomposed into elements or other primary constituents.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439698_0a81b54919_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439698_23386be658_o.png",
+      "id_image": "elementary_957197"
+    }
+  ]
+}

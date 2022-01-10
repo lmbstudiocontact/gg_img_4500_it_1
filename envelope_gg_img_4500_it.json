@@ -1,0 +1,61 @@
+{
+  "english": "envelope",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao thư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bao hình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phong bì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vỏ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a flat paper container with a sealable flap, used to enclose a letter or document.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a covering or containing structure or layer.",
+      "definitions_ex_en": "the external envelope of the swimming pool",
+      "definitions_ex_vn": "phong bì bên ngoài của bể bơi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672339_0d7c3d2b4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672339_e278d96d48_o.png",
+      "id_image": "envelope_1190360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361902_f55745f5f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361902_8fedbcf1d3_o.png",
+      "id_image": "envelope_1424807"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317641_0a0c5aa0a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317641_0dd0f2f30b_o.png",
+      "id_image": "envelope_171019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432743_3e6ccd877a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432743_9e13510e48_o.png",
+      "id_image": "envelope_292005"
+    }
+  ]
+}

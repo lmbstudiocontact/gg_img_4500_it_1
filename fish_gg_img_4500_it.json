@@ -1,0 +1,59 @@
+{
+  "english": "fish",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "câu cá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh cá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vớt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a limbless cold-blooded vertebrate animal with gills and fins and living wholly in water.",
+      "definitions_ex_en": "the sea is thick with fish",
+      "definitions_ex_vn": "Biển dày với cá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a flat plate of metal, wood, or another material that is fixed on a beam or across a joint in order to give additional strength, especially on a ship's damaged mast or spar as a temporary repair.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "catch or try to catch fish, typically by using a net or hook and line.",
+      "definitions_ex_en": "he was fishing for bluefish",
+      "definitions_ex_vn": "Anh ấy đang câu cá cho Bluefish",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "mend or strengthen (a beam, joint, mast, etc.) with a fish.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680704_cc4fac3469_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680704_a305f85e66_o.png",
+      "id_image": "fish_184359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062385_f1af74dea1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062385_720264bc7c_o.png",
+      "id_image": "fish_184360"
+    }
+  ]
+}

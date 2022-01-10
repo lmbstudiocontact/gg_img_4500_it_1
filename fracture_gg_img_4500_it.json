@@ -1,0 +1,79 @@
+{
+  "english": "fracture",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ gãy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ nứt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đứt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gãy xương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự gãy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bẻ gãy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đập bể",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the cracking or breaking of a hard object or material.",
+      "definitions_ex_en": "bone density testing can predict the risk for fracture",
+      "definitions_ex_vn": "Thử nghiệm mật độ xương có thể dự đoán rủi ro cho gãy xương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the replacement of a simple vowel by a diphthong owing to the influence of a following sound, typically a consonant.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "break or cause to break.",
+      "definitions_ex_en": "the stone has fractured",
+      "definitions_ex_vn": "Đá đã bị gãy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313511_069bedab4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313511_6d3d4c557f_o.png",
+      "id_image": "fracture_2865347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357532_62c24fec31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357532_9dc372fc2a_o.png",
+      "id_image": "fracture_4658077"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357482_fab8540976_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357482_6d4b78ca70_o.png",
+      "id_image": "fracture_5730201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357467_55bc212d15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357467_0bd4fd3f98_o.png",
+      "id_image": "fracture_6138055"
+    }
+  ]
+}

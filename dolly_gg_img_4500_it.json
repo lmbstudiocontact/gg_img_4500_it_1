@@ -1,0 +1,66 @@
+{
+  "english": "dolly",
+  "list_translation_mean": [
+    {
+      "translate_mean": "búp bê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ dùng để kẹp đinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng băng tay bị thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật để khuấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật để quậy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quậy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a child's word for a doll.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small platform on wheels used for holding heavy objects, typically film or television cameras.",
+      "definitions_ex_en": "a dolly shot",
+      "definitions_ex_vn": "một shotlly",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a short wooden pole for stirring clothes in a washtub.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a film or television camera) be moved on a mobile platform in a specified direction.",
+      "definitions_ex_en": "the camera dollies back to reveal hundreds of people",
+      "definitions_ex_vn": "Các búp bê máy ảnh trở lại để tiết lộ hàng trăm người",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355092_ba25284c40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355092_1da8d8f2dc_o.png",
+      "id_image": "dolly_2059824"
+    }
+  ]
+}

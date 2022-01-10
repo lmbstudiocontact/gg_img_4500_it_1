@@ -1,0 +1,58 @@
+{
+  "english": "disorder",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không có thứ tự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng lộn xộn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vô trật tự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xáo trộn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho đau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm hổn loạn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm lộn xộn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm mất thứ tự",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a state of confusion.",
+      "definitions_ex_en": "tiresome days of mess and disorder",
+      "definitions_ex_vn": "Những ngày mệt mỏi của rối loạn và rối loạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "disrupt the systematic functioning or neat arrangement of.",
+      "definitions_ex_en": "they are disordering the political landscape",
+      "definitions_ex_vn": "họ đang rối loạn cảnh quan chính trị",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052040_381b428153_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052040_1c8cffc8af_o.png",
+      "id_image": "disorder_1960567"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "english": "footprint",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dấu chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết chân",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the impression left by a foot or shoe on the ground or a surface.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the area occupied or affected by something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316621_685026ae08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316621_6ae02c5e6e_o.png",
+      "id_image": "footprint_1865660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360857_f079411e8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360857_a65d4c9b1f_o.png",
+      "id_image": "footprint_2646640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671319_1c78a6b391_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671319_607953304a_o.png",
+      "id_image": "footprint_2650042"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360807_6d318754ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360807_ec01d388b0_o.png",
+      "id_image": "footprint_3317200"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316556_d3fae4dc22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316556_00e9499f5c_o.png",
+      "id_image": "footprint_3426919"
+    }
+  ]
+}

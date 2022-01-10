@@ -1,0 +1,44 @@
+{
+  "english": "dentist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nha sĩ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person qualified to treat the diseases and conditions that affect the teeth and gums, especially the repair and extraction of teeth and the insertion of artificial ones.",
+      "definitions_ex_en": "his mouth is still sore from his visit to the dentist's",
+      "definitions_ex_vn": "miệng anh vẫn bị đau từ chuyến viếng thăm của nha sĩ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446958_bc58d1edac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446958_44b345e501_o.png",
+      "id_image": "dentist_1331722"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068545_8eaaa9e79e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068545_3b7c71d696_o.png",
+      "id_image": "dentist_1909959"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376602_7fc8240be8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376602_2a172feeb3_o.png",
+      "id_image": "dentist_1912335"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068670_16c91efb09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068670_ee800e6475_o.png",
+      "id_image": "dentist_979968"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446998_e0f4ff0517_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446998_63b4052dc6_o.png",
+      "id_image": "dentist_980015"
+    }
+  ]
+}

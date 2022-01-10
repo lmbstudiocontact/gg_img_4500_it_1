@@ -1,0 +1,61 @@
+{
+  "english": "garage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỗ sửa xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà cất xe",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a building for housing a motor vehicle or vehicles.",
+      "definitions_ex_en": "a detached house with an integral garage",
+      "definitions_ex_vn": "một ngôi nhà biệt lập với một nhà để xe không thể thiếu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a style of unpolished, energetic rock music associated with suburban amateur bands.",
+      "definitions_ex_en": "a garage band",
+      "definitions_ex_vn": "một ban nhạc nhà để xe",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a form of dance music incorporating elements of drum and bass, house music, and soul, characterized by a rhythm in which the second and fourth beats of the bar are omitted.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put or keep (a motor vehicle) in a garage.",
+      "definitions_ex_en": "the car needn't be garaged in the winter",
+      "definitions_ex_vn": "Chiếc xe không cần phải được mặc vào mùa đông",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076495_7e1205a8db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076495_9cd640ae80_o.png",
+      "id_image": "garage_1011866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384242_f4c95617f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384242_b265bf79da_o.png",
+      "id_image": "garage_1027969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694419_c930f5d92a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694419_883fcf4289_o.png",
+      "id_image": "garage_2221785"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339351_fc0000fc02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339351_7117fa0452_o.png",
+      "id_image": "garage_560679"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "english": "driver",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người cầm lái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người dắt bò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cầm máy xe lửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người coi chừng nô lệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đánh xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người kéo xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lái cần trục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lái máy cày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lái xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lái xe đò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lái xe hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lái xe ô tô buýt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lái xe vận tải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sớp phơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tài xế",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who drives a vehicle.",
+      "definitions_ex_en": "a taxi driver",
+      "definitions_ex_vn": "một tài xế taxi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a wheel or other part in a mechanism that receives power directly and transmits motion to other parts.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a factor which causes a particular phenomenon to happen or develop.",
+      "definitions_ex_en": "the hope of achieving such monopolies becomes the main driver of investment",
+      "definitions_ex_vn": "Hy vọng đạt được sự độc quyền như vậy trở thành người lái xe chính đầu tư",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a golf club with a flat face and wooden head, used for driving from the tee.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338356_01b67eba30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338356_353e240a10_o.png",
+      "id_image": "driver_1983268"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453313_ff23c75372_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453313_d4a0b72469_o.png",
+      "id_image": "driver_2767667"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453278_901459f13f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453278_62bccc1ebe_o.png",
+      "id_image": "driver_3211820"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453228_5073c533b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453228_4730704ec6_o.png",
+      "id_image": "driver_4010336"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075290_0a403bfcc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075290_44d8b15bd9_o.png",
+      "id_image": "driver_4310427"
+    }
+  ]
+}

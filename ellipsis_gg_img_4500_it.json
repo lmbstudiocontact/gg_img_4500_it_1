@@ -1,0 +1,28 @@
+{
+  "english": "ellipsis",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lược từ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phép lược văn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the omission from speech or writing of a word or words that are superfluous or able to be understood from contextual clues.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060470_46edd4d625_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060470_a848504297_o.png",
+      "id_image": "ellipsis_1828539"
+    }
+  ]
+}

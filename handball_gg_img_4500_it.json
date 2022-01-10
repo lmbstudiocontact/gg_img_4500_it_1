@@ -1,0 +1,45 @@
+{
+  "english": "handball",
+  "list_translation_mean": [
+    {
+      "translate_mean": "banh để liệng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a game similar to squash in which a ball is hit with the hand in a walled court.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "touching of the ball with the hand or arm, constituting a foul.",
+      "definitions_ex_en": "a penalty for handball",
+      "definitions_ex_vn": "một hình phạt cho bóng ném",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359917_0677a7f86b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359917_638df5c5a5_o.png",
+      "id_image": "handball_2262939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052225_f5a5f0457a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052225_2ff00b5b5d_o.png",
+      "id_image": "handball_3708074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670409_3fe50ddc04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670409_6cdd76e4f9_o.png",
+      "id_image": "handball_3967460"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670389_6751bd2db8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670389_7b8ef7f4ce_o.png",
+      "id_image": "handball_5252854"
+    }
+  ]
+}

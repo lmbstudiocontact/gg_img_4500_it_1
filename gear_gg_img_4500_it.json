@@ -1,0 +1,103 @@
+{
+  "english": "gear",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây curoa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây trân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "yên cương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bộ bàn đạp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số xe hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "từ điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ đạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ dùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hộp số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khía bánh xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bánh xe",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "răng ăn khớp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "số xe hơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thắng ngựa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "one of a set of toothed wheels that work together to alter the relation between the speed of a driving mechanism (such as the engine of a vehicle or the crank of a bicycle) and the speed of the driven parts (the wheels).",
+      "definitions_ex_en": "a racing bike with ten-speed gears",
+      "definitions_ex_vn": "một chiếc xe đạp đua với bánh răng mười tốc độ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "equipment that is used for a particular purpose.",
+      "definitions_ex_en": "camping gear",
+      "definitions_ex_vn": "đồ cắm trại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "prepare, adjust, or equip for a particular purpose or need.",
+      "definitions_ex_en": "they gear workouts to your specific needs",
+      "definitions_ex_vn": "Họ chuẩn bị tập luyện theo nhu cầu cụ thể của bạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "design or adjust the gears in a machine to give a specified speed or power output.",
+      "definitions_ex_en": "it's geared too high for serious off-road use",
+      "definitions_ex_vn": "Nó hướng quá cao để sử dụng off-road nghiêm trọng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337256_9c874cd78d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337256_6403840263_o.png",
+      "id_image": "gear_1473251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452053_0ef7838d17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452053_c43d04a5ee_o.png",
+      "id_image": "gear_2137990"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "english": "disease",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bịnh của cây cối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "căn bệnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứng bịnh chóng mặt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a disorder of structure or function in a human, animal, or plant, especially one that produces specific signs or symptoms or that affects a specific location and is not simply a direct result of physical injury.",
+      "definitions_ex_en": "bacterial meningitis is a rare disease",
+      "definitions_ex_vn": "Viêm màng não do vi khuẩn là một bệnh hiếm gặp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316821_6ed38ed116_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316821_6dc79495c3_o.png",
+      "id_image": "disease_2302738"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316796_bf13cfcd0e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316796_738b2a0c7d_o.png",
+      "id_image": "disease_2720282"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431798_89986d8a6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431798_8a618c7b40_o.png",
+      "id_image": "disease_3805595"
+    }
+  ]
+}

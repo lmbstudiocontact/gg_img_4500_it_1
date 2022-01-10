@@ -1,0 +1,48 @@
+{
+  "english": "fighter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chiến đấu cơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiến sỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hiếu chiến",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or animal that fights, especially as a soldier or a boxer.",
+      "definitions_ex_en": "the distinction between civilian populations and fighters",
+      "definitions_ex_vn": "Sự khác biệt giữa dân số dân sự và máy bay chiến đấu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fast military aircraft designed for attacking other aircraft.",
+      "definitions_ex_en": "designers employ stealth to render a fighter invisible to radar",
+      "definitions_ex_vn": "Các nhà thiết kế sử dụng tàng hình để kết xuất một máy bay chiến đấu vô hình đối với radar",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445258_72ec313547_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445258_8a5defcefe_o.png",
+      "id_image": "fighter_5020320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067145_f51429d93b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067145_753c0d92f2_o.png",
+      "id_image": "fighter_5020445"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330236_3a6d1f2dcc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330236_5acf97d405_o.png",
+      "id_image": "fighter_5020546"
+    }
+  ]
+}

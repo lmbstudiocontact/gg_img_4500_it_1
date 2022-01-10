@@ -1,0 +1,39 @@
+{
+  "english": "equalizer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bằng nhau",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing that has an equalizing effect.",
+      "definitions_ex_en": "education is the great equalizer",
+      "definitions_ex_vn": "Giáo dục là bộ cân bằng tuyệt vời",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316776_a26696d51f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316776_991dd41fc1_o.png",
+      "id_image": "equalizer_1495420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360997_86450be490_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360997_bc4e61f108_o.png",
+      "id_image": "equalizer_1540627"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316731_14c11f849e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316731_8ba3078d3c_o.png",
+      "id_image": "equalizer_3172430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053235_c3c2db8ce9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053235_bfbdb52367_o.png",
+      "id_image": "equalizer_473666"
+    }
+  ]
+}

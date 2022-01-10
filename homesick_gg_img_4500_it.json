@@ -1,0 +1,32 @@
+{
+  "english": "homesick",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhớ nhà",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhớ quê hương",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự nhớ nhà",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "experiencing a longing for one's home during a period of absence from it.",
+      "definitions_ex_en": "he was homesick for America after five weeks in Europe",
+      "definitions_ex_vn": "Ông đã nhớ nhà ở Mỹ sau năm tuần ở châu Âu",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334171_d7f0f712d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334171_f320d0f50e_o.png",
+      "id_image": "homesick_708672"
+    }
+  ]
+}

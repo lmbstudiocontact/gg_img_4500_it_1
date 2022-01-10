@@ -1,0 +1,49 @@
+{
+  "english": "documentary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có tính cách tài liệu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dựa vào chứng cớ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "consisting of official pieces of written, printed, or other matter.",
+      "definitions_ex_en": "his book is based on documentary sources",
+      "definitions_ex_vn": "Cuốn sách của ông dựa trên các nguồn phim tài liệu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a movie or a television or radio program that provides a factual record or report.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426758_2f8a36723f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426758_5da894ace3_o.png",
+      "id_image": "documentary_2040660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048490_8b905ae640_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048490_fb2d4a9ef4_o.png",
+      "id_image": "documentary_5190261"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048460_a4d090f45b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048460_6496610b95_o.png",
+      "id_image": "documentary_6347682"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666744_4275b8734e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666744_765ce9ef00_o.png",
+      "id_image": "documentary_6347699"
+    }
+  ]
+}

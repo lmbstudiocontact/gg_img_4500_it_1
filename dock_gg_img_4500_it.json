@@ -1,0 +1,154 @@
+{
+  "english": "dock",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bến tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bến tàu để chất hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cầu tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây toan mô thảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ tàu đậu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ga chót",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thất nghiệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòng khâu đuôi ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xưởng đóng tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ghế của bị cáo ngồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khúc có thịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bớt tiền lương",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cắt đuôi ngựa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho vào bến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho vào vủng để sửa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm vũng cho tàu đậu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vào bến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vào nơi tàu đậu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cắt tóc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho xe lửa vào ga",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cập bến",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a device in which a laptop computer, smartphone, or other mobile device may be placed for charging, providing access to a power supply and to peripheral devices or auxiliary features; a docking station.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the solid bony or fleshy part of an animal's tail, excluding the hair.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the enclosure in a criminal court where a defendant is placed.",
+      "definitions_ex_en": "the nine others in the dock face a combination of charges",
+      "definitions_ex_vn": "Chín người khác trong bến tàu phải đối mặt với sự kết hợp của các khoản phí",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a coarse weed of temperate regions, with inconspicuous greenish or reddish flowers. The leaves are popularly used to relieve nettle stings.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a ship) tie up at a dock, especially in order to load or unload passengers or cargo.",
+      "definitions_ex_en": "the ship docked at San Francisco",
+      "definitions_ex_vn": "Con tàu cập cảng tại San Francisco",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "deduct (something, especially an amount of money).",
+      "definitions_ex_en": "their wages are docked for public displays of affection",
+      "definitions_ex_vn": "Tiền lương của họ được cập cảng cho màn hình công khai của tình cảm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312161_25dd4997ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312161_0bc1230480_o.png",
+      "id_image": "dock_1670289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667049_70062b6950_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667049_5fcaec1074_o.png",
+      "id_image": "dock_2005814"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048720_96ca3b5b09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048720_220dc8ccf1_o.png",
+      "id_image": "dock_3103619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356152_d84756f955_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356152_bc97162a48_o.png",
+      "id_image": "dock_3393600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048665_0041667e9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048665_2bbcd7ba1f_o.png",
+      "id_image": "dock_6147173"
+    }
+  ]
+}

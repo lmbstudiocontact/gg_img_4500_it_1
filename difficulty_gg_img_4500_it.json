@@ -1,0 +1,32 @@
+{
+  "english": "difficulty",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gian nan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khó khăn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state or condition of being difficult.",
+      "definitions_ex_en": "Guy had no difficulty in making friends",
+      "definitions_ex_vn": "Guy không gặp khó khăn gì trong việc kết bạn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367042_b091faf67a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367042_41bdff4e91_o.png",
+      "id_image": "difficulty_4516936"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "english": "harvester",
+  "list_translation_mean": [
+    {
+      "translate_mean": "máy gặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người gặt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or machine that gathers crops as a harvest.",
+      "definitions_ex_en": "back-breaking labor as hired sugar beet harvesters",
+      "definitions_ex_vn": "lao động đột phá như người thuê củ cải đường",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081075_ec5a994b12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081075_9d4aecc171_o.png",
+      "id_image": "harvester_2263982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343646_8fdce19256_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343646_c00dfdb20c_o.png",
+      "id_image": "harvester_3239292"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343606_5f8c89181e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343606_8c854174da_o.png",
+      "id_image": "harvester_4966976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080995_1b4e86078b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080995_9943614c92_o.png",
+      "id_image": "harvester_5616250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080975_b06586f038_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080975_cf861082da_o.png",
+      "id_image": "harvester_6092547"
+    }
+  ]
+}

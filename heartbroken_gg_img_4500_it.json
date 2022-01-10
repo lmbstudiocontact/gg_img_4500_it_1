@@ -1,0 +1,34 @@
+{
+  "english": "heartbroken",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đau khổ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person) suffering from overwhelming distress; very upset.",
+      "definitions_ex_en": "he was heartbroken at the thought of leaving the house",
+      "definitions_ex_vn": "Anh đau lòng khi nghĩ rời khỏi nhà.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077760_1ff469d8d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077760_cbf0a12043_o.png",
+      "id_image": "heartbroken_2904986"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385402_dd2f1dc939_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385402_a37e246faa_o.png",
+      "id_image": "heartbroken_3481093"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455313_f9674f1368_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455313_0fdfbbea23_o.png",
+      "id_image": "heartbroken_5046959"
+    }
+  ]
+}

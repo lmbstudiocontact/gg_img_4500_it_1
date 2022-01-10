@@ -1,0 +1,54 @@
+{
+  "english": "detector",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cảnh sát chìm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu hiệu cấp cứu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cảnh sát đặt biệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy dò làn sóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người khám phá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tìm ra",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a device or instrument designed to detect the presence of a particular object or substance and to emit a signal in response.",
+      "definitions_ex_en": "methane detectors",
+      "definitions_ex_vn": "Máy dò khí metan.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326906_1fbf532666_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326906_f56ca3476a_o.png",
+      "id_image": "detector_1408566"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441898_39185a0bd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441898_6596d563bf_o.png",
+      "id_image": "detector_2081377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326816_147469b88c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326816_1a6c39caae_o.png",
+      "id_image": "detector_4090962"
+    }
+  ]
+}

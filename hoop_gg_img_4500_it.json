@@ -1,0 +1,76 @@
+{
+  "english": "hoop",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đai sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khâu sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "niền bằng sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vành rây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vành sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "niền sắt súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòng đai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đóng đai",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng vành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "niền vào thùng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a circular band of metal, wood, or similar material, especially one used for binding the staves of barrels or forming part of a framework.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "bind or encircle with or as with hoops.",
+      "definitions_ex_en": "a man was hooping a barrel",
+      "definitions_ex_vn": "Một người đàn ông đã được một nòng súng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069650_94ec4cea91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069650_254e21163b_o.png",
+      "id_image": "hoop_1079426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069625_fd6ae449d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069625_50c957ddb1_o.png",
+      "id_image": "hoop_1678201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332771_7c33661852_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332771_295435cb77_o.png",
+      "id_image": "hoop_2128353"
+    }
+  ]
+}

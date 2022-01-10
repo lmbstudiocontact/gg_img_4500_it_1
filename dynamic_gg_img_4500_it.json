@@ -1,0 +1,66 @@
+{
+  "english": "dynamic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có nghị lực",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có tính động lực",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cương quyết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "năng lượng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a process or system) characterized by constant change, activity, or progress.",
+      "definitions_ex_en": "a dynamic economy",
+      "definitions_ex_vn": "một nền kinh tế năng động",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) positive in attitude and full of energy and new ideas.",
+      "definitions_ex_en": "she's dynamic and determined",
+      "definitions_ex_vn": "Cô ấy năng động và xác định",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to the volume of sound produced by an instrument, voice, or recording.",
+      "definitions_ex_en": "an astounding dynamic range",
+      "definitions_ex_vn": "một phạm vi động đáng kinh ngạc",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a memory device) needing to be refreshed by the periodic application of a voltage.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a force that stimulates change or progress within a system or process.",
+      "definitions_ex_en": "evaluation is part of the basic dynamic of the project",
+      "definitions_ex_vn": "Đánh giá là một phần của năng động cơ bản của dự án",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for dynamics (sense 3).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070720_9be326c421_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070720_dbd21c3dc3_o.png",
+      "id_image": "dynamic_1508882"
+    }
+  ]
+}

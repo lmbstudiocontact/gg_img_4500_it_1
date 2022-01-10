@@ -1,0 +1,52 @@
+{
+  "english": "elf",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghịch ngợm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tinh nghịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tinh quái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thần",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a supernatural creature of folk tales, typically represented as a small, elusive figure in human form with pointed ears, magical powers, and a capricious nature.",
+      "definitions_ex_en": "birthmarks were thought to be bruises left by elves",
+      "definitions_ex_vn": "vết bớt được cho là những vết bầm do yêu tinh để lại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "extremely low frequency.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679344_e3f270c87c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679344_fae9277ece_o.png",
+      "id_image": "elf_2155368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061010_6393c4bd83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061010_4656751216_o.png",
+      "id_image": "elf_2235094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061070_521dca264b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061070_63684cea1f_o.png",
+      "id_image": "elf_571088"
+    }
+  ]
+}

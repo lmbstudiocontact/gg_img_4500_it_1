@@ -1,0 +1,39 @@
+{
+  "english": "fanfare",
+  "list_translation_mean": [
+    {
+      "translate_mean": "một hồi kèn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a short ceremonial tune or flourish played on brass instruments, typically to introduce something or someone important.",
+      "definitions_ex_en": "a specially composed fanfare announced the arrival of the Duchess",
+      "definitions_ex_vn": "một fanfare sáng tác đặc biệt tuyên bố sự xuất hiện của nữ công tước",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381252_a43a9e1960_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381252_9ee17148e1_o.png",
+      "id_image": "fanfare_2014164"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073160_fd084116b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073160_5e299bc0b8_o.png",
+      "id_image": "fanfare_3966407"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381182_fb36723226_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381182_7e2f2c1fe0_o.png",
+      "id_image": "fanfare_3967522"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336166_d507ea9dc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336166_4a38f73658_o.png",
+      "id_image": "fanfare_4624117"
+    }
+  ]
+}

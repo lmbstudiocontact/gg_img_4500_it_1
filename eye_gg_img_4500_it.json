@@ -1,0 +1,88 @@
+{
+  "english": "eye",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cảnh tỉnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giác ngộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hiển nhiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lổ cây kim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mầm của cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mở mắt sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rỏ ràng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "each of a pair of globular organs in the head through which people and vertebrate animals see, the visible part typically appearing almond-shaped in animals with eyelids.",
+      "definitions_ex_en": "my cat is blind in one eye",
+      "definitions_ex_vn": "Con mèo của tôi bị mù trong một mắt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing resembling an eye in appearance, shape, or relative position.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the small hole in a needle through which the thread is passed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "look at or watch closely or with interest.",
+      "definitions_ex_en": "Rose eyed him warily",
+      "definitions_ex_vn": "Rose nhìn anh thận trọng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454608_7f673d5fd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454608_e5274b7290_o.png",
+      "id_image": "eye_1024562"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076955_833a16ce47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076955_a2380111be_o.png",
+      "id_image": "eye_655294"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384627_4278cd737a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384627_9b55882770_o.png",
+      "id_image": "eye_734911"
+    }
+  ]
+}

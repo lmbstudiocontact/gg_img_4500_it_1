@@ -1,0 +1,56 @@
+{
+  "english": "enamel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "men",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "men răng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "men sứ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước men",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tráng men",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an opaque or semitransparent glassy substance applied to metallic or other hard surfaces for ornament or as a protective coating.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "coat or decorate (a metallic or hard object) with enamel.",
+      "definitions_ex_en": "he enameled the back of the case in the rococo style",
+      "definitions_ex_vn": "anh ấy tráng men mặt sau của vụ án trong phong cách rococo",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675449_fe59029c3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675449_ef1782a31b_o.png",
+      "id_image": "enamel_2245653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320401_cf3b5c35ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320401_77b10a7950_o.png",
+      "id_image": "enamel_3701356"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320381_57309ecb4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320381_09951ab751_o.png",
+      "id_image": "enamel_4728475"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english": "exclamation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tiếng kêu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sudden cry or remark, especially expressing surprise, anger, or pain.",
+      "definitions_ex_en": "an exclamation of amazement",
+      "definitions_ex_vn": "một câu cảm thán của sự kinh ngạc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312296_ec619372ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312296_4709a9fd21_o.png",
+      "id_image": "exclamation_228377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048905_ff34ce812a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048905_59076ae16b_o.png",
+      "id_image": "exclamation_258359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667184_1f28bd5973_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667184_e2f8a28399_o.png",
+      "id_image": "exclamation_594646"
+    }
+  ]
+}

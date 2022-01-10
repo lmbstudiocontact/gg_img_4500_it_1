@@ -1,0 +1,52 @@
+{
+  "english": "exhaustion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hút hết hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm hao mòn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm kiệt quệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thất vọng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a state of extreme physical or mental fatigue.",
+      "definitions_ex_en": "he was pale with exhaustion",
+      "definitions_ex_vn": "anh ấy nhợt nhạt với kiệt sức",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action or state of using something up or of being used up completely.",
+      "definitions_ex_en": "the rapid exhaustion of fossil fuel reserves",
+      "definitions_ex_vn": "Kiệt sức nhanh chóng của dự trữ nhiên liệu hóa thạch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process of establishing a conclusion by eliminating all the alternatives.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666189_e9c41180be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666189_35da41a052_o.png",
+      "id_image": "exhaustion_3654834"
+    }
+  ]
+}

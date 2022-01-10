@@ -1,0 +1,41 @@
+{
+  "english": "diarrhoea",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bệnh ỉa chảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bệnh tiêu chảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi tiêu chảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tháo dạ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a condition in which feces are discharged from the bowels frequently and in a liquid form.",
+      "definitions_ex_en": "a range of symptoms including diarrhea and vomiting",
+      "definitions_ex_vn": "một loạt các triệu chứng bao gồm tiêu chảy và nôn mửa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678734_cdf0884958_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678734_ba9bb902e9_o.png",
+      "id_image": "diarrhoea_3782053"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368372_1e7a8245c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368372_5f87b75f1a_o.png",
+      "id_image": "diarrhoea_3782065"
+    }
+  ]
+}

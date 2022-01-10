@@ -1,0 +1,62 @@
+{
+  "english": "feeder",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái xây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chai sữa cho trẻ con bú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ lưu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nuôi súc vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhánh sông",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or animal that eats a particular food or in a particular manner.",
+      "definitions_ex_en": "a plankton feeder",
+      "definitions_ex_vn": "một bộ nguồn plankton",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a container filled with food for birds or mammals.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or thing that supplies something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377512_8d9ae1ddf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377512_f9ddc577ec_o.png",
+      "id_image": "feeder_1460035"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069475_4b646abb5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069475_a48391272d_o.png",
+      "id_image": "feeder_4212709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332711_5bc0ebba63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332711_f115f3010d_o.png",
+      "id_image": "feeder_679901"
+    }
+  ]
+}

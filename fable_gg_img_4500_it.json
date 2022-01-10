@@ -1,0 +1,46 @@
+{
+  "english": "fable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuyện bài đặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyện không thật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyện hoang đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời sơ lược",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tưởng tượng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a short story, typically with animals as characters, conveying a moral.",
+      "definitions_ex_en": "the fable of the sick lion and the wary fox",
+      "definitions_ex_vn": "những câu chuyện ngụ ngôn của con sư tử bệnh và con cáo cảnh giác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "tell fictitious tales.",
+      "definitions_ex_en": "I do not dream nor fable",
+      "definitions_ex_vn": "Tôi không mơ cũng cũng không ngụ ngôn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076060_5347e4e512_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076060_e90bd492be_o.png",
+      "id_image": "fable_2178191"
+    }
+  ]
+}

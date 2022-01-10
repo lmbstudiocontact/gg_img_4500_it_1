@@ -1,0 +1,59 @@
+{
+  "english": "equation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bằng nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cân nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngang nhau",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a statement that the values of two mathematical expressions are equal (indicated by the sign =).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process of equating one thing with another.",
+      "definitions_ex_en": "the equation of science with objectivity",
+      "definitions_ex_vn": "Phương trình khoa học với tính khách quan",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a symbolic representation of the changes which occur in a chemical reaction, expressed in terms of the formulae of the molecules or other species involved.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053040_38a2610054_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053040_1661d5eedd_o.png",
+      "id_image": "equation_2106623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431638_389f752c75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431638_fd5419561d_o.png",
+      "id_image": "equation_227943"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053055_e8f79d7f58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053055_84f399b968_o.png",
+      "id_image": "equation_227944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671304_ef098c8917_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671304_6f6284960d_o.png",
+      "id_image": "equation_2281778"
+    }
+  ]
+}

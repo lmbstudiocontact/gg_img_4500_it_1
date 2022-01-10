@@ -1,0 +1,149 @@
+{
+  "english": "direct",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dòng điện một chiều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đi thẳng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "minh bạch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngay thẳng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rỏ ràng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thành thật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trực tiếp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cai quản",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chỉ đường",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi về hướng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gởi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngỏ lời",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sai bảo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "truyền lịnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "y theo mạng lịnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chỉ huy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giám đốc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "điều khiển",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "extending or moving from one place to another by the shortest way without changing direction or stopping.",
+      "definitions_ex_en": "there was no direct flight that day",
+      "definitions_ex_vn": "Không có chuyến bay trực tiếp vào ngày hôm đó",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "without intervening factors or intermediaries.",
+      "definitions_ex_en": "the complications are a direct result of bacteria spreading",
+      "definitions_ex_vn": "Các biến chứng là một kết quả trực tiếp của vi khuẩn lây lan",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person or their behavior) going straight to the point; frank.",
+      "definitions_ex_en": "he is very direct and honest",
+      "definitions_ex_vn": "Anh ấy rất trực tiếp và trung thực",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "perpendicular to a surface; not oblique.",
+      "definitions_ex_en": "a direct butt joint between surfaces of steel",
+      "definitions_ex_vn": "một khớp mông trực tiếp giữa các bề mặt của thép",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "with no one or nothing in between.",
+      "definitions_ex_en": "buy direct and save",
+      "definitions_ex_vn": "Mua trực tiếp và tiết kiệm",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "control the operations of; manage or govern.",
+      "definitions_ex_en": "an economic elite directed the nation's affairs",
+      "definitions_ex_vn": "Một Elite kinh tế chỉ đạo các vấn đề của quốc gia",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "aim (something) in a particular direction or at a particular person.",
+      "definitions_ex_en": "heating ducts to direct warm air to rear-seat passengers",
+      "definitions_ex_vn": "ống sưởi ấm để trực tiếp không khí ấm cho hành khách ngồi sau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give (someone) an official order or authoritative instruction.",
+      "definitions_ex_en": "the judge directed him to perform community service",
+      "definitions_ex_vn": "Thẩm phán hướng dẫn ông thực hiện dịch vụ cộng đồng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320166_6f3330dcaa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320166_29310ba144_o.png",
+      "id_image": "directing_4834023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365162_e34aa0889f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365162_7dffd6d3d8_o.png",
+      "id_image": "direct_1390118"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056950_a56331b1da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056950_b268fbb99d_o.png",
+      "id_image": "direct_2526506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675194_7ef35d9731_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675194_8171c9dd76_o.png",
+      "id_image": "direct_3983610"
+    }
+  ]
+}

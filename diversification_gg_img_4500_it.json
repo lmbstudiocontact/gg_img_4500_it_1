@@ -1,0 +1,46 @@
+{
+  "english": "diversification",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho khác biệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho khác nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thay đổi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of diversifying something or the fact of becoming more diverse.",
+      "definitions_ex_en": "growers should start planning diversification of crops",
+      "definitions_ex_vn": "người trồng nên bắt đầu lập kế hoạch đa dạng hóa cây trồng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049920_ea02dab7b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049920_9489c448c3_o.png",
+      "id_image": "diversification_2078732"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357382_6c625755ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357382_332c574449_o.png",
+      "id_image": "diversification_2329432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428158_888b7ff181_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428158_b91b18206a_o.png",
+      "id_image": "diversification_3063610"
+    }
+  ]
+}

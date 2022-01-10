@@ -1,0 +1,97 @@
+{
+  "english": "effect",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ảnh hưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hiệu ứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thực hiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kết qủa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nội dung",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự công hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hiệu lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hiệu qủa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tác dụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thành phần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thi hành",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a change which is a result or consequence of an action or other cause.",
+      "definitions_ex_en": "the lethal effects of hard drugs",
+      "definitions_ex_vn": "Tác dụng gây chết người của thuốc cứng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the lighting, sound, or scenery used in a play, movie, or broadcast.",
+      "definitions_ex_en": "the production relied too much on spectacular effects",
+      "definitions_ex_vn": "Việc sản xuất đã dựa bỏ quá nhiều về hiệu ứng ngoạn mục",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "personal belongings.",
+      "definitions_ex_en": "the insurance covers personal effects",
+      "definitions_ex_vn": "Bảo hiểm bao gồm hiệu ứng cá nhân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cause (something) to happen; bring about.",
+      "definitions_ex_en": "nature always effected a cure",
+      "definitions_ex_vn": "Thiên nhiên luôn thực hiện một phương thuốc",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328616_628230ca9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328616_7df283a7d1_o.png",
+      "id_image": "effect_1176368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328576_64dcbc45be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328576_b5508a4715_o.png",
+      "id_image": "effect_5099806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373292_50e70430c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373292_546db21c06_o.png",
+      "id_image": "effect_5444849"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683579_e3656cd36a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683579_68c7638c58_o.png",
+      "id_image": "effect_6315913"
+    }
+  ]
+}

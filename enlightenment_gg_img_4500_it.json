@@ -1,0 +1,34 @@
+{
+  "english": "enlightenment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm rõ ràng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự minh bạch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of enlightening or the state of being enlightened.",
+      "definitions_ex_en": "Robbie looked to me for enlightenment",
+      "definitions_ex_vn": "Robbie nhìn tôi để giác ngộ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a European intellectual movement of the late 17th and 18th centuries emphasizing reason and individualism rather than tradition. It was heavily influenced by 17th-century philosophers such as Descartes, Locke, and Newton, and its prominent exponents include Kant, Goethe, Voltaire, Rousseau, and Adam Smith.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055115_ff50d6591d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055115_b74e73198c_o.png",
+      "id_image": "enlightenment_1187188"
+    }
+  ]
+}

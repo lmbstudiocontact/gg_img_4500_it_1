@@ -1,0 +1,141 @@
+{
+  "english": "foul",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hôi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bần tiện",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bịt nghẹt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lổ mảmg",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thô tục",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xấu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đụng chạm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hôi thúi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không đúng luật",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "sự lấn trái phép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm bế tắc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nhơ nhuốc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm dơ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "offensive to the senses, especially through having a disgusting smell or taste or being unpleasantly soiled.",
+      "definitions_ex_en": "a foul odor",
+      "definitions_ex_vn": "một mùi hôi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "wicked or immoral.",
+      "definitions_ex_en": "murder most foul",
+      "definitions_ex_vn": "giết người hầu hết phạm lỗi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "containing or charged with noxious matter; polluted.",
+      "definitions_ex_en": "foul, swampy water",
+      "definitions_ex_vn": "hôi, nước đầm lầy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of the weather) wet and stormy.",
+      "definitions_ex_en": "he walked in fair and foul weather",
+      "definitions_ex_vn": "Anh bước vào thời tiết công bằng và hôi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(in sports) an unfair or invalid stroke or piece of play, especially one involving interference with an opponent.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a disease in the feet of cattle.",
+      "definitions_ex_en": "he was indeed suffering from foul of the foot",
+      "definitions_ex_vn": "anh ấy thực sự đã bị phạm lỗi của bàn chân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "unfairly; contrary to the rules.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "make foul or dirty; pollute.",
+      "definitions_ex_en": "factories that fouled the atmosphere",
+      "definitions_ex_vn": "Các nhà máy bị phạm lỗi với bầu không khí",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in sports) commit a foul against (an opponent).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "collide with or obstruct.",
+      "definitions_ex_en": "the ships became overcrowded and fouled each other",
+      "definitions_ex_vn": "Các tàu trở nên quá đông đúc và phạm lỗi với nhau",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358007_16cc9f7080_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358007_cc103a00d5_o.png",
+      "id_image": "foul_3295208"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313806_54de731db1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313806_770691cb8e_o.png",
+      "id_image": "foul_5284226"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357947_7e96db9c7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357947_696fd45c1c_o.png",
+      "id_image": "foul_5284249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050375_8b4f3bb2af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050375_47652596c3_o.png",
+      "id_image": "foul_5613143"
+    }
+  ]
+}

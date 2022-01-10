@@ -1,0 +1,46 @@
+{
+  "english": "durable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bền chặt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bền vửng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kiên cố",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lâu dài",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vửng chắc",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "able to withstand wear, pressure, or damage; hard-wearing.",
+      "definitions_ex_en": "porcelain enamel is strong and durable",
+      "definitions_ex_vn": "Men sứ mạnh mẽ và bền bỉ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "short for durable goods.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449838_2998a929d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449838_041845f7ca_o.png",
+      "id_image": "durable_5830376"
+    }
+  ]
+}

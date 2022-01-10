@@ -1,0 +1,43 @@
+{
+  "english": "domination",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ảnh hưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền thống trị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức chi phối",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the exercise of control or influence over someone or something, or the state of being so controlled.",
+      "definitions_ex_en": "evil plans for domination of the universe",
+      "definitions_ex_vn": "kế hoạch xấu xa cho sự thống trị của vũ trụ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in traditional Christian angelology) the fourth highest order of the ninefold celestial hierarchy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047320_4415fcd8b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047320_75e0e107f6_o.png",
+      "id_image": "domination_2112440"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354712_16ba14cfda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354712_da8f054b1e_o.png",
+      "id_image": "domination_708647"
+    }
+  ]
+}

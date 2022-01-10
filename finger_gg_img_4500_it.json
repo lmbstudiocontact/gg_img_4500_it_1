@@ -1,0 +1,66 @@
+{
+  "english": "finger",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kim đồng hồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngón tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngón tay bao găng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngón trỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rờ rẫm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sờ mó",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "each of the four slender jointed parts attached to either hand (or five, if the thumb is included).",
+      "definitions_ex_en": "she raked her hair back with her fingers",
+      "definitions_ex_vn": "Cô ấy đang xé tóc với ngón tay của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "touch or feel (something) with the fingers.",
+      "definitions_ex_en": "the thin man fingered his mustache",
+      "definitions_ex_vn": "Người đàn ông gầy gò ngón tay ria mép của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "play (a passage) with a particular sequence of positions of the fingers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064180_3d7a6fc52a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064180_4b6dcfe11c_o.png",
+      "id_image": "finger_3858900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682554_0b4c5a2055_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682554_798c2bb730_o.png",
+      "id_image": "finger_4151508"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682499_963922fede_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682499_6ce368c5c8_o.png",
+      "id_image": "finger_4636975"
+    }
+  ]
+}

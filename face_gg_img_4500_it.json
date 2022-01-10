@@ -1,0 +1,124 @@
+{
+  "english": "face",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xoay qua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chống cự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đối địch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đứng trước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lật ngữa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phủ một lớp trên mặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bề ngoài vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "diện mạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đối diện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quả quyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tướng mạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dung mạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vẻ mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vửng lòng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the front part of a person's head from the forehead to the chin, or the corresponding part in an animal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the surface of a thing, especially one that is presented to the view or has a particular function.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be positioned with the face or front toward (someone or something).",
+      "definitions_ex_en": "he turned to face her",
+      "definitions_ex_vn": "Anh quay lại đối mặt với cô.",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "confront and deal with or accept a difficult or unpleasant task, fact, or situation.",
+      "definitions_ex_en": "honesty forced her to face facts",
+      "definitions_ex_vn": "Sự trung thực buộc cô phải đối mặt với sự thật",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cover the surface of (something) with a layer of a different material.",
+      "definitions_ex_en": "the external basement walls were faced with granite slabs",
+      "definitions_ex_vn": "Các bức tường tầng hầm bên ngoài đã phải đối mặt với các tấm đá granit",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338466_f60f7e7e8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338466_1c20058a62_o.png",
+      "id_image": "face_2375268"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693629_becf8bd10f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693629_72426cc194_o.png",
+      "id_image": "face_2473041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453363_ed7840dff0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453363_3d6a31b418_o.png",
+      "id_image": "face_2800055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075415_c473ec1621_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075415_6637e42a2b_o.png",
+      "id_image": "face_4183091"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453478_923cb800ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453478_8cc2138549_o.png",
+      "id_image": "face_976003"
+    }
+  ]
+}

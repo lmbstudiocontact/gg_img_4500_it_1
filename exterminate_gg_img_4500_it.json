@@ -1,0 +1,28 @@
+{
+  "english": "exterminate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tàn sát",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "destroy completely.",
+      "definitions_ex_en": "after exterminating the entire population, the soldiers set fire to the buildings",
+      "definitions_ex_vn": "Sau khi hủy diệt toàn bộ dân số, những người lính đốt cháy các tòa nhà",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078000_06a5bfd40d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078000_1606964c80_o.png",
+      "id_image": "exterminate_2297384"
+    }
+  ]
+}

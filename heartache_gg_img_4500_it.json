@@ -1,0 +1,29 @@
+{
+  "english": "heartache",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mối đau lòng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "emotional anguish or grief, typically caused by the loss or absence of someone loved.",
+      "definitions_ex_en": "the familiar pang of heartache",
+      "definitions_ex_vn": "nỗi đau quen thuộc của đau lòng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078125_aff42bba90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078125_5274c6ffaf_o.png",
+      "id_image": "heartache_538232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078085_8275611e5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078085_e726a7b9b8_o.png",
+      "id_image": "heartache_5746494"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "early",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đầu tiên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rất sớm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sắp tới",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sớm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sớm",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "happening or done before the usual or expected time.",
+      "definitions_ex_en": "we ate an early lunch",
+      "definitions_ex_vn": "Chúng tôi đã ăn một bữa trưa sớm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "happening, belonging to, or done near the beginning of a particular time or period.",
+      "definitions_ex_en": "an early goal secured victory",
+      "definitions_ex_vn": "Một mục tiêu sớm được bảo đảm chiến thắng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "before the usual or expected time.",
+      "definitions_ex_en": "I was planning to finish work early today",
+      "definitions_ex_vn": "Tôi đã dự định hoàn thành công việc sớm hôm nay",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "near the beginning of a particular time or period.",
+      "definitions_ex_en": "we lost a couple of games early in the season",
+      "definitions_ex_vn": "Chúng tôi đã mất một vài trò chơi vào đầu mùa giải",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333376_db9a892631_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333376_dcc9de4600_o.png",
+      "id_image": "early_6117302"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378187_2cdd952a8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378187_46b666b43e_o.png",
+      "id_image": "early_6381378"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "english": "heal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chữa khỏi bịnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hòa giải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lành bịnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lành vết thương",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person or treatment) cause (a wound, injury, or person) to become sound or healthy again.",
+      "definitions_ex_en": "his concern is to heal sick people",
+      "definitions_ex_vn": "Mối quan tâm của anh là để chữa lành những người bệnh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696749_beabd9a917_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696749_003f68c71d_o.png",
+      "id_image": "heal_1721225"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386552_bbcf05774a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386552_67d1f41605_o.png",
+      "id_image": "heal_3426082"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696694_410751394b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696694_d0dd3baebd_o.png",
+      "id_image": "heal_3426277"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078855_80770c1a35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078855_58a110d9a2_o.png",
+      "id_image": "heal_6009347"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english": "elegance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tính tao nhã",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính thanh lịch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the quality of being graceful and stylish in appearance or manner; style.",
+      "definitions_ex_en": "a slender woman with grace and elegance",
+      "definitions_ex_vn": "một người phụ nữ mảnh khảnh với ân sủng và thanh lịch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the quality of being pleasingly ingenious and simple; neatness.",
+      "definitions_ex_en": "the simplicity and elegance of the solution",
+      "definitions_ex_vn": "sự đơn giản và sự thanh lịch của giải pháp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680209_1d3f14223d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680209_4446cde84d_o.png",
+      "id_image": "elegance_261830"
+    }
+  ]
+}

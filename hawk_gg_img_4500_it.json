@@ -1,0 +1,89 @@
+{
+  "english": "hawk",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chim ưng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chim ó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tham lam",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tham tàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi săn chim ưng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bán hàng rong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khạc nhổ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a bird of prey with broad rounded wings and a long tail, typically taking prey by surprise with a short chase.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who advocates an aggressive or warlike policy, especially in foreign affairs.",
+      "definitions_ex_en": "severe limits were put on the peace plan by party hawks",
+      "definitions_ex_vn": "Giới hạn nghiêm trọng đã được đưa vào kế hoạch hòa bình của Bên Hawks",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a plasterer's square board with a handle underneath for carrying plaster or mortar.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a person) hunt game with a trained hawk.",
+      "definitions_ex_en": "he spent the afternoon hawking",
+      "definitions_ex_vn": "Ông đã dành buổi chiều Hawking",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a bird or dragonfly) hunt on the wing for food.",
+      "definitions_ex_en": "swifts hawked low over the water",
+      "definitions_ex_vn": "Swifts Hawked thấp trên mặt nước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "carry around and offer (goods) for sale, typically advertising them by shouting.",
+      "definitions_ex_en": "street traders were hawking costume jewelry",
+      "definitions_ex_vn": "Thương nhân đường phố là trang phục Hawking Trang phục",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "clear the throat noisily.",
+      "definitions_ex_en": "he hawked and spat into the flames",
+      "definitions_ex_vn": "Anh ta diều hâu và nhổ vào ngọn lửa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343231_1d796ef2c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343231_a6d803ec3c_o.png",
+      "id_image": "hawk_1917204"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388137_733f11c307_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388137_8903498b32_o.png",
+      "id_image": "hawk_4786602"
+    }
+  ]
+}

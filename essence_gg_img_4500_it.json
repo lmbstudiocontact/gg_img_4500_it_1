@@ -1,0 +1,76 @@
+{
+  "english": "essence",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bản chất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dầu thơm nguyên chất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bản thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất dầu nguyên chất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất ép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất tính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất rút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguyên chất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguyên thể",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the intrinsic nature or indispensable quality of something, especially something abstract, that determines its character.",
+      "definitions_ex_en": "conflict is the essence of drama",
+      "definitions_ex_vn": "Xung đột là bản chất của kịch",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315061_9ac781e58b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315061_f74837098e_o.png",
+      "id_image": "essence_1858236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429928_fb98a96381_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429928_99078c8d5e_o.png",
+      "id_image": "essence_2916825"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051630_bed5c950f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051630_eb9d7a0215_o.png",
+      "id_image": "essence_409193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359207_731c8d29ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359207_c367e8b717_o.png",
+      "id_image": "essence_436661"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669659_de1d6f5b09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669659_59f0b136f8_o.png",
+      "id_image": "essence_5305526"
+    }
+  ]
+}

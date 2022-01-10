@@ -1,0 +1,44 @@
+{
+  "english": "flammable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có thể cháy",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "easily set on fire.",
+      "definitions_ex_en": "the use of highly flammable materials",
+      "definitions_ex_vn": "việc sử dụng các vật liệu dễ cháy cao",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323316_3eacc7a10a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323316_77e7b52496_o.png",
+      "id_image": "flammable_1501196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368192_bd7779f8dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368192_c009caa069_o.png",
+      "id_image": "flammable_3296552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323251_d0d8f6d278_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323251_45cdc840b7_o.png",
+      "id_image": "flammable_5640887"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368117_f84b99b7e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368117_f15d7928f5_o.png",
+      "id_image": "flammable_6192265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059925_f130ae4785_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059925_463a9da5e7_o.png",
+      "id_image": "flammable_6255445"
+    }
+  ]
+}

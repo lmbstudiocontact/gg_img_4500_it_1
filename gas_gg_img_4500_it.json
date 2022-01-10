@@ -1,0 +1,101 @@
+{
+  "english": "gas",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xăng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dầu hỏa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dầu lửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời nói dài dòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dầu xăng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bá láp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoe khoang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hơi độc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho có hơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thả hơi ngạt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a substance or matter in a state in which it will expand freely to fill the whole of a container, having no fixed shape (unlike a solid) and no fixed volume (unlike a liquid).",
+      "definitions_ex_en": "hot balls of gas that become stars",
+      "definitions_ex_vn": "Những quả bóng khí nóng trở thành ngôi sao",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an entertaining or amusing person or situation.",
+      "definitions_ex_en": "the party would be a gas",
+      "definitions_ex_vn": "Bữa tiệc sẽ là một loại khí",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "kill or harm by exposure to poisonous gas.",
+      "definitions_ex_en": "my son was gassed at Verdun",
+      "definitions_ex_vn": "Con trai tôi đã bị gầm tại Verdun",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "talk, especially excessively, idly, or boastfully.",
+      "definitions_ex_en": "I thought you'd never stop gassing",
+      "definitions_ex_vn": "Tôi nghĩ bạn sẽ không bao giờ ngừng khí",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338401_2400af30ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338401_aa4bcf3530_o.png",
+      "id_image": "gas_3365464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453343_3e5f09e80a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453343_c40f182428_o.png",
+      "id_image": "gas_3523673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383372_96424b035d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383372_8d74130b48_o.png",
+      "id_image": "gas_465018"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075390_cf940399a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075390_e22f87888a_o.png",
+      "id_image": "gas_6315520"
+    }
+  ]
+}

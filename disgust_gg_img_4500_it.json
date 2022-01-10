@@ -1,0 +1,49 @@
+{
+  "english": "disgust",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chán ghét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thù ghét",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a feeling of revulsion or strong disapproval aroused by something unpleasant or offensive.",
+      "definitions_ex_en": "the sight filled her with disgust",
+      "definitions_ex_vn": "Cảnh tượng lấp đầy cô ấy với sự ghê tởm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cause (someone) to feel revulsion or profound disapproval.",
+      "definitions_ex_en": "I was disgusted with myself for causing so much misery",
+      "definitions_ex_vn": "Tôi đã chán ghét bản thân vì đã gây ra rất nhiều sự khốn khổ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053110_b085739ae4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053110_a3c6fabbd1_o.png",
+      "id_image": "disgusted_3362320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431688_096f8463aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431688_33cc98b1f0_o.png",
+      "id_image": "disgusted_708623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671349_869f2f8a72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671349_1f59ef7bf4_o.png",
+      "id_image": "disgusting_6000846"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316606_36cb20e6a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316606_e849277fd6_o.png",
+      "id_image": "disgusting_6002585"
+    }
+  ]
+}

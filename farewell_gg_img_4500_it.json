@@ -1,0 +1,34 @@
+{
+  "english": "farewell",
+  "list_translation_mean": [
+    {
+      "translate_mean": "từ giả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xin từ biệt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used to express good wishes on parting.",
+      "definitions_ex_en": "Farewell Albert!",
+      "definitions_ex_vn": "Farewell Albert!",
+      "definitions_type_word": "exclamation"
+    },
+    {
+      "definitions_word_en": "an act of parting or of marking someone's departure.",
+      "definitions_ex_en": "the dinner had been arranged as a farewell",
+      "definitions_ex_vn": "bữa tối đã được sắp xếp như một lời chia tay",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691044_4485936456_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691044_51a8b685e5_o.png",
+      "id_image": "farewell_2165932"
+    }
+  ]
+}

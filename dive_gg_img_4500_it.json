@@ -1,0 +1,133 @@
+{
+  "english": "dive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bay cắm đầu xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đâm bổ xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đâm đầu xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lặn xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phóng xuống nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quán rượu lụp xụp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thọc tay vào túi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thọc tay xuống nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cắm đầu xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đâm bổ xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đâm đầu xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đâm vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lặn xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhào xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sấn vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm hiểu rỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thọc tay vào túi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thọc tay xuống nước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi ùa vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phóng xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lặn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "plunge head first into water.",
+      "definitions_ex_en": "she walked to the deep end, then she dived in",
+      "definitions_ex_vn": "Cô bước đến tận cùng, sau đó cô lao vào",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an aircraft or bird) plunge steeply downward through the air.",
+      "definitions_ex_en": "the aircraft dove for the ground to avoid the attack",
+      "definitions_ex_vn": "máy bay bồ câu cho mặt đất để tránh cuộc tấn công",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a plunge head first into water.",
+      "definitions_ex_en": "he hit the sea in a shallow dive",
+      "definitions_ex_vn": "anh ta đánh vào biển trong một cuộc lặn nông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a steep descent by an aircraft or bird.",
+      "definitions_ex_en": "the jumbo jet went into a dive",
+      "definitions_ex_vn": "Jumbo Jet đã đi vào một chuyến lặn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a shabby or sleazy bar or similar establishment.",
+      "definitions_ex_en": "he got into a fight in some dive",
+      "definitions_ex_vn": "anh ta đã chiến đấu trong một số lặn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313576_332451f94e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313576_046f76caa0_o.png",
+      "id_image": "dive_499407"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050120_ace0a020d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050120_cc24ddde4c_o.png",
+      "id_image": "dive_6213544"
+    }
+  ]
+}

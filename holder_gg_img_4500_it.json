@@ -1,0 +1,87 @@
+{
+  "english": "holder",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cán cầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ chứa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ đựng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cầm giữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giữ cúp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nắm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giữ chặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nắn lấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tay cầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tay nắm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a device or implement for holding something.",
+      "definitions_ex_en": "the cord retracts easily into its holder",
+      "definitions_ex_vn": "dây rút dễ dàng vào giá đỡ của nó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who holds something.",
+      "definitions_ex_en": "holders of two American hostages",
+      "definitions_ex_vn": "Chủ sở hữu của hai con tin Mỹ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a smallholder.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072125_c5829af850_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072125_137d94073a_o.png",
+      "id_image": "holder_1185480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450193_533a8900cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450193_c121c4c58a_o.png",
+      "id_image": "holder_3267562"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380287_e082c89055_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380287_cc17c9fc42_o.png",
+      "id_image": "holder_418328"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335151_44b8b6afd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335151_80365bb963_o.png",
+      "id_image": "holder_6006246"
+    }
+  ]
+}

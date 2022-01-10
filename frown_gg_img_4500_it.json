@@ -1,0 +1,47 @@
+{
+  "english": "frown",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cau mày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhăn mặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tỏ vẻ không bằng lòng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "form an expression of disapproval, displeasure, or concentration, typically by turning down the corners of the mouth.",
+      "definitions_ex_en": "he frowned as he reread the letter",
+      "definitions_ex_vn": "Anh cau mày khi anh đọc lại bức thư",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a facial expression indicating disapproval, displeasure, or concentration, typically with the corners of the mouth turned down.",
+      "definitions_ex_en": "she leans back uneasily, her mouth forming a pensive frown",
+      "definitions_ex_vn": "Cô ấy dựa lưng một cách khó chịu, miệng cô ấy tạo thành một lời cau mày",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343466_6787c1da8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343466_6d1e0e574b_o.png",
+      "id_image": "frown_3508358"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388392_818b6f0960_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388392_ea3198aae3_o.png",
+      "id_image": "frown_4795870"
+    }
+  ]
+}

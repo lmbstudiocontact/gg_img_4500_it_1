@@ -1,0 +1,88 @@
+{
+  "english": "foot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bàn vò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bộ binh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cẳng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chân núi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhảy múa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy theo điệu vũ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the lower extremity of the leg below the ankle, on which a person stands or walks.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a projecting part on which a piece of furniture or each of its legs stands.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the lower or lowest part of something; the base or bottom.",
+      "definitions_ex_en": "the foot of the stairs",
+      "definitions_ex_vn": "chân của cầu thang",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a unit of linear measure equal to 12 inches (30.48 cm).",
+      "definitions_ex_en": "shallow water no more than a foot deep",
+      "definitions_ex_vn": "Nước nông không quá chân sâu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of syllables constituting a metrical unit. In English poetry it consists of stressed and unstressed syllables, while in ancient classical poetry it consists of long and short syllables.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover a distance, especially a long one, on foot.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671829_4edd7c2fea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671829_e95334bd30_o.png",
+      "id_image": "foot_1328670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053520_2201ba38b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053520_d32cfc7857_o.png",
+      "id_image": "foot_2375367"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053495_2b4452cb2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053495_61626bc02d_o.png",
+      "id_image": "foot_2417977"
+    }
+  ]
+}

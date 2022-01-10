@@ -1,0 +1,33 @@
+{
+  "english": "ethnic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về nhân chủng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về nhân loại",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to a population subgroup (within a larger or dominant national or cultural group) with a common national or cultural tradition.",
+      "definitions_ex_en": "leaders of ethnic communities",
+      "definitions_ex_vn": "Lãnh đạo cộng đồng dân tộc",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051080_f881af0f2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051080_9c1ec6d7ef_o.png",
+      "id_image": "ethnic_3053730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051045_11ba363c47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051045_d6d582255f_o.png",
+      "id_image": "ethnic_3949433"
+    }
+  ]
+}

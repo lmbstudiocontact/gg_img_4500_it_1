@@ -1,0 +1,53 @@
+{
+  "english": "filament",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây tơ nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sợi tơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tua nhụy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a slender threadlike object or fiber, especially one found in animal or plant structures.",
+      "definitions_ex_en": "each myosin filament is usually surrounded by 12 actin filaments",
+      "definitions_ex_vn": "Mỗi dây tóc myosin thường được bao quanh bởi 12 sợi Actin",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a conducting wire or thread with a high melting point, forming part of an electric bulb or vacuum tube and heated or made incandescent by an electric current.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684894_13c1b9da1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684894_7cea0da642_o.png",
+      "id_image": "filament_5387330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330041_243165cf0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330041_6169c47a9a_o.png",
+      "id_image": "filament_926904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066740_cdc1ef3686_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066740_08b3bc1ff9_o.png",
+      "id_image": "filament_927860"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444943_59bfe6a422_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444943_ab82324d4c_o.png",
+      "id_image": "filament_927880"
+    }
+  ]
+}

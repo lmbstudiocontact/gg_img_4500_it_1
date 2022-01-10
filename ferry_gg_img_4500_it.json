@@ -1,0 +1,69 @@
+{
+  "english": "ferry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đi sang sông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "qua sông bằng đò",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thuế qua sông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chổ qua sông bằng đò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuế qua sông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạm sang đò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạm thuế giữa hai nước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a boat or ship for conveying passengers and goods, especially over a relatively short distance and as a regular service.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "convey in a ferry or other ship or boat, especially across a short stretch of water.",
+      "definitions_ex_en": "riverboats ferried weekend picnickers to the park",
+      "definitions_ex_vn": "Riverboats Ferried Picnickers cuối tuần đến công viên",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686769_5770265f05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686769_44b371732d_o.png",
+      "id_image": "ferry_1142691"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331751_bef4e85e24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331751_8d8790cba8_o.png",
+      "id_image": "ferry_1354602"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686699_c1284488ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686699_0f59bce3ee_o.png",
+      "id_image": "ferry_2290119"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376392_4d0408bbde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376392_bec05a786d_o.png",
+      "id_image": "ferry_3117953"
+    }
+  ]
+}

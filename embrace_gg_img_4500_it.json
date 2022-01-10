@@ -1,0 +1,102 @@
+{
+  "english": "embrace",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ôm hôn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vây quanh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bao quanh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bao bọc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự siết chặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bao quát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bao trùm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gồm có",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ôm lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "siết chặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự ôm hôn người khác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự ôm vào",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "hold (someone) closely in one's arms, especially as a sign of affection.",
+      "definitions_ex_en": "Aunt Sophie embraced her warmly",
+      "definitions_ex_vn": "Dì Sophie ôm lấy cô nồng nhiệt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "accept or support (a belief, theory, or change) willingly and enthusiastically.",
+      "definitions_ex_en": "besides traditional methods, artists are embracing new technology",
+      "definitions_ex_vn": "Bên cạnh các phương pháp truyền thống, các nghệ sĩ đang nắm lấy công nghệ mới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "include or contain (something) as a constituent part.",
+      "definitions_ex_en": "his career embraces a number of activities—composing, playing, and acting",
+      "definitions_ex_vn": "Sự nghiệp của ông chấp nhận một số hoạt động, sáng tác, chơi và diễn xuất",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of holding someone closely in one's arms.",
+      "definitions_ex_en": "they were locked in an embrace",
+      "definitions_ex_vn": "Họ đã bị nhốt trong một cái ôm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of accepting or supporting something willingly or enthusiastically.",
+      "definitions_ex_en": "their eager embrace of foreign influences",
+      "definitions_ex_vn": "sự háo hức của họ về những ảnh hưởng nước ngoài của họ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367627_a83600362d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367627_b0f967939a_o.png",
+      "id_image": "embrace_2689101"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677879_1f95c93e4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677879_5d615f9b55_o.png",
+      "id_image": "embrace_394472"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677799_14a5b74177_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677799_dbbf6b0580_o.png",
+      "id_image": "embrace_4412686"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "english": "harp",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đánh thụ cầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thụ cầm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a musical instrument, roughly triangular in shape, consisting of a frame supporting a graduated series of parallel strings, played by plucking with the fingers. The modern orchestral harp has an upright frame, with pedals that enable the strings to be retuned to different keys.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a marine mollusk which has a large vertically ribbed shell with a wide aperture, found chiefly in the Indo-Pacific.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for harmonica.",
+      "definitions_ex_en": "Papa had been teaching him to play the blues harp",
+      "definitions_ex_vn": "Papa đã dạy anh ta chơi Harp blues",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "talk or write persistently and tediously on (a particular topic).",
+      "definitions_ex_en": "I don't want to harp on about the past",
+      "definitions_ex_vn": "Tôi không muốn đàn hạc về quá khứ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "play on a harp.",
+      "definitions_ex_en": "among them harped the divine minstrel Demodocus",
+      "definitions_ex_vn": "Trong số họ đã đánh cắp Demod Focus Divine Minstrel",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344001_e9223744d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344001_3cf9a302d2_o.png",
+      "id_image": "harp_876858"
+    }
+  ]
+}

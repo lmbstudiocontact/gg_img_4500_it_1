@@ -1,0 +1,58 @@
+{
+  "english": "honesty",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tánh ngay thật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh thanh liêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh thành thật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the quality of being honest.",
+      "definitions_ex_en": "they spoke with convincing honesty about their fears",
+      "definitions_ex_vn": "Họ nói với sự trung thực thuyết phục về nỗi sợ hãi của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a European plant with purple or white flowers and round, flat, translucent seedpods that are used for indoor flower arrangements.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333806_1638770688_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333806_b90cf40d1b_o.png",
+      "id_image": "honesty_3062357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688869_e91cd05a0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688869_4deba5bda8_o.png",
+      "id_image": "honesty_3317685"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378642_5fc8e069b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378642_b6ecac0501_o.png",
+      "id_image": "honesty_4371088"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070645_051277b1c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070645_240212d980_o.png",
+      "id_image": "honesty_4751377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378567_4f1ebe284a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378567_915596d0bf_o.png",
+      "id_image": "honesty_5307779"
+    }
+  ]
+}

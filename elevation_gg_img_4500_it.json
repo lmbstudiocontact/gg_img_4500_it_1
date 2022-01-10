@@ -1,0 +1,69 @@
+{
+  "english": "elevation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỗ đất cao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cử dương thánh thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "độ cao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mô đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phẩm giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phẩm hạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cất cao lên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or fact of elevating or being elevated.",
+      "definitions_ex_en": "her sudden elevation to the cabinet",
+      "definitions_ex_vn": "độ cao bất ngờ của cô ấy đến tủ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "height above a given level, especially sea level.",
+      "definitions_ex_en": "a network of microclimates created by sharp differences in elevation",
+      "definitions_ex_vn": "Một mạng lưới vi mô được tạo bởi sự khác biệt sắc nét về độ cao",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a particular side of a building.",
+      "definitions_ex_en": "a burglar alarm was prominently displayed on the front elevation",
+      "definitions_ex_vn": "Một báo trộm được hiển thị nổi bật trên độ cao phía trước",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679554_caa3cb70f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679554_f7ac78ee47_o.png",
+      "id_image": "elevation_1143949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369242_8567030652_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369242_e9264e1a57_o.png",
+      "id_image": "elevation_2597927"
+    }
+  ]
+}

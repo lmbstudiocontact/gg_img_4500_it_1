@@ -1,0 +1,46 @@
+{
+  "english": "disagreement",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bất đồng ý kiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không giống nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không hòa thuận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính khác nhau",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "lack of consensus or approval.",
+      "definitions_ex_en": "there was some disagreement about the details",
+      "definitions_ex_vn": "Có một số bất đồng về các chi tiết",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318851_e037e8d351_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318851_730a6735c2_o.png",
+      "id_image": "disagreement_1871108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363402_8179af058a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363402_45ff49b318_o.png",
+      "id_image": "disagreement_2577485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318796_a12cf62b82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318796_25e12cfd3c_o.png",
+      "id_image": "disagreement_4144567"
+    }
+  ]
+}

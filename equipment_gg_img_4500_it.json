@@ -1,0 +1,60 @@
+{
+  "english": "equipment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cung cấp dụng cụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khí cụ cần dùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sắp đặt dụng cụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chuẫn bị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dọn dẹp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the necessary items for a particular purpose.",
+      "definitions_ex_en": "suppliers of office equipment",
+      "definitions_ex_vn": "Nhà cung cấp thiết bị văn phòng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431248_cda246a03c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431248_c0601e1dd7_o.png",
+      "id_image": "equipment_2201243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316341_6eaf6acc08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316341_17ac850b55_o.png",
+      "id_image": "equipment_2219008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670959_db8b80611b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670959_16b6fe7f1f_o.png",
+      "id_image": "equipment_2738943"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316296_7e00c3e20d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316296_30db197671_o.png",
+      "id_image": "equipment_3043476"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360492_824cbaf439_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360492_33457b893d_o.png",
+      "id_image": "equipment_4597340"
+    }
+  ]
+}

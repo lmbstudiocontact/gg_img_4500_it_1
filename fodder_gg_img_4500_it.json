@@ -1,0 +1,52 @@
+{
+  "english": "fodder",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rơm khô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cỏ cho súc vật ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mạ non cho súc vật ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cho súc vật ăn cỏ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "food, especially dried hay or feed, for cattle and other livestock.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give fodder to (cattle or other livestock).",
+      "definitions_ex_en": "the animals need foddering",
+      "definitions_ex_vn": "Các động vật cần thức ăn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433493_4b874f9db2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433493_2c5cc53fa5_o.png",
+      "id_image": "fodder_2195986"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318221_635710520b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318221_1843c8ee72_o.png",
+      "id_image": "fodder_3061626"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054875_62e8826e26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054875_e057d0711e_o.png",
+      "id_image": "fodder_757010"
+    }
+  ]
+}

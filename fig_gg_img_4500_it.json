@@ -1,0 +1,72 @@
+{
+  "english": "fig",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sung",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lể phục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quần áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "y phục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chế nhạo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trang điểm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a soft pear-shaped fruit with sweet dark flesh and many small seeds, eaten fresh or dried.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the deciduous Old World tree or shrub that bears the fig.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "dress up (someone) to look smart.",
+      "definitions_ex_en": "he was figged out in the latest modes",
+      "definitions_ex_vn": "Ông đã được đánh lừa trong các chế độ mới nhất",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "figure.",
+      "definitions_ex_en": "see fig.34",
+      "definitions_ex_vn": "Xem hình.34.",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685589_75ebe5a02d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685589_935cd73058_o.png",
+      "id_image": "fig_1135471"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375212_e402654fda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375212_4d7e6447ed_o.png",
+      "id_image": "fig_1411016"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330436_80da48f2f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330436_71d7b971bc_o.png",
+      "id_image": "fig_2077152"
+    }
+  ]
+}

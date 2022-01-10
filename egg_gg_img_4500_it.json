@@ -1,0 +1,67 @@
+{
+  "english": "egg",
+  "list_translation_mean": [
+    {
+      "translate_mean": "manh nha",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mầm móng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bom trên phi cơ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiến trúc noãn hình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trứng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an oval or round object laid by a female bird, reptile, fish, or invertebrate, usually containing a developing embryo. The eggs of birds are enclosed in a chalky shell, while those of reptiles are in a leathery membrane.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the female reproductive cell in animals and plants; an ovum.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person possessing a specified quality.",
+      "definitions_ex_en": "she was a good egg",
+      "definitions_ex_vn": "Cô ấy là một quả trứng tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "urge or encourage someone to do something, especially something foolish or risky.",
+      "definitions_ex_en": "he liked to boast and she would egg him on shamelessly",
+      "definitions_ex_vn": "Anh ấy thích khoe khoang và cô ấy sẽ đánh trứng vào sự xấu hổ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682669_fe72e3023b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682669_ac2d89dd10_o.png",
+      "id_image": "egg_1461478"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682704_d3c7c07676_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682704_4349314b63_o.png",
+      "id_image": "egg_188924"
+    }
+  ]
+}

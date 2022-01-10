@@ -1,0 +1,81 @@
+{
+  "english": "flare",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đèn rọi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lửa báo hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngọn lửa chập chờn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cháy không đều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phùng ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cháy không đều",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm phùng ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sudden brief burst of bright flame or light.",
+      "definitions_ex_en": "the flare of the match lit up his face",
+      "definitions_ex_vn": "ngọn lửa của trận đấu thắp lên mặt anh ta",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a gradual widening, especially of a skirt or pants.",
+      "definitions_ex_en": "as you knit, add a flare or curve a hem",
+      "definitions_ex_vn": "Khi bạn đan, thêm một ngọn lửa hoặc đường cong một hem",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "burn with a sudden intensity.",
+      "definitions_ex_en": "the bonfire crackled and flared up",
+      "definitions_ex_vn": "đống lửa lách và bùng lên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "gradually become wider at one end.",
+      "definitions_ex_en": "the dress flared out into a huge train",
+      "definitions_ex_vn": "Chiếc váy bùng lên một chuyến tàu khổng lồ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322951_5fb18f279e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322951_64f1bac896_o.png",
+      "id_image": "flare_1974790"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438078_421e35e949_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438078_22a1eb8edd_o.png",
+      "id_image": "flare_2485275"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809382056_54f00c20a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809382056_2dc0a7cc4f_o.png",
+      "id_image": "flare_3814283"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059580_96317bde6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059580_755b4da17f_o.png",
+      "id_image": "flare_6009534"
+    }
+  ]
+}

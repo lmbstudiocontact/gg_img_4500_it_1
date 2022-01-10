@@ -1,0 +1,137 @@
+{
+  "english": "express",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghiêm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chính xác",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đúng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gởi gấp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giống",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không ngừng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tốc hành",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hỏa tốc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tốc hành",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "diển tả",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ép dầu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát biểu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "convey (a thought or feeling) in words or by gestures and conduct.",
+      "definitions_ex_en": "he expressed complete satisfaction",
+      "definitions_ex_vn": "anh ấy bày tỏ sự hài lòng hoàn toàn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "squeeze out (liquid or air).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause (an inherited characteristic or gene) to appear in a phenotype.",
+      "definitions_ex_en": "the genes are expressed in a variety of cell lines",
+      "definitions_ex_vn": "Các gen được thể hiện trong một loạt các dòng tế bào",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "send by express delivery or messenger.",
+      "definitions_ex_en": "I expressed my clothes to my destination",
+      "definitions_ex_vn": "Tôi thể hiện quần áo đến đích của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "operating at high speed.",
+      "definitions_ex_en": "express elevators take you directly to the eighth floor",
+      "definitions_ex_vn": "Thang máy thể hiện đưa bạn trực tiếp đến tầng tám",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "definitely stated, not merely implied.",
+      "definitions_ex_en": "it was his express wish that the celebration continue",
+      "definitions_ex_vn": "Đó là mong muốn thể hiện của anh ấy rằng lễ kỷ niệm tiếp tục",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "by express train or delivery service.",
+      "definitions_ex_en": "I got my wife to send my gloves express to the hotel",
+      "definitions_ex_vn": "Tôi đã nhận vợ để gửi găng tay của tôi thể hiện đến khách sạn",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "an express train or other vehicle of public transportation.",
+      "definitions_ex_en": "we embarked for the south of France on an overnight express",
+      "definitions_ex_vn": "Chúng tôi bắt tay về phía nam của Pháp trên một người nhanh chóng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an overnight or rapid delivery service.",
+      "definitions_ex_en": "the books arrived by express",
+      "definitions_ex_vn": "Những cuốn sách đến bằng cách chuyển phát nhanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an express rifle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696489_1b393d58d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696489_f4ced25bc5_o.png",
+      "id_image": "express_2463853"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386177_173b919436_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386177_484d283cd9_o.png",
+      "id_image": "express_2463857"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696419_74e9050197_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696419_97cb74d4f8_o.png",
+      "id_image": "express_4008819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696394_621b800f42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696394_2843165fc7_o.png",
+      "id_image": "express_4735946"
+    }
+  ]
+}

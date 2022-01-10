@@ -1,0 +1,82 @@
+{
+  "english": "fake",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây thừng cuốn vòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ giả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm gian",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm giả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuốn khoanh lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giả mạo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm giả",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not genuine; counterfeit.",
+      "definitions_ex_en": "fake designer clothing",
+      "definitions_ex_vn": "Quần áo thiết kế giả",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a thing that is not genuine; a forgery or sham.",
+      "definitions_ex_en": "the painting was a fake",
+      "definitions_ex_vn": "Bức tranh là một giả",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "variant spelling of flake4 (noun).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "forge or counterfeit (something).",
+      "definitions_ex_en": "the woman faked her spouse's signature",
+      "definitions_ex_vn": "Người phụ nữ giả mạo chữ ký của người phối ngẫu của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "variant spelling of flake4 (verb).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337091_ecbf3a7f5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337091_170810b071_o.png",
+      "id_image": "fake_1717700"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692444_0b3f55f084_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692444_6983ed37d2_o.png",
+      "id_image": "fake_2233992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692399_77d05b9627_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692399_cb58536752_o.png",
+      "id_image": "fake_2742130"
+    }
+  ]
+}

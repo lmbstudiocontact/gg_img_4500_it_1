@@ -1,0 +1,43 @@
+{
+  "english": "grapevine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây nho",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách báo tin bí mật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tin vịt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a vine native to both Eurasia and North America, especially one bearing fruit (grapes) used for eating or winemaking. Numerous cultivars and hybrids have been developed for the winemaking industry.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used to refer to the circulation of rumors and unofficial information.",
+      "definitions_ex_en": "I'd heard through the grapevine that the business was nearly settled",
+      "definitions_ex_vn": "Tôi đã nghe thông qua Grapevine mà doanh nghiệp gần như đã ổn định",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324996_87161bf235_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324996_1101e9db4b_o.png",
+      "id_image": "grapevine_4698355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324961_d0cc863220_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324961_380d8138a6_o.png",
+      "id_image": "grapevine_6286359"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "english": "electrical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về điện",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "operating by or producing electricity.",
+      "definitions_ex_en": "an electrical appliance",
+      "definitions_ex_vn": "một thiết bị điện",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681149_b242176dc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681149_2dd13a407d_o.png",
+      "id_image": "electrical_3899159"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062800_186e5d86b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062800_f3e4a1631a_o.png",
+      "id_image": "electrical_4276008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062865_c69605b671_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062865_00e6a12709_o.png",
+      "id_image": "electrical_439969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370732_8f27e9b674_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370732_47ed4d29aa_o.png",
+      "id_image": "electrical_4698391"
+    }
+  ]
+}

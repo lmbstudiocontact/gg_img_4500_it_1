@@ -1,0 +1,66 @@
+{
+  "english": "fur",
+  "list_translation_mean": [
+    {
+      "translate_mean": "áo bằng lông thú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "da lông của thú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quần áo bằng da thú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đóng cáu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm đóng dơ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lót bằng lông thú",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the short, fine, soft hair of certain animals.",
+      "definitions_ex_en": "a long, lean, muscular cat with sleek fur",
+      "definitions_ex_vn": "Một con mèo dài, gầy, cơ bắp với bộ lông kiểu dáng đẹp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fix strips of wood to (floor joists, wall studs, etc.) in order to level them or increase their depth.",
+      "definitions_ex_en": "the drain could be concealed by furring out the original wall",
+      "definitions_ex_vn": "cống có thể được che giấu bằng cách cắt tường ban đầu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "furlong(s).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696754_37bbf65ac5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696754_dee4c24306_o.png",
+      "id_image": "fur_5660561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386557_6bee543302_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386557_2c87d5e080_o.png",
+      "id_image": "fur_5825065"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696689_d68230ec67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696689_701e907a62_o.png",
+      "id_image": "fur_5930724"
+    }
+  ]
+}

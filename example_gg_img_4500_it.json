@@ -1,0 +1,40 @@
+{
+  "english": "example",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ mẩu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thí dụ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing characteristic of its kind or illustrating a general rule.",
+      "definitions_ex_en": "it's a good example of how European action can produce results",
+      "definitions_ex_vn": "Đó là một ví dụ điển hình về cách hành động châu Âu có thể tạo ra kết quả",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or thing regarded in terms of their fitness to be imitated or the likelihood of their being imitated.",
+      "definitions_ex_en": "it is vitally important that parents should set an example",
+      "definitions_ex_vn": "Nó là cực kỳ quan trọng là cha mẹ nên đặt một ví dụ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be illustrated or exemplified.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312971_b7e9a30333_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312971_e40dc8168f_o.png",
+      "id_image": "example_1622689"
+    }
+  ]
+}

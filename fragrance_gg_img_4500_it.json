@@ -1,0 +1,34 @@
+{
+  "english": "fragrance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mùi thơm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a pleasant, sweet smell.",
+      "definitions_ex_en": "the fragrance of fresh-ground coffee",
+      "definitions_ex_vn": "hương thơm của cà phê đất tươi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313281_235b36460f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313281_36c7804d96_o.png",
+      "id_image": "fragrance_3739897"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668094_a886bd9ba8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668094_1799d1b97f_o.png",
+      "id_image": "fragrance_545081"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668029_7e995d3949_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668029_e0f958fb66_o.png",
+      "id_image": "fragrance_6395773"
+    }
+  ]
+}

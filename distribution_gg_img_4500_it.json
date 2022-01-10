@@ -1,0 +1,56 @@
+{
+  "english": "distribution",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phân chia",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phân chia theo hạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phân phát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vung rải",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of sharing something out among a number of recipients.",
+      "definitions_ex_en": "she had it printed for distribution among her friends",
+      "definitions_ex_vn": "cô ấy đã in để phân phối trong số những người bạn của cô ấy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357942_517bd253a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357942_1f6ba8b935_o.png",
+      "id_image": "distribution_3053713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357927_634f590165_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357927_cf59dd73ec_o.png",
+      "id_image": "distribution_3396053"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050340_5d6f8eb025_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050340_52a3d03b94_o.png",
+      "id_image": "distribution_4295958"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357847_f9d1ae41c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357847_4e0255d87e_o.png",
+      "id_image": "distribution_4586144"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357837_2518380f8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357837_f4fdd5f70e_o.png",
+      "id_image": "distribution_4586175"
+    }
+  ]
+}

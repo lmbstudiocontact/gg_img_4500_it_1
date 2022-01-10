@@ -1,0 +1,33 @@
+{
+  "english": "flu",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bịnh cúm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cúm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "short for influenza.",
+      "definitions_ex_en": "I had a bad case of the flu",
+      "definitions_ex_vn": "Tôi đã có một trường hợp xấu của bệnh cúm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319711_f95d963b4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319711_a82a7af447_o.png",
+      "id_image": "flu_3411516"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434783_8d44f82acd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434783_e9ced1ffea_o.png",
+      "id_image": "flu_6092870"
+    }
+  ]
+}

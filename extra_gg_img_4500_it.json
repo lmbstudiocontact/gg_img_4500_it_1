@@ -1,0 +1,101 @@
+{
+  "english": "extra",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thêm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "để dành",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phụ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thứ tốt nhất",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đặt biệt",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "khác thường",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "thượng hảo hạng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "phần phụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật phụ thuộc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "added to an existing or usual amount or number; additional.",
+      "definitions_ex_en": "they offered him an extra thirty-five cents an hour",
+      "definitions_ex_vn": "họ đã cung cấp cho anh ta thêm ba mươi lăm xu một giờ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "excessive or extravagant.",
+      "definitions_ex_en": "“crudité” is so extra—just call it a snack",
+      "definitions_ex_vn": "\"Crudité\" rất hấp dẫn - chỉ cần gọi nó là một bữa ăn nhẹ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "to a greater extent than usual; especially.",
+      "definitions_ex_en": "he is trying to be extra good",
+      "definitions_ex_vn": "anh ấy đang cố gắng để có thêm tốt",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "in addition.",
+      "definitions_ex_en": "installation will cost about $60 extra",
+      "definitions_ex_vn": "Cài đặt sẽ có giá khoảng 60 đô la",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "an item in addition to what is usual or strictly necessary.",
+      "definitions_ex_en": "I had an education with all the extras",
+      "definitions_ex_vn": "Tôi đã có một nền giáo dục với tất cả các tính năng bổ sung",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "outside; beyond.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "prefix"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340416_a203338560_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340416_f6980fbbff_o.png",
+      "id_image": "extra_4524912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385397_65e12520c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385397_99f6c50464_o.png",
+      "id_image": "extra_4661996"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385357_535a9ff592_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385357_e5344dcc36_o.png",
+      "id_image": "extra_4662002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455278_5937129033_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455278_4c9d128aef_o.png",
+      "id_image": "extra_4727110"
+    }
+  ]
+}

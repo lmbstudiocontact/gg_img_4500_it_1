@@ -1,0 +1,133 @@
+{
+  "english": "fly",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bay",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "văng ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đào tẩu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi thật lẹ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lái phi cơ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "treo cờ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bề dài của lá cờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "con ruồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giải gài áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lông của bông vải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mái lều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cửa quần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "từng thượng của sân khấu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a bird, bat, or insect) move through the air using wings.",
+      "definitions_ex_en": "close the door or the moths will fly in",
+      "definitions_ex_vn": "Đóng cửa hoặc bướm đêm sẽ bay vào",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move or be hurled quickly through the air.",
+      "definitions_ex_en": "balls kept flying over her hedge",
+      "definitions_ex_vn": "những quả bóng tiếp tục bay trên hàng rào của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(especially of hair) wave or flutter in the wind.",
+      "definitions_ex_en": "they were running, hair flying everywhere",
+      "definitions_ex_vn": "họ đang chạy, tóc bay khắp nơi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "go or move quickly.",
+      "definitions_ex_en": "she flew along the path",
+      "definitions_ex_vn": "Cô bay dọc theo con đường",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an opening at the crotch of a pair of pants, closed with a zipper or buttons and typically covered with a flap.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the space over the stage in a theater.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for fly ball.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a flying insect of a large order characterized by a single pair of transparent wings and sucking (and often also piercing) mouthparts. Flies are noted as vectors of disease.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055545_f0282034e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055545_4f8520c200_o.png",
+      "id_image": "fly_1357476"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363522_79e54d8455_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363522_466e34196c_o.png",
+      "id_image": "fly_2230885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363497_f8a84eab0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363497_dc643063a8_o.png",
+      "id_image": "fly_4469569"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434098_5803894c41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434098_890fbcf43f_o.png",
+      "id_image": "fly_5039292"
+    }
+  ]
+}

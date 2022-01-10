@@ -1,0 +1,42 @@
+{
+  "english": "detour",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đi lệch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm sai",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tẻ sang ngã khác",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long or roundabout route that is taken to avoid something or to visit somewhere along the way.",
+      "definitions_ex_en": "he had made a detour to a cafe",
+      "definitions_ex_vn": "anh ta đã làm một đường vòng cho một quán cà phê",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371142_d837bf9d59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371142_c33c803289_o.png",
+      "id_image": "detour_1196773"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063250_970b60735c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063250_986b71e445_o.png",
+      "id_image": "detour_2204795"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063205_cedcdb5def_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063205_b3fd644347_o.png",
+      "id_image": "detour_4463632"
+    }
+  ]
+}

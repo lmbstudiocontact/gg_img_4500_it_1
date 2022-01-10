@@ -1,0 +1,95 @@
+{
+  "english": "flood",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nước lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước ngập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước triều lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước dưng lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thủy tai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho ngập nước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm đầy tràn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm ngập lụt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làn lụt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an overflowing of a large amount of water beyond its normal confines, especially over what is normally dry land.",
+      "definitions_ex_en": "a flood barrier",
+      "definitions_ex_vn": "một hàng rào lũ lụt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an outpouring of tears or emotion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for floodlight.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover or submerge (a place or area) with water.",
+      "definitions_ex_en": "the dam burst, flooding a small town",
+      "definitions_ex_vn": "Đập đập, tràn ngập một thị trấn nhỏ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "arrive in overwhelming amounts or quantities.",
+      "definitions_ex_en": "sunlight flooded in at the windows",
+      "definitions_ex_vn": "Ánh sáng mặt trời tràn ngập tại cửa sổ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365677_ecf26ee73f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365677_ca58575cff_o.png",
+      "id_image": "flood_3217082"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320731_d1abacf61a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320731_a11cc791c1_o.png",
+      "id_image": "flood_3436914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365742_d30b618eed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365742_9a03b46956_o.png",
+      "id_image": "flood_491273"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057560_7e502a121a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057560_94d6b4b30a_o.png",
+      "id_image": "flood_491279"
+    }
+  ]
+}

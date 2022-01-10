@@ -1,0 +1,40 @@
+{
+  "english": "hacksaw",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cưa sắt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a saw with a narrow fine-toothed blade set in a frame, used especially for cutting metal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cut (something) using a hacksaw.",
+      "definitions_ex_en": "the bolt has now been hacksawed through",
+      "definitions_ex_vn": "Bolt hiện đã được hacksawed qua",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431593_7eae34742e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431593_188b6e0a2e_o.png",
+      "id_image": "hacksaw_2230900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053020_b61e64cb26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053020_53a70a9861_o.png",
+      "id_image": "hacksaw_2497237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053060_822523e123_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053060_b37b4e13b0_o.png",
+      "id_image": "hacksaw_422154"
+    }
+  ]
+}

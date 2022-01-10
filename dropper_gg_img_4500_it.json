@@ -1,0 +1,52 @@
+{
+  "english": "dropper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người nhỏ thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống nhỏ giọt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rơi giọt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc nhỏ mắt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a short glass tube with a rubber bulb at one end and a tiny hole at the other, for measuring out drops of medicine or other liquids.",
+      "definitions_ex_en": "oils sold in bottles with a rubber-tipped dropper",
+      "definitions_ex_vn": "Dầu được bán trong chai với ống nhỏ giọt cao su",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a subsidiary line or loop of filament attached to a main line or leader.",
+      "definitions_ex_en": "a dropper line",
+      "definitions_ex_vn": "một dòng nhỏ giọt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382502_a2c12e8152_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382502_9858af4013_o.png",
+      "id_image": "dropper_164322"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337441_6a6b4a10bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337441_3fc93f951d_o.png",
+      "id_image": "dropper_436673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452238_84fe2a8286_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452238_500a0f81f0_o.png",
+      "id_image": "dropper_436675"
+    }
+  ]
+}

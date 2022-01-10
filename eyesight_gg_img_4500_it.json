@@ -1,0 +1,36 @@
+{
+  "english": "eyesight",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhìn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức trông thấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tầm mắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thấy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person's ability to see.",
+      "definitions_ex_en": "poor eyesight ended his plans for a naval career",
+      "definitions_ex_vn": "Thị lực kém kết thúc kế hoạch cho sự nghiệp hải quân",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384062_1439cdf1d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384062_74d135e518_o.png",
+      "id_image": "eyesight_6029251"
+    }
+  ]
+}

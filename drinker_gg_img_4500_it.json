@@ -1,0 +1,32 @@
+{
+  "english": "drinker",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người ghiền rượu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người say rượu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người uống",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who drinks a particular drink.",
+      "definitions_ex_en": "coffee drinkers",
+      "definitions_ex_vn": "uống cà phê",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383762_91f6ae6831_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383762_a01af61058_o.png",
+      "id_image": "drinker_1818716"
+    }
+  ]
+}

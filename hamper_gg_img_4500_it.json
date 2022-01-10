@@ -1,0 +1,55 @@
+{
+  "english": "hamper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giỏ đựng trái cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phụ tùng nặng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kềnh càng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm hư",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm trở ngại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngăn trở",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "hinder or impede the movement or progress of.",
+      "definitions_ex_en": "their work is hampered by lack of funds",
+      "definitions_ex_vn": "công việc của họ bị cản trở do thiếu vốn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "necessary but cumbersome equipment on a ship.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430688_ca35a2f46b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430688_5a46c994f7_o.png",
+      "id_image": "hamper_3778557"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430663_6a5c3132fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430663_31f6c057bc_o.png",
+      "id_image": "hamper_4277886"
+    }
+  ]
+}

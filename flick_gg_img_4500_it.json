@@ -1,0 +1,53 @@
+{
+  "english": "flick",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái đánh nhẹ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng lộp cộp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng quất roi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quất nhẹ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sudden sharp movement.",
+      "definitions_ex_en": "the flick of a switch",
+      "definitions_ex_vn": "Vuốt của một công tắc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a motion picture.",
+      "definitions_ex_en": "a Hollywood action flick",
+      "definitions_ex_vn": "Một hành động Hollywood Flick",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "propel (something) with a sudden sharp movement, especially of the fingers.",
+      "definitions_ex_en": "Emily flicked some ash off her sleeve",
+      "definitions_ex_vn": "Emily búng một số tro ra khỏi tay áo của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676729_109443cda7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676729_1e2c7040b8_o.png",
+      "id_image": "flick_4430317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321631_b09ef18619_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321631_6e0a09783f_o.png",
+      "id_image": "flick_4430323"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "english": "highland",
+  "list_translation_mean": [
+    {
+      "translate_mean": "miền cao nguyên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vùng sơn cước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vùng núi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an area of high or mountainous land.",
+      "definitions_ex_en": "the highlands of Madagascar",
+      "definitions_ex_vn": "Tây Nguyên của Madagascar",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the mountainous part of Scotland, north of Glasgow, often associated with Gaelic culture.",
+      "definitions_ex_en": "a Highland regiment",
+      "definitions_ex_vn": "một trung đoàn vùng cao",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074470_dc45560344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074470_d307fe9c21_o.png",
+      "id_image": "highland_5293869"
+    }
+  ]
+}

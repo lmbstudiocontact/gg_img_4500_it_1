@@ -1,0 +1,47 @@
+{
+  "english": "gadget",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ vật gì muốn nói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ khui hộp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ phụ tùng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small mechanical or electronic device or tool, especially an ingenious or novel one.",
+      "definitions_ex_en": "a state-of-the-art kitchen with every conceivable gadget",
+      "definitions_ex_vn": "một nhà bếp tiên tiến với mọi tiện ích có thể tưởng tượng được",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695944_17600e3b49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695944_f9ed0d930c_o.png",
+      "id_image": "gadget_1576530"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455553_25c65a166e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455553_1a3c6c9930_o.png",
+      "id_image": "gadget_329834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340596_a1354aa3da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340596_6f9c077ff6_o.png",
+      "id_image": "gadget_3855156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077920_bdc0f496a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077920_af2defdc0a_o.png",
+      "id_image": "gadget_3883884"
+    }
+  ]
+}

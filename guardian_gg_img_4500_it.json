@@ -1,0 +1,37 @@
+{
+  "english": "guardian",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người bảo quản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bảo vệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người che chở",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a defender, protector, or keeper.",
+      "definitions_ex_en": "self-appointed guardians of public morality",
+      "definitions_ex_vn": "Người giám hộ tự bổ nhiệm của đạo đức công cộng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055295_bc94e8b0ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055295_8d70d46cdd_o.png",
+      "id_image": "guardian_2451190"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055315_51e0f8462d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055315_0869e4d615_o.png",
+      "id_image": "guardian_490517"
+    }
+  ]
+}

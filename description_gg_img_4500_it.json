@@ -1,0 +1,65 @@
+{
+  "english": "description",
+  "list_translation_mean": [
+    {
+      "translate_mean": "diện mạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miêu tả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chọn lựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuật lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a spoken or written representation or account of a person, object, or event.",
+      "definitions_ex_en": "people who had seen him were able to give a description",
+      "definitions_ex_vn": "những người đã nhìn thấy anh ta đã có thể đưa ra một mô tả",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sort, kind, or class of people or things.",
+      "definitions_ex_en": "ships of every description",
+      "definitions_ex_vn": "Tàu của mỗi mô tả",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684629_4bab7971a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684629_a63f5f9934_o.png",
+      "id_image": "description_1907446"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444583_96363dbbcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444583_249204c3f1_o.png",
+      "id_image": "description_2036986"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684554_3d6ec2cf8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684554_9235134d96_o.png",
+      "id_image": "description_2620330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066305_c822a6c72d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066305_523c1f940f_o.png",
+      "id_image": "description_2620334"
+    }
+  ]
+}

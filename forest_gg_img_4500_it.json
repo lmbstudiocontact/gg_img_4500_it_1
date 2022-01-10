@@ -1,0 +1,43 @@
+{
+  "english": "forest",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rừng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trồng cây",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large area covered chiefly with trees and undergrowth.",
+      "definitions_ex_en": "a pine forest",
+      "definitions_ex_vn": "một rừng thông",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315481_4fd925a3a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315481_883fc581c9_o.png",
+      "id_image": "forest_1151674"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051895_25645c5a8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051895_7df6d804c1_o.png",
+      "id_image": "forest_1280468"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051925_a6cdc8f7c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051925_eeed3d8584_o.png",
+      "id_image": "forest_172790"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670019_4312259014_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670019_c8eaf669f8_o.png",
+      "id_image": "forest_1864084"
+    }
+  ]
+}

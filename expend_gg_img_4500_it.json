@@ -1,0 +1,28 @@
+{
+  "english": "expend",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hao phí",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xài",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "spend or use up (a resource such as money, time, or energy).",
+      "definitions_ex_en": "we do not need to expend energy working on our marriage",
+      "definitions_ex_vn": "Chúng tôi không cần phải tiêu tốn năng lượng trong cuộc hôn nhân của chúng tôi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665474_2858104c4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665474_d0ee5b3b11_o.png",
+      "id_image": "expend_5821971"
+    }
+  ]
+}

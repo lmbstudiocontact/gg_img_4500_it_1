@@ -1,0 +1,78 @@
+{
+  "english": "grid",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cửa song",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lưới sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rá lò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rá sắt để nướng thịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sách cực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "song sắt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a framework of spaced bars that are parallel to or cross each other; a grating.",
+      "definitions_ex_en": "the metal grids had been pulled across the foyer",
+      "definitions_ex_vn": "Các lưới kim loại đã được kéo qua sảnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a network of lines that cross each other to form a series of squares or rectangles.",
+      "definitions_ex_en": "a grid of tree-lined streets",
+      "definitions_ex_vn": "một lưới các đường phố lót cây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a network of cables or pipes for distributing power, especially high-voltage transmission lines for electricity.",
+      "definitions_ex_en": "the second reactor was not connected to the grid until 1985",
+      "definitions_ex_vn": "Lò phản ứng thứ hai không được kết nối với lưới cho đến năm 1985",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an electrode placed between the cathode and anode of a thermionic tube or cathode ray tube, serving to control or modulate the flow of electrons.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put into or set out as a grid.",
+      "definitions_ex_en": "the fen is gridded by intersecting dykes",
+      "definitions_ex_vn": "fen được rechded bằng cách giao nhau đê",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367092_df582a54f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367092_4e078f3784_o.png",
+      "id_image": "grid_3810244"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367057_ddeda15793_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367057_9765a667d6_o.png",
+      "id_image": "grid_6315900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322171_ba2a81155d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322171_ff3c65a4d6_o.png",
+      "id_image": "grid_979776"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "english": "grater",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bàn mài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bàn xát",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a device having a surface covered with holes edged by slightly raised cutting edges, used for grating cheese and other foods.",
+      "definitions_ex_en": "a cheese grater",
+      "definitions_ex_vn": "một vắt phô mai",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678959_606120312e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678959_15ebb2c600_o.png",
+      "id_image": "grater_2742962"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323666_98b9dbd6c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323666_56d945896d_o.png",
+      "id_image": "grater_3063544"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368712_75bf2e4201_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368712_65c4ced5b2_o.png",
+      "id_image": "grater_447261"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678914_c9fa5d6f71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678914_04d69cccbf_o.png",
+      "id_image": "grater_5816410"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323781_613986ba22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323781_52b91bfd4c_o.png",
+      "id_image": "grater_823230"
+    }
+  ]
+}

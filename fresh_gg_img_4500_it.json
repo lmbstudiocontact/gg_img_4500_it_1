@@ -1,0 +1,122 @@
+{
+  "english": "fresh",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tươi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chếch choáng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "còn non nớt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mát mẻ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mau mắn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tự phụ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đồng trinh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mới",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thiếu kinh nghiệm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mới",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "khí lạnh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of food) recently made or obtained; not canned, frozen, or otherwise preserved.",
+      "definitions_ex_en": "fresh fruit",
+      "definitions_ex_vn": "trái cây tươi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not previously known or used; new or different.",
+      "definitions_ex_en": "the court had heard fresh evidence",
+      "definitions_ex_vn": "Tòa án đã nghe thấy bằng chứng mới mẻ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) full of energy and vigor.",
+      "definitions_ex_en": "they are feeling fresh after a good night's sleep",
+      "definitions_ex_vn": "Họ đang cảm thấy tươi mới sau một giấc ngủ ngon",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of water) not salty.",
+      "definitions_ex_en": "all the fresh water in the world's lakes",
+      "definitions_ex_vn": "tất cả nước ngọt trong hồ thế giới",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of the wind) cool and fairly strong.",
+      "definitions_ex_en": "a fresh northerly wind was speeding the ship southwards",
+      "definitions_ex_vn": "Một cơn gió mới ở phía bắc đang tăng tốc con tàu về phía nam",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) having just had (a particular experience) or come from (a particular place).",
+      "definitions_ex_en": "we were fresh out of art school",
+      "definitions_ex_vn": "Chúng tôi đã mới ra khỏi trường nghệ thuật",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "presumptuous toward someone, especially in a sexual way.",
+      "definitions_ex_en": "one truck driver decided to get fresh with me",
+      "definitions_ex_vn": "Một tài xế xe tải quyết định trở nên tươi mới với tôi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a cow) yielding a renewed or increased supply of milk following the birth of a calf.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "newly; recently.",
+      "definitions_ex_en": "fresh-baked bread",
+      "definitions_ex_vn": "bánh mì nướng tươi",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699694_119c936750_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699694_827e83880f_o.png",
+      "id_image": "fresh_1140841"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082050_3e71c9635c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082050_63c878a191_o.png",
+      "id_image": "fresh_2451311"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389467_9c702faf2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389467_d9de3822b9_o.png",
+      "id_image": "fresh_3967356"
+    }
+  ]
+}

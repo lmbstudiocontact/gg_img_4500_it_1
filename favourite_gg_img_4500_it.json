@@ -1,0 +1,63 @@
+{
+  "english": "favourite",
+  "list_translation_mean": [
+    {
+      "translate_mean": "được thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "được thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "được yêu mến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kính trọng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "preferred before all others of the same kind.",
+      "definitions_ex_en": "their favorite Italian restaurant",
+      "definitions_ex_vn": "Nhà hàng Ý yêu thích của họ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person or thing that is especially popular or particularly well liked by someone.",
+      "definitions_ex_en": "the song is still a favorite after 20 years",
+      "definitions_ex_vn": "Bài hát vẫn là một yêu thích sau 20 năm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "record the address of (a website or other data) to enable quick access in future.",
+      "definitions_ex_en": "you can see who else favorited the same pictures",
+      "definitions_ex_vn": "Bạn có thể thấy ai khác được yêu thích những hình ảnh tương tự",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071100_470306c414_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071100_a63eec90b0_o.png",
+      "id_image": "favourite_1836022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334066_7a19cb8f65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334066_6b0ceef434_o.png",
+      "id_image": "favourite_2373986"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449043_55f3a60cbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449043_6a6b785f66_o.png",
+      "id_image": "favourite_4001236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333961_e3cb89e03c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333961_e39ca45f0f_o.png",
+      "id_image": "favourite_4780253"
+    }
+  ]
+}

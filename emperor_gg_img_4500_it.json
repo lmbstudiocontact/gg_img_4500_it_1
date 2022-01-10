@@ -1,0 +1,44 @@
+{
+  "english": "emperor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hoàng đế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hoàng thượng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sovereign ruler of great power and rank, especially one ruling an empire.",
+      "definitions_ex_en": "he became emperor in 1930",
+      "definitions_ex_vn": "Ông trở thành Hoàng đế năm 1930",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an orange and brown North American butterfly with a swift dodging flight, breeding chiefly on hackberries.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436403_c07f02803d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436403_5f7af6b510_o.png",
+      "id_image": "emperor_1450105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436353_e5f0709692_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436353_db2f82faeb_o.png",
+      "id_image": "emperor_4632123"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057935_ae901eb330_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057935_21fed8b17f_o.png",
+      "id_image": "emperor_678929"
+    }
+  ]
+}

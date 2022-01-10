@@ -1,0 +1,39 @@
+{
+  "english": "headgear",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đầu răng của bánh xe",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "hats, helmets, and other items worn on the head.",
+      "definitions_ex_en": "protective headgear",
+      "definitions_ex_vn": "Mũ bảo vệ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697459_2957eea07d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697459_6d579e1c15_o.png",
+      "id_image": "headgear_1485064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342241_65a5bd8de3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342241_d927a2323b_o.png",
+      "id_image": "headgear_1505378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342276_a4d44605e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342276_1882e45b8c_o.png",
+      "id_image": "headgear_459012"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697389_7f188a8928_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697389_16a9a0be8a_o.png",
+      "id_image": "headgear_5588973"
+    }
+  ]
+}

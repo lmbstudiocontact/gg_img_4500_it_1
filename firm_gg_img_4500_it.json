@@ -1,0 +1,72 @@
+{
+  "english": "firm",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chắc chắn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kiên cố",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không thay đổi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xác định",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "hảng buôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thương hội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho vững vàng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having a solid, almost unyielding surface or structure.",
+      "definitions_ex_en": "the bed should be reasonably firm, but not too hard",
+      "definitions_ex_vn": "Giường nên hợp lý chắc chắn, nhưng không quá khó",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "strongly felt and unlikely to change.",
+      "definitions_ex_en": "he retains a firm belief in the efficacy of prayer",
+      "definitions_ex_vn": "anh ta giữ một niềm tin vững chắc vào hiệu quả của lời cầu nguyện",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "make (something) physically solid or resilient.",
+      "definitions_ex_en": "an exercise program designed to firm up muscle tone",
+      "definitions_ex_vn": "Một chương trình tập thể dục được thiết kế để làm săn chắc giai điệu cơ bắp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "in a resolute and determined manner.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "a business concern, especially one involving a partnership of two or more people.",
+      "definitions_ex_en": "a law firm",
+      "definitions_ex_vn": "một công ty luật",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680799_7645c1de7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680799_fd18b7b1c3_o.png",
+      "id_image": "firm_1622690"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "english": "doctor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bác sĩ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ để cạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "học giả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người sửa chửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà bác học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiến sỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thầy thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà thông thái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà thuyết minh giáo lý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cấp bằng tiến sỉ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm giả",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "săn sóc người bịnh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a qualified practitioner of medicine; a physician.",
+      "definitions_ex_en": "Doctor Thornhill",
+      "definitions_ex_vn": "Bác sĩ Thornhill.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who holds a doctorate.",
+      "definitions_ex_en": "he was made a Doctor of Divinity",
+      "definitions_ex_vn": "anh ta đã được làm một bác sĩ thiên tính",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an artificial fishing fly.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "change the content or appearance of (a document or picture) in order to deceive; falsify.",
+      "definitions_ex_en": "the reports could have been doctored",
+      "definitions_ex_vn": "Các báo cáo có thể đã được tiến sĩ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "treat (someone) medically.",
+      "definitions_ex_en": "I will doctor him everyday until he is better",
+      "definitions_ex_vn": "Tôi sẽ bác sĩ anh ta hàng ngày cho đến khi anh ta tốt hơn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312071_e1c373c9c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312071_f51af48471_o.png",
+      "id_image": "doctor_307942"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048645_2a6495e015_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048645_068e5e6fa3_o.png",
+      "id_image": "doctor_771338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666879_986263e315_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666879_7cdc69b554_o.png",
+      "id_image": "doctor_773383"
+    }
+  ]
+}

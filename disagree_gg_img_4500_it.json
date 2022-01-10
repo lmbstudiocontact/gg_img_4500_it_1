@@ -1,0 +1,77 @@
+{
+  "english": "disagree",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bất mản",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bất hòa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gây gổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khác nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không đồng ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không giống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không hạp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không hợp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không thích hợp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "have or express a different opinion.",
+      "definitions_ex_en": "no one was willing to disagree with him",
+      "definitions_ex_vn": "Không ai sẵn sàng không đồng ý với anh ta",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of statements or accounts) be inconsistent or fail to correspond.",
+      "definitions_ex_en": "the results disagree with the findings reported so far",
+      "definitions_ex_vn": "Kết quả không đồng ý với những phát hiện được báo cáo cho đến nay",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055535_9348b88c60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055535_084446c670_o.png",
+      "id_image": "disagree_1989982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673769_ab632c399a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673769_86bf3d781e_o.png",
+      "id_image": "disagree_4150681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055470_646c5758a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055470_6e4a709522_o.png",
+      "id_image": "disagree_4150787"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434103_3d29a140db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434103_f88c412217_o.png",
+      "id_image": "disagree_5226303"
+    }
+  ]
+}

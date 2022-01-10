@@ -1,0 +1,66 @@
+{
+  "english": "dramatic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bi đát",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bi tráng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ca kịch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kịch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kịch trường",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to drama or the performance or study of drama.",
+      "definitions_ex_en": "the dramatic arts",
+      "definitions_ex_vn": "nghệ thuật kịch tính",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an event or circumstance) sudden and striking.",
+      "definitions_ex_en": "a dramatic increase in recorded crime",
+      "definitions_ex_vn": "sự gia tăng mạnh mẽ về tội phạm được ghi lại",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043845_04f7a049b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043845_e5c265712d_o.png",
+      "id_image": "drama_2368384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662174_f66e389f72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662174_9e85000daa_o.png",
+      "id_image": "drama_2445272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421938_d41f69754e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421938_f572e5f4d6_o.png",
+      "id_image": "drama_2892524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043735_4cddd793f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043735_310cf0d8bc_o.png",
+      "id_image": "drama_6000854"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043730_853af09e37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043730_fb0f463bcf_o.png",
+      "id_image": "drama_6347692"
+    }
+  ]
+}

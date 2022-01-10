@@ -1,0 +1,32 @@
+{
+  "english": "devaluation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giãm giá trị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mất giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phá giá",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the reduction or underestimation of the worth or importance of something.",
+      "definitions_ex_en": "the general devaluation of expertise in our culture",
+      "definitions_ex_vn": "sự mất giá chung của chuyên môn trong văn hóa của chúng tôi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063130_06afc59f66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063130_dc95e14015_o.png",
+      "id_image": "devaluation_301095"
+    }
+  ]
+}

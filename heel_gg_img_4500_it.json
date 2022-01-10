@@ -1,0 +1,147 @@
+{
+  "english": "heel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cựa gà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gót",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gót báng súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ăn chực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người vô dụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gót chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gót giày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đan gót",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giao banh bằng gót giày",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sữa gót giày",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "theo bén gót",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nghiêng tàu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiêng về một bên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the back part of the human foot below the ankle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the part of the palm of the hand next to the wrist.",
+      "definitions_ex_en": "he rubbed the heel of his hand against the window",
+      "definitions_ex_vn": "Anh xoa gót chân lên cửa sổ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the end of a violin bow at which it is held.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an inconsiderate or untrustworthy person.",
+      "definitions_ex_en": "what kind of a heel do you think I am?",
+      "definitions_ex_vn": "Bạn nghĩ tôi là loại gót chân nào?",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instance of a ship heeling.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fit or renew a heel on (a shoe or boot).",
+      "definitions_ex_en": "they were soling and heeling heavy working boots",
+      "definitions_ex_vn": "họ đang làm việc và đôi giày làm việc nặng nề",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a dog) follow closely behind its owner.",
+      "definitions_ex_en": "these dogs are born with the instinctive urge to heel",
+      "definitions_ex_vn": "Những con chó này được sinh ra với sự thôi thúc theo bản năng đối với gót chân",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "strike (the ball) with the heel of the club.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "touch the ground with the heel when dancing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a boat or ship) be tilted temporarily by the pressure of wind or by an uneven distribution of weight on board.",
+      "definitions_ex_en": "the boat heeled in the freshening breeze",
+      "definitions_ex_vn": "Thuyền gót trong làn gió tươi mát",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "set a plant in the ground and cover its roots.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a command to a dog to walk close behind its owner.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "exclamation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384527_e87c3a868f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384527_e6fcbeb380_o.png",
+      "id_image": "heel_1397431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076755_a35f29ff9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076755_514642f875_o.png",
+      "id_image": "heel_6401050"
+    }
+  ]
+}

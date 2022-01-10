@@ -1,0 +1,36 @@
+{
+  "english": "fame",
+  "list_translation_mean": [
+    {
+      "translate_mean": "danh tiếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dư luận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng tăm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng đồn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being known or talked about by many people, especially on account of notable achievements.",
+      "definitions_ex_en": "winning the Olympic title has brought her fame and fortune",
+      "definitions_ex_vn": "Giành danh hiệu Olympic đã mang đến sự nổi tiếng của cô và tài sản",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381742_52cc4c147b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381742_fc98f55eab_o.png",
+      "id_image": "fame_1787424"
+    }
+  ]
+}

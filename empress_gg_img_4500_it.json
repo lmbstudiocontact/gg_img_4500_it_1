@@ -1,0 +1,33 @@
+{
+  "english": "empress",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hoàng hậu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nữ hoàng đế",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a woman who is a sovereign ruler of great power and rank, especially one ruling an empire.",
+      "definitions_ex_en": "Queen Victoria was proclaimed Empress at Delhi in 1877",
+      "definitions_ex_vn": "Nữ hoàng Victoria đã được tuyên bố Hoàng hậu tại Delhi vào năm 1877",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320636_efef7d5e7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320636_fe13c15b5b_o.png",
+      "id_image": "empress_3800447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057365_bcf81b8dce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057365_6bd4a90eef_o.png",
+      "id_image": "empress_4480885"
+    }
+  ]
+}

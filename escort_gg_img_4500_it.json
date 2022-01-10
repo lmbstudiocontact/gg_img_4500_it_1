@@ -1,0 +1,58 @@
+{
+  "english": "escort",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đi theo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi hộ tống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi hộ vệ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tán tỉnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ve vản",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đoàn quân hộ tống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoàn tùy tùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoàn hộ vệ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person, vehicle, or group accompanying another for protection or as a mark of rank.",
+      "definitions_ex_en": "a police escort",
+      "definitions_ex_vn": "một cảnh sát hộ tống.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "accompany (someone or something) somewhere, especially for protection or security, or as a mark of rank.",
+      "definitions_ex_en": "Shiona escorted Janice to the door",
+      "definitions_ex_vn": "Shiona hộ tống Janice đến cửa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670134_e6bfd07912_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670134_9b66179062_o.png",
+      "id_image": "escort_4413363"
+    }
+  ]
+}

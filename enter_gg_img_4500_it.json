@@ -1,0 +1,81 @@
+{
+  "english": "enter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bắt đầu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ghi vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khởi sự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vô sổ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "come or go into (a place).",
+      "definitions_ex_en": "she entered the kitchen",
+      "definitions_ex_vn": "Cô vào bếp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "begin to be involved in.",
+      "definitions_ex_en": "in 1941 America entered the war",
+      "definitions_ex_vn": "Năm 1941, Mỹ bước vào chiến tranh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "write or key (information) in a book, computer, etc., so as to record it.",
+      "definitions_ex_en": "children can enter the data into the computer",
+      "definitions_ex_vn": "Trẻ em có thể nhập dữ liệu vào máy tính",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "submit (a statement) in an official capacity, usually in a court of law.",
+      "definitions_ex_en": "an attorney entered a plea of guilty on her behalf",
+      "definitions_ex_vn": "Một luật sư bước vào một lời cầu xin tội lỗi thay mặt cô",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a key on a computer keyboard which is used to perform various functions, such as executing a command or selecting options on a menu.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054985_856a4bf2a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054985_a01e5a2a62_o.png",
+      "id_image": "enter_5896973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362952_ba5a83eb43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362952_af9049502e_o.png",
+      "id_image": "enter_891372"
+    }
+  ]
+}

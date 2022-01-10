@@ -1,0 +1,40 @@
+{
+  "english": "equanimity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bình thản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không đổi sắc diện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không đổi tính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh bình tỉnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trầm tỉnh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "mental calmness, composure, and evenness of temper, especially in a difficult situation.",
+      "definitions_ex_en": "she accepted both the good and the bad with equanimity",
+      "definitions_ex_vn": "Cô chấp nhận cả tốt và xấu với sự bình tĩnh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360937_968f9f7434_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360937_1bca8165b3_o.png",
+      "id_image": "equanimity_1187208"
+    }
+  ]
+}

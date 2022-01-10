@@ -1,0 +1,29 @@
+{
+  "english": "espionage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghề gián điệp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the practice of spying or of using spies, typically by governments to obtain political and military information.",
+      "definitions_ex_en": "the camouflage and secrecy of espionage",
+      "definitions_ex_vn": "Ngụy trang và bí mật của gián điệp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670064_1e843f861f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670064_6e4e91ec82_o.png",
+      "id_image": "espionage_5138628"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359567_f6ec6fb886_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359567_69f7d251a6_o.png",
+      "id_image": "espionage_5411109"
+    }
+  ]
+}

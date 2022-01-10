@@ -1,0 +1,48 @@
+{
+  "english": "format",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khích thước của sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khổ sách",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the way in which something is arranged or set out.",
+      "definitions_ex_en": "the format of the funeral service",
+      "definitions_ex_vn": "định dạng của dịch vụ tang lễ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(especially in computing) arrange or put into a format.",
+      "definitions_ex_en": "how to format a document",
+      "definitions_ex_vn": "Cách định dạng tài liệu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358912_bceebca7eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358912_e5cf4496f4_o.png",
+      "id_image": "format_1277325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669434_96b22653d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669434_d3ef1ce12e_o.png",
+      "id_image": "format_3527322"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358857_9041069a41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358857_47a8debe1a_o.png",
+      "id_image": "format_4529166"
+    }
+  ]
+}

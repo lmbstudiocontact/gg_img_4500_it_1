@@ -1,0 +1,61 @@
+{
+  "english": "elastic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây cao su",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "co lại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có tính thun lại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dãn ra",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dể dãi",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of an object or material) able to resume its normal shape spontaneously after contraction, dilatation, or distortion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "cord, tape, or fabric, woven with strips of rubber, which returns to its original length or shape after being stretched.",
+      "definitions_ex_en": "a polythene bag tied with elastic",
+      "definitions_ex_vn": "Một túi polythene buộc với đàn hồi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442348_39c4ddcd3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442348_ebdb5dfb49_o.png",
+      "id_image": "elastic_1787482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442308_33d6b0048c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442308_ca3a5680aa_o.png",
+      "id_image": "elastic_4176681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682384_aa484981b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682384_0df56ea7c5_o.png",
+      "id_image": "elastic_5039316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442213_e0a7614738_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442213_827f02011c_o.png",
+      "id_image": "elastic_5376623"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "english": "despair",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đau lòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tuyệt vọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thất vọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mất hết hy vọng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the complete loss or absence of hope.",
+      "definitions_ex_en": "in despair, I hit the bottle",
+      "definitions_ex_vn": "Trong tuyệt vọng, tôi đánh vào chai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "lose or be without hope.",
+      "definitions_ex_en": "we should not despair",
+      "definitions_ex_vn": "Chúng ta không nên tuyệt vọng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328296_ca4d4bd1c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328296_3c82f51c04_o.png",
+      "id_image": "despair_3220751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373102_b3bfb9252e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373102_983eaf7cc2_o.png",
+      "id_image": "despair_708667"
+    }
+  ]
+}

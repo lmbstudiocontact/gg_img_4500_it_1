@@ -1,0 +1,67 @@
+{
+  "english": "flute",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ống sáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thổi ống sáo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a wind instrument made from a tube with holes along it that are stopped by the fingers or keys, held vertically or horizontally so that the player's breath strikes a narrow edge. The modern orchestral form, typically made of metal, is held horizontally and has an elaborate set of keys.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an ornamental vertical groove in a column.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tall, narrow wine glass.",
+      "definitions_ex_en": "a flute of champagne",
+      "definitions_ex_vn": "một sáo của rượu sâm banh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "speak in a melodious way.",
+      "definitions_ex_en": "‘What do you do?’ she fluted",
+      "definitions_ex_vn": "'Bạn làm gì?' Cô ấy trôi dạt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make flutes or grooves in.",
+      "definitions_ex_en": "the wood has been fluted to resemble Greek columns",
+      "definitions_ex_vn": "Gỗ đã được rửa để giống với các cột Hy Lạp",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673979_5df960100f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673979_53c1e0c835_o.png",
+      "id_image": "flute_2653917"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673939_94fcdc9c98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673939_ba1cfe7c49_o.png",
+      "id_image": "flute_5830507"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319141_8028fcd6d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319141_3386a9a9c1_o.png",
+      "id_image": "flute_820140"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434288_1d55ecc192_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434288_59b27e04a5_o.png",
+      "id_image": "flute_820179"
+    }
+  ]
+}

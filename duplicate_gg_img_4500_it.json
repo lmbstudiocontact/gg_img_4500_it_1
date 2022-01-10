@@ -1,0 +1,117 @@
+{
+  "english": "duplicate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bản sao",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "biên lai cầm đồ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chử đồng nghỉa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giống hệt nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm hai bản",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phó bản",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rất giống nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bản sao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chép lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chụp hai bản",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm hai lần",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thành hai bản",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sao lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "exactly like something else, especially through having been copied.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having two corresponding or identical parts.",
+      "definitions_ex_en": "a duplicate application form",
+      "definitions_ex_vn": "một mẫu đơn trùng lặp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "one of two or more identical things.",
+      "definitions_ex_en": "books may be disposed of if they are duplicates",
+      "definitions_ex_vn": "Sách có thể được xử lý nếu chúng là bản sao",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for duplicate bridge.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pawnbroker's ticket.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make or be an exact copy of.",
+      "definitions_ex_en": "they have not been able to duplicate his successes",
+      "definitions_ex_vn": "họ đã không thể nhân đôi những thành công của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379877_c5cd2e6c48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379877_d4988fddf3_o.png",
+      "id_image": "duplicate_1296707"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334851_a269f2da06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334851_8cd169be83_o.png",
+      "id_image": "duplicate_1365267"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071795_6afdf15b7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071795_fb04c481aa_o.png",
+      "id_image": "duplicate_3399866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334786_613d098e07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334786_b91b6a28c4_o.png",
+      "id_image": "duplicate_5966661"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "enhance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nâng cao",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tăng gia",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thêm lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tăng thêm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lên giá",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "intensify, increase, or further improve the quality, value, or extent of.",
+      "definitions_ex_en": "his refusal does nothing to enhance his reputation",
+      "definitions_ex_vn": "Từ chối của anh ta không làm gì để nâng cao danh tiếng của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055490_35f9c6a00b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055490_dbb5e4e35d_o.png",
+      "id_image": "enhance_2620957"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "english": "dismissal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cho giải ngủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cho nghỉ việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giải tán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tha bổng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xua đuổi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the act of ordering or allowing someone to leave.",
+      "definitions_ex_en": "their controversial dismissal from the competition",
+      "definitions_ex_vn": "sa thải tranh cãi của họ khỏi cuộc thi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the act of treating something as unworthy of serious consideration; rejection.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359882_a36caacf42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359882_480cbef704_o.png",
+      "id_image": "dismissal_6134841"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052165_95a026f05b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052165_f16bab1863_o.png",
+      "id_image": "dismissal_6134914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359842_8b11398189_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359842_436f5764e9_o.png",
+      "id_image": "dismissal_6135210"
+    }
+  ]
+}

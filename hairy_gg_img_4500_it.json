@@ -1,0 +1,50 @@
+{
+  "english": "hairy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bờm xờm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có lông",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có nhiều lông",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có tóc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhiều tóc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xồm xoàn",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "covered with hair, especially thick or long hair.",
+      "definitions_ex_en": "a hairy chest",
+      "definitions_ex_vn": "một cái rương lông",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "alarming and difficult.",
+      "definitions_ex_en": "we drove up yet another hairy mountain road",
+      "definitions_ex_vn": "Chúng tôi đã lái xe lên một con đường núi lông khác",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360252_56714b3233_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360252_2121021217_o.png",
+      "id_image": "hairy_340028"
+    }
+  ]
+}

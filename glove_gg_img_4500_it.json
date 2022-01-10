@@ -1,0 +1,53 @@
+{
+  "english": "glove",
+  "list_translation_mean": [
+    {
+      "translate_mean": "găng tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bao tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "găng đấu quyền",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a covering for the hand worn for protection against cold or dirt and typically having separate parts for each finger and the thumb.",
+      "definitions_ex_en": "rubber gloves",
+      "definitions_ex_vn": "đôi găng tay cao su",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a baseball catcher) catch, deflect, or touch (the ball) with one's glove.",
+      "definitions_ex_en": "Vaughan gloved it and got to his knees to throw",
+      "definitions_ex_vn": "Vaughan đeo găng nó và quỳ xuống để ném",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686079_0e58e0aeb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686079_69f28c8a02_o.png",
+      "id_image": "glove_1027085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686009_e85979cb35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686009_a3ebfd9edf_o.png",
+      "id_image": "glove_1348639"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331011_e24d192b90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331011_d9bd992a9a_o.png",
+      "id_image": "glove_1403909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067745_ecd10400fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067745_f94ef26b57_o.png",
+      "id_image": "glove_1947546"
+    }
+  ]
+}

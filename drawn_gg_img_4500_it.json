@@ -1,0 +1,78 @@
+{
+  "english": "drawn",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bất phân thắng bại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hấp dẩn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "huề nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kéo dài ra",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kéo lên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lấy trước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lôi cuốn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhổ lên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quyến rũ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rút thăm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rút ra",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trích trước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vẽ khéo",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "past participle of draw.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a person or a person's face) looking strained from illness, exhaustion, anxiety, or pain.",
+      "definitions_ex_en": "Cathy was pale and drawn and she looked tired out",
+      "definitions_ex_vn": "Cathy nhợt nhạt và rút ra và cô ấy trông mệt mỏi",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421713_7ea5985aa0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421713_124a07a51b_o.png",
+      "id_image": "drawn_3915654"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "english": "function",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cơ năng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chức vụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàm số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tác dụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyển vận",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an activity or purpose natural to or intended for a person or thing.",
+      "definitions_ex_en": "bridges perform the function of providing access across water",
+      "definitions_ex_vn": "Cầu thực hiện chức năng cung cấp quyền truy cập trên toàn nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a relationship or expression involving one or more variables.",
+      "definitions_ex_en": "the function (bx + c)",
+      "definitions_ex_vn": "Hàm (BX C)",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing dependent on another factor or factors.",
+      "definitions_ex_en": "class shame is a function of social power",
+      "definitions_ex_vn": "Lớp xấu hổ là một chức năng của quyền lực xã hội",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large or formal social event or ceremony.",
+      "definitions_ex_en": "he was obliged to attend party functions",
+      "definitions_ex_vn": "anh ta có nghĩa vụ tham dự các chức năng của đảng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "work or operate in a proper or particular way.",
+      "definitions_ex_en": "her liver is functioning normally",
+      "definitions_ex_vn": "Gan của cô ấy đang hoạt động bình thường",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457443_8ca3aac4e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457443_74e311b650_o.png",
+      "id_image": "function_4496243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457393_c3f1e463d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457393_c55fe47fce_o.png",
+      "id_image": "function_5486008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080140_3389284ac8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080140_0a84198ac6_o.png",
+      "id_image": "function_994633"
+    }
+  ]
+}

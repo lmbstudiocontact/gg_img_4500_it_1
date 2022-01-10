@@ -1,0 +1,112 @@
+{
+  "english": "empty",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm vắng vẻ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhà trống",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô ích",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xe tắc xi không khách",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trống",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trống không",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm cạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vét sạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chảy ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đổ ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho trống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trút ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vơi lần",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "containing nothing; not filled or occupied.",
+      "definitions_ex_en": "the room was empty of furniture",
+      "definitions_ex_vn": "Căn phòng trống rỗng của đồ nội thất",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of words or a gesture) lacking meaning or sincerity.",
+      "definitions_ex_en": "his answer sounded a little empty",
+      "definitions_ex_vn": "Câu trả lời của anh ấy nghe có vẻ hơi trống rỗng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having no value or purpose.",
+      "definitions_ex_en": "her life felt empty and meaningless",
+      "definitions_ex_vn": "Cuộc sống của cô cảm thấy trống rỗng và vô nghĩa",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "hungry.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "remove all the contents of (a container).",
+      "definitions_ex_en": "we empty the cash register each night at closing time",
+      "definitions_ex_vn": "Chúng tôi làm trống máy tính tiền mỗi đêm tại thời điểm đóng cửa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a container (especially a bottle or glass) left empty of its contents.",
+      "definitions_ex_en": "the barman collected the empties",
+      "definitions_ex_vn": "Người Barman đã thu thập những trống rỗng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435778_16c6df770f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435778_b4a88e5048_o.png",
+      "id_image": "empty_1793180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057310_327df29022_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057310_d0f87b4008_o.png",
+      "id_image": "empty_2244677"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057270_7b6f30c2e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057270_cff879f272_o.png",
+      "id_image": "empty_2254800"
+    }
+  ]
+}

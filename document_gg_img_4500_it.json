@@ -1,0 +1,60 @@
+{
+  "english": "document",
+  "list_translation_mean": [
+    {
+      "translate_mean": "văn thư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bằng chứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy má",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tài liệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dẩn chứng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiếm tài liệu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of written, printed, or electronic matter that provides information or evidence or that serves as an official record.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "record (something) in written, photographic, or other form.",
+      "definitions_ex_en": "the photographer spent years documenting the lives of miners",
+      "definitions_ex_vn": "Nhiếp ảnh gia đã dành nhiều năm để ghi lại cuộc sống của những người khai thác",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426848_647a45d52f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426848_97b2bcd795_o.png",
+      "id_image": "document_167825"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426798_16ee91eff3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426798_6df1cd1e25_o.png",
+      "id_image": "document_171000"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311946_82e7e583f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311946_ac95c41f3f_o.png",
+      "id_image": "document_741896"
+    }
+  ]
+}

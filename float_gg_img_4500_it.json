@@ -1,0 +1,102 @@
+{
+  "english": "float",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe hoa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe không mui",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bè gổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khối băng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật nổi trên mặt nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm ngập lụt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sáng lập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thả xuống nước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "rest or move on or near the surface of a liquid without sinking.",
+      "definitions_ex_en": "she relaxed, floating gently in the water",
+      "definitions_ex_vn": "Cô thư giãn, trôi nổi nhẹ nhàng trong nước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move or hover slowly and lightly in a liquid or the air; drift.",
+      "definitions_ex_en": "clouds floated across a brilliant blue sky",
+      "definitions_ex_vn": "Những đám mây trôi qua bầu trời xanh rực rỡ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "put forward (an idea) as a suggestion or test of reactions.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a currency) fluctuate freely in value in accordance with supply and demand in the financial markets.",
+      "definitions_ex_en": "a policy of letting the pound float",
+      "definitions_ex_vn": "một chính sách để cho pound float",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a thing that is buoyant in water.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hand tool with a rectangular blade used for smoothing plaster or concrete.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in critical path analysis) the period of time by which the duration of an activity may be extended without affecting the overall time for the process.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436333_a4aff994f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436333_e66552a51d_o.png",
+      "id_image": "float_390806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057810_7cce6eb71c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057810_be23890073_o.png",
+      "id_image": "float_4861733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365952_e05fcdfda5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365952_5fef925ddc_o.png",
+      "id_image": "float_499416"
+    }
+  ]
+}

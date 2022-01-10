@@ -1,0 +1,41 @@
+{
+  "english": "formation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hệ thống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cấu thành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hình thành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tổ chức",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of forming or process of being formed.",
+      "definitions_ex_en": "the formation of the Great Rift Valley",
+      "definitions_ex_vn": "sự hình thành của thung lũng rạn nứt lớn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669384_69f0f904b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669384_1be6d1b0f5_o.png",
+      "id_image": "formation_3564447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314716_4b2b2dfcf0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314716_3d7893123d_o.png",
+      "id_image": "formation_6224195"
+    }
+  ]
+}

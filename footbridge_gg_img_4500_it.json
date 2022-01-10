@@ -1,0 +1,33 @@
+{
+  "english": "footbridge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cầu cho những người đi bộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây để ngang gát chân",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a bridge designed to be used by pedestrians.",
+      "definitions_ex_en": "he took a short cut across a railroad footbridge",
+      "definitions_ex_vn": "Anh ta cắt một đoạn ngắn trên cầu đường sắt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316851_fb0b769cba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316851_b565ef9e91_o.png",
+      "id_image": "footbridge_1947963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361117_c2cd023d9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361117_01bdfddbfa_o.png",
+      "id_image": "footbridge_2119023"
+    }
+  ]
+}

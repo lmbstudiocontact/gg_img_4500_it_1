@@ -1,0 +1,60 @@
+{
+  "english": "hanger",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái móc áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồi có cây cối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "móc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người treo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rừng nhỏ ở sườn đồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật để móc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who hangs something.",
+      "definitions_ex_en": "a wallpaper hanger",
+      "definitions_ex_vn": "một móc treo hình nền",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a shaped piece of wood, plastic, or metal with a hook at the top, from which clothes may be hung in order to keep them in shape and free of creases.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390007_c8c51f44d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390007_eb31441068_o.png",
+      "id_image": "hanger_373018"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459833_78785287ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459833_def6a1ca0e_o.png",
+      "id_image": "hanger_376524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389967_c145501913_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389967_7fbd4596c9_o.png",
+      "id_image": "hanger_547913"
+    }
+  ]
+}

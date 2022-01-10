@@ -1,0 +1,30 @@
+{
+  "english": "handcuff",
+  "list_translation_mean": [
+    {
+      "translate_mean": "còng tay",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a pair of lockable linked metal rings for securing a prisoner's wrists.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put handcuffs on (someone).",
+      "definitions_ex_en": "he was led into court handcuffed to a policeman",
+      "definitions_ex_vn": "Anh ta bị đưa vào tòa án còng tay cho một cảnh sát",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430528_03b21ab4a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430528_a1cf699d9d_o.png",
+      "id_image": "handcuff_2302412"
+    }
+  ]
+}

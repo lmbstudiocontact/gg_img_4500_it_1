@@ -1,0 +1,90 @@
+{
+  "english": "fill",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bằng lòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đắp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đầy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vừa lòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm đầy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấp đầy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause (a space or container) to become full or almost full.",
+      "definitions_ex_en": "I filled the bottle with water",
+      "definitions_ex_vn": "Tôi lấp đầy chai với nước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "become an overwhelming presence in; pervade.",
+      "definitions_ex_en": "a pungent smell of garlic filled the air",
+      "definitions_ex_vn": "Một mùi tỏi hăng chứa đầy không khí",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "appoint a person to hold (a vacant post).",
+      "definitions_ex_en": "the board contacted him to say they had already filled the position",
+      "definitions_ex_vn": "Hội đồng đã liên lạc với anh ta để nói rằng họ đã điền vào vị trí",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in poker) complete (a good hand) by drawing the necessary cards.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an amount of something which is as much as one wants or can bear.",
+      "definitions_ex_en": "we have eaten our fill",
+      "definitions_ex_vn": "Chúng tôi đã ăn điền của chúng tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an amount of something which will occupy all the space in a container.",
+      "definitions_ex_en": "a fill of tobacco",
+      "definitions_ex_vn": "một quả tẩu thuốc lá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in popular music) a short interjected phrase on a particular instrument.",
+      "definitions_ex_en": "country-tinged guitar fills",
+      "definitions_ex_vn": "Đàn guitar tinged đất nước",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374257_79cecab13b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374257_f5e1673ff1_o.png",
+      "id_image": "fill_1151161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374202_a67866f641_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374202_2d75ff2b5b_o.png",
+      "id_image": "fill_2547632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329536_bfce9cbde0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329536_3bda716193_o.png",
+      "id_image": "fill_5448487"
+    }
+  ]
+}

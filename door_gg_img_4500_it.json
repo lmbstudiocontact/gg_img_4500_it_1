@@ -1,0 +1,59 @@
+{
+  "english": "door",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cánh cửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hấp hối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ở ngoài trời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ở nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xử kín",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle, or in the framework of a cupboard.",
+      "definitions_ex_en": "she looked for her key and opened the door",
+      "definitions_ex_vn": "Cô ấy tìm chìa khóa của mình và mở cửa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046655_2155e50ff0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046655_4bdb7c7f95_o.png",
+      "id_image": "door_1230015"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424723_8817c7d2e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424723_4f0c6e6152_o.png",
+      "id_image": "door_1230026"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046695_96b5be1a4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046695_2ab982b3af_o.png",
+      "id_image": "door_252752"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046665_f6b174d1e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046665_116f308a6b_o.png",
+      "id_image": "door_605649"
+    }
+  ]
+}

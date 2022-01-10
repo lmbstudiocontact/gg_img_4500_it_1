@@ -1,0 +1,79 @@
+{
+  "english": "drawer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bồi ở quán rượu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "họa sỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hút rượu ở thùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người kéo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nhổ răng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người phát hối phiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thảo văn kiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ vẻ chử",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a box-shaped storage compartment without a lid, made to slide horizontally in and out of a desk, chest, or other piece of furniture.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "underpants.",
+      "definitions_ex_en": "Queen Victoria was notoriously careless with her drawers",
+      "definitions_ex_vn": "Nữ hoàng Victoria nổi tiếng với những ngăn kéo của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who produces a drawing or design.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350827_a3ff6047e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350827_a30ae73c3d_o.png",
+      "id_image": "drawer_1494701"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306646_ab9fd76be1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306646_dd9a264808_o.png",
+      "id_image": "drawer_1691556"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662044_1a68634765_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662044_b51e3ab763_o.png",
+      "id_image": "drawer_5243350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421853_ef32472871_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421853_fea5f37453_o.png",
+      "id_image": "drawer_699334"
+    }
+  ]
+}

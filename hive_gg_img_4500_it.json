@@ -1,0 +1,74 @@
+{
+  "english": "hive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bầy ong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đàn ong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tổ ong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật giống hình tổ ong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bay vào tổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ ong vào tổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sống chung với nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tích trử",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a beehive.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a place in which people are busily occupied.",
+      "definitions_ex_en": "the kitchen became a hive of activity",
+      "definitions_ex_vn": "Nhà bếp đã trở thành một tổ ong của hoạt động",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "place (bees) in a hive.",
+      "definitions_ex_en": "smoke is used to subdue bees when taking and hiving a swarm",
+      "definitions_ex_vn": "Khói được sử dụng để khuất phục những con ong khi lấy và thụ động một bầy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691149_23788386b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691149_e761a8bb65_o.png",
+      "id_image": "hive_306741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691119_df50e83bef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691119_2158393190_o.png",
+      "id_image": "hive_5493283"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072815_95914b9531_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072815_d90ca67d79_o.png",
+      "id_image": "hive_622090"
+    }
+  ]
+}

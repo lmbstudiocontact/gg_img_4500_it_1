@@ -1,0 +1,78 @@
+{
+  "english": "duty",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bổn phận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chức vụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hiệu suất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kính trọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghỉa vụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhiệm vụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phục tùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tôn kính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuế thương chánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vâng lời",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a moral or legal obligation; a responsibility.",
+      "definitions_ex_en": "it's my duty to uphold the law",
+      "definitions_ex_vn": "Đó là nhiệm vụ của tôi để duy trì luật pháp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a task or action that someone is required to perform.",
+      "definitions_ex_en": "the queen's official duties",
+      "definitions_ex_vn": "nhiệm vụ chính thức của nữ hoàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a payment levied on the import, export, manufacture, or sale of goods.",
+      "definitions_ex_en": "a 6 percent duty on imports",
+      "definitions_ex_vn": "một nhiệm vụ 6 phần trăm đối với nhập khẩu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the measure of an engine's effectiveness in units of work done per unit of fuel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378927_750db46fe7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378927_eae3bb553e_o.png",
+      "id_image": "duty_353635"
+    }
+  ]
+}

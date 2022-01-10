@@ -1,0 +1,46 @@
+{
+  "english": "doorway",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường đi trước cửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường đi vào nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường đi vào phòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngỏ vào trước nhà",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an entrance to a room or building through a door.",
+      "definitions_ex_en": "Beth stood there in the doorway",
+      "definitions_ex_vn": "Beth đứng đó ở ngưỡng cửa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046085_ddc43923d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046085_1416753be7_o.png",
+      "id_image": "doorway_422102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353257_3dfb77682b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353257_255425699d_o.png",
+      "id_image": "doorway_470147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424188_07d9d06a3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424188_8fee672588_o.png",
+      "id_image": "doorway_988478"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "english": "educator",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thầy dạy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thầy giáo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who provides instruction or education; a teacher.",
+      "definitions_ex_en": "the perspective of a professional educator",
+      "definitions_ex_vn": "quan điểm của một nhà giáo dục chuyên nghiệp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065770_2ee110396c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065770_e6a9073f80_o.png",
+      "id_image": "educator_1864055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065735_c9604e3c1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065735_5ac2e005bc_o.png",
+      "id_image": "educator_2200566"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373607_02bbaa525b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373607_e0254d55ce_o.png",
+      "id_image": "educator_4869745"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065815_49f3dd50c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065815_d45d3f2cdb_o.png",
+      "id_image": "educator_827064"
+    }
+  ]
+}

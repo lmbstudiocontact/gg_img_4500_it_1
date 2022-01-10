@@ -1,0 +1,60 @@
+{
+  "english": "emerald",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngọc bích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngọc lục bảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sắc lục tươi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a bright green precious stone consisting of a chromium-rich variety of beryl.",
+      "definitions_ex_en": "an emerald necklace",
+      "definitions_ex_vn": "một vòng cổ ngọc lục bảo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bright green color like that of an emerald.",
+      "definitions_ex_en": "the leaves are emerald green",
+      "definitions_ex_vn": "Lá là màu xanh ngọc lục bảo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small hummingbird with bright metallic green plumage and darker wings and tail, found mainly in the area of the Caribbean and Central America.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "bright green in color.",
+      "definitions_ex_en": "beyond the airport lay emerald hills",
+      "definitions_ex_vn": "Ngoài sân bay Lay Emerald Hills",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677284_358bd03e65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677284_68f98d85a9_o.png",
+      "id_image": "emerald_3521729"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677264_c7c63c15bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677264_39334cb9b1_o.png",
+      "id_image": "emerald_4158403"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437358_6db9e7565c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437358_f194cbd640_o.png",
+      "id_image": "emerald_4158500"
+    }
+  ]
+}

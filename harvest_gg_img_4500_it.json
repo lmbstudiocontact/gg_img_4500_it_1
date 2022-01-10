@@ -1,0 +1,61 @@
+{
+  "english": "harvest",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kết qủa việc gì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mùa gặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mùa hái trái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gặt lúa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hái trái",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process or period of gathering in crops.",
+      "definitions_ex_en": "helping with the harvest",
+      "definitions_ex_vn": "giúp đỡ với vụ thu hoạch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "gather (a crop) as a harvest.",
+      "definitions_ex_en": "after harvesting, most of the crop is stored in large buildings",
+      "definitions_ex_vn": "Sau khi thu hoạch, hầu hết các vụ mùa được lưu trữ trong các tòa nhà lớn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388747_bc77e0e91a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388747_5b2f8f7e10_o.png",
+      "id_image": "harvest_4496320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388697_160c7e0e5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388697_7bfc01fc85_o.png",
+      "id_image": "harvest_5264929"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698959_b600ef2994_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698959_571431c527_o.png",
+      "id_image": "harvest_5265293"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388627_d4206a8f7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388627_8360af6f75_o.png",
+      "id_image": "harvest_5612929"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "english": "embryo",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phôi thai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tập sự",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an unborn or unhatched offspring in the process of development, in particular a human offspring during the period from approximately the second to the eighth week after fertilization (after which it is usually termed a fetus).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing at a rudimentary stage that shows potential for development.",
+      "definitions_ex_en": "a simple commodity economy is merely the embryo of a capitalist economy",
+      "definitions_ex_vn": "một nền kinh tế hàng hóa đơn giản chỉ đơn thuần là phôi của nền kinh tế tư bản",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "representing embryo.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059135_0df946215c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059135_f5d21406e7_o.png",
+      "id_image": "embryo_1742010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677404_692058a0be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677404_b0601f5a4b_o.png",
+      "id_image": "embryo_3314732"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059070_a1a42d7069_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059070_8627aeb8a7_o.png",
+      "id_image": "embryo_4072390"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367127_dc1fd7c16e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367127_594e3c208a_o.png",
+      "id_image": "embryo_5969114"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367292_7d8358bf05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367292_981cd3bc5a_o.png",
+      "id_image": "embryo_819107"
+    }
+  ]
+}

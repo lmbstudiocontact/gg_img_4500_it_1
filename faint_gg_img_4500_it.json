@@ -1,0 +1,75 @@
+{
+  "english": "faint",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không nghị lực",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không rỏ ràng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "yếu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhu nhược",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phai màu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bất tỉnh nhân sự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chết ngất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xỉu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a sight, smell, or sound) barely perceptible.",
+      "definitions_ex_en": "the faint murmur of voices",
+      "definitions_ex_vn": "tiếng rì rào mờ nhạt của tiếng nói",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "weak and dizzy; close to losing consciousness.",
+      "definitions_ex_en": "the heat made him feel faint",
+      "definitions_ex_vn": "cái nóng làm cho anh ta cảm thấy mờ nhạt",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "lose consciousness for a short time because of a temporarily insufficient supply of oxygen to the brain.",
+      "definitions_ex_en": "I fainted from loss of blood",
+      "definitions_ex_vn": "Tôi bị ngất vì mất máu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a sudden loss of consciousness.",
+      "definitions_ex_en": "she hit the floor in a dead faint",
+      "definitions_ex_vn": "Cô chạm sàn trong một người chết chết",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337531_43dc2d590e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337531_f91063564f_o.png",
+      "id_image": "faint_3997839"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692779_8f1363d5f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692779_e7a07c7dd0_o.png",
+      "id_image": "faint_4444887"
+    }
+  ]
+}

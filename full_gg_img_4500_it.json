@@ -1,0 +1,104 @@
+{
+  "english": "full",
+  "list_translation_mean": [
+    {
+      "translate_mean": "no nê",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chan chứa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đầy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhiều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhiều lần",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "cực điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đến ngày rằm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xếp nếp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "containing or holding as much or as many as possible; having no empty space.",
+      "definitions_ex_en": "wastebaskets full of rubbish",
+      "definitions_ex_vn": "thùng rác đầy rác",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not lacking or omitting anything; complete.",
+      "definitions_ex_en": "fill in your full name below",
+      "definitions_ex_vn": "Điền tên đầy đủ của bạn dưới đây",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person or part of their body) plump or rounded.",
+      "definitions_ex_en": "she had full lips",
+      "definitions_ex_vn": "cô ấy có đôi môi đầy đủ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "straight; directly.",
+      "definitions_ex_en": "she turned her head and looked full into his face",
+      "definitions_ex_vn": "Cô quay đầu và nhìn đầy đủ vào mặt anh.",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "very.",
+      "definitions_ex_en": "he knew full well she was too polite to barge in",
+      "definitions_ex_vn": "Anh biết đầy đủ, cô quá lịch sự để sà lan trong",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "the period, point, or state of the greatest fullness or strength; the height of a period of time.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "gather or pleat (fabric) so as to make a garment full.",
+      "definitions_ex_en": "a straight piece fulled into a small band at the top",
+      "definitions_ex_vn": "một mảnh thẳng đầy đủ thành một dải nhỏ ở trên cùng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "clean, shrink, and felt (cloth) by heat, pressure, and moisture.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080365_02a0e6a1a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080365_17335ca13e_o.png",
+      "id_image": "full_1793190"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342851_2e3d84e17f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342851_f60311535c_o.png",
+      "id_image": "full_3103486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457628_67fc343bb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457628_817879c230_o.png",
+      "id_image": "full_3160939"
+    }
+  ]
+}

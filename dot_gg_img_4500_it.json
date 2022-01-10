@@ -1,0 +1,102 @@
+{
+  "english": "dot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chấm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chấm và gạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu chấm câu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu chấm của âm nhạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thằng bé con",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bỏ chấm trên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chấm để đánh dấu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ghi bằng chấm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small round mark or spot.",
+      "definitions_ex_en": "a symbol depicted in colored dots",
+      "definitions_ex_vn": "một biểu tượng được mô tả trong các chấm màu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a dowry, particularly one from which only the interest or annual income was available to the husband.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "mark with a small spot or spots.",
+      "definitions_ex_en": "wet spots of rain began to dot his shirt",
+      "definitions_ex_vn": "Những đốm mưa ướt bắt đầu chấm áo sơ mi của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "directly observed therapy, a method of supervising patients to ensure that they take medication as directed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "(in the US) Department of Transportation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "(formerly in Canada and the UK) Department of Transport.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352687_6f02cf2e97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352687_21924b5698_o.png",
+      "id_image": "dots_2620278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045435_42462a9b66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045435_2e0aaec2dd_o.png",
+      "id_image": "dots_4456810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045615_5c77a517d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045615_1ff61dd671_o.png",
+      "id_image": "dot_1088797"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352772_96a42e052b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352772_e37ebf4e38_o.png",
+      "id_image": "dot_2785319"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352752_f51dd976d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352752_7346f7c641_o.png",
+      "id_image": "dot_5982583"
+    }
+  ]
+}

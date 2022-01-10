@@ -1,0 +1,42 @@
+{
+  "english": "fraud",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người hay đùa cợt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự man trá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xảo trá",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "wrongful or criminal deception intended to result in financial or personal gain.",
+      "definitions_ex_en": "he was convicted of fraud",
+      "definitions_ex_vn": "Anh ta bị kết án gian lận",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313056_a92b74d32d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313056_32607bbfb8_o.png",
+      "id_image": "fraud_1671618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313051_a44c34d085_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313051_13924b83b7_o.png",
+      "id_image": "fraud_2200881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427853_820acbfecb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427853_0239e87c5b_o.png",
+      "id_image": "fraud_2419600"
+    }
+  ]
+}

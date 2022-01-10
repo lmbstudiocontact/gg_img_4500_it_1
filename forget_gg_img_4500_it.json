@@ -1,0 +1,28 @@
+{
+  "english": "forget",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không nhớ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "fail to remember.",
+      "definitions_ex_en": "he had forgotten his lines",
+      "definitions_ex_vn": "anh đã quên dòng của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051785_4799b5073d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051785_9047cb1ebe_o.png",
+      "id_image": "forget_6370384"
+    }
+  ]
+}

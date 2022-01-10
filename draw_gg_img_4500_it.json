@@ -1,0 +1,287 @@
+{
+  "english": "draw",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lôi ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bọc gió",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chú ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đến gần",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hít vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hội lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tụ lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tháo ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vẻ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vẻ hình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "huề với nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thông khí",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vẻ phong cảnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hút ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thở vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xích lại gần",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kéo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thử sức quân địch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kéo dài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kéo ở sau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kéo ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kéo ra thành chỉ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lại gần",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho để ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lảnh lương",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lôi cuốn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lưới cá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "móc ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "múc ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "pha trà",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quyến rũ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rút ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bất phân thắng bại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "có kết quả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc xổ số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàng hóa quảng cáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kéo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật kéo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật làm chú ý",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "produce (a picture or diagram) by making lines and marks, especially with a pen or pencil, on paper.",
+      "definitions_ex_en": "he drew a map",
+      "definitions_ex_vn": "anh ấy đã vẽ một bản đồ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pull or drag (something such as a vehicle) so as to make it follow behind.",
+      "definitions_ex_en": "a cart drawn by two horses",
+      "definitions_ex_vn": "một giỏ hàng được vẽ bởi hai con ngựa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "extract (an object, especially a weapon) from a container or receptacle.",
+      "definitions_ex_en": "he drew his gun and peered into the gloomy apartment",
+      "definitions_ex_vn": "Anh ta rút khẩu súng và nhìn vào căn hộ ảm đạm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take or obtain (liquid) from a container or receptacle.",
+      "definitions_ex_en": "a wheel was built to draw water from the well",
+      "definitions_ex_vn": "Một bánh xe được xây dựng để rút nước từ giếng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be the cause of (a specified response).",
+      "definitions_ex_en": "he drew criticism for his lavish spending",
+      "definitions_ex_vn": "Ông đã thu hút những lời chỉ trích cho chi tiêu xa hoa của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "select (a ticket or name) randomly to decide winners in a lottery, opponents in a sporting contest, etc.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "disembowel.",
+      "definitions_ex_en": "there are numerous ways of drawing poultry",
+      "definitions_ex_vn": "Có rất nhiều cách để vẽ gia cầm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hit (the ball) so that it travels slightly to the left (for a left-handed player, the right), usually as a result of spin given to the ball.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a ship) require (a specified depth of water) to float in; have (a certain draft).",
+      "definitions_ex_en": "boats that draw only a few inches of water",
+      "definitions_ex_vn": "Những chiếc thuyền chỉ vẽ một vài inch nước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a sail) be filled with wind.",
+      "definitions_ex_en": "as the sail drew, he put the helm over to circle back",
+      "definitions_ex_vn": "Khi cánh buồm đã vẽ, anh ta đưa người bảo lãnh để quay lại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of selecting names randomly, typically by extracting them from a bag or other container, to match competitors in a game or tournament.",
+      "definitions_ex_en": "the draw has been made for this year's tournament",
+      "definitions_ex_vn": "Vẽ đã được thực hiện cho giải đấu năm nay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or thing that is very attractive or interesting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of removing a gun from its holster in order to shoot.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of drawing on a cigarette or cigar.",
+      "definitions_ex_en": "she took a long draw on her cigarette",
+      "definitions_ex_vn": "Cô rút lui nhiều vào điếu thuốc của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a shot causing the ball to deviate to the left (or, for a left-handed golfer, the right).",
+      "definitions_ex_en": "most high handicappers would benefit from a controlled draw",
+      "definitions_ex_vn": "Hầu hết những người khuyết tật cao sẽ được hưởng lợi từ trận hòa có kiểm soát",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421873_856d9d3377_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421873_dbaab50c59_o.png",
+      "id_image": "draw_3898996"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662109_33e033732a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662109_0ca83b204d_o.png",
+      "id_image": "draw_4508000"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306671_b841a7a22f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306671_24e40bb4c2_o.png",
+      "id_image": "draw_4656900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421878_6b0097fa47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421878_20e660c310_o.png",
+      "id_image": "draw_865585"
+    }
+  ]
+}

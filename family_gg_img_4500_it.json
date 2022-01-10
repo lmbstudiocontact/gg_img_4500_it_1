@@ -1,0 +1,51 @@
+{
+  "english": "family",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gia đình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gia tộc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a group of one or more parents and their children living together as a unit.",
+      "definitions_ex_en": "the family lived in a large house with a lot of land",
+      "definitions_ex_vn": "Gia đình sống trong một ngôi nhà rộng lớn với rất nhiều vùng đất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "all the descendants of a common ancestor.",
+      "definitions_ex_en": "the house has been owned by the same family for 300 years",
+      "definitions_ex_vn": "Ngôi nhà đã được sở hữu bởi cùng một gia đình trong 300 năm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of related things.",
+      "definitions_ex_en": "all manuscripts that share this reading constitute a family",
+      "definitions_ex_vn": "Tất cả các bản thảo chia sẻ bài đọc này tạo thành một gia đình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "designed to be suitable for children as well as adults.",
+      "definitions_ex_en": "a family newspaper",
+      "definitions_ex_vn": "một tờ báo gia đình.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381692_68cabdcb89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381692_8e4eb1313f_o.png",
+      "id_image": "family_437491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073650_e26efe3a36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073650_686f2f03ee_o.png",
+      "id_image": "family_599547"
+    }
+  ]
+}

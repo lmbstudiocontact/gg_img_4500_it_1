@@ -1,0 +1,34 @@
+{
+  "english": "grandma",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bà nội",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "one's grandmother.",
+      "definitions_ex_en": "Grandma didn't stop talking",
+      "definitions_ex_vn": "Bà không ngừng nói",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440653_2d7f953e10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440653_2b0fdedb6d_o.png",
+      "id_image": "grandma_2926409"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325601_01538f182c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325601_803fc1f9b4_o.png",
+      "id_image": "grandma_3569570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062395_d602f5561a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062395_041f2795c3_o.png",
+      "id_image": "grandma_4470592"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "english": "game",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gan dạ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngang tàn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cuộc cạnh kỷ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kế hoạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trò chơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trò cười",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trò đùa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trò giải trí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cờ bạc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh bạc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a form of play or sport, especially a competitive one played according to rules and decided by skill, strength, or luck.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a complete episode or period of play, ending in a definite result.",
+      "definitions_ex_en": "a baseball game",
+      "definitions_ex_vn": "một trận bóng chày",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a type of activity or business regarded as a game.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "wild mammals or birds hunted for sport or food.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "eager or willing to do something new or challenging.",
+      "definitions_ex_en": "they were game for anything after the traumas of Monday",
+      "definitions_ex_vn": "Họ là trò chơi cho bất cứ điều gì sau chấn thương thứ hai",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person's leg) permanently injured or disabled.",
+      "definitions_ex_en": "his game leg was playing him up",
+      "definitions_ex_vn": "Chân trò chơi của anh ấy đã chơi anh ấy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "manipulate (a situation), typically in a way that is unfair or unscrupulous.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "play video or computer games.",
+      "definitions_ex_en": "the majority of the audience are teens who game and watch anime",
+      "definitions_ex_vn": "Phần lớn khán giả là thanh thiếu niên trò chơi và xem phim hoạt hình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "play games of chance for money; gamble.",
+      "definitions_ex_en": "other Russians gamed at the tables in Monte Carlo",
+      "definitions_ex_vn": "Những người Nga khác được chơi game tại bàn ở Monte Carlo",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695194_b367526a46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695194_974233980d_o.png",
+      "id_image": "game_1142706"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454808_fce03890f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454808_bbd76b09f0_o.png",
+      "id_image": "game_3028416"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339931_dc73c7cc29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339931_e84a1e3f60_o.png",
+      "id_image": "game_3041830"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384857_0ae08e18e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384857_29aaabb28f_o.png",
+      "id_image": "game_452701"
+    }
+  ]
+}

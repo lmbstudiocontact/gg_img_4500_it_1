@@ -1,0 +1,61 @@
+{
+  "english": "export",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hàng hóa xuất cảng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xuất cảng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngọai thương",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xuất cảng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xuất khẩu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "send (goods or services) to another country for sale.",
+      "definitions_ex_en": "we exported $16 million worth of mussels to Japan",
+      "definitions_ex_vn": "Chúng tôi đã xuất khẩu mussels trị giá 16 triệu đô la sang Nhật Bản",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a commodity, article, or service sold abroad.",
+      "definitions_ex_en": "wool and mohair were the principal exports",
+      "definitions_ex_vn": "len và mohair là hàng xuất khẩu chính",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078845_5a0d454149_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078845_063c6b9605_o.png",
+      "id_image": "export_1656448"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078820_1cde276621_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078820_88288641ef_o.png",
+      "id_image": "export_1900227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696599_ae97577455_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696599_ca75d3e478_o.png",
+      "id_image": "export_3490152"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078760_025ec22bc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078760_d0131886ec_o.png",
+      "id_image": "export_6203207"
+    }
+  ]
+}

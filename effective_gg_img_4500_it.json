@@ -1,0 +1,88 @@
+{
+  "english": "effective",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có công hiệu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có hiệu lực",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rõ ràng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thật sự",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có hiệu qủa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xác thật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hiển nhiên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hiện tại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lành mạnh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "successful in producing a desired or intended result.",
+      "definitions_ex_en": "effective solutions to environmental problems",
+      "definitions_ex_vn": "Giải pháp hiệu quả cho các vấn đề môi trường",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "fulfilling a specified function in fact, though not formally acknowledged as such.",
+      "definitions_ex_en": "the region did not come under effective Dutch control until 1904",
+      "definitions_ex_vn": "Khu vực không được kiểm soát Hà Lan hiệu quả cho đến năm 1904",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a soldier fit and available for service.",
+      "definitions_ex_en": "when the battles broke out, he had a total of 920 effectives",
+      "definitions_ex_vn": "Khi các trận chiến nổ ra, anh ta có tổng cộng 920 hiệu quả",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065260_9920833732_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065260_ecb74ec5b8_o.png",
+      "id_image": "effective_1006625"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328421_39abd3d823_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328421_dcb9dfded0_o.png",
+      "id_image": "effective_1402125"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328346_f12e3a1391_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328346_6413512e1b_o.png",
+      "id_image": "effective_1402156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683419_2f0c681d29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683419_4ecd398fc0_o.png",
+      "id_image": "effective_1728411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065110_5425feb0e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065110_4c68b074e5_o.png",
+      "id_image": "effective_5138853"
+    }
+  ]
+}

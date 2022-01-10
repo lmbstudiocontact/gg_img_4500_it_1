@@ -1,0 +1,24 @@
+{
+  "english": "fiance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hôn phu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a man to whom someone is engaged to be married.",
+      "definitions_ex_en": "my fiancé and I were childhood sweethearts",
+      "definitions_ex_vn": "Ăn Tây hôn của tôi và tôi là những người yêu thích thời thơ ấu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686109_bf875d1c2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686109_995aa1abed_o.png",
+      "id_image": "fiance_2255391"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "founder",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người sáng lập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chìm ở giữa biển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh chìm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sa lầy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sập xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sụp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who manufactures articles of cast metal; the owner or operator of a foundry.",
+      "definitions_ex_en": "an iron founder",
+      "definitions_ex_vn": "một người sáng lập sắt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who establishes an institution or settlement.",
+      "definitions_ex_en": "he was the founder of modern Costa Rica",
+      "definitions_ex_vn": "Ông là người sáng lập Costa Rica hiện đại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a ship) fill with water and sink.",
+      "definitions_ex_en": "six drowned when the yacht foundered off the Florida coast",
+      "definitions_ex_vn": "Sáu bị chết đuối khi du thuyền được thành lập ngoài khơi bờ biển Florida",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313751_5ab980f4e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313751_0a7306b014_o.png",
+      "id_image": "founder_537064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313716_7102b16522_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313716_b044fc7f89_o.png",
+      "id_image": "founder_6289177"
+    }
+  ]
+}

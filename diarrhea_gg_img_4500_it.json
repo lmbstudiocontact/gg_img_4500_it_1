@@ -1,0 +1,51 @@
+{
+  "english": "diarrhea",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bệnh ỉa chảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bệnh tiêu chảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi tiêu chảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tháo dạ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a condition in which feces are discharged from the bowels frequently and in a liquid form.",
+      "definitions_ex_en": "a range of symptoms including diarrhea and vomiting",
+      "definitions_ex_vn": "một loạt các triệu chứng bao gồm tiêu chảy và nôn mửa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323636_3efa462978_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323636_4b83230810_o.png",
+      "id_image": "diarrhea_2328364"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678839_f057f25ac6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678839_37d97455b1_o.png",
+      "id_image": "diarrhea_2599656"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678814_c3346ff6f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678814_b79057e219_o.png",
+      "id_image": "diarrhea_2636902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438673_9cb808db78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438673_8c5464dc0b_o.png",
+      "id_image": "diarrhea_2688263"
+    }
+  ]
+}

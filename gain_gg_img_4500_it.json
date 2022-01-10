@@ -1,0 +1,84 @@
+{
+  "english": "gain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tăng gia",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "được",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "được ơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lợi ích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tăng thêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tham lợi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thắng lợi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "có lợi ích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "được danh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "được danh tiếng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lợi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "được lời",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "obtain or secure (something desired, favorable, or profitable).",
+      "definitions_ex_en": "the process has gained the confidence of the industry",
+      "definitions_ex_vn": "Quá trình này đã đạt được sự tự tin của ngành công nghiệp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "increase the amount or rate of (something, typically weight or speed).",
+      "definitions_ex_en": "I have gained weight over the years",
+      "definitions_ex_vn": "Tôi đã đạt được cân nặng trong những năm qua",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an increase in wealth or resources.",
+      "definitions_ex_en": "the mayor was accused of using municipal funds for personal gain",
+      "definitions_ex_vn": "Thị trưởng đã bị buộc tội sử dụng các quỹ thành phố để đạt được lợi ích cá nhân",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077880_e0cf19b1d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077880_4733c5c0ee_o.png",
+      "id_image": "gain_3553737"
+    }
+  ]
+}

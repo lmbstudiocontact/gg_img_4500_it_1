@@ -1,0 +1,48 @@
+{
+  "english": "doll",
+  "list_translation_mean": [
+    {
+      "translate_mean": "búp bê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ chơi trẻ con",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "diện sang",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small model of a human figure, typically one of a baby or girl, used as a child's toy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "dress someone or oneself smartly and attractively.",
+      "definitions_ex_en": "I got all dolled up for a party",
+      "definitions_ex_vn": "Tôi đã có tất cả búp bê lên cho một bữa tiệc",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355457_5d61b59e45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355457_f870cf27d4_o.png",
+      "id_image": "doll_3898306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666304_b571eb4c12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666304_f271d93cbf_o.png",
+      "id_image": "doll_3957269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311251_13baecf85b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311251_c123752b9f_o.png",
+      "id_image": "doll_5884229"
+    }
+  ]
+}

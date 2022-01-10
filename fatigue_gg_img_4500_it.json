@@ -1,0 +1,82 @@
+{
+  "english": "fatigue",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm mệt nhọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc khó nhọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mệt mỏi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "extreme tiredness resulting from mental or physical exertion or illness.",
+      "definitions_ex_en": "he was nearly dead with fatigue",
+      "definitions_ex_vn": "anh ấy đã gần chết với sự mệt mỏi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "weakness in materials, especially metal, caused by repeated variations of stress.",
+      "definitions_ex_en": "metal fatigue",
+      "definitions_ex_vn": "độ mỏi của kim loại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "menial non-military tasks performed by a soldier, sometimes as a punishment.",
+      "definitions_ex_en": "we're on cookhouse fatigues, sir",
+      "definitions_ex_vn": "Chúng tôi đang ở trong nhà bếp mệt mỏi, thưa ngài",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "loose-fitting clothing, typically khaki, olive drab, or camouflaged, worn by soldiers.",
+      "definitions_ex_en": "battle fatigues",
+      "definitions_ex_vn": "chiến đấu mệt mỏi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cause (someone) to feel tired or exhausted.",
+      "definitions_ex_en": "they were fatigued by their journey",
+      "definitions_ex_vn": "họ đã mệt mỏi bởi hành trình của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "weaken (a material, especially metal) by repeated variations of stress.",
+      "definitions_ex_en": "the nails have become rusted through or fatigued",
+      "definitions_ex_vn": "Móng tay đã bị rỉ sét xuyên qua hoặc mệt mỏi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689739_a3e2e1d02b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689739_faf0aa80ff_o.png",
+      "id_image": "fatigue_2332658"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334606_b6809e65fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334606_f662f20d2a_o.png",
+      "id_image": "fatigue_2746456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449538_453bb86fb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449538_9134b76acb_o.png",
+      "id_image": "fatigue_3782059"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379447_25cbb2b5d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379447_296b504309_o.png",
+      "id_image": "fatigue_3997930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449478_f3555acd5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449478_d3d7f38cfb_o.png",
+      "id_image": "fatigue_4412652"
+    }
+  ]
+}

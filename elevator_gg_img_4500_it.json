@@ -1,0 +1,76 @@
+{
+  "english": "elevator",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bánh lái lên xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái kềm nhổ răng cấm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây đan vớ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cử cân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy bơm nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy kéo đồ nặng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thang máy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a platform or compartment housed in a shaft for raising and lowering people or things to different floors or levels.",
+      "definitions_ex_en": "in the elevator she pressed the button for the lobby",
+      "definitions_ex_vn": "Trong thang máy, cô nhấn nút cho sảnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a machine consisting of an endless belt with scoops attached, used typically for raising grain to be stored in an upper story.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hinged flap on the horizontal stabilizer of an aircraft, typically one of a pair, used to control the motion of the aircraft about its lateral axis.",
+      "definitions_ex_en": "first you trim the rudder, then the ailerons, and finally the elevator",
+      "definitions_ex_vn": "Đầu tiên bạn tỉa bánh lái, sau đó là Ailerons và cuối cùng là thang máy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a muscle whose contraction raises a part of the body.",
+      "definitions_ex_en": "elevators of the upper lip",
+      "definitions_ex_vn": "thang máy của môi trên",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324246_e6edc906cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324246_5d3a7562fa_o.png",
+      "id_image": "elevator_1432474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679389_494fb7f2d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679389_fd64065167_o.png",
+      "id_image": "elevator_2832782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369142_bdcc237081_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369142_b110b989a4_o.png",
+      "id_image": "elevator_998306"
+    }
+  ]
+}

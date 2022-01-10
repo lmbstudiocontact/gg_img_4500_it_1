@@ -1,0 +1,46 @@
+{
+  "english": "exotic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây ngoại lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ nước ngoài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ nhập cảng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ ở ngoài đem vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật nhập cảng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "originating in or characteristic of a distant foreign country.",
+      "definitions_ex_en": "exotic birds",
+      "definitions_ex_vn": "chim kỳ lạ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an exotic plant or animal.",
+      "definitions_ex_en": "he planted exotics in the sheltered garden",
+      "definitions_ex_vn": "Ông trồng Exotics trong khu vườn có mái che",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047520_6bbe2f3fa2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047520_831bc59873_o.png",
+      "id_image": "exotic_334172"
+    }
+  ]
+}

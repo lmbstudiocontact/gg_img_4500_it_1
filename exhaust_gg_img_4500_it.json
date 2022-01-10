@@ -1,0 +1,114 @@
+{
+  "english": "exhaust",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bốc hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hơi thoát ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy hút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống bô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phóng ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thoát ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hút cạn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hút vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thoát ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiệt quệ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cạn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho trống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm kiệt sức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm suy nhược",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "drain (someone) of their physical or mental resources; tire out.",
+      "definitions_ex_en": "her day trip had exhausted her",
+      "definitions_ex_vn": "chuyến đi trong ngày của cô đã cạn kiệt cô",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "use up (resources or reserves) completely.",
+      "definitions_ex_en": "the country has exhausted its treasury reserves",
+      "definitions_ex_vn": "Đất nước đã cạn kiệt trữ lượng kho bạc của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "expel (gas or steam) from or into a particular place.",
+      "definitions_ex_en": "you should never exhaust bathroom air into your attic",
+      "definitions_ex_vn": "Bạn không bao giờ nên xả khí phòng tắm vào gác mái của bạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "waste gases or air expelled from an engine, turbine, or other machine in the course of its operation.",
+      "definitions_ex_en": "buses spewing out black clouds of exhaust",
+      "definitions_ex_vn": "Xe buýt phun ra những đám mây đen",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355442_3bbf5f9aa8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355442_da9a9322e8_o.png",
+      "id_image": "exhausted_1128918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666264_85b4860734_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666264_8564fa19d8_o.png",
+      "id_image": "exhausted_4126564"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047910_1cbff26106_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047910_07c8e17d2d_o.png",
+      "id_image": "exhausted_6000913"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355512_2692a505e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355512_623fc32ea5_o.png",
+      "id_image": "exhaust_271835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426288_245bd655c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426288_aff8b9fd3d_o.png",
+      "id_image": "exhaust_4694692"
+    }
+  ]
+}

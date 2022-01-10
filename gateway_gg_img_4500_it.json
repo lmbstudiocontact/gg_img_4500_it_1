@@ -1,0 +1,51 @@
+{
+  "english": "gateway",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cổng vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cửa vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lối vào",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an opening that can be closed by a gate.",
+      "definitions_ex_en": "we turned into a gateway leading to a small cottage",
+      "definitions_ex_vn": "Chúng tôi biến thành một cổng dẫn đến một ngôi nhà nhỏ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382982_cee3314939_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382982_bbffd74db4_o.png",
+      "id_image": "gateway_2290124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337946_3ffaa6c32f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337946_9704a5167a_o.png",
+      "id_image": "gateway_3124283"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382927_6cac44ec98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382927_d749faa336_o.png",
+      "id_image": "gateway_6091397"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075045_1d9fe4e1e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075045_bd146d17dd_o.png",
+      "id_image": "gateway_675194"
+    }
+  ]
+}

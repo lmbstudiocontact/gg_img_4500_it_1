@@ -1,0 +1,38 @@
+{
+  "english": "duct",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cống dẩn nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống dẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống dẩn điện",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a tube or passageway in a building or machine for air, liquid, cables, etc.",
+      "definitions_ex_en": "leading the air through ducts in the floor",
+      "definitions_ex_vn": "dẫn không khí qua các ống dẫn trên sàn nhà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "convey through a duct.",
+      "definitions_ex_en": "a ventilation system that must be ducted through the wall",
+      "definitions_ex_vn": "một hệ thống thông gió phải được ống dẫn qua tường",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380677_03bcf18a48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380677_05ffb72c7a_o.png",
+      "id_image": "duct_4752685"
+    }
+  ]
+}

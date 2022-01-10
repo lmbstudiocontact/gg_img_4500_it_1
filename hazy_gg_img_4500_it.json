@@ -1,0 +1,28 @@
+{
+  "english": "hazy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không rỏ ràng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ý tưởng lờ mờ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "covered by a haze.",
+      "definitions_ex_en": "the sky was hazy from irrigation evaporation",
+      "definitions_ex_vn": "Bầu trời mơ hồ từ sự bốc hơi tưới tiêu",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387777_91a4f8bf0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387777_4f6fb4c8a4_o.png",
+      "id_image": "hazy_2358457"
+    }
+  ]
+}

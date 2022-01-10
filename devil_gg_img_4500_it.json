@@ -1,0 +1,97 @@
+{
+  "english": "devil",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ma",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giúp việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "yêu quái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hung ác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người khổ sở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giúp việc cực nhọc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hỏi không kịp trả lời",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xé",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(in Christian and Jewish belief) the chief evil spirit; Satan.",
+      "definitions_ex_en": "belief in the Devil",
+      "definitions_ex_vn": "Niềm tin vào quỷ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person with specified characteristics.",
+      "definitions_ex_en": "a lucky devil",
+      "definitions_ex_vn": "một con quỷ may mắn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "expressing surprise or annoyance in various questions or exclamations.",
+      "definitions_ex_en": "“Where the devil is he?”",
+      "definitions_ex_vn": "\"Con quỷ ở đâu?\"",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instrument or machine fitted with sharp teeth or spikes, used for tearing or other destructive work.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a junior assistant of a lawyer or other professional.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "act as a junior assistant for a lawyer or other professional.",
+      "definitions_ex_en": "there is the possibility of devilling for fellow members of the Bar",
+      "definitions_ex_vn": "Có khả năng phát triển cho các thành viên của quán bar",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680354_9c71d2a389_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680354_2fe782bcb0_o.png",
+      "id_image": "devil_1815202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680314_814c9b5dcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680314_b09e28d142_o.png",
+      "id_image": "devil_3508419"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440158_4db89c4cd7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440158_aee7272e2b_o.png",
+      "id_image": "devil_4701965"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325126_23484375ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325126_8168db0cc0_o.png",
+      "id_image": "devil_4860781"
+    }
+  ]
+}

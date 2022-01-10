@@ -1,0 +1,44 @@
+{
+  "english": "emphasis",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cương quyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giọng nhấn mạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hống hách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hùng hồn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhấn mạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cố nài",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "special importance, value, or prominence given to something.",
+      "definitions_ex_en": "they placed great emphasis on the individual's freedom",
+      "definitions_ex_vn": "Họ tập trung vào sự tự do của cá nhân",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676144_61b0bc5702_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676144_94281e066d_o.png",
+      "id_image": "emphasis_6351298"
+    }
+  ]
+}

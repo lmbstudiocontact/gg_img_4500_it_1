@@ -1,0 +1,47 @@
+{
+  "english": "dietary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách cử ăn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cách nhịn ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần ăn trong nhà thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phép kiêng cử",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to diets or dieting.",
+      "definitions_ex_en": "dietary advice for healthy skin and hair",
+      "definitions_ex_vn": "Lời khuyên về chế độ ăn uống cho da và tóc khỏe mạnh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a regulated or restricted diet.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437748_922c6828c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437748_453d25e709_o.png",
+      "id_image": "dietary_2860826"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059245_6c3fbb44a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059245_0cdface141_o.png",
+      "id_image": "dietary_2860838"
+    }
+  ]
+}

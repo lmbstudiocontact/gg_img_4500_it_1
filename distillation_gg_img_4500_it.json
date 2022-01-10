@@ -1,0 +1,50 @@
+{
+  "english": "distillation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chưng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of purifying a liquid by a process of heating and cooling.",
+      "definitions_ex_en": "the petroleum distillation process",
+      "definitions_ex_vn": "Quá trình chưng cất dầu mỏ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the extraction of the essential meaning or most important aspects of something.",
+      "definitions_ex_en": "the film is a distillation of personal experiences",
+      "definitions_ex_vn": "Bộ phim là một sự chưng cất kinh nghiệm cá nhân",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314641_4ef5f50df2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314641_81a2aed4fe_o.png",
+      "id_image": "distillation_1484382"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358722_5e0c094521_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358722_785da4363d_o.png",
+      "id_image": "distillation_1486190"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669239_c7eb0e86cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669239_896157ccc4_o.png",
+      "id_image": "distillation_2933815"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429423_b74af84c77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429423_40bbb813de_o.png",
+      "id_image": "distillation_3977864"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429398_15a5eae92b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429398_83e913a0d9_o.png",
+      "id_image": "distillation_6315393"
+    }
+  ]
+}

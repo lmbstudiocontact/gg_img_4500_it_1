@@ -1,0 +1,36 @@
+{
+  "english": "emotive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đa cảm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "động lòng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dể cảm động",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dể xúc động",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "arousing or able to arouse intense feeling.",
+      "definitions_ex_en": "animal experimentation is an emotive subject",
+      "definitions_ex_vn": "Thử nghiệm động vật là một môn học cảm xúc",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676269_0301dcf6fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676269_d802039461_o.png",
+      "id_image": "emotive_4138849"
+    }
+  ]
+}

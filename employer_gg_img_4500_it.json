@@ -1,0 +1,33 @@
+{
+  "english": "employer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mướn người làm việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người dùng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or organization that employs people.",
+      "definitions_ex_en": "the National Health Service was the largest employer in Europe",
+      "definitions_ex_vn": "Dịch vụ y tế quốc gia là chủ nhân lớn nhất châu Âu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320906_e23d37e586_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320906_70a528df2c_o.png",
+      "id_image": "employer_5155891"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057645_9eb3f12d4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057645_41487318d5_o.png",
+      "id_image": "employer_6213513"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "english": "drain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cống nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường rãnh ở đáy hào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiệt sức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm mất sức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống cao su rút mũ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống cho nước chảy ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống tháo nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rãnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chảy ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để ráo nước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho khô ráo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho nước chảy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm rút hết nước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm trút sạch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rút hết tiền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rút ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tát cạn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tháo nước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tháo ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "uống sạch",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause the water or other liquid in (something) to run out, leaving it empty, dry, or drier.",
+      "definitions_ex_en": "we drained the swimming pool",
+      "definitions_ex_vn": "Chúng tôi rút cạn hồ bơi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "deprive of strength or vitality.",
+      "definitions_ex_en": "his limbs were drained of all energy",
+      "definitions_ex_vn": "Tay chân của anh ta đã cạn kiệt tất cả năng lượng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a player) hole (a putt).",
+      "definitions_ex_en": "whenever he did hit a green, he drained the putt",
+      "definitions_ex_vn": "Bất cứ khi nào anh ta đã đánh một màu xanh lá cây, anh ta rút cạn cơn đau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a channel or pipe carrying off surplus liquid, especially rainwater or liquid waste.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing that uses up a particular resource.",
+      "definitions_ex_en": "nuclear power is a serious drain on the public purse",
+      "definitions_ex_vn": "Năng lượng hạt nhân là một cống nghiêm trọng trên ví công cộng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306851_205f9038dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306851_cdb2bf85c8_o.png",
+      "id_image": "drain_2482638"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351037_f70fcff304_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351037_32a9031309_o.png",
+      "id_image": "drain_4745355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043920_d74a974da2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043920_cc5cf7319b_o.png",
+      "id_image": "drain_525815"
+    }
+  ]
+}

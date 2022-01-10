@@ -1,0 +1,92 @@
+{
+  "english": "freeze",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mùa đông giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngăn đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngăn lạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đông giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tuyết xoắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bị đặc lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bị đóng thành băng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đông lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a liquid) be turned into ice or another solid as a result of extreme cold.",
+      "definitions_ex_en": "in the winter the milk froze",
+      "definitions_ex_vn": "Vào mùa đông, sữa bị đóng băng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "store (something) at a very low temperature in order to preserve it.",
+      "definitions_ex_en": "the cake can be frozen",
+      "definitions_ex_vn": "Bánh có thể bị đóng băng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "become suddenly motionless or paralyzed with fear or shock.",
+      "definitions_ex_en": "Mathewson froze on the spot, unable to take the next step",
+      "definitions_ex_vn": "Mathewson froze tại chỗ, không thể thực hiện bước tiếp theo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hold (something) at a fixed level or in a fixed state for a period of time.",
+      "definitions_ex_en": "new spending on defense was to be frozen",
+      "definitions_ex_vn": "chi tiêu mới cho phòng thủ là đông lạnh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of holding or being held at a fixed level or in a fixed state.",
+      "definitions_ex_en": "workers faced a pay freeze",
+      "definitions_ex_vn": "Công nhân phải đối mặt với một khoản đóng băng lương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a period of frost or very cold weather.",
+      "definitions_ex_en": "the big freeze surprised the weathermen",
+      "definitions_ex_vn": "Freeze lớn ngạc nhiên về thời tiết",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427633_e2e0b88d46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427633_212e78b378_o.png",
+      "id_image": "freeze_3426146"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356812_feac5333a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356812_79f20eeabc_o.png",
+      "id_image": "freeze_4636008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667629_e16d332ed2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667629_739c0b77b9_o.png",
+      "id_image": "freeze_4865928"
+    }
+  ]
+}

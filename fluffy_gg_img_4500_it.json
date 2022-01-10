@@ -1,0 +1,34 @@
+{
+  "english": "fluffy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có lông măng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có lông nhung",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of, like, or covered with fluff.",
+      "definitions_ex_en": "a fluffy towel",
+      "definitions_ex_vn": "một chiếc khăn lông mịn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "lacking substance, depth, or seriousness.",
+      "definitions_ex_en": "the commercial wallows in soft, fluffy, feel-good territory",
+      "definitions_ex_vn": "Những đắm hổ thương mại trong lãnh thổ mềm mại, mịn màng, cảm thấy tốt",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434613_359425ac2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434613_55a572e795_o.png",
+      "id_image": "fluffy_2507846"
+    }
+  ]
+}

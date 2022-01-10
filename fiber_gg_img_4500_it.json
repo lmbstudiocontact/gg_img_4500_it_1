@@ -1,0 +1,47 @@
+{
+  "english": "fiber",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người khoác lác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nói sạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính chất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thớ gổ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thread or filament from which a vegetable tissue, mineral substance, or textile is formed.",
+      "definitions_ex_en": "tropical elements like coconut fibers and branches",
+      "definitions_ex_vn": "Các yếu tố nhiệt đới như sợi dừa và cành cây dừa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "dietary material containing substances such as cellulose, lignin, and pectin, that are resistant to the action of digestive enzymes.",
+      "definitions_ex_en": "cereals high in fiber",
+      "definitions_ex_vn": "ngũ cốc cao trong sợi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331081_0524ace23a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331081_fd2386f463_o.png",
+      "id_image": "fiber_1466575"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331066_09da9f731c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331066_4dd09c05b8_o.png",
+      "id_image": "fiber_3967352"
+    }
+  ]
+}

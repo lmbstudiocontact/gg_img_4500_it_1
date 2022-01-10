@@ -1,0 +1,76 @@
+{
+  "english": "exposure",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bày hàng hóa ra bán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hướng về phía",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phơi bày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sợ tai tiếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bày ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bỏ rơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự gian sảo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being exposed to contact with something.",
+      "definitions_ex_en": "the dangers posed by exposure to asbestos",
+      "definitions_ex_vn": "Những nguy hiểm được đặt ra bởi sự tiếp xúc với amiăng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the revelation of an identity or fact, especially one that is concealed or likely to arouse disapproval.",
+      "definitions_ex_en": "she took her life for fear of exposure as a spy",
+      "definitions_ex_vn": "Cô ấy lấy mạng vì sợ tiếp xúc như một điệp viên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of exposing a photographic film to light or other radiation.",
+      "definitions_ex_en": "a camera that would give a picture immediately after exposure",
+      "definitions_ex_vn": "một máy ảnh sẽ cho một hình ảnh ngay sau khi tiếp xúc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the direction in which a building faces; an outlook.",
+      "definitions_ex_en": "the exposure is perfect—a gentle slope to the southwest",
+      "definitions_ex_vn": "Sự phơi bày là hoàn hảo - một dốc nhẹ đến phía tây nam",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078700_54e47ce30b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078700_0f502940ef_o.png",
+      "id_image": "exposure_316535"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341281_9419df7f5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341281_db7d766c73_o.png",
+      "id_image": "exposure_5982598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078645_5fbab75ef4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078645_3cda50db84_o.png",
+      "id_image": "exposure_6315640"
+    }
+  ]
+}

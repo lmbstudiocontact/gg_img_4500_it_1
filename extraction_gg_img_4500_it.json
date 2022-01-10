@@ -1,0 +1,70 @@
+{
+  "english": "extraction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ xuất thân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ép ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rút ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhổ ra",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of taking out something, especially using effort or force.",
+      "definitions_ex_en": "mineral extraction",
+      "definitions_ex_vn": "Chiết xuất khoáng sản",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the ethnic origin of someone's family.",
+      "definitions_ex_en": "a worker of Polish extraction",
+      "definitions_ex_vn": "Một công nhân khai thác Ba Lan",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455108_d7bce97fff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455108_c341da4d5a_o.png",
+      "id_image": "extraction_1338980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340191_6803f3e3f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340191_ca9d35ba59_o.png",
+      "id_image": "extraction_1386879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340166_6915ab29bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340166_b0d1f645a9_o.png",
+      "id_image": "extraction_1486196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340136_6c12fec146_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340136_4e8d006dbb_o.png",
+      "id_image": "extraction_6315470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695369_b8592747b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695369_235fe1d146_o.png",
+      "id_image": "extraction_6348266"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "english": "drought",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khô khan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hạn hán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ít mưa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khát nước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a prolonged period of abnormally low rainfall, leading to a shortage of water.",
+      "definitions_ex_en": "the cause of Europe's recent droughts",
+      "definitions_ex_vn": "Nguyên nhân hạn hán gần đây của châu Âu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "thirst.",
+      "definitions_ex_en": "I asked for something to slake my drought",
+      "definitions_ex_vn": "Tôi yêu cầu một cái gì đó để slake hạn hán của tôi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452093_a2cc9ee761_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452093_c09539039d_o.png",
+      "id_image": "drought_286581"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382257_5b29762d1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382257_8770b188a7_o.png",
+      "id_image": "drought_491241"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692534_618a1014cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692534_367824f18c_o.png",
+      "id_image": "drought_491247"
+    }
+  ]
+}

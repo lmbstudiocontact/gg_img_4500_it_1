@@ -1,0 +1,41 @@
+{
+  "english": "flange",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khớp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lớp bọc ngoài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho có vành",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a projecting flat rim, collar, or rib on an object, serving to strengthen or attach or (on a wheel) to maintain position on a rail.",
+      "definitions_ex_en": "the flanges that held the tailpipe to the aircraft",
+      "definitions_ex_vn": "Các mặt bích giữ ống xả cho máy bay",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323041_e7635a1a12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323041_9a45f2e080_o.png",
+      "id_image": "flange_231950"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678119_05faf76201_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678119_e3a6e22371_o.png",
+      "id_image": "flange_2482675"
+    }
+  ]
+}

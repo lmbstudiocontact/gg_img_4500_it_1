@@ -1,0 +1,24 @@
+{
+  "english": "galleon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "một thứ thuyền mgắn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sailing ship in use (especially by Spain) from the 15th through 17th centuries, originally as a warship, later for trade. Galleons were mainly square-rigged and usually had three or more decks and masts.",
+      "definitions_ex_en": "a Spanish treasure galleon wrecked off the Florida Keys",
+      "definitions_ex_vn": "Một galleon kho báu Tây Ban Nha bị đắm từ các phím Florida",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455303_1337b146f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455303_deef7eba81_o.png",
+      "id_image": "galleon_1010044"
+    }
+  ]
+}

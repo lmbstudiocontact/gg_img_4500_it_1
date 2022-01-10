@@ -1,0 +1,52 @@
+{
+  "english": "floss",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tơ thô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tơ đũi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tơ sồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thứ tơ to xấu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the rough silk enveloping a silkworm's cocoon.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "clean between (one's teeth) with dental floss.",
+      "definitions_ex_en": "I flossed my teeth",
+      "definitions_ex_vn": "Tôi xỉa răng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057065_421232fba2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057065_ccafd56137_o.png",
+      "id_image": "floss_1386881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365147_a0b4ef6c28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365147_800cbf6c5d_o.png",
+      "id_image": "floss_1386901"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675339_7d90f81c57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675339_d0505e7d48_o.png",
+      "id_image": "floss_966674"
+    }
+  ]
+}

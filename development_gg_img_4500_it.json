@@ -1,0 +1,102 @@
+{
+  "english": "development",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuyện mới lạ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khai khẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khai phá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khai triển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuếch trương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm mở mang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm nở namg",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rữa phim ảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mở mang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiến bộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiến triển",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process of developing or being developed.",
+      "definitions_ex_en": "she traces the development of the novel",
+      "definitions_ex_vn": "Cô ấy chỉ dấu sự phát triển của cuốn tiểu thuyết",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process of starting to experience or suffer from an ailment or feeling.",
+      "definitions_ex_en": "the development of brittle bones",
+      "definitions_ex_vn": "sự phát triển của xương giòn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process of treating photographic film with chemicals to make a visible image.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process of bringing one's pieces into play in the opening phase of a game.",
+      "definitions_ex_en": "I sought to take advantage of Black's defective development",
+      "definitions_ex_vn": "Tôi đã tìm cách tận dụng sự phát triển bị lỗi của Black",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680864_0a78614d99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680864_a145a3b407_o.png",
+      "id_image": "development_1646308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325706_2f25fa5eec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325706_39c3c1c7a7_o.png",
+      "id_image": "development_1900174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440668_ac794e8057_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440668_5f89f7fc51_o.png",
+      "id_image": "development_2335271"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680709_b4fe36daa1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680709_1174b2c902_o.png",
+      "id_image": "development_2452673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370562_3918524bb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370562_7c40d320ab_o.png",
+      "id_image": "development_943802"
+    }
+  ]
+}

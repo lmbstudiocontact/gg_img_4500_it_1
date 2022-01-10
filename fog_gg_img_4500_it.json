@@ -1,0 +1,93 @@
+{
+  "english": "fog",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hơi nước trên kiếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sa mù",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sương mù",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái mờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm ố",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phủ sương",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thick cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface which obscures or restricts visibility (to a greater extent than mist; strictly, reducing visibility to below 1 km).",
+      "definitions_ex_en": "the collision occurred in thick fog",
+      "definitions_ex_vn": "Va chạm xảy ra trong sương mù dày đặc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "something that obscures and confuses a situation or someone's thought processes.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the grass which grows in a field after a crop of hay has been taken.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(with reference to a glass surface) cover or become covered with steam.",
+      "definitions_ex_en": "hot steam drifted about her, fogging up the window",
+      "definitions_ex_vn": "Hơi nước nóng trôi về cô, sương mù lên cửa sổ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bewilder or puzzle (someone).",
+      "definitions_ex_en": "she stared at him, confusion fogging her brain",
+      "definitions_ex_vn": "Cô nhìn chằm chằm vào anh, nhầm lẫn não của cô",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "treat with something, especially an insecticide, in the form of a spray.",
+      "definitions_ex_en": "Winnipeg stopped fogging for mosquitoes three years ago",
+      "definitions_ex_vn": "Winnipeg dừng sương mù cho muỗi ba năm trước",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362702_79743e6f89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362702_8791166b01_o.png",
+      "id_image": "fog_1207561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362662_4044df878a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362662_9dddeb7fd7_o.png",
+      "id_image": "fog_1327598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433443_9026066d17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433443_7cb1efd022_o.png",
+      "id_image": "fog_286588"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433328_d6a2e9f9a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433328_f67f212cc0_o.png",
+      "id_image": "fog_6183091"
+    }
+  ]
+}

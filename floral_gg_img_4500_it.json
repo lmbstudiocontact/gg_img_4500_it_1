@@ -1,0 +1,40 @@
+{
+  "english": "floral",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về bông",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of flowers.",
+      "definitions_ex_en": "celebrations of the season's floral abundance",
+      "definitions_ex_vn": "Kỷ niệm về phong phú hoa mùa của mùa giải",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a fabric with a floral design.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365412_d60d7f7bee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365412_de70bd4784_o.png",
+      "id_image": "floral_2448292"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435588_d37e9095ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435588_f8f31cd6ed_o.png",
+      "id_image": "floral_2448314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365332_590a5ea75b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365332_437a38c58f_o.png",
+      "id_image": "floral_3316826"
+    }
+  ]
+}

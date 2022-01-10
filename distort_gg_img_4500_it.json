@@ -1,0 +1,54 @@
+{
+  "english": "distort",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm sai hình dáng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm siêu vẹo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xuyên tạc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pull or twist out of shape.",
+      "definitions_ex_en": "a grimace distorted her mouth",
+      "definitions_ex_vn": "một cái nhăn mặt méo miệng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give a misleading or false account or impression of.",
+      "definitions_ex_en": "many factors can distort the results",
+      "definitions_ex_vn": "Nhiều yếu tố có thể bóp méo kết quả",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "change the form of (an electrical signal or sound wave) during transmission, amplification, or other processing.",
+      "definitions_ex_en": "you're distorting the sound by overdriving the amp",
+      "definitions_ex_vn": "bạn đang méo mó âm thanh bằng cách vượt qua amp",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314176_81df7f0d47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314176_5cd24a5f0d_o.png",
+      "id_image": "distort_232940"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429063_fc4c28f465_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429063_16c30ed3c1_o.png",
+      "id_image": "distort_4410223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314131_680ea088f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314131_7a7ca12ea2_o.png",
+      "id_image": "distort_4410235"
+    }
+  ]
+}

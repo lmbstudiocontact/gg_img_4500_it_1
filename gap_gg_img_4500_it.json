@@ -1,0 +1,65 @@
+{
+  "english": "gap",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỗ gián đoạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỗ thiếu sót",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng trống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lỗ hổng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lỗ hở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lỗ trống",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a break or hole in an object or between two objects.",
+      "definitions_ex_en": "he came through the gap in the hedge",
+      "definitions_ex_vn": "Anh ta đi qua khoảng trống trong hàng rào",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an unfilled space or interval; a break in continuity.",
+      "definitions_ex_en": "there are many gaps in our understanding of what happened",
+      "definitions_ex_vn": "Có nhiều khoảng trống trong sự hiểu biết của chúng ta về những gì đã xảy ra",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454368_414bc9e637_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454368_f394166035_o.png",
+      "id_image": "gap_3053732"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694534_a16b6bee9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694534_9fc95297c0_o.png",
+      "id_image": "gap_3814242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384307_ece44d6b8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384307_ca07c6a1d3_o.png",
+      "id_image": "gap_4995006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384362_7cf37e9bd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384362_559ee54c6c_o.png",
+      "id_image": "gap_994634"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "english": "draft",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bản thảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách vẻ phác họa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chương trình làm việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cưởng bách trưng binh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kéo lưới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "luồng gió",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thảo án pháp luật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thú vật kéo xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dự luật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "luồng gió ở trong phòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một ngụm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một hớp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách dùng trâu cày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách đóng ngựa vào xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cờ đam",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hút ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức chìm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kéo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kéo lưới bắt cá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chọn người",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "định người",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phân khiển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phân phái",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thảo bức thơ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thảo khế ước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp đá làm nhà",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chọn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lựa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a preliminary version of a piece of writing.",
+      "definitions_ex_en": "the first draft of the party's manifesto",
+      "definitions_ex_vn": "Bản thảo đầu tiên của Tuyên ngôn của Đảng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "British spelling of draft (sense 3 of the noun, sense 4 of the noun, sense 6 of the noun, sense 7 of the noun).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a current of cool air in a room or other confined space.",
+      "definitions_ex_en": "heavy curtains at the windows cut out drafts",
+      "definitions_ex_vn": "Rèm cửa nặng tại cửa sổ cắt bỏ bản nháp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action or act of pulling something along, especially a vehicle or farm implement.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a written order to pay a specified sum; a check.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a single act of drinking or inhaling.",
+      "definitions_ex_en": "she downed the remaining beer in one draft",
+      "definitions_ex_vn": "Cô ấy đã xuống bia còn lại trong một bản nháp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the depth of water needed to float a ship.",
+      "definitions_ex_en": "the shallow draft enabled her to get close to shore",
+      "definitions_ex_vn": "Dự thảo nông đã cho phép cô ấy đến gần bờ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the drawing in of a fishing net.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "British spelling of draft (adjective).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting beer or other drink that is kept in and served from a barrel or tank rather than from a bottle or can.",
+      "definitions_ex_en": "draft beer",
+      "definitions_ex_vn": "Thạch bia",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting an animal used for pulling heavy loads.",
+      "definitions_ex_en": "draft oxen",
+      "definitions_ex_vn": "Dự thảo Oxen.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "prepare a preliminary version of (a document).",
+      "definitions_ex_en": "I drafted a letter of resignation",
+      "definitions_ex_vn": "Tôi đã soạn thảo một lá thư từ chức",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "select (a person or group of people) and bring them somewhere for a certain purpose.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pull or draw.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "benefit from reduced wind resistance by driving very closely behind another vehicle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662569_8494aaa793_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662569_3e4c52752e_o.png",
+      "id_image": "draft_1289255"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044225_a4673302a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044225_07569e8d72_o.png",
+      "id_image": "draft_1289256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307246_ebe491027b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307246_24d9e0b8a0_o.png",
+      "id_image": "draft_3884716"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422338_05f92cf184_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422338_14579371a8_o.png",
+      "id_image": "draft_4208388"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662474_ba97666f56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662474_e03ea47534_o.png",
+      "id_image": "draft_4595100"
+    }
+  ]
+}

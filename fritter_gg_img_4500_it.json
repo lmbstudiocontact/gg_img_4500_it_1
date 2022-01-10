@@ -1,0 +1,58 @@
+{
+  "english": "fritter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chiên lăn bột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ ăn lăn bột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chia vụn ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xẻ thành miếng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "waste time, money, or energy on trifling matters.",
+      "definitions_ex_en": "I wish we hadn't frittered the money away so easily",
+      "definitions_ex_vn": "Tôi ước chúng tôi đã không gửi tiền một cách dễ dàng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "divide (something) into small pieces.",
+      "definitions_ex_en": "they become frittered into minute tatters",
+      "definitions_ex_vn": "Họ trở nên bám lán vào từng phút",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a piece of fruit, vegetable, or meat that is coated in batter and deep-fried.",
+      "definitions_ex_en": "banana fritters",
+      "definitions_ex_vn": "bột chiên chuối",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343886_12ebff0db5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343886_5a621e36f4_o.png",
+      "id_image": "fritter_205080"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388737_0a2d1afa4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388737_18904027d1_o.png",
+      "id_image": "fritter_205182"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458523_83d3504896_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458523_51b80e342f_o.png",
+      "id_image": "fritter_454393"
+    }
+  ]
+}

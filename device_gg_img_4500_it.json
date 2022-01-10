@@ -1,0 +1,91 @@
+{
+  "english": "device",
+  "list_translation_mean": [
+    {
+      "translate_mean": "châm ngôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biểu hiệu trên huy chương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách ngôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình vẻ tượng trưng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mưu kế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương kế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quỷ kế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sở thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật sáng chế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý muốn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing made or adapted for a particular purpose, especially a piece of mechanical or electronic equipment.",
+      "definitions_ex_en": "a measuring device",
+      "definitions_ex_vn": "một thiết bị đo lường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a plan, method, or trick with a particular aim.",
+      "definitions_ex_en": "writing a public letter is a traditional device for signaling dissent",
+      "definitions_ex_vn": "Viết một lá thư công khai là một thiết bị truyền thống để báo hiệu bất đồng ý nghĩa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a drawing or design.",
+      "definitions_ex_en": "the decorative device on the invitations",
+      "definitions_ex_vn": "thiết bị trang trí trên lời mời",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680659_77eaf12c29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680659_9355caf644_o.png",
+      "id_image": "device_1089199"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062335_0414a59121_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062335_c158ac1381_o.png",
+      "id_image": "device_1753657"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680554_92ff3b620a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680554_6c3f853d8f_o.png",
+      "id_image": "device_2222831"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062210_7a4e795f75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062210_8db42e99c9_o.png",
+      "id_image": "device_2844994"
+    }
+  ]
+}

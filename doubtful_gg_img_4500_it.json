@@ -1,0 +1,47 @@
+{
+  "english": "doubtful",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không chắc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không quả quyết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không tin chắc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mơ hồ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "feeling uncertain about something.",
+      "definitions_ex_en": "he looked doubtful, but gave a nod",
+      "definitions_ex_vn": "Anh ấy trông nghi ngờ, nhưng gật đầu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not known with certainty.",
+      "definitions_ex_en": "the fire was of doubtful origin",
+      "definitions_ex_vn": "Ngọn lửa có nguồn gốc nghi ngờ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352352_03b174b0dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352352_a6600f0e62_o.png",
+      "id_image": "doubtful_4897177"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352337_aa83605f6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352337_c672fe0d10_o.png",
+      "id_image": "doubtful_5777998"
+    }
+  ]
+}

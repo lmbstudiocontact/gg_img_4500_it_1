@@ -1,0 +1,98 @@
+{
+  "english": "distance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nơi xa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoạn đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng cách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lộ trình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng thời gian",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quảng đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bỏ xa ở phía sau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cách biệt ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cách xa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho thấy như ở xa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an amount of space between two things or people.",
+      "definitions_ex_en": "I bicycled the short distance home",
+      "definitions_ex_vn": "Tôi đi xe đạp về nhà khoảng cách ngắn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the full length of a race.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the avoidance of familiarity; aloofness or reserve.",
+      "definitions_ex_en": "a mix of warmth and distance makes a good neighbor",
+      "definitions_ex_vn": "một sự pha trộn của sự ấm áp và khoảng cách làm cho một người hàng xóm tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make (someone or something) far off or remote in position or nature.",
+      "definitions_ex_en": "her mother wished to distance her from the rough village children",
+      "definitions_ex_vn": "Mẹ cô muốn quãng đường từ những đứa trẻ ngôi làng gồ ghề",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429623_241abf15f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429623_047bfd3c28_o.png",
+      "id_image": "distance_2746334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429598_1462952876_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429598_f95e38bb00_o.png",
+      "id_image": "distance_3410293"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429573_b90a2e11f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429573_b38b6d39cc_o.png",
+      "id_image": "distance_3684309"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051200_178c54258a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051200_719cc21364_o.png",
+      "id_image": "distance_4463548"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429648_31863e8ab1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429648_d37f850f42_o.png",
+      "id_image": "distance_526754"
+    }
+  ]
+}

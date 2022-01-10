@@ -1,0 +1,65 @@
+{
+  "english": "dizzy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "choáng váng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chóng mặt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thấy chống mặt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm chóng mặt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quay thật lẹ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thấy chóng mặt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having or involving a sensation of spinning around and losing one's balance.",
+      "definitions_ex_en": "Jonathan had begun to suffer dizzy spells",
+      "definitions_ex_vn": "Jonathan đã bắt đầu chịu đựng những phép thuật chóng mặt",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "make (someone) feel unsteady, confused, or amazed.",
+      "definitions_ex_en": "her nearness dizzied him",
+      "definitions_ex_vn": "Sự gần gũi của cô ấy làm phiền anh ấy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356277_8b34f60875_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356277_ee421b031d_o.png",
+      "id_image": "dizzy_2400670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667169_6c59324a06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667169_cd6d199163_o.png",
+      "id_image": "dizzy_4952967"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312291_fc9ce75f3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312291_d3acd79a8b_o.png",
+      "id_image": "dizzy_599641"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048900_c7af5be4a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048900_278078dd42_o.png",
+      "id_image": "dizzy_817755"
+    }
+  ]
+}

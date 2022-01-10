@@ -1,0 +1,65 @@
+{
+  "english": "factory",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hảng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nơi chế tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phân xưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "văn phòng công ty",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xưởng chế tạo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a building or group of buildings where goods are manufactured or assembled chiefly by machine.",
+      "definitions_ex_en": "a clothing factory",
+      "definitions_ex_vn": "một nhà máy quần áo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an establishment for traders carrying on business in a foreign country.",
+      "definitions_ex_en": "he is chaplain to the British factory at St. Petersburg",
+      "definitions_ex_vn": "Ông là Chaplain đến nhà máy Anh tại St. Petersburg",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075015_888dc46483_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075015_5f42da47c8_o.png",
+      "id_image": "factory_224584"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693234_3494631f2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693234_43e42cc625_o.png",
+      "id_image": "factory_307132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074985_ff2c97e9de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074985_c1716d6e59_o.png",
+      "id_image": "factory_315251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452788_a8b264fa74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452788_2e881a6536_o.png",
+      "id_image": "factory_858270"
+    }
+  ]
+}

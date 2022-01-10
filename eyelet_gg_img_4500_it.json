@@ -1,0 +1,46 @@
+{
+  "english": "eyelet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lổ của cây kim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lổ nhỏ của vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lổ nhỏ trên buồm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lổ trên vải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống có lổ nhỏ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small round hole in leather or cloth for threading a lace, string, or rope through.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make eyelets in (fabric).",
+      "definitions_ex_en": "her dress is of the whitest fabric, all eyeleted, embroidered, sashed",
+      "definitions_ex_vn": "Chiếc váy của cô ấy là vải trắng nhất, tất cả đều có lỗ mắt, thêu, bị che khuất",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339321_fcd94a2b65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339321_564d75682d_o.png",
+      "id_image": "eyelet_4301307"
+    }
+  ]
+}

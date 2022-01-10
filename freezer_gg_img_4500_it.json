@@ -1,0 +1,45 @@
+{
+  "english": "freezer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "máy làm đông lạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy làm lạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy lạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bị lạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật bị đông lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a refrigerated compartment, cabinet, or room for preserving food at very low temperatures.",
+      "definitions_ex_en": "there are some steaks in the freezer",
+      "definitions_ex_vn": "Có một số bít tết trong tủ đông",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049315_9e5bd05efa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049315_c90a5025b3_o.png",
+      "id_image": "freezer_372084"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667589_96d1abaa86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667589_4e47feeb3d_o.png",
+      "id_image": "freezer_445802"
+    }
+  ]
+}

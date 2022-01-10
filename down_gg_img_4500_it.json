@@ -1,0 +1,232 @@
+{
+  "english": "down",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lông tơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lông măng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ lòi lõm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dải cát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đụn cát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lông măng ở cằm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lông măng ở má",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lông phấn ở trái cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhảy xuống",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chán nản",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "dưới đất",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ở dưới",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ở phía dưới",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "xuống",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "xuống dưới",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "tóc xỏa xuống",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "bắn rớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh ngã",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh té",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hạ địch thủ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vật ngã",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "toward or in a lower place or position, especially to or on the ground or another surface.",
+      "definitions_ex_en": "she looked down",
+      "definitions_ex_vn": "Cô nhìn xuống",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "to or at a lower level of intensity, volume, or activity.",
+      "definitions_ex_en": "keep the noise down",
+      "definitions_ex_vn": "bớt ồn ào đi",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "in or into a weaker or worse position, mood, or condition.",
+      "definitions_ex_en": "he was down with the flu",
+      "definitions_ex_vn": "Anh bị cúm xuống",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "in or into writing.",
+      "definitions_ex_en": "taking down notes",
+      "definitions_ex_vn": "ghi chú xuống",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "(with reference to partial payment of a sum of money) made initially or on the spot.",
+      "definitions_ex_en": "pay $500 down and the rest at the end of the month",
+      "definitions_ex_vn": "trả $ 500 xuống và phần còn lại vào cuối tháng",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "(of sailing) with the current or the wind.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "(of the ball or a player in possession) not in play, typically because forward progress has been stopped.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "from a higher to a lower point of (something).",
+      "definitions_ex_en": "up and down the stairs",
+      "definitions_ex_vn": "lên xuống cầu thang",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "throughout (a period of time).",
+      "definitions_ex_en": "astrologers down the ages",
+      "definitions_ex_vn": "Nhà chiêm tinh xuống tuổi",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "directed or moving toward a lower place or position.",
+      "definitions_ex_en": "the down escalator",
+      "definitions_ex_vn": "thang cuốn xuống",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "unhappy or depressed.",
+      "definitions_ex_en": "he's been so down lately",
+      "definitions_ex_vn": "gần đây anh ấy đã xuống",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a computer system) temporarily out of action or unavailable.",
+      "definitions_ex_en": "sorry, but the computer's down",
+      "definitions_ex_vn": "xin lỗi, nhưng máy tính xuống",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting a flavor (variety) of stable quark having relatively low mass and an electric charge of − 1/3. In the Standard Model protons and neutrons are composed of up and down quarks.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "knock or bring to the ground.",
+      "definitions_ex_en": "175 enemy aircraft had been downed",
+      "definitions_ex_vn": "175 máy bay địch đã bị rơi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "consume (something, typically a drink).",
+      "definitions_ex_en": "he downed a six-pack",
+      "definitions_ex_vn": "anh ấy đã giảm một gói sáu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a period of unwelcome experiences or negative mood.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a chance for a team to advance the ball, ending when the ball carrier is tackled or the ball becomes out of play. A team must advance at least ten yards in a series of four downs in order to keep possession.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "soft, fine, fluffy feathers which form the first covering of a young bird or an insulating layer below the contour feathers of an adult bird.",
+      "definitions_ex_en": "the baby penguins' wooly down is essential in the Antarctic winter",
+      "definitions_ex_vn": "Bé Chim cánh cụt len xuống là rất cần thiết ở mùa đông Nam Cực",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a gently rolling hill.",
+      "definitions_ex_en": "the gentle green contours of the downs",
+      "definitions_ex_vn": "các đường viền màu xanh dịu dàng của những nhược điểm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307696_3eb06a8765_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307696_cf7f16e9b6_o.png",
+      "id_image": "down_1303238"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044660_4576c9fbf6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044660_8082db3672_o.png",
+      "id_image": "down_1441950"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351772_1e47c23748_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351772_60044486fc_o.png",
+      "id_image": "down_1725499"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044610_7524f2a9b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044610_317c6b8683_o.png",
+      "id_image": "down_4151471"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662869_03aa8cdf89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662869_43c7785b83_o.png",
+      "id_image": "down_4845873"
+    }
+  ]
+}

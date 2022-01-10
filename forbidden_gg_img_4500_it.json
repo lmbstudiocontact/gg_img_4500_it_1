@@ -1,0 +1,56 @@
+{
+  "english": "forbidden",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cản trở",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cấm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngăn cấm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngăn trở",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not allowed; banned.",
+      "definitions_ex_en": "a list of forbidden books",
+      "definitions_ex_vn": "một danh sách những cuốn sách bị cấm",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316431_e38fa8b69f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316431_8acb88a2b3_o.png",
+      "id_image": "forbidden_3387251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360637_519eac2591_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360637_477b77d293_o.png",
+      "id_image": "forbidden_3806358"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360602_55f36ba821_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360602_b172b5dff9_o.png",
+      "id_image": "forbidden_4413860"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316346_23792a9342_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316346_1129d5737c_o.png",
+      "id_image": "forbidden_4470169"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431198_27eb2e149b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431198_f585de7f10_o.png",
+      "id_image": "forbidden_5318978"
+    }
+  ]
+}

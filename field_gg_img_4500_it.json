@@ -1,0 +1,127 @@
+{
+  "english": "field",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sân banh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cánh đồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiến trường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ tiêu thụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồng ruộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng rộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thương trường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vùng đất",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an area of open land, especially one planted with crops or pasture, typically bounded by hedges or fences.",
+      "definitions_ex_en": "a wheat field",
+      "definitions_ex_vn": "một cánh đồng lúa mì",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a particular branch of study or sphere of activity or interest.",
+      "definitions_ex_en": "we talked to professionals in various fields",
+      "definitions_ex_vn": "Chúng tôi đã nói chuyện với các chuyên gia trong các lĩnh vực khác nhau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a space or range within which objects are visible from a particular viewpoint or through a piece of apparatus.",
+      "definitions_ex_en": "the stars drift through this telescope's field of view",
+      "definitions_ex_vn": "Các ngôi sao trôi qua tầm nhìn của kính viễn vọng này",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "all the participants in a contest or sport.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an area on a flag with a single background color.",
+      "definitions_ex_en": "fifty white stars on a blue field",
+      "definitions_ex_vn": "Năm mươi ngôi sao trắng trên một cánh đồng màu xanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the region in which a particular condition prevails, especially one in which a force or influence is effective regardless of the presence or absence of a material medium.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a system subject to two binary operations analogous to those for the multiplication and addition of real numbers, and having similar commutative and distributive laws.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "play as a fielder.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "send out (a team or individual) to play in a game.",
+      "definitions_ex_en": "a high school that traditionally fielded mediocre teams",
+      "definitions_ex_vn": "một trường trung học mà các đội tầm thường được bảo vệ theo truyền thống",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "deal with (a difficult question, phone call, etc.).",
+      "definitions_ex_en": "she has fielded five calls from salespeople",
+      "definitions_ex_vn": "Cô đã thực hiện năm cuộc gọi từ nhân viên bán hàng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "carried out or working in the natural environment, rather than in a laboratory or office.",
+      "definitions_ex_en": "field observations",
+      "definitions_ex_vn": "quan sát lĩnh vực.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685854_90aa38a9c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685854_fba2f3bf34_o.png",
+      "id_image": "field_2153183"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375472_b92d35e860_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375472_8d017f3f79_o.png",
+      "id_image": "field_2290322"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445688_93afe82958_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445688_9bec2fbd14_o.png",
+      "id_image": "field_4212554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330706_3750cc750d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330706_325d60908b_o.png",
+      "id_image": "field_4484301"
+    }
+  ]
+}

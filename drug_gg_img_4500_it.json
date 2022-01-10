@@ -1,0 +1,80 @@
+{
+  "english": "drug",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ma túy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc bào chế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc men",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc mê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc uống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dược phẫm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cho người nào uống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hít thuốc mê",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho ngán",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a medicine or other substance which has a physiological effect when ingested or otherwise introduced into the body.",
+      "definitions_ex_en": "a new drug aimed at sufferers from Parkinson's disease",
+      "definitions_ex_vn": "Một loại thuốc mới nhắm vào những người mắc bệnh Parkinson",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "administer a drug to (someone) in order to induce stupor or insensibility.",
+      "definitions_ex_en": "they were drugged to keep them quiet",
+      "definitions_ex_vn": "họ đã bị đánh thuốc để giữ cho họ yên tĩnh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692209_9e1df29913_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692209_3f4f4b5514_o.png",
+      "id_image": "drug_2843761"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692164_f93eb6230d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692164_4448539324_o.png",
+      "id_image": "drug_2861164"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692249_29dbd630df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692249_1a8c92c5ed_o.png",
+      "id_image": "drug_452700"
+    }
+  ]
+}

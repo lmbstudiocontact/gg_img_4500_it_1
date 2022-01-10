@@ -1,0 +1,33 @@
+{
+  "english": "generosity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lòng khoan hồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rộng lượng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the quality of being kind and generous.",
+      "definitions_ex_en": "I was overwhelmed by the generosity of friends and neighbors",
+      "definitions_ex_vn": "Tôi bị choáng ngợp bởi sự hào phóng của bạn bè và hàng xóm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691259_935b7e1f57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691259_90c0431007_o.png",
+      "id_image": "generosity_1396228"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336011_c8f12c2635_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336011_3be2962fff_o.png",
+      "id_image": "generosity_708656"
+    }
+  ]
+}

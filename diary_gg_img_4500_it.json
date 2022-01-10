@@ -1,0 +1,44 @@
+{
+  "english": "diary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sổ nhựt ký",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a book in which one keeps a daily record of events and experiences.",
+      "definitions_ex_en": "I resolved to keep a diary of events during the war",
+      "definitions_ex_vn": "Tôi đã quyết định để giữ một cuốn nhật ký của các sự kiện trong chiến tranh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060210_307aef4f90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060210_a20f9c9977_o.png",
+      "id_image": "diary_1176700"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438438_bf63746ceb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438438_f4b795a610_o.png",
+      "id_image": "diary_2376033"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678519_b7e850502b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678519_19fc63597f_o.png",
+      "id_image": "diary_2540566"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368327_18cefca29a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368327_a84e740c3f_o.png",
+      "id_image": "diary_546634"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060040_e556bde00b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060040_8c79da63f5_o.png",
+      "id_image": "diary_6381788"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "english": "displace",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cho ra rìa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đổi chổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dời chổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thay thế",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thuyên chuyển",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "take over the place, position, or role of (someone or something).",
+      "definitions_ex_en": "in the northern states of India, Hindi has largely displaced English",
+      "definitions_ex_vn": "Ở bang phía bắc Ấn Độ, Hindi đã thay thế tiếng Anh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670059_b0de2424f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670059_70ec907932_o.png",
+      "id_image": "displace_1042379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359552_3d2fa9a877_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359552_4b3d508b26_o.png",
+      "id_image": "displace_2359155"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430223_3203e8d8b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430223_1db30170fc_o.png",
+      "id_image": "displace_2359160"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359482_f46990c060_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359482_4aa7e1a733_o.png",
+      "id_image": "displace_5488359"
+    }
+  ]
+}

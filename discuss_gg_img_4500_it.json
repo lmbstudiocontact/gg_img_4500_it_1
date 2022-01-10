@@ -1,0 +1,52 @@
+{
+  "english": "discuss",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bàn cải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bàn luận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tan",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "talk about (something) with another person or group of people.",
+      "definitions_ex_en": "I discussed the matter with my wife",
+      "definitions_ex_vn": "Tôi đã thảo luận vấn đề với vợ tôi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053490_5982b6e9d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053490_0af9dcd9d6_o.png",
+      "id_image": "discuss_1933940"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361337_575847a5cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361337_7076dca9b4_o.png",
+      "id_image": "discuss_2911144"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671719_ed609cc601_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671719_7e9121bcdb_o.png",
+      "id_image": "discuss_3034810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361307_21a3e806e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361307_b52d889300_o.png",
+      "id_image": "discuss_3965826"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432018_c1374ab0f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432018_743a115312_o.png",
+      "id_image": "discuss_4861272"
+    }
+  ]
+}

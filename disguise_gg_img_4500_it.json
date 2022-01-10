@@ -1,0 +1,55 @@
+{
+  "english": "disguise",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cải trang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "che đậy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giả đò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trá hình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "che đậy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giả dạng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give (someone or oneself) a different appearance in order to conceal one's identity.",
+      "definitions_ex_en": "we took elaborate measures to disguise ourselves as locals",
+      "definitions_ex_vn": "Chúng tôi đã thực hiện các biện pháp phức tạp để ngụy trang thành người dân địa phương",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a means of altering one's appearance or concealing one's identity.",
+      "definitions_ex_en": "his bizarre disguise drew stares from fellow shoppers",
+      "definitions_ex_vn": "sự ngụy trang kỳ quái của anh ta đã vẽ những kẻ bay đến từ những người mua sắm đồng nghiệp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361012_dcfd9cb0b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361012_40a3151b43_o.png",
+      "id_image": "disguise_4138907"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671409_42b1e18cc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671409_ef3a0e483a_o.png",
+      "id_image": "disguise_4713785"
+    }
+  ]
+}

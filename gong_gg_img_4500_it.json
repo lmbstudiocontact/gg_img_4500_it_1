@@ -1,0 +1,34 @@
+{
+  "english": "gong",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái chiêng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái phèng la",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a metal disk with a turned rim, giving a resonant note when struck.",
+      "definitions_ex_en": "a dinner gong",
+      "definitions_ex_vn": "một bữa ăn tối gong.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "sound a gong or make a sound like that of a gong being struck.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683834_f2811bd885_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683834_197fbe791c_o.png",
+      "id_image": "gong_2419904"
+    }
+  ]
+}

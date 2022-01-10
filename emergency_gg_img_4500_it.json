@@ -1,0 +1,68 @@
+{
+  "english": "emergency",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cảnh ngộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cấp cứu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khẩn cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguy biến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguy cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguy hiểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trường hợp nguy ngập",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a serious, unexpected, and often dangerous situation requiring immediate action.",
+      "definitions_ex_en": "your quick response in an emergency could be a lifesaver",
+      "definitions_ex_vn": "Phản hồi nhanh chóng của bạn trong trường hợp khẩn cấp có thể là một cứu cánh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437253_c632ef2dc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437253_5ca7b0eb9f_o.png",
+      "id_image": "emergency_1558317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058780_05242d8a34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058780_722bef835e_o.png",
+      "id_image": "emergency_2456219"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321996_a912a9c86f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321996_4e71048c3b_o.png",
+      "id_image": "emergency_4982401"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366877_7e750b68d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366877_cf2f5b9e28_o.png",
+      "id_image": "emergency_6304580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677169_c501a5f4c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677169_9898313da5_o.png",
+      "id_image": "emergency_752624"
+    }
+  ]
+}

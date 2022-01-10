@@ -1,0 +1,48 @@
+{
+  "english": "essential",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cần thiết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quan trọng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về bản chất",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về bản thể",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "absolutely necessary; extremely important.",
+      "definitions_ex_en": "it is essential to keep up-to-date records",
+      "definitions_ex_vn": "Điều cần thiết là giữ hồ sơ cập nhật",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a disease) with no known external stimulus or cause; idiopathic.",
+      "definitions_ex_en": "essential hypertension",
+      "definitions_ex_vn": "tăng huyết áp thiết yếu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a thing that is absolutely necessary.",
+      "definitions_ex_en": "we had only the bare essentials in the way of gear",
+      "definitions_ex_vn": "Chúng tôi chỉ có những thiết yếu trần trụi theo cách của thiết bị",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429873_4f11c9bb10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429873_56dbd50344_o.png",
+      "id_image": "essential_1499679"
+    }
+  ]
+}

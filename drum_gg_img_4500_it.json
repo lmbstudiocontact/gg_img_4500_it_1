@@ -1,0 +1,74 @@
+{
+  "english": "drum",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thùng đựng dầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng tròn bằng sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh trống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gỏ nhịp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a percussion instrument sounded by being struck with sticks or the hands, typically cylindrical, barrel-shaped, or bowl-shaped, with a taut membrane over one or both ends.",
+      "definitions_ex_en": "a shuffling dance to the beat of a drum",
+      "definitions_ex_vn": "một điệu nhảy xáo trộn đến nhịp trống",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cylindrical container or receptacle.",
+      "definitions_ex_en": "a drum of powdered bleach",
+      "definitions_ex_vn": "Một tiếng trống bột",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an evening or afternoon tea party of a kind that was popular in the late 18th and early 19th century.",
+      "definitions_ex_en": "a drum at Lady Beresford's",
+      "definitions_ex_vn": "Một trống tại Lady Beresford",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fish that makes a drumming sound by vibrating its swim bladder, found mainly in estuarine and shallow coastal waters.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "play on a drum or drums.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451593_ec75e0a64e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451593_9842a6e2b5_o.png",
+      "id_image": "drum_257487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451563_510c9af8d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451563_0319040a8c_o.png",
+      "id_image": "drum_449507"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336596_891de3ca3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336596_c0e8404711_o.png",
+      "id_image": "drum_458003"
+    }
+  ]
+}

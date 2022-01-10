@@ -1,0 +1,34 @@
+{
+  "english": "gypsy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người Bô hê miên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người digan",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a member of a people originating in South Asia and traditionally having an itinerant way of life, living widely dispersed across Europe and North and South America and speaking a language (Romani) that is related to Hindi; a Romani person.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a nomadic or free-spirited person.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361437_95b3f697ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361437_7d82669742_o.png",
+      "id_image": "gypsy_1081093"
+    }
+  ]
+}

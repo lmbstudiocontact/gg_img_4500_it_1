@@ -1,0 +1,47 @@
+{
+  "english": "fluctuation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hay thay đổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lên xuống giá tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biến chuyển",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an irregular rising and falling in number or amount; a variation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674534_90e63a9440_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674534_efc5cb4b10_o.png",
+      "id_image": "fluctuation_1555849"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056185_bc9891e420_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056185_6322646dbc_o.png",
+      "id_image": "fluctuation_2390284"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364267_c85453aaf9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364267_e9342059f5_o.png",
+      "id_image": "fluctuation_5226386"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674444_100e5316f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674444_78148401ce_o.png",
+      "id_image": "fluctuation_5661041"
+    }
+  ]
+}

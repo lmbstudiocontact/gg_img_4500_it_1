@@ -1,0 +1,49 @@
+{
+  "english": "hall",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đại sảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lâu đài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà của địa chủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà lớn để ở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng lớn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large room for meetings, concerts, or other events.",
+      "definitions_ex_en": "Carnegie Hall",
+      "definitions_ex_vn": "Carnegie Hall.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316001_3cfdc98dba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316001_1092fdec3e_o.png",
+      "id_image": "hall_2474367"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670644_8139c15cee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670644_822d16ee76_o.png",
+      "id_image": "hall_3981093"
+    }
+  ]
+}

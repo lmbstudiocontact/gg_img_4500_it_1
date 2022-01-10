@@ -1,0 +1,49 @@
+{
+  "english": "epidemic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bịnh dịch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bịnh truyền nhiểm",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a widespread occurrence of an infectious disease in a community at a particular time.",
+      "definitions_ex_en": "a flu epidemic",
+      "definitions_ex_vn": "một dịch cúm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "of the nature of an epidemic.",
+      "definitions_ex_en": "epidemic diseases",
+      "definitions_ex_vn": "các dịch bệnh",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053460_4e36544c21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053460_c37b5f6c54_o.png",
+      "id_image": "epidemic_2720285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432078_893dedd86d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432078_54904bd644_o.png",
+      "id_image": "epidemic_2720373"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053430_c1284b60e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053430_8df9d46bb2_o.png",
+      "id_image": "epidemic_2843762"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671674_42c72dcb18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671674_57a97bb572_o.png",
+      "id_image": "epidemic_6182976"
+    }
+  ]
+}

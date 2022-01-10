@@ -1,0 +1,36 @@
+{
+  "english": "enlist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chiêu mộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đăng lính",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đầu quân",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mộ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "enroll or be enrolled in the armed services.",
+      "definitions_ex_en": "hundreds of thousands of recruits had been enlisted",
+      "definitions_ex_vn": "Hàng trăm ngàn tân binh đã được nhập ngũ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433708_7536cabed0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433708_1012881ae9_o.png",
+      "id_image": "enlist_942436"
+    }
+  ]
+}

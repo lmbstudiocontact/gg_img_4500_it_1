@@ -1,0 +1,29 @@
+{
+  "english": "flirty",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tán tỉnh",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "suggesting or expressing a playful sexual attraction.",
+      "definitions_ex_en": "she is extremely flirty and vivacious",
+      "definitions_ex_vn": "Cô ấy cực kỳ tán tỉnh và hoạt bát",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436398_47745da3bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436398_f7f12b2c68_o.png",
+      "id_image": "flirty_4768512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366092_a378dea6b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366092_43994b50e8_o.png",
+      "id_image": "flirty_708636"
+    }
+  ]
+}

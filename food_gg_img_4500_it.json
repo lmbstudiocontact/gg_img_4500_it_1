@@ -1,0 +1,48 @@
+{
+  "english": "food",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thức ăn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth.",
+      "definitions_ex_en": "we need food and water",
+      "definitions_ex_vn": "Chúng tôi cần thức ăn và nước",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432418_6ec19fbcdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432418_8453d48a46_o.png",
+      "id_image": "food_2114315"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432398_2d10997519_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432398_7db0e02d1d_o.png",
+      "id_image": "food_2298835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361712_362f73691d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361712_24d377e571_o.png",
+      "id_image": "food_416202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361682_89a5b74376_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361682_a08c0657a8_o.png",
+      "id_image": "food_571877"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672054_ea42108b74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672054_c89692f2cc_o.png",
+      "id_image": "food_781308"
+    }
+  ]
+}

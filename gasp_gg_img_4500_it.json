@@ -1,0 +1,46 @@
+{
+  "english": "gasp",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giật nẩy lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giựt mình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhảy giật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giật nảy người",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy giật lên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "inhale suddenly with the mouth open, out of pain or astonishment.",
+      "definitions_ex_en": "a woman gasped in horror at the sight of him",
+      "definitions_ex_vn": "Một người phụ nữ thở hổn hển khi nhìn thấy anh ta",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a convulsive catching of breath.",
+      "definitions_ex_en": "his breath was coming in gasps",
+      "definitions_ex_vn": "hơi thở của anh ấy đang đến trong thở hổn hển",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338206_54a44d8eec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338206_1967a8c38e_o.png",
+      "id_image": "gasp_1814939"
+    }
+  ]
+}

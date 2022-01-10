@@ -1,0 +1,57 @@
+{
+  "english": "disposable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "được quyền sử dụng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "được quyền hưởng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sẳn có",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sẳn sàng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sẳn sàng để dùng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of an article) intended to be used once, or until no longer useful, and then thrown away.",
+      "definitions_ex_en": "disposable diapers",
+      "definitions_ex_vn": "tã dùng một lần",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(chiefly of financial assets) readily available for the owner's use as required.",
+      "definitions_ex_en": "he made a mental inventory of his disposable assets",
+      "definitions_ex_vn": "anh ta đã tạo nên một hàng tồn kho tinh thần của tài sản dùng một lần của mình",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an article designed to be thrown away after use.",
+      "definitions_ex_en": "don't buy disposables, such as razors, cups, and plates",
+      "definitions_ex_vn": "Đừng mua hàng hóa, chẳng hạn như dao cạo, cốc và tấm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669814_4ed9484136_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669814_755eb8c427_o.png",
+      "id_image": "disposable_1658242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359287_70acbf3d66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359287_294fc19e7c_o.png",
+      "id_image": "disposable_1676711"
+    }
+  ]
+}

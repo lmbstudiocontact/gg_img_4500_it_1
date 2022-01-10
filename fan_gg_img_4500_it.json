@@ -1,0 +1,110 @@
+{
+  "english": "fan",
+  "list_translation_mean": [
+    {
+      "translate_mean": "máy quạt lúa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy sàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quạt gắn trên trần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vẩy đuôi cá voi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nia để sảy thóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "qụat máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hâm mộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phủi bụi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quạt người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sảy lúa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an apparatus with rotating blades that creates a current of air for cooling or ventilation.",
+      "definitions_ex_en": "a couple of ceiling fans, lazily turning",
+      "definitions_ex_vn": "Một vài người hâm mộ trần, lười biếng quay đầu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device, typically folding and shaped like a segment of a circle when spread out, that is held in the hand and waved so as to cool the person holding it by causing the air to move.",
+      "definitions_ex_en": "the girls were giggling behind their fans",
+      "definitions_ex_vn": "Các cô gái đang cười khúc khích đằng sau người hâm mộ của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device for winnowing grain.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who has a strong interest in or admiration for a particular person or thing.",
+      "definitions_ex_en": "football fans",
+      "definitions_ex_vn": "Người hâm mộ bóng đá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cool (especially a person or a part of the body) by waving something to create a current of air.",
+      "definitions_ex_en": "he fanned himself with his hat",
+      "definitions_ex_vn": "anh ấy đã rình mò với chiếc mũ của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "increase the strength of (a fire) by blowing on it or stirring up the air near it.",
+      "definitions_ex_en": "gusty wind fanned fires in Yellowstone Park",
+      "definitions_ex_vn": "Gió gió rốn trong Công viên Yellowstone",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "disperse or radiate from a central point to cover a wide area.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336431_246f303c50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336431_5c51d8a706_o.png",
+      "id_image": "fan_166578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073380_823a07d1b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073380_5c3d5c10d0_o.png",
+      "id_image": "fan_517776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336386_096897c977_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336386_241353ebcc_o.png",
+      "id_image": "fan_689332"
+    }
+  ]
+}

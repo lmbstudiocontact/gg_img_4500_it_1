@@ -1,0 +1,43 @@
+{
+  "english": "garter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nịt tất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nịt vớ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nịt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a band worn around the leg to keep up a stocking or sock.",
+      "definitions_ex_en": "she leaned back, showing the garter on her thigh",
+      "definitions_ex_vn": "Cô ấy dựa lưng, cho thấy garter trên đùi cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for Order of the Garter.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453428_c9289fab33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453428_fa92f497bf_o.png",
+      "id_image": "garter_4125730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075540_94e88558cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075540_ea79edba12_o.png",
+      "id_image": "garter_867972"
+    }
+  ]
+}

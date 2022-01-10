@@ -1,0 +1,30 @@
+{
+  "english": "garlic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tỏi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a strong-smelling pungent-tasting bulb, used as a flavoring in cooking and in herbal medicine.",
+      "definitions_ex_en": "garlic butter",
+      "definitions_ex_vn": "tỏi bơ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the plant, closely related to the onion, that produces this bulb.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383602_eb66b70a25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383602_984c41b3a1_o.png",
+      "id_image": "garlic_3944096"
+    }
+  ]
+}

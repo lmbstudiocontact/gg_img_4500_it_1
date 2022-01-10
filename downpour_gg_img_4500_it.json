@@ -1,0 +1,24 @@
+{
+  "english": "downpour",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mưa lớn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a heavy rainfall.",
+      "definitions_ex_en": "a sudden downpour had filled the gutters and drains",
+      "definitions_ex_vn": "Một trận mưa lớn đột ngột đã lấp đầy máng xối và cống thoát nước",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422483_64c98016ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422483_31cf7a3f08_o.png",
+      "id_image": "downpour_2736744"
+    }
+  ]
+}

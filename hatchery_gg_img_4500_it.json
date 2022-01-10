@@ -1,0 +1,24 @@
+{
+  "english": "hatchery",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỗ nuôi cá",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a place where the hatching of fish or poultry eggs is artificially controlled for commercial purposes.",
+      "definitions_ex_en": "a hatchery where we buy day-old chicks",
+      "definitions_ex_vn": "một trại giống nơi chúng ta mua gà con ngày",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698634_3b9cc97f1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698634_bcdbcdfe6f_o.png",
+      "id_image": "hatchery_5612865"
+    }
+  ]
+}

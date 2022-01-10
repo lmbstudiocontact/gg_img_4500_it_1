@@ -1,0 +1,29 @@
+{
+  "english": "fireball",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sao băng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a ball of flame or fire.",
+      "definitions_ex_en": "a crashed tanker exploded in a fireball",
+      "definitions_ex_vn": "một tàu chở dầu bị rơi phát nổ trong một quả cầu lửa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681654_87454a7354_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681654_1dee9e71ed_o.png",
+      "id_image": "fireball_3295217"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441508_63da29dd46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441508_856d26a65b_o.png",
+      "id_image": "fireball_4456566"
+    }
+  ]
+}

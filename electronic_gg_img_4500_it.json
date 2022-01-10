@@ -1,0 +1,56 @@
+{
+  "english": "electronic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về điện tử",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a device) having or operating with the aid of many small components, especially microchips and transistors, that control and direct an electric current.",
+      "definitions_ex_en": "an electronic calculator",
+      "definitions_ex_vn": "một máy tính điện tử",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to electrons.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "carried out or accessed by means of a computer or other electronic device, especially over a network.",
+      "definitions_ex_en": "electronic banking",
+      "definitions_ex_vn": "Ngân hàng điện tử",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325431_720763f537_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325431_11ede27823_o.png",
+      "id_image": "electronic_1198313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440418_7c0e3bc6aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440418_ae1e35b7eb_o.png",
+      "id_image": "electronic_1643810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325316_3eda5dcd48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325316_727bd43133_o.png",
+      "id_image": "electronic_1648802"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370177_7e0acef36f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370177_c20d523122_o.png",
+      "id_image": "electronic_2761029"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325466_2eed9fc84f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325466_b0bd9832a2_o.png",
+      "id_image": "electronic_752623"
+    }
+  ]
+}

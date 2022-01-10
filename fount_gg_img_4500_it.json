@@ -1,0 +1,39 @@
+{
+  "english": "fount",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nguồn gốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "suối",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a source of a desirable quality or commodity.",
+      "definitions_ex_en": "our courier was a fount of knowledge",
+      "definitions_ex_vn": "Chuyển phát nhanh của chúng tôi là một hố kiến thức",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a spring or fountain.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428563_777f3d7316_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428563_68699831e5_o.png",
+      "id_image": "fount_1563545"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313671_7cec521e0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313671_c9caab0193_o.png",
+      "id_image": "fount_1563546"
+    }
+  ]
+}

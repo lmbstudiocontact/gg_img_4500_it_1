@@ -1,0 +1,141 @@
+{
+  "english": "exercise",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài tập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bài tập viết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "diển tập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "luyện tập thân thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tập thể dục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thao diển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thi hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sử dụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyên nghề",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dùng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm khổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sử dụng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tập dượt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thi hành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nghề",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm phiền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "luyện tập",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "activity requiring physical effort, carried out to sustain or improve health and fitness.",
+      "definitions_ex_en": "exercise improves your heart and lung power",
+      "definitions_ex_vn": "Tập thể dục cải thiện sức mạnh trái tim và phổi của bạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a process or activity carried out for a specific purpose, especially one concerned with a specified area or skill.",
+      "definitions_ex_en": "an exercise in public relations",
+      "definitions_ex_vn": "một bài tập trong quan hệ công chúng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the use or application of a faculty, right, or process.",
+      "definitions_ex_en": "the free exercise of religion",
+      "definitions_ex_vn": "tập thể dục tự do của tôn giáo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "use or apply (a faculty, right, or process).",
+      "definitions_ex_en": "control is exercised by the Board",
+      "definitions_ex_vn": "Kiểm soát được tập thể dục bởi hội đồng quản trị",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "engage in physical activity to sustain or improve health and fitness; take exercise.",
+      "definitions_ex_en": "she still exercised every day",
+      "definitions_ex_vn": "cô ấy vẫn tập thể dục mỗi ngày",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "occupy the thoughts of; worry or perplex.",
+      "definitions_ex_en": "the knowledge that a larger margin was possible still exercised him",
+      "definitions_ex_vn": "Kiến thức rằng một tỷ suất lợi nhuận lớn hơn vẫn có thể thực hiện anh ta",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355712_29787547fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355712_afeea0f1f8_o.png",
+      "id_image": "exercise_2159431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666509_1921da707c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666509_5073a44186_o.png",
+      "id_image": "exercise_3776047"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355647_056218a9d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355647_1dae2aba89_o.png",
+      "id_image": "exercise_6193200"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426483_04a3757388_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426483_1b875455a1_o.png",
+      "id_image": "exercise_755258"
+    }
+  ]
+}

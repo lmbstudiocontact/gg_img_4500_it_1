@@ -1,0 +1,57 @@
+{
+  "english": "detention",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cản ngăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cầm giử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cầm tù",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chận lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiếm đoạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giam cầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phạt cấm túc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tạm giam",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of detaining someone or the state of being detained in official custody, especially as a political prisoner.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063705_02a970cffd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063705_dbf6f9a05f_o.png",
+      "id_image": "detention_2495677"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326751_af67eb77aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326751_62c87d84ce_o.png",
+      "id_image": "detention_5777990"
+    }
+  ]
+}

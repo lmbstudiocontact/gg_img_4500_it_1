@@ -1,0 +1,37 @@
+{
+  "english": "homemade",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm ở nhà",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm tại nhà",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nội hóa",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "made at home, rather than in a store or factory.",
+      "definitions_ex_en": "homemade apple pies",
+      "definitions_ex_vn": "bánh táo tự làm",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689304_85348aca06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689304_bed9c17af5_o.png",
+      "id_image": "homemade_2965062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689284_b28287a880_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689284_f6e549f39f_o.png",
+      "id_image": "homemade_4660867"
+    }
+  ]
+}

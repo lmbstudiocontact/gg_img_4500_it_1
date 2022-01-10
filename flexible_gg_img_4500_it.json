@@ -1,0 +1,33 @@
+{
+  "english": "flexible",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dể uốn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xếp lại",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "capable of bending easily without breaking.",
+      "definitions_ex_en": "flexible rubber seals",
+      "definitions_ex_vn": "Con dấu cao su linh hoạt",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676794_6f7782471a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676794_a24ba3bf89_o.png",
+      "id_image": "flexible_4207263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366582_3314eb0a3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366582_01b6bf5d20_o.png",
+      "id_image": "flexible_6135660"
+    }
+  ]
+}

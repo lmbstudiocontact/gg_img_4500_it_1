@@ -1,0 +1,45 @@
+{
+  "english": "electricity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điện",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a form of energy resulting from the existence of charged particles (such as electrons or protons), either statically as an accumulation of charge or dynamically as a current.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a state or feeling of thrilling excitement.",
+      "definitions_ex_en": "the atmosphere was charged with a dangerous sexual electricity",
+      "definitions_ex_vn": "Bầu không khí bị buộc tội với một điện tình dục nguy hiểm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680854_0dce4aca40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680854_62d137c15a_o.png",
+      "id_image": "electricity_4152134"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440703_b985b7d1b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440703_84c78bcc0c_o.png",
+      "id_image": "electricity_4647082"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680759_f69bba5812_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680759_8a4730128a_o.png",
+      "id_image": "electricity_5375252"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370432_2ac5fc7504_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370432_b6085d202c_o.png",
+      "id_image": "electricity_5613478"
+    }
+  ]
+}

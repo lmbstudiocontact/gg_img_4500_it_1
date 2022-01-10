@@ -1,0 +1,44 @@
+{
+  "english": "grassland",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồng cỏ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large open area of country covered with grass, especially one used for grazing.",
+      "definitions_ex_en": "rough grassland",
+      "definitions_ex_vn": "đồng cỏ thô",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679364_5bdeb45454_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679364_2928d1ef15_o.png",
+      "id_image": "grassland_1566563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061045_7176d10334_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061045_068887913c_o.png",
+      "id_image": "grassland_3075156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679309_973740e67e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679309_771b28c57e_o.png",
+      "id_image": "grassland_3722671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324051_df28a2f2af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324051_4e83cd29db_o.png",
+      "id_image": "grassland_3722677"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324011_4ba31739a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324011_ea728eef44_o.png",
+      "id_image": "grassland_4287598"
+    }
+  ]
+}

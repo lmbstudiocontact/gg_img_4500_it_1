@@ -1,0 +1,43 @@
+{
+  "english": "dentistry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nha khoa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghề chửa răng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the treatment of diseases and other conditions that affect the teeth and gums, especially the repair and extraction of teeth and the insertion of artificial ones.",
+      "definitions_ex_en": "advances in modern dentistry",
+      "definitions_ex_vn": "Những tiến bộ trong nha khoa hiện đại",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331861_6d07950625_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331861_6166a6e1ee_o.png",
+      "id_image": "dentistry_2201556"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376567_8f426f90b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376567_d8194c9ed0_o.png",
+      "id_image": "dentistry_2245642"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376517_2d4d9d7bae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376517_dc50f69ba3_o.png",
+      "id_image": "dentistry_4201535"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331726_fe34955c17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331726_f5954cbb96_o.png",
+      "id_image": "dentistry_4728465"
+    }
+  ]
+}

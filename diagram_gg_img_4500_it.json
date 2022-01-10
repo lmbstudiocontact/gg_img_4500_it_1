@@ -1,0 +1,65 @@
+{
+  "english": "diagram",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ biểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ hình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giản đồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lược đồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách vẻ nét",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chuyển động nhiệt độ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a simplified drawing showing the appearance, structure, or workings of something; a schematic representation.",
+      "definitions_ex_en": "a diagram of the living room",
+      "definitions_ex_vn": "một sơ đồ của phòng khách",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "represent (something) in graphic form.",
+      "definitions_ex_en": "the experiment is diagramed on page fourteen",
+      "definitions_ex_vn": "Thí nghiệm là sơ đồ trên trang mười bốn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324371_3d0161131c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324371_0f2c941764_o.png",
+      "id_image": "diagram_407437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439388_e89a9be0b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439388_ef1d363773_o.png",
+      "id_image": "diagram_413687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061230_8b06513253_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061230_7bb37ac53a_o.png",
+      "id_image": "diagram_675740"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061175_0aab325ff9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061175_37c468318c_o.png",
+      "id_image": "diagram_975043"
+    }
+  ]
+}

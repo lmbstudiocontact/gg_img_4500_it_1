@@ -1,0 +1,54 @@
+{
+  "english": "diamond",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kim cương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình thoi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hột xoàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lá năm rô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sân dả cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật chiếu sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật lóng lánh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a precious stone consisting of a clear and colorless crystalline form of pure carbon, the hardest naturally occurring substance.",
+      "definitions_ex_en": "a diamond ring",
+      "definitions_ex_vn": "một chiếc nhẫn kim cương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a figure with four straight sides of equal length forming two opposite acute angles and two opposite obtuse angles; a rhombus.",
+      "definitions_ex_en": "decorative diamond shapes",
+      "definitions_ex_vn": "Hình dạng kim cương trang trí",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368647_6e19e5d412_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368647_9bef09327c_o.png",
+      "id_image": "diamond_218364"
+    }
+  ]
+}

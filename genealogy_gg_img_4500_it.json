@@ -1,0 +1,28 @@
+{
+  "english": "genealogy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gia hệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "truyền hệ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a line of descent traced continuously from an ancestor.",
+      "definitions_ex_en": "combing through the birth records and genealogies",
+      "definitions_ex_vn": "chải qua hồ sơ sinh và phả hệ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381432_104ffcaec3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381432_29773aee12_o.png",
+      "id_image": "genealogy_2597677"
+    }
+  ]
+}

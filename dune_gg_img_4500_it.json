@@ -1,0 +1,34 @@
+{
+  "english": "dune",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đụn cát trên bải biển",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a mound or ridge of sand or other loose sediment formed by the wind, especially on the sea coast or in a desert.",
+      "definitions_ex_en": "a sand dune",
+      "definitions_ex_vn": "một cồn cát",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335291_ddfc265749_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335291_e322a39d69_o.png",
+      "id_image": "dune_2893041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450258_197c524dfa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450258_c26f58bc08_o.png",
+      "id_image": "dune_5088102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380282_18a0b3b0dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380282_cd321dc47d_o.png",
+      "id_image": "dune_5600786"
+    }
+  ]
+}

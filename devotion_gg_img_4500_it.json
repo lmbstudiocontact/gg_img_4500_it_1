@@ -1,0 +1,44 @@
+{
+  "english": "devotion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chân thành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kinh cầu nguyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng mộ đạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sùng đạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tín ngưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thành tâm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "love, loyalty, or enthusiasm for a person, activity, or cause.",
+      "definitions_ex_en": "his courage and devotion to duty never wavered",
+      "definitions_ex_vn": "sự can đảm và sự tận tâm của anh ta để làm nhiệm vụ không bao giờ dao động",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061900_9453131cbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061900_7b4940670d_o.png",
+      "id_image": "devotion_708648"
+    }
+  ]
+}

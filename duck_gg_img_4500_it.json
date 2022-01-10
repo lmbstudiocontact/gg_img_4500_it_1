@@ -1,0 +1,147 @@
+{
+  "english": "duck",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con vịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cúi đầu tránh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghiên đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhào lộn xuống nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phóng mình xuống nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tránh né",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vải làm buồm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vải may quần áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vải tréo go",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vịt mái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vịt trời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cúi đầu xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đẩy xuống nước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lặn xuống nước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "né đầu xuống",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a waterbird with a broad blunt bill, short legs, webbed feet, and a waddling gait.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pure white thin-shelled bivalve mollusk found off the Atlantic coasts of America.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an amphibious transport vehicle.",
+      "definitions_ex_en": "visitors can board an amphibious duck to explore the city",
+      "definitions_ex_vn": "Du khách có thể lên một con vịt đổ bộ để khám phá thành phố",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a quick lowering of the head.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a strong linen or cotton fabric, used chiefly for casual or work clothes and sails.",
+      "definitions_ex_en": "cotton duck",
+      "definitions_ex_vn": "Vịt bông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a batsman's score of zero.",
+      "definitions_ex_en": "out for a duck",
+      "definitions_ex_vn": "ra cho một con vịt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "lower the head or the body quickly to avoid a blow or so as not to be seen.",
+      "definitions_ex_en": "spectators ducked for cover",
+      "definitions_ex_vn": "khán giả vịt để che",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "plunge one's head or body underwater briefly.",
+      "definitions_ex_en": "I had to keep ducking down to get my head cool",
+      "definitions_ex_vn": "Tôi đã phải tiếp tục vịt xuống để làm mát đầu của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "refrain from playing a winning card on a particular trick for tactical reasons.",
+      "definitions_ex_en": "declarer ducked the opening spade lead",
+      "definitions_ex_vn": "Người tuyên bố vịt mở đầu mở",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691029_9e6a7eec7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691029_8615c65747_o.png",
+      "id_image": "duck_194955"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380817_2567e85f16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380817_bb9c318c0f_o.png",
+      "id_image": "duck_4146106"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335711_022ea31432_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335711_8c26388607_o.png",
+      "id_image": "duck_4359767"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380842_c519c2d664_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380842_7f3e6103ca_o.png",
+      "id_image": "duck_819101"
+    }
+  ]
+}

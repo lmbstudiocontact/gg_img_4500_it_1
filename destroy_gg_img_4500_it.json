@@ -1,0 +1,40 @@
+{
+  "english": "destroy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phá hoại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phá hủy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tàn phá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tự vận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trừ khử",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "put an end to the existence of (something) by damaging or attacking it.",
+      "definitions_ex_en": "the room had been destroyed by fire",
+      "definitions_ex_vn": "Căn phòng đã bị phá hủy bởi lửa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682869_9c315e683e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682869_c2e7a41615_o.png",
+      "id_image": "destroy_2752076"
+    }
+  ]
+}

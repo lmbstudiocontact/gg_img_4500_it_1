@@ -1,0 +1,64 @@
+{
+  "english": "edition",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hình thức tác phẩm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình thức văn chương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số xuất bản",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a particular form or version of a published text.",
+      "definitions_ex_en": "a paperback edition",
+      "definitions_ex_vn": "một phiên bản bìa mềm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the total number of copies of a book, newspaper, or other published material issued at one time.",
+      "definitions_ex_en": "variations occurred after some of the edition had already been published",
+      "definitions_ex_vn": "Biến thể xảy ra sau khi một số phiên bản đã được xuất bản",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a particular version or instance of a regular program or broadcast.",
+      "definitions_ex_en": "the Monday edition will be repeated on Wednesday afternoons",
+      "definitions_ex_vn": "Phiên bản thứ hai sẽ được lặp lại vào buổi chiều thứ Tư",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444683_1d2416e167_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444683_4f6a6beb5f_o.png",
+      "id_image": "edition_1296693"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329696_c09c09c8e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329696_27a748c3ac_o.png",
+      "id_image": "edition_1296697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684619_83e9b1f8e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684619_df2c05084d_o.png",
+      "id_image": "edition_3056454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066395_696336ef6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066395_c151a64545_o.png",
+      "id_image": "edition_3767273"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444548_31090f724a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444548_88d8cd1644_o.png",
+      "id_image": "edition_4053285"
+    }
+  ]
+}

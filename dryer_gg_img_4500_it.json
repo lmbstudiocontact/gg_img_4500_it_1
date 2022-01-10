@@ -1,0 +1,66 @@
+{
+  "english": "dryer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chất dầu làm khô sơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy làm khô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy sấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy sấy khô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người làm khô",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a machine or device for drying something, especially the hair or laundry.",
+      "definitions_ex_en": "putting their sweaters in the big dryer",
+      "definitions_ex_vn": "Đưa áo len của họ vào máy sấy lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a substance mixed with oil paint or ink to promote drying.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450948_f616c0cd4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450948_43e276e256_o.png",
+      "id_image": "dryer_2236851"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381007_cbffa0d7ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381007_3926fcbe64_o.png",
+      "id_image": "dryer_2371178"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450888_89153f5359_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450888_f5b278a196_o.png",
+      "id_image": "dryer_4312233"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336051_225ee4941a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336051_61d8196ecc_o.png",
+      "id_image": "dryer_447204"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335871_d05f866090_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335871_2a1a60c9bf_o.png",
+      "id_image": "dryer_4636695"
+    }
+  ]
+}

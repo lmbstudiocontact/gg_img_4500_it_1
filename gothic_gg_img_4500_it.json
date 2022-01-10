@@ -1,0 +1,106 @@
+{
+  "english": "gothic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dân tộc Gô tích",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giống người Gô tích",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kiến trúc Gô tích",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngôn ngữ Gô tích",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nguồn gốc Gô tích",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kiểu Gothic",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the Goths or their extinct East Germanic language, which provides the earliest manuscript evidence of any Germanic language (4th–6th centuries AD).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of or in the style of architecture prevalent in western Europe in the 12th–16th centuries, characterized by pointed arches, rib vaults, and flying buttresses, together with large windows and elaborate tracery.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "belonging to or redolent of the Dark Ages; portentously gloomy or horrifying.",
+      "definitions_ex_en": "19th-century Gothic horror",
+      "definitions_ex_vn": "Kinh dị gothic thế kỷ 19",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of lettering) of or derived from the angular style of handwriting with broad vertical downstrokes used in western Europe from the 13th century, including Fraktur and black-letter typefaces.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to goths or their rock music.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the language of the Goths.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the Gothic style of architecture.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "Gothic type.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064640_1f8e474dc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064640_cbc7ea19b7_o.png",
+      "id_image": "gothic_1343021"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372657_ee8056ce48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372657_4b6c3c995b_o.png",
+      "id_image": "gothic_1343046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064565_95f124cc33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064565_784ba6c1a8_o.png",
+      "id_image": "gothic_1881127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327836_4d249a97df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327836_d43a6c774f_o.png",
+      "id_image": "gothic_6312606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328001_7621dca0c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328001_a0fb27a343_o.png",
+      "id_image": "gothic_773382"
+    }
+  ]
+}

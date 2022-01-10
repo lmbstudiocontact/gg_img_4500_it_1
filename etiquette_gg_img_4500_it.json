@@ -1,0 +1,43 @@
+{
+  "english": "etiquette",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghi lể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phép lịch sự",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the customary code of polite behavior in society or among members of a particular profession or group.",
+      "definitions_ex_en": "the rules of etiquette are changing",
+      "definitions_ex_vn": "Các quy tắc của nghi thức đang thay đổi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314386_7d9803bba0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314386_a64c5a1b01_o.png",
+      "id_image": "etiquette_4813556"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669044_7cd1b7b93d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669044_aef720faf4_o.png",
+      "id_image": "etiquette_4827226"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429228_4210a5539a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429228_cf32082635_o.png",
+      "id_image": "etiquette_4994660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429183_0e4dd9d67b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429183_50708df9ee_o.png",
+      "id_image": "etiquette_5074095"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "english": "find",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự khám phá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tìm thấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khám phá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận thấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm kiếm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm thấy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "discover or perceive by chance or unexpectedly.",
+      "definitions_ex_en": "Lindsey looked up to find Neil watching her",
+      "definitions_ex_vn": "Lindsey nhìn lên để tìm Neil xem cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "recognize or discover (something) to be present.",
+      "definitions_ex_en": "vitamin B12 is found in dairy products",
+      "definitions_ex_vn": "Vitamin B12 được tìm thấy trong các sản phẩm sữa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a thing) reach or arrive at, either of its own accord or without the human agent being known.",
+      "definitions_ex_en": "water finds its own level",
+      "definitions_ex_vn": "Nước tìm cấp độ riêng của nó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a discovery of something valuable, typically something of archaeological interest.",
+      "definitions_ex_en": "he made his most spectacular finds in the Valley of the Kings",
+      "definitions_ex_vn": "Anh ấy đã tìm thấy những phát hiện ngoạn mục nhất của mình trong thung lũng của các vị vua",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682974_869aaa1c02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682974_d08b11b899_o.png",
+      "id_image": "find_1397164"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442883_2ca99bf0f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442883_b7307feb28_o.png",
+      "id_image": "find_2247930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372547_00b32de864_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372547_334ebf703a_o.png",
+      "id_image": "find_5059364"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327791_03565df75c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327791_ebb225683e_o.png",
+      "id_image": "find_5059378"
+    }
+  ]
+}

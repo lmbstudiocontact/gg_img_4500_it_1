@@ -1,0 +1,34 @@
+{
+  "english": "dowel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chốt của lề cửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ghép lại bằng chốt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a peg of wood, metal, or plastic without a distinct head, used for holding together components of a structure.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fasten with a dowel or dowels.",
+      "definitions_ex_en": "the pivot bearings are doweled into the face of the limb butts",
+      "definitions_ex_vn": "Vòng bi trục được đập vào mặt của các butts chi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422908_522ac582ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422908_fc76685726_o.png",
+      "id_image": "dowel_3275875"
+    }
+  ]
+}

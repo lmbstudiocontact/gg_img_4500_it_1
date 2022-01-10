@@ -1,0 +1,64 @@
+{
+  "english": "future",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tương lai",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sẽ tới",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về ngày sau",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the time or a period of time following the moment of speaking or writing; time regarded as still to come.",
+      "definitions_ex_en": "we plan on getting married in the near future",
+      "definitions_ex_vn": "Chúng tôi có kế hoạch kết hôn trong tương lai gần",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for futures contract.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "at a later time; going or likely to happen or exist.",
+      "definitions_ex_en": "the needs of future generations",
+      "definitions_ex_vn": "nhu cầu của các thế hệ tương lai",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385832_ce5f89abcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385832_d440aa8b41_o.png",
+      "id_image": "future_1900204"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696129_8563e916d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696129_2908421610_o.png",
+      "id_image": "future_4072740"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078150_84a225c4dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078150_1d538b0813_o.png",
+      "id_image": "future_4310272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385727_f198cd9af6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385727_65d2e5b991_o.png",
+      "id_image": "future_4412693"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385687_0cbc1acb3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385687_d94185f7d8_o.png",
+      "id_image": "future_4901060"
+    }
+  ]
+}

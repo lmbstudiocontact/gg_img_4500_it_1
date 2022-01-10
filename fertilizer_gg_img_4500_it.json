@@ -1,0 +1,51 @@
+{
+  "english": "fertilizer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đất màu mở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "động vật thụ thai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phân bón",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thụ tinh của thực vật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a chemical or natural substance added to soil or land to increase its fertility.",
+      "definitions_ex_en": "a nitrogenous fertilizer",
+      "definitions_ex_vn": "một phân bón nitơ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446563_d9f8bd2fa2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446563_79474cff1a_o.png",
+      "id_image": "fertilizer_3526896"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068245_35ef096a11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068245_0d13cc7848_o.png",
+      "id_image": "fertilizer_4525256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331456_497ff54a56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331456_aba15eb53a_o.png",
+      "id_image": "fertilizer_5011039"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686444_9e4b20a08c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686444_13076dd152_o.png",
+      "id_image": "fertilizer_5264906"
+    }
+  ]
+}

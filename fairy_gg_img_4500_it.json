@@ -1,0 +1,63 @@
+{
+  "english": "fairy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuyện khó tin",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyện không có sự thật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyện nói láo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hoang đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nàng tiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nói láo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nói dốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tưởng tượng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small imaginary being of human form that has magical powers, especially a female one.",
+      "definitions_ex_en": "she believed she had had fairies at the bottom of her garden",
+      "definitions_ex_vn": "Cô tin rằng mình đã có những nàng tiên ở dưới cùng của khu vườn của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "belonging to, resembling, or associated with fairies.",
+      "definitions_ex_en": "fairy gold",
+      "definitions_ex_vn": "Vàng cổ tích",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382312_d4709e6bba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382312_5e62b301d9_o.png",
+      "id_image": "fairy_2210053"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692579_a8dd6df6c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692579_3f4d837ccc_o.png",
+      "id_image": "fairy_2332701"
+    }
+  ]
+}

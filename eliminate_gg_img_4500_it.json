@@ -1,0 +1,68 @@
+{
+  "english": "eliminate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài tiết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khử",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "loại ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tránh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trử ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "completely remove or get rid of (something).",
+      "definitions_ex_en": "a policy that would eliminate inflation",
+      "definitions_ex_vn": "một chính sách sẽ loại bỏ lạm phát",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439108_68cb1b6efe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439108_7a09584b61_o.png",
+      "id_image": "eliminate_2473216"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324006_c0526202f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324006_e59d0802dc_o.png",
+      "id_image": "eliminate_3154684"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368887_cebeffbb55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368887_d7f26efeae_o.png",
+      "id_image": "eliminate_3154709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060860_55b978d974_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060860_3a04183525_o.png",
+      "id_image": "eliminate_3734026"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060790_246ba00591_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060790_db4376556d_o.png",
+      "id_image": "eliminate_4234393"
+    }
+  ]
+}

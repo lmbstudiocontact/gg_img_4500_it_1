@@ -1,0 +1,97 @@
+{
+  "english": "glance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái đụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chớp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đụng chạm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đụng lệch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhìn thoáng qua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "liếc qua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chớp sáng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi lệch một bên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liếc vật gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lóe sáng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát ánh sáng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tia sẹt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "take a brief or hurried look.",
+      "definitions_ex_en": "Ginny glanced at her watch",
+      "definitions_ex_vn": "Ginny liếc nhìn đồng hồ của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hit something at an angle and bounce off obliquely.",
+      "definitions_ex_en": "the stone glanced off a crag and hit Tom on the head",
+      "definitions_ex_vn": "Đá liếc ra khỏi một cái vỏ và đánh tom trên đầu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a brief or hurried look.",
+      "definitions_ex_en": "I stole a glance at John",
+      "definitions_ex_vn": "Tôi đã đánh cắp một cái nhìn thoáng qua tại John",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a flash or gleam of light.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a shiny sulfide ore of lead, copper, or other metal.",
+      "definitions_ex_en": "lead glance",
+      "definitions_ex_vn": "nhìn thoáng qua.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331906_e7f68fb74d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331906_8dd43020e4_o.png",
+      "id_image": "glance_3508378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686874_f1e8568e0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686874_f6149995cd_o.png",
+      "id_image": "glance_3508384"
+    }
+  ]
+}

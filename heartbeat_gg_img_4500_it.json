@@ -1,0 +1,47 @@
+{
+  "english": "heartbeat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đập của trái tim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng đập của trái tim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trái tim đập",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the pulsation of the heart.",
+      "definitions_ex_en": "his heartbeat quickened as Rose approached",
+      "definitions_ex_vn": "Heartbeat của anh ấy nhanh chóng khi tăng lên đến gần",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078025_61e440a096_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078025_71289a1955_o.png",
+      "id_image": "heartbeat_1142131"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385617_ab74fc5964_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385617_f22359caae_o.png",
+      "id_image": "heartbeat_2738839"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340591_974b404ea4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340591_d1b1747554_o.png",
+      "id_image": "heartbeat_5024885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340721_e8ab8822f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340721_71d9109aa9_o.png",
+      "id_image": "heartbeat_813601"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "english": "formula",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "công thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thể thức",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a mathematical relationship or rule expressed in symbols.",
+      "definitions_ex_en": "the formula for the capacitance of a spherical capacitor",
+      "definitions_ex_vn": "công thức cho điện dung của một tụ điện hình cầu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a list of ingredients for or constituents of something.",
+      "definitions_ex_en": "the soft drink company closely guards its secret formula",
+      "definitions_ex_vn": "Công ty nước giải khát bảo vệ chặt chẽ công thức bí mật của nó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a method, statement, or procedure for achieving something, especially reconciling different aims or positions.",
+      "definitions_ex_en": "the forlorn hope of finding a peace formula",
+      "definitions_ex_vn": "Hy vọng của việc tìm kiếm một công thức hòa bình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fixed form of words, especially one used in particular contexts or as a conventional usage.",
+      "definitions_ex_en": "a legal formula",
+      "definitions_ex_vn": "một công thức pháp lý.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(usually followed by a number) a classification of race car, especially by engine capacity.",
+      "definitions_ex_en": "formula two",
+      "definitions_ex_vn": "Công thức hai.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429528_fb3606bbb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429528_6503e6d6b9_o.png",
+      "id_image": "formula_1702303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669269_59a5ebc8be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669269_6ae24e03da_o.png",
+      "id_image": "formula_3830342"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051220_527ffaf0c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051220_4c97b08641_o.png",
+      "id_image": "formula_407418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358777_a19c8cae0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358777_08059fa611_o.png",
+      "id_image": "formula_843193"
+    }
+  ]
+}

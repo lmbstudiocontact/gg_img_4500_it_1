@@ -1,0 +1,45 @@
+{
+  "english": "graffiti",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hình vẽ trên tường",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "writing or drawings scribbled, scratched, or sprayed illicitly on a wall or other surface in a public place.",
+      "definitions_ex_en": "the walls were covered with graffiti",
+      "definitions_ex_vn": "Các bức tường được bao phủ bởi graffiti",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "write or draw graffiti on (something).",
+      "definitions_ex_en": "he and another artist graffitied an entire train",
+      "definitions_ex_vn": "Anh và một nghệ sĩ khác graffitied toàn bộ một chuyến tàu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441088_b3543b5b46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441088_7cefa0ed5b_o.png",
+      "id_image": "graffiti_2722287"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326091_25bef5f017_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326091_4d03250059_o.png",
+      "id_image": "graffiti_2834037"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681134_2c7f79dfcb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681134_9f3c504c14_o.png",
+      "id_image": "graffiti_4636996"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440933_0f9f90a6f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440933_219f31caaa_o.png",
+      "id_image": "graffiti_4831969"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "english": "digger",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ phận máy đào đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người da đỏ ở mỹ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đào đất tìm vàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người xới",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person, animal, or large machine that digs earth.",
+      "definitions_ex_en": "a grave-digger",
+      "definitions_ex_vn": "một bộ đào mộ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366757_9094f6dec2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366757_caa2fba8ce_o.png",
+      "id_image": "digger_123927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676799_87a6b70582_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676799_9612b28674_o.png",
+      "id_image": "digger_2372067"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321791_5a6e3ff971_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321791_88a9db5c0e_o.png",
+      "id_image": "digger_499252"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366662_346034ae81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366662_fa897fbe8a_o.png",
+      "id_image": "digger_605660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366577_04dfc9243f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366577_a124e1ecde_o.png",
+      "id_image": "digger_6141616"
+    }
+  ]
+}

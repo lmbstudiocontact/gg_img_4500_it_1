@@ -1,0 +1,40 @@
+{
+  "english": "dispersion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "di tản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ly tán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tan sắc của ánh sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tản mác khắp nơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tìng trạng phân tán",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of distributing things or people over a wide area.",
+      "definitions_ex_en": "some seeds rely on birds for dispersion",
+      "definitions_ex_vn": "Một số hạt giống dựa vào chim để phân tán",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315476_6e22cefc09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315476_d9c729e90a_o.png",
+      "id_image": "dispersion_4542628"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "english": "foil",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dấu thú chạy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gươm cùn bịt đầu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "prevent (something considered wrong or undesirable) from succeeding.",
+      "definitions_ex_en": "a brave policewoman foiled the armed robbery",
+      "definitions_ex_vn": "một nữ cảnh sát dũng cảm làm hài lòng vụ cướp có vũ trang",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the track or scent of a hunted animal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a setback in an enterprise; a defeat.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "metal hammered or rolled into a thin flexible sheet, used chiefly for covering or wrapping food.",
+      "definitions_ex_en": "aluminum foil",
+      "definitions_ex_vn": "giấy nhôm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or thing that contrasts with and so emphasizes and enhances the qualities of another.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a leaf-shaped curve formed by the cusping of an arch or circle, typically occurring in groups of three or more in Gothic tracery.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a light fencing sword without cutting edges but with a button on its point.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of the winglike structures fitted to a hydrofoil's hull to lift it clear of the water at speed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054610_39be0ddf13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054610_422e46a92a_o.png",
+      "id_image": "foil_239248"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317986_7e593be906_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317986_83dc04acc7_o.png",
+      "id_image": "foil_4802431"
+    }
+  ]
+}

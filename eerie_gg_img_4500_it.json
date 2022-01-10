@@ -1,0 +1,32 @@
+{
+  "english": "eerie",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lạ lùng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhút nhát",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phi thường",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "strange and frightening.",
+      "definitions_ex_en": "an eerie green glow in the sky",
+      "definitions_ex_vn": "Một ánh sáng xanh lục dị ánh sáng trên bầu trời",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373402_cf59d25f60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373402_b8122e560f_o.png",
+      "id_image": "eerie_4893515"
+    }
+  ]
+}

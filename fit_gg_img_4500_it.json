@@ -1,0 +1,148 @@
+{
+  "english": "fit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có thể",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đủ tư cách",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mạnh khỏe",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sẳn sàng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tốt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vừa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vừa vặn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bất tỉnh nhân sự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cơn bộc phát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cơn giận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho đúng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm cho vừa vặn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngất đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thích hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thích nghi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho vừa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phù hợp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắm sửa trang bị",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thích hợp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of a suitable quality, standard, or type to meet the required purpose.",
+      "definitions_ex_en": "the meat is fit for human consumption",
+      "definitions_ex_vn": "Thịt phù hợp với tiêu dùng của con người",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "in good health, especially because of regular physical exercise.",
+      "definitions_ex_en": "the measures would ensure a leaner, fitter company",
+      "definitions_ex_vn": "Các biện pháp sẽ đảm bảo một công ty gầy hơn, Fitter",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "be of the right shape and size for.",
+      "definitions_ex_en": "those jeans still fit me",
+      "definitions_ex_vn": "Những chiếc quần jean vẫn phù hợp với tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fix or put (something) into place.",
+      "definitions_ex_en": "they fitted smoke alarms to their home",
+      "definitions_ex_vn": "họ đã trang bị báo động khói vào nhà của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be in agreement or harmony with; match.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the particular way in which something, especially a garment or component, fits around or into something.",
+      "definitions_ex_en": "the dress was a perfect fit",
+      "definitions_ex_vn": "Chiếc váy là một sự phù hợp hoàn hảo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sudden uncontrollable outbreak of intense emotion, laughter, coughing, or other action or activity.",
+      "definitions_ex_en": "in a fit of temper",
+      "definitions_ex_vn": "Trong một sự phù hợp của sự nóng nảy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a section of a poem.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439953_f142f28631_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439953_741f07cf21_o.png",
+      "id_image": "fit_217225"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369702_e8a1d8c14f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369702_7c8719a095_o.png",
+      "id_image": "fit_2548451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369657_07cdd19f35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369657_9f0daff8d4_o.png",
+      "id_image": "fit_2843704"
+    }
+  ]
+}

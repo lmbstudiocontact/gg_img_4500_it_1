@@ -1,0 +1,63 @@
+{
+  "english": "football",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bóng đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "môn dả cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "môn chơi banh ở mỹ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "môn túc cầu ở mỹ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a form of team game played in North America with an oval ball on a field marked out as a gridiron.",
+      "definitions_ex_en": "a football club",
+      "definitions_ex_vn": "một câu lạc bộ bóng đá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a ball used in football, either oval (as in American football) or round (as in soccer), typically made of leather or plastic and filled with compressed air.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a briefcase containing authentication codes and other items that allow the US president to authorize a nuclear strike at any time.",
+      "definitions_ex_en": "whose fingers would we prefer to have on America's nuclear football?",
+      "definitions_ex_vn": "Những ngón tay của ai sẽ muốn có bóng đá hạt nhân của nước Mỹ?",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671634_8e0f583b78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671634_e3085ff476_o.png",
+      "id_image": "football_124807"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671604_82d7951d3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671604_b0af13e1e5_o.png",
+      "id_image": "football_178127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316891_6d24d53a4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316891_aef0915973_o.png",
+      "id_image": "football_3116258"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671589_1057e7fed9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671589_0c42ed1b93_o.png",
+      "id_image": "football_684044"
+    }
+  ]
+}

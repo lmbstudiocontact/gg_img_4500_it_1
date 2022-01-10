@@ -1,0 +1,60 @@
+{
+  "english": "eruption",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cơn giận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mọc răng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nỗi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phun ra",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an act or instance of erupting.",
+      "definitions_ex_en": "the eruption of Vesuvius",
+      "definitions_ex_vn": "sự phun trào của vesuvius",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052115_e500119e3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052115_447858763a_o.png",
+      "id_image": "eruption_2333779"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430588_89c3f35704_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430588_f090177fa6_o.png",
+      "id_image": "eruption_286584"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670369_e7b0ce7fbc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670369_dc1dbc88ed_o.png",
+      "id_image": "eruption_491275"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359867_7f63324840_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359867_ed133fa6e7_o.png",
+      "id_image": "eruption_491278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430478_bbc6979480_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430478_06e64717d8_o.png",
+      "id_image": "eruption_6182996"
+    }
+  ]
+}

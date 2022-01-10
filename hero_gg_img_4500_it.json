@@ -1,0 +1,42 @@
+{
+  "english": "hero",
+  "list_translation_mean": [
+    {
+      "translate_mean": "anh hùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "anh hùng hào kiệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "anh kiệt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who is admired or idealized for courage, outstanding achievements, or noble qualities.",
+      "definitions_ex_en": "a war hero",
+      "definitions_ex_vn": "Một anh hùng chiến tranh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693479_a358cfaecb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693479_e38feb038c_o.png",
+      "id_image": "hero_1142688"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383197_b1ac2bd43e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383197_a213f8ece6_o.png",
+      "id_image": "hero_5765214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383167_97304ebd55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383167_a0ff22822b_o.png",
+      "id_image": "hero_5765523"
+    }
+  ]
+}

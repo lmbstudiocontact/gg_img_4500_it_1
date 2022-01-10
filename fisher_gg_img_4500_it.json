@@ -1,0 +1,43 @@
+{
+  "english": "fisher",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người câu cá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chài lưới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đánh cá",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who catches fish for a living or for sport.",
+      "definitions_ex_en": "he was an enthusiastic fisher and hunter",
+      "definitions_ex_vn": "Ông là một người nhiệt tình và thợ săn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large brown marten valued for its fur, found in North American woodland where it frequently preys on porcupines.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062325_53496228b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062325_d1ce7ed654_o.png",
+      "id_image": "fisher_1983223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680569_1d1a4da8ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680569_a6dc927edb_o.png",
+      "id_image": "fisher_2365039"
+    }
+  ]
+}

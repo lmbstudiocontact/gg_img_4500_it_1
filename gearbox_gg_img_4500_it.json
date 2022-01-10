@@ -1,0 +1,43 @@
+{
+  "english": "gearbox",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hộp số xe hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số của xe",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a set of gears with its casing, especially in a motor vehicle; the transmission.",
+      "definitions_ex_en": "a four-speed gearbox",
+      "definitions_ex_vn": "một hộp số bốn tốc độ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074175_cdbda46f7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074175_61fe6446ed_o.png",
+      "id_image": "gearbox_1580066"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451968_ff4f2e4793_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451968_b2a4efe655_o.png",
+      "id_image": "gearbox_2137953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337071_a494dfe132_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337071_84a2730072_o.png",
+      "id_image": "gearbox_4206111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074225_e484639d39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074225_d45c051259_o.png",
+      "id_image": "gearbox_506792"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "english": "extortion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự cưởng đoạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lạm thâu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the practice of obtaining something, especially money, through force or threats.",
+      "definitions_ex_en": "he used bribery and extortion to build himself a huge, art-stuffed mansion",
+      "definitions_ex_vn": "Ông đã sử dụng hối lộ và tống tiền để xây dựng một biệt thự khổng lồ, nhồi bông nghệ thuật",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077840_8d7c82a97e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077840_ed19695f57_o.png",
+      "id_image": "extortion_2473058"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695809_cbc26c7a35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695809_048e9e18d5_o.png",
+      "id_image": "extortion_2631554"
+    }
+  ]
+}

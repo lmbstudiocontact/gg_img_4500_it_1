@@ -1,0 +1,84 @@
+{
+  "english": "eclipse",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không có ánh sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự che khuất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "che khuất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "che lấp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm mờ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an obscuring of the light from one celestial body by the passage of another between it and the observer or between it and its source of illumination.",
+      "definitions_ex_en": "an eclipse of the sun",
+      "definitions_ex_vn": "một luc của mặt trời",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a phase during which the distinctive markings of a bird (especially a male duck) are obscured by molting of the breeding plumage.",
+      "definitions_ex_en": "eclipse plumage",
+      "definitions_ex_vn": "exlipse plumage.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a celestial body) obscure the light from or to (another celestial body).",
+      "definitions_ex_en": "as the last piece of the sun was eclipsed by the moon",
+      "definitions_ex_vn": "Khi mảnh cuối cùng của mặt trời bị lu mờ bởi mặt trăng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686804_1fda056d71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686804_fd8bc1ef4d_o.png",
+      "id_image": "eclipse_1945978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446768_974080657a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446768_764d416977_o.png",
+      "id_image": "eclipse_2204365"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686734_6b5f5454eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686734_a4406152d3_o.png",
+      "id_image": "eclipse_2254642"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331866_c54af99189_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331866_8715f217e7_o.png",
+      "id_image": "eclipse_391538"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068490_980ed86681_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068490_fd131e5d1a_o.png",
+      "id_image": "eclipse_491267"
+    }
+  ]
+}

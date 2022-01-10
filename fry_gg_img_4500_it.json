@@ -1,0 +1,80 @@
+{
+  "english": "fry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chiên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cá con",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ lòng của thú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ xào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt chiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thú vật con",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cook (food) in hot fat or oil, typically in a shallow pan.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "destroy.",
+      "definitions_ex_en": "drugs fry the brain",
+      "definitions_ex_vn": "thuốc xào não",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a meal of meat or other food cooked by frying.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "young fish, especially when newly hatched.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388077_4b9508da62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388077_cf692992fb_o.png",
+      "id_image": "fry_311776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080545_8548ba734f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080545_ca3b05822e_o.png",
+      "id_image": "fry_3690287"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698294_95f3c07bc7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698294_73d9bf3dc9_o.png",
+      "id_image": "fry_6192837"
+    }
+  ]
+}

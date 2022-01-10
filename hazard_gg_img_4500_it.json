@@ -1,0 +1,82 @@
+{
+  "english": "hazard",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc chơi đỏ đen",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh lúc lắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự may rủi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh tào cáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "liều",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liều may rủi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mạo hiểm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a danger or risk.",
+      "definitions_ex_en": "the hazards of smoking",
+      "definitions_ex_vn": "các mối nguy hiểm của việc hút thuốc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "chance; probability.",
+      "definitions_ex_en": "we can form no calculation concerning the laws of hazard",
+      "definitions_ex_vn": "Chúng ta có thể hình thành không tính toán liên quan đến luật pháp nguy hiểm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a gambling game using two dice, in which the chances are complicated by arbitrary rules.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "venture to say (something).",
+      "definitions_ex_en": "he hazarded a guess",
+      "definitions_ex_vn": "nguy hiểm một phỏng đoán",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "put (something) at risk of being lost.",
+      "definitions_ex_en": "the cargo business is too risky to hazard money on",
+      "definitions_ex_vn": "việc kinh doanh hàng hóa quá rủi ro để gây nguy hiểm cho tiền",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387987_b8eb76dacf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387987_728866f726_o.png",
+      "id_image": "hazard_2106519"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698219_7730a5413b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698219_9ae64571bd_o.png",
+      "id_image": "hazard_3922174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342996_6d7f2f707a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342996_5f78a3d48f_o.png",
+      "id_image": "hazard_5983290"
+    }
+  ]
+}

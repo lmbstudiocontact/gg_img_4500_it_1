@@ -1,0 +1,60 @@
+{
+  "english": "frost",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rét đông giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đông giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sương đọng trên cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thất bại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm mờ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phủ sương",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a deposit of small white ice crystals formed on the ground or other surfaces when the temperature falls below freezing.",
+      "definitions_ex_en": "the lanes were glistening with frost",
+      "definitions_ex_vn": "Các làn đường đang lấp lánh với sương giá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover (something) with or as if with small ice crystals; freeze.",
+      "definitions_ex_en": "each windowpane was frosted along its edges",
+      "definitions_ex_vn": "Mỗi cửa sổ bị mờ dọc theo các cạnh của nó",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388597_49f75ff8eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388597_91a2c2a208_o.png",
+      "id_image": "frost_271869"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343611_a68c67d83c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343611_d38b3035cc_o.png",
+      "id_image": "frost_6183141"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698794_a140e7cf0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698794_6fe3299cb1_o.png",
+      "id_image": "frost_6301438"
+    }
+  ]
+}

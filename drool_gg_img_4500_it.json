@@ -1,0 +1,53 @@
+{
+  "english": "drool",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuyện vô vị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chảy nước dải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói lẩn thẩn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "drop saliva uncontrollably from the mouth.",
+      "definitions_ex_en": "the baby begins to drool, then to cough",
+      "definitions_ex_vn": "Em bé bắt đầu chảy nước dãi, sau đó ho",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "saliva falling from the mouth.",
+      "definitions_ex_en": "a fine trickle of drool leaked from the corner of his mouth",
+      "definitions_ex_vn": "Một giọt nhỏ giọt nước dãi bị rò rỉ từ khóe miệng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382837_3e7d5e4532_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382837_4ac9218a93_o.png",
+      "id_image": "drool_1128912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337821_ff2055636a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337821_ecd4c3a21e_o.png",
+      "id_image": "drool_1464046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382777_f1f27640cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382777_0981d96e96_o.png",
+      "id_image": "drool_1805256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693054_5dcd4b5540_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693054_7f94a5791e_o.png",
+      "id_image": "drool_4865941"
+    }
+  ]
+}

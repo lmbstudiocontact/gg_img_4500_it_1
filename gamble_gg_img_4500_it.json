@@ -1,0 +1,52 @@
+{
+  "english": "gamble",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cờ bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đổ bác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trò chơi đỏ đen",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trò đánh bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh bạc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "play games of chance for money; bet.",
+      "definitions_ex_en": "she was fond of gambling on cards and horses",
+      "definitions_ex_vn": "Cô ấy thích đánh bạc trên thẻ và ngựa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take risky action in the hope of a desired result.",
+      "definitions_ex_en": "the British could only gamble that something would turn up",
+      "definitions_ex_vn": "Người Anh chỉ có thể đánh bạc rằng một cái gì đó sẽ bật lên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of gambling; an enterprise undertaken or attempted with a risk of loss and a chance of profit or success.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077400_e22867cca8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077400_375cc9a6cf_o.png",
+      "id_image": "gamble_1055852"
+    }
+  ]
+}

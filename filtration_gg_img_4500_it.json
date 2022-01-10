@@ -1,0 +1,38 @@
+{
+  "english": "filtration",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách lọc nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương pháp lọc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of filtering something.",
+      "definitions_ex_en": "small particles are difficult to remove without filtration",
+      "definitions_ex_vn": "Các hạt nhỏ rất khó để loại bỏ mà không cần lọc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328746_1dae2f0aeb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328746_0d3ab54eaa_o.png",
+      "id_image": "filtration_1055055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065550_cbb460b0e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065550_b0961e01fe_o.png",
+      "id_image": "filtration_1111168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328676_457d48da3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328676_5ce9a22e47_o.png",
+      "id_image": "filtration_6264996"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "estimation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự định giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kính mến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phán đoán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự qúy chuộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự yêu mến",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a rough calculation of the value, number, quantity, or extent of something.",
+      "definitions_ex_en": "estimations of protein concentrations",
+      "definitions_ex_vn": "Ước tính nồng độ protein",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358942_6310c428b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358942_56e500f22c_o.png",
+      "id_image": "estimation_3773105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314816_765b842a36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314816_f6fbe3404e_o.png",
+      "id_image": "estimation_4098189"
+    }
+  ]
+}

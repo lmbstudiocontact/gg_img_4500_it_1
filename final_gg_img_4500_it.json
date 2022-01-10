@@ -1,0 +1,67 @@
+{
+  "english": "final",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuối",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cuối cùng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lần chót",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sau chót",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sau cùng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kỳ thi ra trường",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "coming at the end of a series.",
+      "definitions_ex_en": "the final version of the report was presented",
+      "definitions_ex_vn": "Phiên bản cuối cùng của báo cáo đã được trình bày",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the last game in a sports tournament or other competition, which decides the winner of the tournament.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the principal note in a mode.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the final approach of a landing aircraft to a runway.",
+      "definitions_ex_en": "the plane piloted by Richards was on finals",
+      "definitions_ex_vn": "Máy bay được thí điểm bởi Richards là vào trận chung kết",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373287_5c012e8c8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373287_3c067feb2c_o.png",
+      "id_image": "final_2867349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328486_2d718927b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328486_86da80f11c_o.png",
+      "id_image": "final_6225061"
+    }
+  ]
+}

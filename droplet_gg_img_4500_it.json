@@ -1,0 +1,34 @@
+{
+  "english": "droplet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giọt nhỏ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a very small drop of a liquid.",
+      "definitions_ex_en": "droplets of water",
+      "definitions_ex_vn": "Những giọt nước",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452443_3969a45d01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452443_9623a37100_o.png",
+      "id_image": "droplet_282892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452388_d7569c5874_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452388_aeb1a13546_o.png",
+      "id_image": "droplet_2949679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337526_f2e52235cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337526_9cfe4cf6f4_o.png",
+      "id_image": "droplet_4745626"
+    }
+  ]
+}

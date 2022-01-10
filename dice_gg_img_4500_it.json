@@ -1,0 +1,66 @@
+{
+  "english": "dice",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hột lúc lắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh lúc lắc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kẻ vuông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gạch vuông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xắt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small cube with each side having a different number of spots on it, ranging from one to six, thrown and used in gambling and other games involving chance.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "play or gamble with dice.",
+      "definitions_ex_en": "prohibitions on all dancing and dicing",
+      "definitions_ex_vn": "Cấm vào tất cả nhảy và thái hạt lựu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cut (food or other matter) into small cubes.",
+      "definitions_ex_en": "dice the peppers",
+      "definitions_ex_vn": "Xúc xắc ớt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059985_90dd3ba95f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059985_46a4f9c9ea_o.png",
+      "id_image": "dice_1469811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059935_0ed78b7389_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059935_d96af5ffb8_o.png",
+      "id_image": "dice_2228426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060020_c18acea3ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060020_4b3b8b6bed_o.png",
+      "id_image": "dice_606002"
+    }
+  ]
+}

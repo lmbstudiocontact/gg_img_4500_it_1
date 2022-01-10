@@ -1,0 +1,48 @@
+{
+  "english": "fluid",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ chất lõng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dể dàng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dung dịch lỏng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a substance that has no fixed shape and yields easily to external pressure; a gas or (especially) a liquid.",
+      "definitions_ex_en": "we all need several glasses of fluid a day",
+      "definitions_ex_vn": "tất cả chúng ta cần vài ly chất lỏng mỗi ngày",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a substance) able to flow easily.",
+      "definitions_ex_en": "the paint is more fluid than tube watercolors",
+      "definitions_ex_vn": "Sơn có nhiều chất lỏng hơn so với màu nước ống",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319486_7efc0a726d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319486_1d77271851_o.png",
+      "id_image": "fluid_1488163"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364127_0a6e90d678_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364127_639c6c36ca_o.png",
+      "id_image": "fluid_2037143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055970_2ecb6869ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055970_f5be56bfd0_o.png",
+      "id_image": "fluid_5823400"
+    }
+  ]
+}

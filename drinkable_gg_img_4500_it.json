@@ -1,0 +1,28 @@
+{
+  "english": "drinkable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có thể uống được",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nước uống",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a liquid) fit to drink; potable.",
+      "definitions_ex_en": "a supply of drinkable water",
+      "definitions_ex_vn": "một nguồn cung cấp nước uống",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383832_7336bd4d63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383832_2770e30337_o.png",
+      "id_image": "drinkable_523346"
+    }
+  ]
+}

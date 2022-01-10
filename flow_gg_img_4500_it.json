@@ -1,0 +1,94 @@
+{
+  "english": "flow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chạy qua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chảy ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chảy tràn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chảy ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lưu thông của máu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát sanh ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a fluid, gas, or electricity) move along or out steadily and continuously in a current or stream.",
+      "definitions_ex_en": "from here the river flows north",
+      "definitions_ex_vn": "Từ đây sông chảy về phía bắc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "go from one place to another in a steady stream, typically in large numbers.",
+      "definitions_ex_en": "the firm is hoping the orders will keep flowing in",
+      "definitions_ex_vn": "Công ty đang hy vọng các đơn đặt hàng sẽ tiếp tục chảy trong",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a solid) undergo a permanent change of shape under stress, without melting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the action or fact of moving along in a steady, continuous stream.",
+      "definitions_ex_en": "the flow of water into the pond",
+      "definitions_ex_vn": "dòng nước vào ao",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a steady, continuous stream of something.",
+      "definitions_ex_en": "she eased the car into the flow of traffic",
+      "definitions_ex_vn": "Cô nới lỏng chiếc xe vào dòng chảy của giao thông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the gradual permanent deformation of a solid under stress, without melting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364852_3588b0fde9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364852_2dabdeb123_o.png",
+      "id_image": "flow_1140846"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056660_5fe4713c79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056660_3cf1560b5b_o.png",
+      "id_image": "flow_1172375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675004_1343c1ae36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675004_e8d22f14b0_o.png",
+      "id_image": "flow_4099201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319991_01ef815d8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319991_38b8e5c168_o.png",
+      "id_image": "flow_4234409"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674939_b1030ed9de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674939_a46663cdf9_o.png",
+      "id_image": "flow_5351481"
+    }
+  ]
+}

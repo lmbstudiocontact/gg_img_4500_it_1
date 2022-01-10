@@ -1,0 +1,62 @@
+{
+  "english": "dumb",
+  "list_translation_mean": [
+    {
+      "translate_mean": "câm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khờ dại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sốt cách nhựt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trì độn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm bớt kêu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "temporarily unable or unwilling to speak.",
+      "definitions_ex_en": "they stood dumb while the attacker poured out a stream of abuse",
+      "definitions_ex_vn": "Họ đứng nguội trong khi kẻ tấn công đổ ra một dòng lạm dụng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a computer terminal) able only to transmit data to or receive data from a computer; having no independent processing capability.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "make dumb or unheard; silence.",
+      "definitions_ex_en": "a splendor that dazed the mind and dumbed the tongue",
+      "definitions_ex_vn": "một sự tuyệt vời choáng váng tâm trí và câm lưỡi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335561_6ba10805d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335561_846e031e3d_o.png",
+      "id_image": "dumb_2317582"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335526_3ff66398f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335526_e74b9dd169_o.png",
+      "id_image": "dumb_6313615"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072390_103ddc887b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072390_2f13f7ff89_o.png",
+      "id_image": "dumb_6314082"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "english": "enjoy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ham",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hưởng thụ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thích thú",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thưởng thức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vui thích",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "take delight or pleasure in (an activity or occasion).",
+      "definitions_ex_en": "Joe enjoys reading Icelandic family sagas",
+      "definitions_ex_vn": "Joe thích đọc Sagas gia đình Iceland",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "possess and benefit from.",
+      "definitions_ex_en": "the security forces enjoy legal immunity from prosecution",
+      "definitions_ex_vn": "Các lực lượng an ninh được hưởng miễn dịch pháp lý từ truy tố",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434113_e23fd5f7a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434113_a348fc52f7_o.png",
+      "id_image": "enjoy_3923661"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363427_32627c38c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363427_b7e7b94578_o.png",
+      "id_image": "enjoy_5778447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055380_45f22a61f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055380_9c047fb5f6_o.png",
+      "id_image": "enjoy_5998794"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318806_c3c382c05a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318806_87e4416e0e_o.png",
+      "id_image": "enjoy_6143302"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363342_9114c3f437_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363342_f7819767d0_o.png",
+      "id_image": "enjoy_6193185"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "english": "evil",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không hay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều ác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều hại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nổi đau đớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc xấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều xấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khổ sở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ma quỉ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tin xấu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xấu",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "profoundly immoral and wicked.",
+      "definitions_ex_en": "his evil deeds",
+      "definitions_ex_vn": "hành động xấu xa của anh ấy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "profound immorality and wickedness, especially when regarded as a supernatural force.",
+      "definitions_ex_en": "the world is stalked by relentless evil",
+      "definitions_ex_vn": "Thế giới bị rình rập bởi sự xấu xa không ngừng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313301_d41afa3a3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313301_488a98bf11_o.png",
+      "id_image": "evil_2463616"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357282_cde43f1ed2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357282_0bfd7b6b9f_o.png",
+      "id_image": "evil_5252764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428058_3189e31752_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428058_6fe936a892_o.png",
+      "id_image": "evil_5252782"
+    }
+  ]
+}

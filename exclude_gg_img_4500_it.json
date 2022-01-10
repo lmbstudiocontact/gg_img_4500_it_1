@@ -1,0 +1,38 @@
+{
+  "english": "exclude",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khai trừ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trục xuất",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "deny (someone) access to or bar (someone) from a place, group, or privilege.",
+      "definitions_ex_en": "women had been excluded from many scientific societies",
+      "definitions_ex_vn": "phụ nữ đã bị loại khỏi nhiều xã hội khoa học",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667164_be13f785e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667164_d1aa49cf49_o.png",
+      "id_image": "exclude_232951"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312226_49525db63d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312226_b00b48f56a_o.png",
+      "id_image": "exclude_4559450"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356202_790fea1e51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356202_b35825e83a_o.png",
+      "id_image": "exclude_4576575"
+    }
+  ]
+}

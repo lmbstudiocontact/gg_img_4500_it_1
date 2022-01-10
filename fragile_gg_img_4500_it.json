@@ -1,0 +1,55 @@
+{
+  "english": "fragile",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dể bể",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dễ vỡ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mõng mãnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dòn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "yều ớt",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of an object) easily broken or damaged.",
+      "definitions_ex_en": "fragile items such as glass and china",
+      "definitions_ex_vn": "Các mặt hàng dễ vỡ như thủy tinh và Trung Quốc",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357387_0143094d5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357387_f626c78b10_o.png",
+      "id_image": "fragile_1949474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313411_447d7f6f2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313411_63d5dd2a31_o.png",
+      "id_image": "fragile_316621"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313381_14155f473b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313381_aab749b5dd_o.png",
+      "id_image": "fragile_423317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668159_b164cbc040_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668159_7cdd99743f_o.png",
+      "id_image": "fragile_4830657"
+    }
+  ]
+}

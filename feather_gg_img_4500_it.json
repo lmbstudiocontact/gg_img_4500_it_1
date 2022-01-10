@@ -1,0 +1,61 @@
+{
+  "english": "feather",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lông chim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngọn sóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lắp cánh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "any of the flat appendages growing from a bird's skin and forming its plumage, consisting of a partly hollow horny shaft fringed with vanes of barbs.",
+      "definitions_ex_en": "the waxwing has very bright feathers and a prominent crest",
+      "definitions_ex_vn": "Waxwing có lông rất sáng và một đỉnh nổi bật",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "rotate the blades of (a propeller) about their own axes in such a way as to lessen the air or water resistance.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "float, move, or wave like a feather.",
+      "definitions_ex_en": "the green fronds feathered against a blue sky",
+      "definitions_ex_vn": "Những con fronds xanh lông trên bầu trời xanh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of ink, lipstick, etc.) separate into tiny lines after application.",
+      "definitions_ex_en": "the ink started to feather and smudge",
+      "definitions_ex_vn": "mực bắt đầu lông và smudge",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "shorten or taper the hair by cutting or trimming.",
+      "definitions_ex_en": "my sister had her hair feathered",
+      "definitions_ex_vn": "chị tôi có lông lông",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333606_7fc0ed80aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333606_acde68565d_o.png",
+      "id_image": "feather_420279"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070465_332b6ae1b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070465_3b5a0a7ed2_o.png",
+      "id_image": "feather_5833251"
+    }
+  ]
+}

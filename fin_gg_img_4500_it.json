@@ -1,0 +1,66 @@
+{
+  "english": "fin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vảy cá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lọc nước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a flattened appendage on various parts of the body of many aquatic vertebrates and some invertebrates, including fish and cetaceans, used for propelling, steering, and balancing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "swim underwater by means of flippers.",
+      "definitions_ex_en": "I finned madly for the surface",
+      "definitions_ex_vn": "Tôi bị phạt điên cuồng lên bề mặt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "finance.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "financial.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "finish.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065500_d60f913182_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065500_44736d3d8a_o.png",
+      "id_image": "fin_1019383"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683669_a535970e10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683669_cf4067c606_o.png",
+      "id_image": "fin_2045919"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373337_dd27188856_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373337_66e2b15120_o.png",
+      "id_image": "fin_4617241"
+    }
+  ]
+}

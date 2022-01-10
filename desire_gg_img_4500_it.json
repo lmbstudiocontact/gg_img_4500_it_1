@@ -1,0 +1,72 @@
+{
+  "english": "desire",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ao ước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khao khát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng ham muốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời yêu cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ước nguyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật ao ước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khẩn cầu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mong mỏi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thỉnh cầu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a strong feeling of wanting to have something or wishing for something to happen.",
+      "definitions_ex_en": "a desire to work in the dirt with your bare hands",
+      "definitions_ex_vn": "một mong muốn làm việc trong bụi bẩn với bàn tay trần của bạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "strongly wish for or want (something).",
+      "definitions_ex_en": "he never achieved the status he so desired",
+      "definitions_ex_vn": "anh ấy không bao giờ đạt được trạng thái anh ấy mong muốn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328766_0a7dbb6e38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328766_1d5606f18e_o.png",
+      "id_image": "desire_2620345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683794_577d1dc498_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683794_95a7fb1027_o.png",
+      "id_image": "desire_6213260"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683864_d1ca53a40a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683864_f8d641629a_o.png",
+      "id_image": "desire_708674"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "english": "disaster",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tai biến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tai họa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thảm họa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sudden event, such as an accident or a natural catastrophe, that causes great damage or loss of life.",
+      "definitions_ex_en": "159 people died in the disaster",
+      "definitions_ex_vn": "159 người chết trong thảm họa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055045_d5dc3cb7b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055045_5f6063fa58_o.png",
+      "id_image": "disaster_1969091"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673264_c35bd53b46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673264_2d2d59e321_o.png",
+      "id_image": "disaster_1998538"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433623_45d0c7dce9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433623_fbafd8aef2_o.png",
+      "id_image": "disaster_2036988"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673199_934b3e5cb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673199_7e1acfc332_o.png",
+      "id_image": "disaster_4643190"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433563_ddf691aa9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433563_821a01e685_o.png",
+      "id_image": "disaster_6367406"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "english": "friendly",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thân mật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thân thiện",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thân ái",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "kind and pleasant.",
+      "definitions_ex_en": "they were friendly to me",
+      "definitions_ex_vn": "họ thân thiện với tôi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting something that is adapted for or is not harmful to a specified thing.",
+      "definitions_ex_en": "an environment-friendly agronomic practice",
+      "definitions_ex_vn": "một thực hành nông học thân thiện với môi trường",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "favorable or serviceable.",
+      "definitions_ex_en": "no one noticed her as she slipped out—it was a friendly night",
+      "definitions_ex_vn": "Không ai nhận thấy cô khi cô trượt ra, đó là một đêm thân thiện",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of troops or equipment) of, belonging to, or allied with one's own forces.",
+      "definitions_ex_en": "the risk of blowing up friendly forces is minimized",
+      "definitions_ex_vn": "Nguy cơ thổi bay các lực lượng thân thiện được giảm thiểu",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081670_083f0a80d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081670_52ed70018b_o.png",
+      "id_image": "friendly_2058239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081615_2081642e33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081615_e9fd191f7e_o.png",
+      "id_image": "friendly_6331995"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "expression",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách biểu lộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách diển tả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ép",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process of making known one's thoughts or feelings.",
+      "definitions_ex_en": "she accepted his expressions of sympathy",
+      "definitions_ex_vn": "Cô chấp nhận những biểu hiện cảm thông của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a look on someone's face that conveys a particular emotion.",
+      "definitions_ex_en": "a sad expression",
+      "definitions_ex_vn": "một biểu hiện buồn bã",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a word or phrase, especially an idiomatic one, used to convey an idea.",
+      "definitions_ex_en": "nowhere is the expression “garbage in, garbage out” any truer",
+      "definitions_ex_vn": "không nơi nào là biểu thức \"rác vào, rác\" bất kỳ người trung thực nào",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the production of something, especially by pressing or squeezing it out.",
+      "definitions_ex_en": "essential oils obtained by distillation or expression",
+      "definitions_ex_vn": "Tinh dầu thu được bằng cách chưng cất hoặc biểu hiện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the appearance in a phenotype of a characteristic or effect attributed to a particular gene.",
+      "definitions_ex_en": "expression of the TAT gene is restricted to the parenchymal cells",
+      "definitions_ex_vn": "biểu hiện của gen tat bị giới hạn trong các tế bào nhu mô",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341121_7d4e0e1d7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341121_c17ce79994_o.png",
+      "id_image": "expression_2529667"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455893_cabefd8ac1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455893_23a39cff9b_o.png",
+      "id_image": "expression_5760113"
+    }
+  ]
+}

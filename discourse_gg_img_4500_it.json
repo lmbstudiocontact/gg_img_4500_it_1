@@ -1,0 +1,46 @@
+{
+  "english": "discourse",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài diển văn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bài luận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc nói chuyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đàm luận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đàm thoại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "written or spoken communication or debate.",
+      "definitions_ex_en": "the language of political discourse",
+      "definitions_ex_vn": "ngôn ngữ của diễn ngôn chính trị",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "speak or write authoritatively about a topic.",
+      "definitions_ex_en": "she could discourse at great length on the history of Europe",
+      "definitions_ex_vn": "cô ấy có thể diễn tả với chiều dài tuyệt vời về lịch sử châu Âu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432653_4447d74cee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432653_7cbc9788d5_o.png",
+      "id_image": "discourse_1322211"
+    }
+  ]
+}

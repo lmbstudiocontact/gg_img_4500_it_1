@@ -1,0 +1,48 @@
+{
+  "english": "fun",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cười giởn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vui chơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nói chơi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "enjoyment, amusement, or lighthearted pleasure.",
+      "definitions_ex_en": "the children were having fun in the play area",
+      "definitions_ex_vn": "Những đứa trẻ đang vui chơi trong khu vui chơi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "amusing, entertaining, or enjoyable.",
+      "definitions_ex_en": "it was a fun evening",
+      "definitions_ex_vn": "Đó là một buổi tối vui vẻ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080245_3b6c3dfb29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080245_68468669eb_o.png",
+      "id_image": "fun_3248298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697999_2eb8233f2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697999_28d220df9d_o.png",
+      "id_image": "fun_4729455"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387727_10d43c2024_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387727_3b8b2efa1c_o.png",
+      "id_image": "fun_6321934"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "english": "emotional",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đa cảm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hay cảm động",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về tình cảm",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to a person's emotions.",
+      "definitions_ex_en": "children with emotional difficulties",
+      "definitions_ex_vn": "Trẻ em gặp khó khăn về mặt cảm xúc",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676499_1e1c8bac1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676499_f338b00c18_o.png",
+      "id_image": "emotional_3062465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321336_5436af0ddd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321336_93749dc025_o.png",
+      "id_image": "emotional_4412690"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366242_5ecbdb8246_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366242_e679a972b4_o.png",
+      "id_image": "emotional_5458797"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676364_896177a83a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676364_f16be31314_o.png",
+      "id_image": "emotional_6000862"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058025_0792e085a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058025_6dabd2af25_o.png",
+      "id_image": "emotional_6174492"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "goose",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngỗng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngỗng cái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngơ ngáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngu đần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đần độn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt ngỗng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large waterbird with a long neck, short legs, webbed feet, and a short broad bill. Generally geese are larger than ducks and have longer necks and shorter bills.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a foolish person.",
+      "definitions_ex_en": "“Silly goose,” he murmured fondly",
+      "definitions_ex_vn": "Ngỗng ngớ ngẩn, anh lẩm bẩm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tailor's smoothing iron.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "poke (someone) between the buttocks.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373142_0af5912b66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373142_889f83ca52_o.png",
+      "id_image": "goose_1682263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328371_661d573dbc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328371_7c0fab1e22_o.png",
+      "id_image": "goose_2683051"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373092_fc8cca6da5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373092_61d0d865c0_o.png",
+      "id_image": "goose_3056910"
+    }
+  ]
+}

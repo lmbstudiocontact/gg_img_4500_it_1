@@ -1,0 +1,39 @@
+{
+  "english": "extrovert",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngoại hướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật ở ngoài",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an outgoing, overtly expressive person.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to, denoting, or typical of an extrovert.",
+      "definitions_ex_en": "his extrovert personality made him the ideal host",
+      "definitions_ex_vn": "tính cách hướng ngoại của anh ấy làm cho anh ấy là người dẫn chương trình lý tưởng",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077045_500cd6feec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077045_37c9770877_o.png",
+      "id_image": "extrovert_1553746"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077015_3ae43b75bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077015_07de301cd3_o.png",
+      "id_image": "extrovert_3588884"
+    }
+  ]
+}

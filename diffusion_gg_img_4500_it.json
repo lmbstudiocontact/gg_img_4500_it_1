@@ -1,0 +1,36 @@
+{
+  "english": "diffusion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lôi thôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dài giòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rườm rà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự truyền tin",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the spreading of something more widely.",
+      "definitions_ex_en": "the diffusion of Duchamp’s thought and art",
+      "definitions_ex_vn": "Sự khuếch tán của suy nghĩ và nghệ thuật của Duchamp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058840_0564f8082d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058840_3d11f3dd91_o.png",
+      "id_image": "diffusion_6289197"
+    }
+  ]
+}

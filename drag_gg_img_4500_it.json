@@ -1,0 +1,200 @@
+{
+  "english": "drag",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ảnh hưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái bừa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc săn đuổi giả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây ở khí cầu thả xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ hãm bánh xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giãm bớt tốc lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lưới vét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy vớt đồ vật bị chìm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe bốn ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức chịu lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức xoay của hòn bida",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật ngăn cản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật trở ngại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bày lộn xộn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bừa đất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi kéo lê kéo lết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi một cách miển cưởng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hãm bánh xe lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kéo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vét bùn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khó xoay trở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm lúng túng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lôi kéo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pull (someone or something) along forcefully, roughly, or with difficulty.",
+      "definitions_ex_en": "we dragged the boat up the beach",
+      "definitions_ex_vn": "Chúng tôi kéo thuyền lên bãi biển",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of time, events, or activities) pass slowly and tediously.",
+      "definitions_ex_en": "the day dragged—eventually it was time for bed",
+      "definitions_ex_vn": "Ngày kéo dài - cuối cùng đã đến giờ đi ngủ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move (an icon or other image) across a computer screen using a tool such as a mouse.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "engage in a drag race.",
+      "definitions_ex_en": "they were caught dragging on Francis Lewis Blvd",
+      "definitions_ex_vn": "Họ đã bị bắt được kéo vào Francis Lewis Blvd",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the action of pulling something forcefully or with difficulty.",
+      "definitions_ex_en": "the drag of the current",
+      "definitions_ex_vn": "kéo của dòng điện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a boring or tiresome person or thing.",
+      "definitions_ex_en": "working nine to five can be a drag",
+      "definitions_ex_vn": "Làm việc chín đến năm có thể là một lực cản",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of inhaling smoke from a cigarette.",
+      "definitions_ex_en": "he took a long drag on his cigarette",
+      "definitions_ex_vn": "Anh kéo một chiếc kéo dài trên điếu thuốc của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "clothing more conventionally worn by the opposite sex, especially women's clothes worn by a man.",
+      "definitions_ex_en": "a fashion show, complete with men in drag",
+      "definitions_ex_vn": "một chương trình thời trang, hoàn thành với những người đàn ông đang kéo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a street or road.",
+      "definitions_ex_en": "the main drag",
+      "definitions_ex_vn": "Kéo chính",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing that is pulled along the ground or through water.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a strong-smelling lure drawn before hounds as a substitute for a fox or other hunted animal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one of the basic patterns (rudiments) of drumming, consisting of a stroke preceded by two grace notes, which are usually played with the other stick.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for drag race.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a private vehicle like a stagecoach, drawn by four horses.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307051_5178710213_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307051_c3e34d3219_o.png",
+      "id_image": "drag_1196456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351192_bb7b80f606_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351192_fd6a4cf576_o.png",
+      "id_image": "drag_247733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422188_7787547394_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422188_9d80c85424_o.png",
+      "id_image": "drag_4430332"
+    }
+  ]
+}

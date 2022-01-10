@@ -1,0 +1,29 @@
+{
+  "english": "geological",
+  "list_translation_mean": [
+    {
+      "translate_mean": "địa chất học",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the study of the earth's physical structure and substance.",
+      "definitions_ex_en": "a geological map of the country",
+      "definitions_ex_vn": "một bản đồ địa chất của đất nước",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380252_a36067f7bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380252_86826f10b5_o.png",
+      "id_image": "geological_6026995"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335186_d30f0d036c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335186_3e6b96be5e_o.png",
+      "id_image": "geological_6348127"
+    }
+  ]
+}

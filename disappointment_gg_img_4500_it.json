@@ -1,0 +1,41 @@
+{
+  "english": "disappointment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chán nản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nản lòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thất vọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thất hứa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "sadness or displeasure caused by the nonfulfillment of one's hopes or expectations.",
+      "definitions_ex_en": "to her disappointment, there was no chance to talk privately with Luke",
+      "definitions_ex_vn": "Để cô thất vọng, không có cơ hội nói chuyện riêng với Luke",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363127_7f2e349b23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363127_fc4de8b4f6_o.png",
+      "id_image": "disappointment_1747687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055105_e69809c576_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055105_3eede09e5d_o.png",
+      "id_image": "disappointment_1933423"
+    }
+  ]
+}

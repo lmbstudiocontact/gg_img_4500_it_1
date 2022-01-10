@@ -1,0 +1,70 @@
+{
+  "english": "diagnostic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "triệu chứng của bịnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "môn chẩn đoán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phép chẩn đoán",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "concerned with the diagnosis of illness or other problems.",
+      "definitions_ex_en": "a diagnostic tool",
+      "definitions_ex_vn": "một công cụ chẩn đoán",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "characteristic of a particular species, genus, or phenomenon.",
+      "definitions_ex_en": "the diagnostic character of having not one but two pairs of antennae",
+      "definitions_ex_vn": "đặc tính chẩn đoán không phải là một mà là hai cặp râu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a distinctive symptom or characteristic.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the practice or techniques of diagnosis.",
+      "definitions_ex_en": "advanced medical diagnostics",
+      "definitions_ex_vn": "Chẩn đoán y tế tiên tiến",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439708_9b2b18fc32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439708_3c98048c16_o.png",
+      "id_image": "diagnostic_1656962"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679799_dc7dc3385a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679799_44e85bda8b_o.png",
+      "id_image": "diagnostic_2631398"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061480_84fbdc99e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061480_751f4500d7_o.png",
+      "id_image": "diagnostic_3998071"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679714_e2b2fdf58a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679714_cc139fc8b9_o.png",
+      "id_image": "diagnostic_5154792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679874_c1aed5c16a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679874_5f4913b332_o.png",
+      "id_image": "diagnostic_670800"
+    }
+  ]
+}

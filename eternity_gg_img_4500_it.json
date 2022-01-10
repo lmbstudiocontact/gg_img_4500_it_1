@@ -1,0 +1,32 @@
+{
+  "english": "eternity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bất diệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tồn tại đời đời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vĩnh viển",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "infinite or unending time.",
+      "definitions_ex_en": "their love was sealed for eternity",
+      "definitions_ex_vn": "Tình yêu của họ đã được niêm phong mãi mãi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358892_34d31c1b91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358892_2fe7e0b266_o.png",
+      "id_image": "eternity_2196217"
+    }
+  ]
+}

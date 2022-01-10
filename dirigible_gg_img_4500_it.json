@@ -1,0 +1,49 @@
+{
+  "english": "dirigible",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều khiển",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sai khiến được",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "capable of being steered, guided, or directed.",
+      "definitions_ex_en": "a dirigible spotlight",
+      "definitions_ex_vn": "một đèn sân khấu đúng cách",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a dirigible airship, especially one with a rigid structure.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319466_0cd91d727d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319466_89a3706dda_o.png",
+      "id_image": "dirigible_2264277"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319446_2c728c616e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319446_4ddb09bea7_o.png",
+      "id_image": "dirigible_4736253"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364097_d1285c8a59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364097_59e7bd76d2_o.png",
+      "id_image": "dirigible_4985176"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434508_e2ff14dff9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434508_e4ac04e601_o.png",
+      "id_image": "dirigible_6032461"
+    }
+  ]
+}

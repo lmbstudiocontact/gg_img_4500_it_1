@@ -1,0 +1,49 @@
+{
+  "english": "follower",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bạn đồng đội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người theo hầu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an adherent or devotee of a particular person, cause, or activity.",
+      "definitions_ex_en": "a freethinker and follower of Voltaire",
+      "definitions_ex_vn": "một freethinker và follower của Voltaire",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who moves or travels behind someone or something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432703_a00e6f24fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432703_a9fdbd69d7_o.png",
+      "id_image": "follower_1168134"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054055_a79e16daed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054055_eb9b51bed8_o.png",
+      "id_image": "follower_5853742"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432623_ecc09710e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432623_a4e447dd19_o.png",
+      "id_image": "follower_6433518"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361962_de266a3073_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361962_f699600cb0_o.png",
+      "id_image": "follower_874673"
+    }
+  ]
+}

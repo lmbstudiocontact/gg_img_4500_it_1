@@ -1,0 +1,39 @@
+{
+  "english": "dustpan",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người quét dọn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a flat handheld receptacle into which dust and waste can be swept from the floor.",
+      "definitions_ex_en": "a dustpan and brush",
+      "definitions_ex_vn": "một bụi và bàn chải",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449163_7da7e48bac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449163_e05de346ae_o.png",
+      "id_image": "dustpan_2912616"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334231_613d28a111_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334231_84c83aedf2_o.png",
+      "id_image": "dustpan_578003"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449218_86895f3379_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449218_d427ec9c38_o.png",
+      "id_image": "dustpan_720886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071185_f0be55e9eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071185_28c2185b0c_o.png",
+      "id_image": "dustpan_863006"
+    }
+  ]
+}

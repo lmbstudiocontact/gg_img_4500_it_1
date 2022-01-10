@@ -1,0 +1,106 @@
+{
+  "english": "extension",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bổ sung từ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kéo dài thêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lập chứng thư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngoại diên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần nối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần phụ thuộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kéo dài thêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khuếch trương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mở rộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thêm vào",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a part that is added to something to enlarge or prolong it; a continuation.",
+      "definitions_ex_en": "the railroad's southern extension",
+      "definitions_ex_vn": "Khả năng mở rộng phía nam của đường sắt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a length of electric cord that permits the use of an appliance at some distance from a fixed socket.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an extra telephone on the same line as the main one.",
+      "definitions_ex_en": "you can listen on the extension in the bedroom",
+      "definitions_ex_vn": "Bạn có thể nghe trên phần mở rộng trong phòng ngủ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of moving a limb from a bent to a straight position.",
+      "definitions_ex_en": "seizures with sudden rigid extension of the limbs",
+      "definitions_ex_vn": "co giật với phần mở rộng cứng nhắc đột ngột của các chi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "instruction by a university or college for students who do not attend full time.",
+      "definitions_ex_en": "extension courses",
+      "definitions_ex_vn": "khóa học mở rộng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the range of a term or concept as measured by the objects that it denotes or contains, as opposed to its internal content.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the property of occupying space; spatial magnitude.",
+      "definitions_ex_en": "nature, for Descartes, was pure extension in space",
+      "definitions_ex_vn": "Thiên nhiên, đối với Descartes, là phần mở rộng thuần túy trong không gian",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078060_f4997ff27f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078060_6dc3fcf598_o.png",
+      "id_image": "extension_4370965"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385637_f9bbb79a8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385637_02de2ebaff_o.png",
+      "id_image": "extension_5613361"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455608_21db5c3a2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455608_a633f4b75a_o.png",
+      "id_image": "extension_649819"
+    }
+  ]
+}

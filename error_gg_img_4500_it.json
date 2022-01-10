@@ -1,0 +1,76 @@
+{
+  "english": "error",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều sai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lầm lỡ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lỗi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sai lạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sai lầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngộ nhận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính sai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tư tưởng lầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý kiến sai",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a mistake.",
+      "definitions_ex_en": "spelling errors",
+      "definitions_ex_vn": "Lỗi chính tả",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052335_9d3df3b10b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052335_f7585f8b8c_o.png",
+      "id_image": "error_1583036"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315841_357c7f6dc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315841_5f0feac303_o.png",
+      "id_image": "error_1780882"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315816_1ac37eacec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315816_0bbcae91c4_o.png",
+      "id_image": "error_2825944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315786_dff56a6657_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315786_464d4119b8_o.png",
+      "id_image": "error_2867701"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430633_ab50905ae7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430633_e1f8758a6a_o.png",
+      "id_image": "error_2879254"
+    }
+  ]
+}

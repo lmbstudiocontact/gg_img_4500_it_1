@@ -1,0 +1,55 @@
+{
+  "english": "fever",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bịnh nóng lạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bịnh sốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sốt rét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cơn sốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho sôi nổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nóng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an abnormally high body temperature, usually accompanied by shivering, headache, and in severe instances, delirium.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "bring about a high body temperature or a state of nervous excitement in (someone).",
+      "definitions_ex_en": "a heart which sin has fevered",
+      "definitions_ex_vn": "một trái tim mà tội lỗi bị sốt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446138_0dd7b42194_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446138_093a5142b8_o.png",
+      "id_image": "fever_2328385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067885_8238f9c220_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067885_da5bd6478a_o.png",
+      "id_image": "fever_3154453"
+    }
+  ]
+}
