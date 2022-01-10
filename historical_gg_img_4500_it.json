@@ -1,0 +1,39 @@
+{
+  "english": "historical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về sử học",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of or concerning history; concerning past events.",
+      "definitions_ex_en": "the historical background to such studies",
+      "definitions_ex_vn": "Nền lịch sử của các nghiên cứu như vậy",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691594_9ee5a3a5e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691594_411103259a_o.png",
+      "id_image": "historical_3500475"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336211_e74933788f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336211_64b85ec0b1_o.png",
+      "id_image": "historical_5234329"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381157_50b8f90493_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381157_1b41cab260_o.png",
+      "id_image": "historical_5234387"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073065_c2cbc021a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073065_da85e7b85f_o.png",
+      "id_image": "historical_5234418"
+    }
+  ]
+}

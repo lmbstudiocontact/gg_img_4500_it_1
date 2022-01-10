@@ -1,0 +1,119 @@
+{
+  "english": "high",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cao",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "địa vị cao",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đứng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cao",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đầy đủ",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "mạnh",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ở trên cao",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of great vertical extent.",
+      "definitions_ex_en": "the top of a high mountain",
+      "definitions_ex_vn": "đỉnh núi cao",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "great, or greater than normal, in quantity, size, or intensity.",
+      "definitions_ex_en": "a high temperature",
+      "definitions_ex_vn": "nhiệt độ cao",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "great in rank, status, or importance.",
+      "definitions_ex_en": "financial security is high on your list of priorities",
+      "definitions_ex_vn": "Bảo mật tài chính cao trong danh sách các ưu tiên của bạn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a sound or note) having a frequency at the upper end of the auditory range.",
+      "definitions_ex_en": "a high, squeaky voice",
+      "definitions_ex_vn": "một giọng nói cao, khó chịu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "feeling euphoric, especially from the effects of drugs or alcohol.",
+      "definitions_ex_en": "some of them were already high on alcohol and Ecstasy",
+      "definitions_ex_vn": "Một số trong số họ đã cao về rượu và thuốc lắc",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "unpleasantly strong-smelling, in particular (of food) beginning to go bad.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a vowel) produced with the tongue relatively near the palate.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a high point, level, or figure.",
+      "definitions_ex_en": "commodity prices were at a rare high",
+      "definitions_ex_vn": "Giá hàng hóa ở mức cao hiếm hoi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a notably happy or successful moment.",
+      "definitions_ex_en": "the highs and lows of life",
+      "definitions_ex_vn": "mức cao và mức độ của cuộc sống",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "at or to a considerable or specified height.",
+      "definitions_ex_en": "the sculpture stood about five feet high",
+      "definitions_ex_vn": "Điêu khắc đứng cách cao khoảng năm feet",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "highly.",
+      "definitions_ex_en": "he ranked high among the pioneers of twentieth-century chemical technology",
+      "definitions_ex_vn": "Ông xếp hạng cao trong số những người tiên phong của công nghệ hóa học thế kỷ XX",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "(of a sound) at or to a high pitch.",
+      "definitions_ex_en": "my voice went high with excitement",
+      "definitions_ex_vn": "Giọng nói của tôi đã cao với sự phấn khích",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074470_dc45560344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074470_d307fe9c21_o.png",
+      "id_image": "highland_5293869"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692749_f30fd01acd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692749_feef9a056f_o.png",
+      "id_image": "high_213304"
+    }
+  ]
+}

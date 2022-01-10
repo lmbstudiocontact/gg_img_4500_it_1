@@ -1,0 +1,46 @@
+{
+  "english": "goodwill",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lòng tốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình nguyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thiện chí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trọng đãi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ưu đãi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "friendly, helpful, or cooperative feelings or attitude.",
+      "definitions_ex_en": "the plan is dependent on goodwill between the two sides",
+      "definitions_ex_vn": "Kế hoạch phụ thuộc vào thiện chí giữa hai bên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the established reputation of a business regarded as a quantifiable asset, e.g., as represented by the excess of the price paid at a takeover for a company over its fair market value.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065265_82445e7493_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065265_1af00220ec_o.png",
+      "id_image": "goodwill_1721208"
+    }
+  ]
+}

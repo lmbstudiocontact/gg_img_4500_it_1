@@ -1,0 +1,98 @@
+{
+  "english": "grace",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có duyên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dung thứ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiều diểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xá miển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vẽ dể thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vẻ duyên dáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm đẹp thêm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm vẻ vang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vinh dự",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "simple elegance or refinement of movement.",
+      "definitions_ex_en": "she moved through the water with effortless grace",
+      "definitions_ex_vn": "Cô di chuyển qua nước với ân sủng dễ dàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "courteous goodwill.",
+      "definitions_ex_en": "at least he has the grace to admit his debt to her",
+      "definitions_ex_vn": "ít nhất anh ta có ân sủng để thừa nhận nợ của mình với cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in Christian belief) the free and unmerited favor of God, as manifested in the salvation of sinners and the bestowal of blessings.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a period officially allowed for payment of a sum due or for compliance with a law or condition, especially an extended period granted as a special favor.",
+      "definitions_ex_en": "another three days' grace",
+      "definitions_ex_vn": "một ân sủng ba ngày khác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a short prayer of thanks said before or after a meal.",
+      "definitions_ex_en": "before dinner the Reverend Newman said grace",
+      "definitions_ex_vn": "Trước bữa tối, Reverend Newman nói Grace",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used as forms of description or address for a duke, duchess, or archbishop.",
+      "definitions_ex_en": "His Grace, the Duke of Atholl",
+      "definitions_ex_vn": "Ân sủng của anh ta, Công tước của Atholl",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in Greek mythology) three beautiful goddesses (Aglaia, Thalia, and Euphrosyne) believed to personify and bestow charm, grace, and beauty.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "do honor or credit to (someone or something) by one's presence.",
+      "definitions_ex_en": "she bowed out from the sport she has graced for two decades",
+      "definitions_ex_vn": "Cô ấy cúi đầu từ môn thể thao mà cô ấy đã nảy sinh trong hai thập kỷ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682329_74e1806fdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682329_965078796a_o.png",
+      "id_image": "grace_340048"
+    }
+  ]
+}

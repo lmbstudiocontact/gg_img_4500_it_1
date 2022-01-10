@@ -1,0 +1,61 @@
+{
+  "english": "gown",
+  "list_translation_mean": [
+    {
+      "translate_mean": "áo của luật sư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áo dài đàn bà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áo của quan tòa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt áo dài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mặt áo quan tòa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long dress, typically having a close-fitting bodice and a flared or flowing skirt, worn on formal occasions.",
+      "definitions_ex_en": "a silk ball gown",
+      "definitions_ex_vn": "áo choàng lụa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be dressed in a gown.",
+      "definitions_ex_en": "she was gowned in luminous silk",
+      "definitions_ex_vn": "Cô ấy đã được áo choàng trong lụa sáng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682714_746f775e69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682714_04f3ab28fb_o.png",
+      "id_image": "gown_1694767"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372252_6efc10c8b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372252_f9c7f48bb9_o.png",
+      "id_image": "gown_3124984"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327501_66de29a3c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327501_6e91597d85_o.png",
+      "id_image": "gown_4284317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372152_e1daa78511_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372152_efa3809b6a_o.png",
+      "id_image": "gown_4305246"
+    }
+  ]
+}

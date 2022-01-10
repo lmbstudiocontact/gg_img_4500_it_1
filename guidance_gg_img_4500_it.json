@@ -1,0 +1,40 @@
+{
+  "english": "guidance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự điều khiển",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "advice or information aimed at resolving a problem or difficulty, especially as given by someone in authority.",
+      "definitions_ex_en": "he looked to his father for inspiration and guidance",
+      "definitions_ex_vn": "Anh nhìn vào cha mình để lấy cảm hứng và hướng dẫn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the directing of the motion or position of something, especially a missile.",
+      "definitions_ex_en": "a surface-to-air missile guidance system",
+      "definitions_ex_vn": "một hệ thống hướng dẫn tên lửa trên không",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433568_c5abce7cea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433568_38889e149c_o.png",
+      "id_image": "guidance_2773066"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673149_2eb4f93430_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673149_4fe293abf8_o.png",
+      "id_image": "guidance_4729476"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433508_ebeffdb42d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433508_d7450e15fb_o.png",
+      "id_image": "guidance_4834030"
+    }
+  ]
+}

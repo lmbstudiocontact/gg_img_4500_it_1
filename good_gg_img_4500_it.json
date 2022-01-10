@@ -1,0 +1,124 @@
+{
+  "english": "good",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều thiện",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "được",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giỏi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hoàn tất",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hoàn hảo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không xấu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tốt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tốt đẹp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tốt lành",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tuyệt mỷ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "to be desired or approved of.",
+      "definitions_ex_en": "a good quality of life",
+      "definitions_ex_vn": "một chất lượng tốt của cuộc sống",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having the qualities required for a particular role.",
+      "definitions_ex_en": "the schools here are good",
+      "definitions_ex_vn": "Các trường học ở đây là tốt",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "possessing or displaying moral virtue.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "giving pleasure; enjoyable or satisfying.",
+      "definitions_ex_en": "the streets fill up with people looking for a good time",
+      "definitions_ex_vn": "Đường phố lấp đầy với những người đang tìm kiếm một thời gian tốt",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "thorough.",
+      "definitions_ex_en": "have a good look around",
+      "definitions_ex_vn": "có một cái nhìn tốt xung quanh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a ticket) valid.",
+      "definitions_ex_en": "the ticket is good for travel from May to September",
+      "definitions_ex_vn": "Vé tốt cho du lịch từ tháng 5 đến tháng 9",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "used in conjunction with the name of God or a related expression as an exclamation of extreme surprise or anger.",
+      "definitions_ex_en": "good heavens!",
+      "definitions_ex_vn": "thiên đàng tốt!",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "that which is morally right; righteousness.",
+      "definitions_ex_en": "a mysterious balance of good and evil",
+      "definitions_ex_vn": "một sự cân bằng bí ẩn của thiện và ác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "benefit or advantage to someone or something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "well.",
+      "definitions_ex_en": "my mother could never cook this good",
+      "definitions_ex_vn": "Mẹ tôi không bao giờ có thể nấu món ngon này",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373472_88e89e3bc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373472_12eb78c786_o.png",
+      "id_image": "good_4703279"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443658_1e942bde9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443658_fb8e9a378c_o.png",
+      "id_image": "good_6171954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328656_b7da281a10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328656_6f9a9fa496_o.png",
+      "id_image": "good_6394260"
+    }
+  ]
+}

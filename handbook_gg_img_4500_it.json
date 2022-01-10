@@ -1,0 +1,33 @@
+{
+  "english": "handbook",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sách khái luận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "toát yếu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a book giving information such as facts on a particular subject or instructions for operating a machine.",
+      "definitions_ex_en": "a handbook of poisonous plants",
+      "definitions_ex_vn": "Cẩm nang cây độc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315731_18a754423f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315731_a792302df0_o.png",
+      "id_image": "handbook_2843767"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315716_5e3c0aafd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315716_cd864dabef_o.png",
+      "id_image": "handbook_4914324"
+    }
+  ]
+}

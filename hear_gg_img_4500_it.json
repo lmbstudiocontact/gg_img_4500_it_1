@@ -1,0 +1,61 @@
+{
+  "english": "hear",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghe",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thính giác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thính tai",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thính trị",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "perceive with the ear the sound made by (someone or something).",
+      "definitions_ex_en": "behind her she could hear men's voices",
+      "definitions_ex_vn": "Đằng sau cô ấy, cô ấy có thể nghe thấy tiếng nói của đàn ông",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be told or informed of.",
+      "definitions_ex_en": "have you heard the news?",
+      "definitions_ex_vn": "Bạn đã nghe những tin tức?",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385962_5ccecda4a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385962_db01efb937_o.png",
+      "id_image": "hearing_3988150"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455753_e1fbc18449_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455753_0f3ba48788_o.png",
+      "id_image": "hearing_5759960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455728_78e2fc91e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455728_f313b7da38_o.png",
+      "id_image": "hearing_5983893"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386017_b29799932b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386017_b67b19a4fe_o.png",
+      "id_image": "hear_5827885"
+    }
+  ]
+}

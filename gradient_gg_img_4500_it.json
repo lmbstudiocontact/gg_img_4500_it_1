@@ -1,0 +1,48 @@
+{
+  "english": "gradient",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đoạn đường dài dài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường dốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuynh độ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an inclined part of a road or railway; a slope.",
+      "definitions_ex_en": "fail-safe brakes for use on steep gradients",
+      "definitions_ex_vn": "Phanh an toàn thất bại để sử dụng trên độ dốc cao",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an increase or decrease in the magnitude of a property (e.g. temperature, pressure, or concentration) observed in passing from one point or moment to another.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063555_a76f8c189c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063555_7f4e3d0f17_o.png",
+      "id_image": "gradient_1151156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441758_16603128ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441758_70ce76950f_o.png",
+      "id_image": "gradient_165010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326676_8d1147fca6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326676_202aedfcf4_o.png",
+      "id_image": "gradient_593478"
+    }
+  ]
+}

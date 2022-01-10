@@ -1,0 +1,49 @@
+{
+  "english": "happy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có phước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hạnh phúc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sung sướng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "feeling or showing pleasure or contentment.",
+      "definitions_ex_en": "Melissa came in looking happy and excited",
+      "definitions_ex_vn": "Melissa đến nhìn hạnh phúc và phấn khích",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "fortunate and convenient.",
+      "definitions_ex_en": "he had the happy knack of making people like him",
+      "definitions_ex_vn": "anh ấy đã có một sở trường hạnh phúc làm cho những người như anh ấy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "inclined to use a specified thing excessively or at random.",
+      "definitions_ex_en": "our litigation-happy society",
+      "definitions_ex_vn": "Xã hội hạnh phúc của chúng tôi",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389767_efca184d83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389767_f0f8d4051d_o.png",
+      "id_image": "happy_214239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389747_2a288a1b49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389747_819da30eaa_o.png",
+      "id_image": "happy_817745"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "english": "grow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đâm mộng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lớn lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mọc lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mọc mầm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mọc mộng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mùa màng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nẩy mầm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát sinh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a living thing) undergo natural development by increasing in size and changing physically; progress to maturity.",
+      "definitions_ex_en": "he would watch Nick grow to manhood",
+      "definitions_ex_vn": "anh ta sẽ xem Nick phát triển đến soái ca",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "become larger or greater over a period of time; increase.",
+      "definitions_ex_en": "turnover grew to more than $100,000 within three years",
+      "definitions_ex_vn": "Doanh thu tăng trưởng hơn 100.000 đô la trong vòng ba năm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "become gradually or increasingly.",
+      "definitions_ex_en": "sharing our experiences we grew braver",
+      "definitions_ex_vn": "Chia sẻ kinh nghiệm của chúng tôi Chúng tôi đã phát triển dũng cảm hơn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056275_468172a857_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056275_2422e85c08_o.png",
+      "id_image": "grow_2597685"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364407_6624e91cb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364407_e378ac4d27_o.png",
+      "id_image": "grow_428789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434793_21b4360150_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434793_f6855eafab_o.png",
+      "id_image": "grow_4760755"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434738_57ef426924_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434738_d0331f43bf_o.png",
+      "id_image": "grow_6332166"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674504_452cde5d67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674504_827173dd81_o.png",
+      "id_image": "grow_6344208"
+    }
+  ]
+}

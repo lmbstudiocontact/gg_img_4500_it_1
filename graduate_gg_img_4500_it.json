@@ -1,0 +1,90 @@
+{
+  "english": "graduate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cấp bằng cho sinh viên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người có học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tốt nghiệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chia bực thang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đậu cử nhân",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phân độ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tốt nghiệp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thêm bớt lần lần",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thi đậu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who has successfully completed a course of study or training, especially a person who has been awarded an undergraduate academic degree.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "successfully complete an academic degree, course of training, or high school.",
+      "definitions_ex_en": "I graduated from West Point in 1965",
+      "definitions_ex_vn": "Tôi tốt nghiệp từ Tây Point năm 1965",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "arrange in a series or according to a scale.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "change (something, typically color or shade) gradually or step by step.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "relating to graduate school education.",
+      "definitions_ex_en": "the graduate faculty",
+      "definitions_ex_vn": "các giảng viên sau đại học",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326601_e9523ef726_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326601_6af9c788df_o.png",
+      "id_image": "graduate_3891495"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371277_9328e6ed7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371277_95bd214f7a_o.png",
+      "id_image": "graduate_4253205"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326536_a089acb6ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326536_e7def307bf_o.png",
+      "id_image": "graduate_6286681"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "english": "gravity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nguy cơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghiêm nghị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghiêm trọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quan trọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trầm trọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vẻ nghiêm trang",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the force that attracts a body toward the center of the earth, or toward any other physical body having mass.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "extreme or alarming importance; seriousness.",
+      "definitions_ex_en": "crimes of the utmost gravity",
+      "definitions_ex_vn": "Tội ác của trọng lực tối đa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "seriousness or solemnity of manner.",
+      "definitions_ex_en": "has the poet ever spoken with greater eloquence or gravity?",
+      "definitions_ex_vn": "Nhà thơ đã bao giờ nói với hùng biện hoặc trọng lực lớn hơn chưa?",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678569_70c2b9cc50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678569_3069e3dc86_o.png",
+      "id_image": "gravity_1039057"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368322_647534e7fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368322_0326de846e_o.png",
+      "id_image": "gravity_227935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368252_ff72240acf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368252_df69fec854_o.png",
+      "id_image": "gravity_3655760"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323396_a17ba8377e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323396_c80bdedea8_o.png",
+      "id_image": "gravity_865054"
+    }
+  ]
+}

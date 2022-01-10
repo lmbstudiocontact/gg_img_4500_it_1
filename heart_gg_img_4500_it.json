@@ -1,0 +1,94 @@
+{
+  "english": "heart",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hăng hái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hết lòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hết lòng hết dạ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hết lòng làm việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng tốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ở giữa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tấm lòng vàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tận tâm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trái tim",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a hollow muscular organ that pumps the blood through the circulatory system by rhythmic contraction and dilation. In vertebrates there may be up to four chambers (as in humans), with two atria and two ventricles.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the central or innermost part of something.",
+      "definitions_ex_en": "right in the heart of the city",
+      "definitions_ex_vn": "ngay trong trung tâm của thành phố",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a conventional representation of a heart with two equal curves meeting at a point at the bottom and a cusp at the top.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the condition of agricultural land as regards fertility.",
+      "definitions_ex_en": "a well-maintained farm in good heart",
+      "definitions_ex_vn": "một trang trại được duy trì tốt trong trái tim tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "like very much; love.",
+      "definitions_ex_en": "I totally heart this song",
+      "definitions_ex_vn": "Tôi hoàn toàn trái tim bài hát này",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340886_0772af201b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340886_83407b2721_o.png",
+      "id_image": "heart_170843"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078175_e83c00772d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078175_2cac8e8ed2_o.png",
+      "id_image": "heart_241833"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385777_45fccdc0c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385777_a0c9c69e05_o.png",
+      "id_image": "heart_286504"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "english": "growth",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tăng gia",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuếch trương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mở mang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phát dục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sanh trưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lớn lêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tăng thêm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process of increasing in physical size.",
+      "definitions_ex_en": "the upward growth of plants",
+      "definitions_ex_vn": "sự phát triển tăng của thực vật",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "something that has grown or is growing.",
+      "definitions_ex_en": "a day's growth of unshaven stubble on his chin",
+      "definitions_ex_vn": "sự phát triển của một ngày của unshaven stuble trên cằm của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a vineyard or crop of grapes of a specified classification of quality, or a wine from it.",
+      "definitions_ex_en": "all growths within the legally delimited Champagne zone are classified",
+      "definitions_ex_vn": "Tất cả sự tăng trưởng trong khu vực Champagne được phân cách hợp pháp được phân loại",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674299_4a60422596_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674299_99c10835ab_o.png",
+      "id_image": "growth_164747"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319361_7eeeccd1f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319361_272f11527d_o.png",
+      "id_image": "growth_166906"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674234_bb6e842fe6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674234_598921f7d1_o.png",
+      "id_image": "growth_296927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319301_eef9661741_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319301_e23d1185a0_o.png",
+      "id_image": "growth_751819"
+    }
+  ]
+}

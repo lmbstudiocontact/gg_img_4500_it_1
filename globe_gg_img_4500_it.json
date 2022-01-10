@@ -1,0 +1,66 @@
+{
+  "english": "globe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bầu tròn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bóng đèn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "địa cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhản cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quả cầu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the earth.",
+      "definitions_ex_en": "collecting goodies from all over the globe",
+      "definitions_ex_vn": "thu thập goodies từ khắp nơi trên toàn cầu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a spherical or rounded object.",
+      "definitions_ex_en": "orange trees clipped into giant globes",
+      "definitions_ex_vn": "Cây cam bị kẹp vào quả cầu khổng lồ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "form (something) into a globe.",
+      "definitions_ex_en": "there, in miniature, the world was globed like a fruit",
+      "definitions_ex_vn": "Ở đó, trong thu nhỏ, thế giới đã được toàn cầu như một quả",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331276_9e26b5b301_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331276_eca5a449ea_o.png",
+      "id_image": "globe_1010737"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375947_c953a0635e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375947_5386bba73e_o.png",
+      "id_image": "globe_1631094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686224_33e41b25ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686224_89a2dc7117_o.png",
+      "id_image": "globe_4426594"
+    }
+  ]
+}

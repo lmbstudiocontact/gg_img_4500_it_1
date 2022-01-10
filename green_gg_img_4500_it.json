@@ -1,0 +1,149 @@
+{
+  "english": "green",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xanh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xanh tươi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngây thơ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rau tươi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cỏ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lá cây",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lục",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thật thà",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xanh màu cỏ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xanh mét",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bải cỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đậu tươi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hóa xanh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thành lục",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thành xanh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of the color between blue and yellow in the spectrum; colored like grass or emeralds.",
+      "definitions_ex_en": "the leaves are bright green",
+      "definitions_ex_vn": "Lá xanh sáng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "covered with grass, trees, or other plants.",
+      "definitions_ex_en": "proposals that would smother green fields with development",
+      "definitions_ex_vn": "các đề xuất sẽ làm mờ các lĩnh vực xanh với sự phát triển",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a plant or fruit) young or unripe.",
+      "definitions_ex_en": "green shoots",
+      "definitions_ex_vn": "chồi xanh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) inexperienced, naive, or gullible.",
+      "definitions_ex_en": "a green recruit fresh from college",
+      "definitions_ex_vn": "một lần tuyển dụng xanh từ đại học",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of the complexion or a person) pale and sickly-looking.",
+      "definitions_ex_en": "“Are you all right? You look absolutely green.”",
+      "definitions_ex_vn": "Bạn có ổn không?",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "green color or pigment.",
+      "definitions_ex_en": "major roads are marked in green",
+      "definitions_ex_vn": "Những con đường chính được đánh dấu màu xanh lá cây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece of public or common grassy land, especially in the center of a town.",
+      "definitions_ex_en": "a house overlooking the green",
+      "definitions_ex_vn": "một ngôi nhà nhìn ra màu xanh lá cây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a member or supporter of an environmentalist group or party.",
+      "definitions_ex_en": "the Greens' remarkable 15 percent vote",
+      "definitions_ex_vn": "Bầu chọn 15 phần trăm đáng chú ý của Greens",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make or become green in color.",
+      "definitions_ex_en": "the roof was greening with lichen",
+      "definitions_ex_vn": "Mái nhà đã có màu xanh với Lichen",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make less harmful or more sensitive to the environment.",
+      "definitions_ex_en": "the importance of greening this industry",
+      "definitions_ex_vn": "Tầm quan trọng của việc làm xanh của ngành công nghiệp này",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367782_d0513087e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367782_0b9c558eab_o.png",
+      "id_image": "green_1140844"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059585_be1a884e82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059585_b268d43435_o.png",
+      "id_image": "green_1631388"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322786_0e1e5ba10f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322786_bd4f8d9507_o.png",
+      "id_image": "green_3967369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437958_64d900b19e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437958_fdeee99a7b_o.png",
+      "id_image": "green_5614026"
+    }
+  ]
+}

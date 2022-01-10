@@ -1,0 +1,65 @@
+{
+  "english": "history",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lịch sử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sử học",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the study of past events, particularly in human affairs.",
+      "definitions_ex_en": "medieval European history",
+      "definitions_ex_vn": "lịch sử châu Âu thời trung cổ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the whole series of past events connected with someone or something.",
+      "definitions_ex_en": "the history of Aegean painting",
+      "definitions_ex_vn": "lịch sử của bức tranh Aegean",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a continuous, typically chronological, record of important or public events or of a particular trend or institution.",
+      "definitions_ex_en": "a history of the labor movement",
+      "definitions_ex_vn": "một lịch sử của phong trào lao động",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a record kept by a web browser of the web pages and other files it has been used to access.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451003_81d8a7b9cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451003_b580f94eb4_o.png",
+      "id_image": "history_1373354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691394_f3ec4c9258_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691394_b011e3c858_o.png",
+      "id_image": "history_169112"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691334_11de3dd40b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691334_1412330c78_o.png",
+      "id_image": "history_4650548"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691299_37d2cf3235_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691299_29faa4b7cc_o.png",
+      "id_image": "history_6258994"
+    }
+  ]
+}

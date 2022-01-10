@@ -1,0 +1,38 @@
+{
+  "english": "gloat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ham muốn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thèm muốn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thèm thuồng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "contemplate or dwell on one's own success or another's misfortune with smugness or malignant pleasure.",
+      "definitions_ex_en": "his enemies gloated over his death",
+      "definitions_ex_vn": "Kẻ thù của anh ta đã hả hê vì cái chết của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of gloating.",
+      "definitions_ex_en": "I would join her for a good gloat",
+      "definitions_ex_vn": "Tôi sẽ tham gia với cô ấy để có một hả hê tốt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331461_09d839a582_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331461_6d91b46685_o.png",
+      "id_image": "gloat_708666"
+    }
+  ]
+}

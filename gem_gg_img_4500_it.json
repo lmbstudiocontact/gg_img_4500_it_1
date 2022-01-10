@@ -1,0 +1,48 @@
+{
+  "english": "gem",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngọc bảo thạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật qúi báu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngọc chạm lõm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a precious or semiprecious stone, especially when cut and polished or engraved.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "decorate with or as with gems.",
+      "definitions_ex_en": "tiny drops of sweat gemmed his forehead",
+      "definitions_ex_vn": "Những giọt mồ hôi nhỏ xéo trán anh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "ground-effect machine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073705_b946653410_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073705_631987fdbe_o.png",
+      "id_image": "gem_4334176"
+    }
+  ]
+}

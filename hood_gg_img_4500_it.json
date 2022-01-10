@@ -1,0 +1,93 @@
+{
+  "english": "hood",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mui xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ca bô đậy máy xe hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu hiệu gắn trên áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mũ trùm đầu và cổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vải dầu che mưa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ cấp học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nắp máy xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuông nón",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nón che miệng ống khói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lợp mui xe",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trùm miếng da vào đầu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a covering for the head and neck with an opening for the face, typically forming part of a coat or sweatshirt.",
+      "definitions_ex_en": "a jacket with a detachable hood",
+      "definitions_ex_vn": "Một chiếc áo khoác có mũ trùm đầu có thể tháo rời",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing resembling a hood in shape or use.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put a hood on or over.",
+      "definitions_ex_en": "she was forced into a car, hooded, and taken to a cell",
+      "definitions_ex_vn": "Cô bị buộc vào một chiếc xe hơi, trùm đầu và đưa đến một tế bào",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "forming nouns denoting a condition or quality.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    },
+    {
+      "definitions_word_en": "forming nouns denoting a collection or group.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448143_288da580ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448143_87ef0b27be_o.png",
+      "id_image": "hood_1041636"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333031_436ca6dd46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333031_52e35120f5_o.png",
+      "id_image": "hood_2845004"
+    }
+  ]
+}

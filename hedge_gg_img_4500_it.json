@@ -1,0 +1,78 @@
+{
+  "english": "hedge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hàng rào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàng rào lính cảnh sát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm thành hàng rào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh cá ngựa cả hai bên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiếm cách thoái thoác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm hàng rào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngăn đất bằng hàng rào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rào miếng đất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm lời",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a fence or boundary formed by closely growing bushes or shrubs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "surround or bound with a hedge.",
+      "definitions_ex_en": "a garden hedged with yews",
+      "definitions_ex_vn": "Một khu vườn được bảo vệ với yews",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "limit or qualify (something) by conditions or exceptions.",
+      "definitions_ex_en": "experts usually hedge their predictions, just in case",
+      "definitions_ex_vn": "Các chuyên gia thường phòng ngừa dự đoán của họ, chỉ trong trường hợp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "protect oneself against loss on (a bet or investment) by making balancing or compensating transactions.",
+      "definitions_ex_en": "the company hedged its investment position on the futures market",
+      "definitions_ex_vn": "Công ty đã cung cấp vị trí đầu tư vào thị trường tương lai",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454573_05de75b2e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454573_72e6f91729_o.png",
+      "id_image": "hedge_2296473"
+    }
+  ]
+}

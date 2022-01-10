@@ -1,0 +1,49 @@
+{
+  "english": "gentleman",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người qúi phái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người qúi tộc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a chivalrous, courteous, or honorable man.",
+      "definitions_ex_en": "he behaved like a perfect gentleman",
+      "definitions_ex_vn": "Anh ấy cư xử như một quý ông hoàn hảo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a polite or formal way of referring to a man.",
+      "definitions_ex_en": "opposite her an old gentleman sat reading",
+      "definitions_ex_vn": "đối diện với cô một quý ông già ngồi đọc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380557_ea847be09c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380557_229b8b1637_o.png",
+      "id_image": "gentleman_2234093"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072345_d9cb3f4fdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072345_e7ea9a2efe_o.png",
+      "id_image": "gentleman_2368839"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335411_bf24429295_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335411_f370444d75_o.png",
+      "id_image": "gentleman_2896999"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335376_2ace966983_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335376_691b5f2b36_o.png",
+      "id_image": "gentleman_5020638"
+    }
+  ]
+}

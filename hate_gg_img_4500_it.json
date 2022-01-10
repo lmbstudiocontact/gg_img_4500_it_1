@@ -1,0 +1,47 @@
+{
+  "english": "hate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ghét",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ghét người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thù ghét",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "feel intense or passionate dislike for (someone).",
+      "definitions_ex_en": "the boys hate each other",
+      "definitions_ex_vn": "Các chàng trai ghét nhau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "intense or passionate dislike.",
+      "definitions_ex_en": "feelings of hate and revenge",
+      "definitions_ex_vn": "cảm giác ghét và trả thù",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343356_ffef6fb612_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343356_dc1942b9cf_o.png",
+      "id_image": "hate_6433521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698614_da50ff31da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698614_453a24efd9_o.png",
+      "id_image": "hate_708631"
+    }
+  ]
+}

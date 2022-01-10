@@ -1,0 +1,77 @@
+{
+  "english": "hinge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bản lề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "căn bản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nền móng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quan tiết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỗ nối của hai vỏ sò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khớp xương ở đầu gối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lắp bảng lề",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ráp bảng lề",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xoay quanh vật gì",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a movable joint or mechanism on which a door, gate, or lid swings as it opens and closes or which connects linked objects.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "attach or join with or as if with a hinge.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073890_5748749166_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073890_37c9e186fb_o.png",
+      "id_image": "hinge_1678142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336831_d8a6afa709_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336831_542002b4c3_o.png",
+      "id_image": "hinge_1678149"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381837_c5e8e0636c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381837_ea8b181b36_o.png",
+      "id_image": "hinge_1678218"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692059_c1eceb8d42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692059_5403a2375d_o.png",
+      "id_image": "hinge_1678224"
+    }
+  ]
+}

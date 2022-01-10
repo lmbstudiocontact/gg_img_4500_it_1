@@ -1,0 +1,70 @@
+{
+  "english": "gutter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường nước chảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máng xối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống máng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống xối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rãnh nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chảy thành rãnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đường nước chảy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gắn máng xối",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a shallow trough fixed beneath the edge of a roof for carrying off rainwater.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the blank space between facing pages of a book or between adjacent columns of type or stamps in a sheet.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a candle or flame) flicker and burn unsteadily.",
+      "definitions_ex_en": "the candles had almost guttered out",
+      "definitions_ex_vn": "Những ngọn nến gần như bị xôn xị",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "channel or furrow with something such as streams or tears.",
+      "definitions_ex_en": "my cheeks are guttered with tears",
+      "definitions_ex_vn": "Má tôi bị chảy nước mắt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432458_809f8199cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432458_eb8bcae9d3_o.png",
+      "id_image": "gutter_5613134"
+    }
+  ]
+}

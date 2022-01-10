@@ -1,0 +1,94 @@
+{
+  "english": "grab",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái chụp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái gàu xúc đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chụp lẹ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái vồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt lẹ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chụp lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cử động lẹ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi ăn trộm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vồ lấy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "grasp or seize suddenly and roughly.",
+      "definitions_ex_en": "she grabbed him by the shirt collar",
+      "definitions_ex_vn": "Cô nắm lấy cổ áo anh ta",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "attract the attention of; make an impression on.",
+      "definitions_ex_en": "how does that grab you?",
+      "definitions_ex_vn": "làm thế nào để bắt được bạn?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a quick sudden clutch or attempt to seize.",
+      "definitions_ex_en": "he made a grab at the pistol",
+      "definitions_ex_vn": "Anh ấy đã lấy một nắm tại khẩu súng lục",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mechanical device for clutching, lifting, and moving things, especially materials in bulk.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327316_494323ef93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327316_b3a4a48bcf_o.png",
+      "id_image": "grab_1196462"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682419_08f4b4446c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682419_4950167eb4_o.png",
+      "id_image": "grab_5772872"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327226_7efe3ce7fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327226_10d91e743d_o.png",
+      "id_image": "grab_5906139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682534_dca94a63bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682534_2e1a251a8a_o.png",
+      "id_image": "grab_657919"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372062_d82f30749a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372062_ef90075d98_o.png",
+      "id_image": "grab_951032"
+    }
+  ]
+}

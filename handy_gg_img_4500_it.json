@@ -1,0 +1,57 @@
+{
+  "english": "handy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dể cầm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dể dùng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dể vận dụng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khéo léo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khéo tay",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "convenient to handle or use; useful.",
+      "definitions_ex_en": "a handy desktop encyclopedia",
+      "definitions_ex_vn": "một bách khoa toàn thư máy tính để bàn tiện dụng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "close at hand.",
+      "definitions_ex_en": "keep credit cards handy",
+      "definitions_ex_vn": "Giữ thẻ tín dụng tiện dụng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "skillful.",
+      "definitions_ex_en": "he's handy with a needle",
+      "definitions_ex_vn": "Anh ấy tiện dụng với một cây kim",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460153_0a289238fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460153_6b1eaf2b46_o.png",
+      "id_image": "handy_3349640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460133_004dabf118_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460133_43a834b10c_o.png",
+      "id_image": "handy_3879792"
+    }
+  ]
+}

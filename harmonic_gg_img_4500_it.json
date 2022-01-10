@@ -1,0 +1,70 @@
+{
+  "english": "harmonic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều hòa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chính huyền tuyến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều hòa âm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường sin",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "họa âm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or characterized by musical harmony.",
+      "definitions_ex_en": "a basic four-chord harmonic sequence",
+      "definitions_ex_vn": "một chuỗi điều hòa bốn hợp âm cơ bản",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to a harmonic progression.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "using or produced by the application of a harmonic.",
+      "definitions_ex_en": "harmonic charts",
+      "definitions_ex_vn": "Biểu đồ điều hòa",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an overtone accompanying a fundamental tone at a fixed interval, produced by vibration of a string, column of air, etc. in an exact fraction of its length.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a component frequency of an oscillation or wave.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a division of the zodiacal circle by a specified number, used in the interpretation of a birth chart.",
+      "definitions_ex_en": "the fifth harmonic",
+      "definitions_ex_vn": "Harmonic thứ năm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389147_a576cd6f06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389147_87f1d50bce_o.png",
+      "id_image": "harmonic_352273"
+    }
+  ]
+}

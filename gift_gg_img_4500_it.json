@@ -1,0 +1,89 @@
+{
+  "english": "gift",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ban cho",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tặng vật gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "món quà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quà biếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thiên tài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật tặng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quà tặng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tài năng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing given willingly to someone without payment; a present.",
+      "definitions_ex_en": "a Christmas gift",
+      "definitions_ex_vn": "một món quà Giáng sinh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a natural ability or talent.",
+      "definitions_ex_en": "he has a gift for comedy",
+      "definitions_ex_vn": "Anh ấy có một món quà cho hài kịch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "gamete intrafallopian transfer, a technique for assisting conception by introducing mixed ova and sperm into a fallopian tube.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give (something) as a gift, especially formally or as a donation or bequest.",
+      "definitions_ex_en": "the company gifted 2,999 shares to a charity",
+      "definitions_ex_vn": "Công ty tặng 2.999 cổ phiếu cho một tổ chức từ thiện",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448533_d26bd110ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448533_2015b222c5_o.png",
+      "id_image": "gift_144894"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688429_3b5ac87534_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688429_15117be698_o.png",
+      "id_image": "gift_311050"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448448_593fb8f3a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448448_bf4c70d25f_o.png",
+      "id_image": "gift_388377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688384_69927a3498_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688384_28ee119c15_o.png",
+      "id_image": "gift_534701"
+    }
+  ]
+}

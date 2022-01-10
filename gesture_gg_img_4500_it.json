@@ -1,0 +1,44 @@
+{
+  "english": "gesture",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cử chỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điệu bộ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a movement of part of the body, especially a hand or the head, to express an idea or meaning.",
+      "definitions_ex_en": "Alex made a gesture of apology",
+      "definitions_ex_vn": "Alex đã gây ra một cử chỉ xin lỗi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a gesture.",
+      "definitions_ex_en": "she gestured meaningfully with the pistol",
+      "definitions_ex_vn": "Cô ra hiệu một cách có ý nghĩa với khẩu súng lục",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379082_450c76129a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379082_549e4d08d5_o.png",
+      "id_image": "gesture_4236900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071170_58a3deb967_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071170_520e7bd768_o.png",
+      "id_image": "gesture_4636215"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689214_b11cfd6868_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689214_6efd3fc886_o.png",
+      "id_image": "gesture_6246489"
+    }
+  ]
+}

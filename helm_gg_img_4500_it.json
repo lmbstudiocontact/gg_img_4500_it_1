@@ -1,0 +1,52 @@
+{
+  "english": "helm",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bánh lái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cán bánh lái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cầm lái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nón sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quản lý",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a tiller or wheel and any associated equipment for steering a ship or boat.",
+      "definitions_ex_en": "she stayed at the helm, alert for tankers",
+      "definitions_ex_vn": "Cô ở lại helm, cảnh báo cho tàu chở dầu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a helmet.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "steer (a boat or ship).",
+      "definitions_ex_en": "he helmed a sailing vessel",
+      "definitions_ex_vn": "Anh helmed một tàu thuyền",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694474_0d95156159_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694474_b0d5b47a6b_o.png",
+      "id_image": "helm_169439"
+    }
+  ]
+}

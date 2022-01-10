@@ -1,0 +1,79 @@
+{
+  "english": "guarantee",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bảo hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đứng bảo đảm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đứng bảo lảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bảo đảm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bảo kiết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bảo lảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cam đoan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đứng bảo lảnh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a formal promise or assurance (typically in writing) that certain conditions will be fulfilled, especially that a product will be repaired or replaced if not of a specified quality and durability.",
+      "definitions_ex_en": "we offer a 10-year guarantee against rusting",
+      "definitions_ex_vn": "Chúng tôi cung cấp một bảo hành 10 năm chống gỉ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a formal pledge to pay another person's debt or to perform another person's obligation in the case of default.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide a formal assurance or promise, especially that certain conditions shall be fulfilled relating to a product, service, or transaction.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434218_68d3fbc4f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434218_2e6561fcf7_o.png",
+      "id_image": "guarantee_1077883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363577_997597f68f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363577_a1448c5b0e_o.png",
+      "id_image": "guarantee_1981824"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434173_c081a728cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434173_874214b0f5_o.png",
+      "id_image": "guarantee_4829878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055505_50166dbcfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055505_3af470ce27_o.png",
+      "id_image": "guarantee_5091546"
+    }
+  ]
+}

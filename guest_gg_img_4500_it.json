@@ -1,0 +1,48 @@
+{
+  "english": "guest",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ký sinh trùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khách quen",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who is invited to visit the home of or take part in a function organized by another.",
+      "definitions_ex_en": "I have two guests coming to dinner tonight",
+      "definitions_ex_vn": "Tôi có hai vị khách đến ăn tối tối nay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "appear as a guest.",
+      "definitions_ex_en": "he guested on one of her early albums",
+      "definitions_ex_vn": "Anh ta ghé qua một trong những album đầu tiên của cô ấy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318581_1d38573fa8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318581_546f26e494_o.png",
+      "id_image": "guest_4668378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055140_82d070cc7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055140_8627bcf1fa_o.png",
+      "id_image": "guest_6413790"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318536_54b29c96bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318536_0c67e63b42_o.png",
+      "id_image": "guest_6413806"
+    }
+  ]
+}

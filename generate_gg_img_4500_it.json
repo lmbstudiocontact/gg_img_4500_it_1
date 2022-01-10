@@ -1,0 +1,32 @@
+{
+  "english": "generate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sanh ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đưa đến kết qủa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause (something, especially an emotion or situation) to arise or come about.",
+      "definitions_ex_en": "changes that are likely to generate controversy",
+      "definitions_ex_vn": "những thay đổi có khả năng tạo ra tranh cãi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336341_4de6f9241f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336341_34ef0e3865_o.png",
+      "id_image": "generate_5391609"
+    }
+  ]
+}

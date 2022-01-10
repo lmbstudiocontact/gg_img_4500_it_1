@@ -1,0 +1,56 @@
+{
+  "english": "health",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lấy lại sức",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bình phục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mạnh khỏe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức khỏe",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being free from illness or injury.",
+      "definitions_ex_en": "he was restored to health",
+      "definitions_ex_vn": "anh ấy đã được khôi phục sức khỏe",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456073_8ebdf160f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456073_b55313b2a2_o.png",
+      "id_image": "health_1168110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386207_f0edd05253_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386207_9b43637d7c_o.png",
+      "id_image": "health_1396230"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386182_6d0f9d0489_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386182_735ca5f089_o.png",
+      "id_image": "health_2233985"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455978_d1cc74d35b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455978_4bf869058b_o.png",
+      "id_image": "health_4334112"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386282_90cf2eb570_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386282_952d7f9ed4_o.png",
+      "id_image": "health_883309"
+    }
+  ]
+}

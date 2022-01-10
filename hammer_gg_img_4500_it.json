@@ -1,0 +1,102 @@
+{
+  "english": "hammer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "búa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái búa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu cần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhĩ chùy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái búa của hổ giá viên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây kích phát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xương búa ở trong tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ trích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cọ nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phê bình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quấy rầy người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đập bằng búa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a tool with a heavy metal head mounted at right angles at the end of a handle, used for jobs such as breaking things and driving in nails.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a metal ball, typically weighing 16 pounds (7.3 kg), attached to a wire for throwing in an athletic contest.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for malleus.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "hit or beat (something) with a hammer or similar object.",
+      "definitions_ex_en": "they are made by heating and hammering pieces of iron",
+      "definitions_ex_vn": "chúng được làm bằng cách sưởi ấm và búa của sắt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "attack or criticize forcefully and relentlessly.",
+      "definitions_ex_en": "he got hammered for an honest mistake",
+      "definitions_ex_vn": "Anh ta bị rèn vì một sai lầm trung thực",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315901_c26b6f2ca8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315901_eb7bf53634_o.png",
+      "id_image": "hammer_313069"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430753_0b88c5e93d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430753_e9227e011d_o.png",
+      "id_image": "hammer_939512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315871_6db2eb8173_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315871_fa881868ab_o.png",
+      "id_image": "hammer_942385"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "english": "hole",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hang thỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lỗ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lỗ hỗng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lỗ hủng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lỗ trũng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bỏ vật gì vào lỗ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đào đường hầm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đâm lủng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khoét lỗ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lủng lỗ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thú núp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để cái gì vàol lỗ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trốn trong hang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vớ thủng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xoi lỗ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a hollow place in a solid body or surface.",
+      "definitions_ex_en": "he dug out a small hole in the snow",
+      "definitions_ex_vn": "Anh đào ra một cái hố nhỏ trong tuyết",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small or unpleasant place.",
+      "definitions_ex_en": "she had wasted a whole lifetime in this hole of a town",
+      "definitions_ex_vn": "Cô đã lãng phí cả đời trong lỗ hổng này của một thị trấn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a hole or holes in.",
+      "definitions_ex_en": "a fuel tank was holed by the attack and a fire started",
+      "definitions_ex_vn": "Một bình xăng đã bị bao vây bởi cuộc tấn công và một ngọn lửa bắt đầu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hit (the ball) so that it falls into a hole.",
+      "definitions_ex_en": "alternate shots from each partner until the ball is holed",
+      "definitions_ex_vn": "Ảnh chụp xen kẽ từ mỗi đối tác cho đến khi bóng được bao bọc",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334971_6f062aa8ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334971_2f54c19abf_o.png",
+      "id_image": "hole_1098203"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450038_a68b54c52a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450038_550b22fb18_o.png",
+      "id_image": "hole_3561426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380072_f6cb46fcc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380072_734c9afde0_o.png",
+      "id_image": "hole_595781"
+    }
+  ]
+}

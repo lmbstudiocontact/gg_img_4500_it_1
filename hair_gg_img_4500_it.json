@@ -1,0 +1,67 @@
+{
+  "english": "hair",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bộ lông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chải tóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu tóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tóc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "any of the fine threadlike strands growing from the skin of humans, mammals, and some other animals.",
+      "definitions_ex_en": "coarse outer hairs overlie the thick underfur",
+      "definitions_ex_vn": "lông thô thô Ốp lưng dày đặc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "hairs collectively, especially those growing on a person's head.",
+      "definitions_ex_en": "a woman with shoulder-length fair hair",
+      "definitions_ex_vn": "Một người phụ nữ có mái tóc dài ngang vai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a very small quantity or extent.",
+      "definitions_ex_en": "his magic takes him a hair above the competition",
+      "definitions_ex_vn": "Ma thuật của anh ta đưa anh ta một sợi tóc phía trên cuộc thi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431348_edd13d553f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431348_4636b57d0a_o.png",
+      "id_image": "hair_1202529"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316436_ff8e9009b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316436_6d70642302_o.png",
+      "id_image": "hair_3125002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316416_585defdcc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316416_06b96cc15d_o.png",
+      "id_image": "hair_3511936"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671024_2d65fcf7c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671024_029942b28f_o.png",
+      "id_image": "hair_3791206"
+    }
+  ]
+}

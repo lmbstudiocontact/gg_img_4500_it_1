@@ -1,0 +1,100 @@
+{
+  "english": "grate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái rây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lò sưởi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lưới sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rá lò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "song sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "che song sắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặt lưới sắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mài ra hột",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngăn song sắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "song sắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kêu cọt kẹt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kêu kèn kẹt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kêu két két",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "reduce (something, especially food) to small shreds by rubbing it on a grater.",
+      "definitions_ex_en": "peel and roughly grate the carrots",
+      "definitions_ex_vn": "Gọt vỏ và thô lỗ cà rốt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make an unpleasant rasping sound.",
+      "definitions_ex_en": "the hinges of the door grated",
+      "definitions_ex_vn": "Bản lề của cửa được nghiền",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the recess of a fireplace or furnace.",
+      "definitions_ex_en": "a small coal fire burned in the grate",
+      "definitions_ex_vn": "một đám cháy than nhỏ bị đốt cháy trong lưới",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a grating.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323941_ea6d0c6bdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323941_ed65ae30c6_o.png",
+      "id_image": "grate_1041617"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060885_489f3da044_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060885_6df11310ab_o.png",
+      "id_image": "grate_129151"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438973_b33c3aeec6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438973_b7e4441a31_o.png",
+      "id_image": "grate_4711581"
+    }
+  ]
+}

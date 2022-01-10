@@ -1,0 +1,72 @@
+{
+  "english": "glamour",
+  "list_translation_mean": [
+    {
+      "translate_mean": "say mê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyến rũ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "say đắm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lôi cuốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mê hoặc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "duyên dáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mê hồn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mê hoặc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự hấp dẫn",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an attractive or exciting quality that makes certain people or things seem appealing.",
+      "definitions_ex_en": "the glamour of Monte Carlo",
+      "definitions_ex_vn": "Sự quyến rũ của Monte Carlo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "enchantment; magic.",
+      "definitions_ex_en": "that maiden, made by glamour out of flowers",
+      "definitions_ex_vn": "Maiden đó, được tạo ra bởi sự quyến rũ của hoa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376762_11d714e45b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376762_f5671e451e_o.png",
+      "id_image": "glamour_351838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331956_e7dd10bae5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331956_2cfaa96b5b_o.png",
+      "id_image": "glamour_422105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068615_6d07394562_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068615_d06f3ee2c5_o.png",
+      "id_image": "glamour_988447"
+    }
+  ]
+}

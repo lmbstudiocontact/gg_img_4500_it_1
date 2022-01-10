@@ -1,0 +1,86 @@
+{
+  "english": "help",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đưa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cản trở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giúp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giúp đỡ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngăn trở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dọn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đầy tớ gái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giúp đỡ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make it easier for (someone) to do something by offering one's services or resources.",
+      "definitions_ex_en": "they helped her with domestic chores",
+      "definitions_ex_vn": "Họ đã giúp cô ấy với các công việc trong nước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "serve someone with (food or drink).",
+      "definitions_ex_en": "she helped herself to a cookie",
+      "definitions_ex_vn": "Cô ấy đã giúp mình với một cookie",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cannot or could not avoid.",
+      "definitions_ex_en": "he could not help laughing",
+      "definitions_ex_vn": "anh ấy không thể giúp cười",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the action of helping someone to do something; assistance.",
+      "definitions_ex_en": "I asked for help from my neighbors",
+      "definitions_ex_vn": "Tôi yêu cầu sự giúp đỡ từ hàng xóm của tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used as an appeal for urgent assistance.",
+      "definitions_ex_en": "Help! I'm drowning!",
+      "definitions_ex_vn": "Cứu giúp!",
+      "definitions_type_word": "exclamation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384117_1785c45ec4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384117_3e9d88412f_o.png",
+      "id_image": "help_2072716"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384157_532af76cdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384157_e016f83d19_o.png",
+      "id_image": "help_258374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076360_3e7665f063_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076360_b9a0d75b42_o.png",
+      "id_image": "help_943640"
+    }
+  ]
+}

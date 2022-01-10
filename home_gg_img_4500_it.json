@@ -1,0 +1,96 @@
+{
+  "english": "home",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quê hương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỗ ở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gia đình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà cửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà riêng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the place where one lives permanently, especially as a member of a family or household.",
+      "definitions_ex_en": "I was nineteen when I left home and went to college",
+      "definitions_ex_vn": "Tôi đã mười chín tuổi khi tôi rời khỏi nhà và đi học đại học",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an institution for people needing professional care or supervision.",
+      "definitions_ex_en": "an old people's home",
+      "definitions_ex_vn": "Một ngôi nhà của một người già",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in sports) the goal or end point.",
+      "definitions_ex_en": "he was four fences from home",
+      "definitions_ex_vn": "anh ấy bốn hàng rào từ nhà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to the place where one lives.",
+      "definitions_ex_en": "I don't have your home address",
+      "definitions_ex_vn": "Tôi không có địa chỉ nhà của bạn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a sports game) played at the team's own field or court.",
+      "definitions_ex_en": "their first home game of the season",
+      "definitions_ex_vn": "Trò chơi nhà đầu tiên của họ về mùa giải",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "to or at the place where one lives.",
+      "definitions_ex_en": "what time did he get home last night?",
+      "definitions_ex_vn": "Mấy giờ anh ấy về nhà tối qua?",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "(of an animal) return by instinct to its territory after leaving it.",
+      "definitions_ex_en": "a dozen geese homing to their summer nesting grounds",
+      "definitions_ex_vn": "một tá ngự ngự ngự vào sân làm tổ mùa hè của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move or be aimed toward (a target or destination) with great accuracy.",
+      "definitions_ex_en": "more than 100 missiles were launched, homing in on radar emissions",
+      "definitions_ex_vn": "Hơn 100 tên lửa đã được ra mắt, homing vào khí thải radar",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689584_7f77006f9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689584_b8b798f5f1_o.png",
+      "id_image": "home_169108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071445_94d6ffd9bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071445_a9b739bc95_o.png",
+      "id_image": "home_437497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689504_869bae055e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689504_a5681e5fd7_o.png",
+      "id_image": "home_538235"
+    }
+  ]
+}

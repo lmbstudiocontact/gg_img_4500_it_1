@@ -1,0 +1,28 @@
+{
+  "english": "grateful",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biết ơn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dể chịu",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "feeling or showing an appreciation of kindness; thankful.",
+      "definitions_ex_en": "I'm very grateful to you for all your help",
+      "definitions_ex_vn": "Tôi rất biết ơn bạn vì tất cả sự giúp đỡ của bạn",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679069_5369702771_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679069_4dbf2342f6_o.png",
+      "id_image": "grateful_4245665"
+    }
+  ]
+}

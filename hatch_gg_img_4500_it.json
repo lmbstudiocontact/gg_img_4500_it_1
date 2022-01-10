@@ -1,0 +1,97 @@
+{
+  "english": "hatch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cửa cống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cửa nắp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một lứa ấp trứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nở trứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cửa nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thủy môn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cửa quầy tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết cưa trên vàng bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cửa sập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường gạch bóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ấp trứng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gạch đường bóng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an opening of restricted size allowing for passage from one area to another.",
+      "definitions_ex_en": "a cargo hatch",
+      "definitions_ex_vn": "một hàng hóa nở.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a newly hatched brood.",
+      "definitions_ex_en": "a hatch of mayflies",
+      "definitions_ex_vn": "một hatch của mayfly",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of an egg) open and produce a young animal.",
+      "definitions_ex_en": "eggs need to be put in a warm place to hatch",
+      "definitions_ex_vn": "trứng cần được đặt ở một nơi ấm áp để nở",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "conspire to devise (a plot or plan).",
+      "definitions_ex_en": "the little plot that you and Sylvia hatched up last night",
+      "definitions_ex_vn": "Cốt truyện nhỏ mà bạn và Sylvia nở ra đêm qua",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in fine art and technical drawing) shade (an area) with closely drawn parallel lines.",
+      "definitions_ex_en": "the unused space has been hatched with lines",
+      "definitions_ex_vn": "Không gian không sử dụng đã được nở với các dòng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343406_c78278c5ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343406_542d2a2d85_o.png",
+      "id_image": "hatch_4146128"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080885_9b55ccc098_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080885_1bf0528ddd_o.png",
+      "id_image": "hatch_505763"
+    }
+  ]
+}

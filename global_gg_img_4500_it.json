@@ -1,0 +1,43 @@
+{
+  "english": "global",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chung",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tổng quát",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the whole world; worldwide.",
+      "definitions_ex_en": "the downturn in the global economy",
+      "definitions_ex_vn": "sự suy thoái trong nền kinh tế toàn cầu",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068125_71499b5b62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068125_e3ac662ca0_o.png",
+      "id_image": "global_1781188"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686399_630af1f1fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686399_d7fc262b23_o.png",
+      "id_image": "global_2090434"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686369_c04902bfea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686369_7803a9b60c_o.png",
+      "id_image": "global_2170773"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376007_584da99052_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376007_897d541bfb_o.png",
+      "id_image": "global_2343940"
+    }
+  ]
+}

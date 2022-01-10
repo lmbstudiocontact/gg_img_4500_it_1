@@ -1,0 +1,203 @@
+{
+  "english": "ground",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ăn chắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bã cà phê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bãi đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biết chắc chắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cặn rượu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dưới đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đáy biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "căn cứ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giữ vững",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lý lẽ riêng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lý do",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nền bức tranh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bãi cỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "căn cứ vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chủ yếu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cốt yếu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hạ xuống đất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thắng lợi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thắng thế",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vườn hoa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dựa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the solid surface of the earth.",
+      "definitions_ex_en": "he lay on the ground",
+      "definitions_ex_vn": "Anh nằm trên mặt đất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an area of land or sea used for a specified purpose.",
+      "definitions_ex_en": "shore dumping can pollute fishing grounds and beaches",
+      "definitions_ex_vn": "Bãi thải bờ có thể gây ô nhiễm mặt đất và bãi biển",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an area of knowledge or subject of discussion or thought.",
+      "definitions_ex_en": "third-year courses typically cover less ground and go into more depth",
+      "definitions_ex_vn": "Các khóa học năm thứ ba thường bao gồm ít mặt đất hơn và đi sâu hơn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "factors forming a basis for action or the justification for a belief.",
+      "definitions_ex_en": "there are some grounds for optimism",
+      "definitions_ex_vn": "Có một số căn cứ để lạc quan",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a prepared surface to which paint is applied.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "solid particles, especially of ground coffee, that form a residue; sediment.",
+      "definitions_ex_en": "machines which presoak the coffee grounds produce a superior cup of coffee",
+      "definitions_ex_vn": "máy tạo chương trình mà sân cà phê tạo ra một tách cà phê cao cấp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for ground bass.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "prohibit or prevent (a pilot or an aircraft) from flying.",
+      "definitions_ex_en": "a bitter wind blew from the northeast and the bombers were grounded",
+      "definitions_ex_vn": "Một cơn gió cay đắng thổi từ phía đông bắc và các máy bay ném bom đã được nối đất",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(with reference to a ship) run or go aground.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give (something abstract) a firm theoretical or practical basis.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "place or lay (something) on the ground or hit the ground with it.",
+      "definitions_ex_en": "he was penalized two strokes for grounding his club in a bunker",
+      "definitions_ex_vn": "Anh ta bị phạt hai nét để nối đất câu lạc bộ của mình trong một hầm hầm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a batter) hit a pitched ball so that it bounces on the ground.",
+      "definitions_ex_en": "he grounded to second",
+      "definitions_ex_vn": "Anh nối đất thứ hai",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "past and past participle of grind.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "reduced to fine particles by crushing or mincing.",
+      "definitions_ex_en": "ground cumin",
+      "definitions_ex_vn": "Cumin mặt đất",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365177_a8a4d7470a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365177_2a46ace437_o.png",
+      "id_image": "ground_1772516"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365127_3a3b0c026b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365127_5300b9e45a_o.png",
+      "id_image": "ground_2526762"
+    }
+  ]
+}

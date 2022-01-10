@@ -1,0 +1,65 @@
+{
+  "english": "ghost",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ma",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hồn người chết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ma quỉ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an apparition of a dead person which is believed to appear or become manifest to the living, typically as a nebulous image.",
+      "definitions_ex_en": "the building is haunted by the ghost of a monk",
+      "definitions_ex_vn": "Tòa nhà bị ma ám bởi con ma của một nhà sư",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "act as ghostwriter of (a work).",
+      "definitions_ex_en": "his memoirs were smoothly ghosted by a journalist",
+      "definitions_ex_vn": "hồi ký của ông đã được một nhà báo một cách trơn tru",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "glide smoothly and effortlessly.",
+      "definitions_ex_en": "they ghosted up the river",
+      "definitions_ex_vn": "Họ bóng lên sông",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "end a personal relationship with (someone) by suddenly and without explanation withdrawing from all communication.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070660_ba77044725_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070660_d2679d079b_o.png",
+      "id_image": "ghost_1495936"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448833_5c2af27a68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448833_02de275682_o.png",
+      "id_image": "ghost_203763"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333696_76ac99b8f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333696_0488514fa7_o.png",
+      "id_image": "ghost_3473845"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688849_ac3219de27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688849_5c0b82a43b_o.png",
+      "id_image": "ghost_774965"
+    }
+  ]
+}

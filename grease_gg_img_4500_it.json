@@ -1,0 +1,68 @@
+{
+  "english": "grease",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bom mát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dầu mỡ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứng thúi chân của ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm dính dầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm dính mỡ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mỡ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mỡ súc vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc mỡ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thứ nhựa để bắt sâu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thick oily substance, especially as used as a lubricant.",
+      "definitions_ex_en": "axle grease",
+      "definitions_ex_vn": "Dầu mỡ trục",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "oil or fat used or produced in cooking.",
+      "definitions_ex_en": "the kitchen walls were black with grease and filth",
+      "definitions_ex_vn": "Các bức tường nhà bếp có màu đen với mỡ và bẩn thỉu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "smear or lubricate with grease.",
+      "definitions_ex_en": "place on a greased baking sheet",
+      "definitions_ex_vn": "Đặt trên một tấm nướng mỡ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368082_0491815a51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368082_f5c485f433_o.png",
+      "id_image": "grease_3690204"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "english": "grave",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghiêm trang",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "uy nghiêm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quan trọng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trang trọng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trọng đại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trọng yếu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mồ mã",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghĩa trang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần mộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đào hố",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đào huyệt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a place of burial for a dead body, typically a hole dug in the ground and marked by a stone or mound.",
+      "definitions_ex_en": "the coffin was lowered into the grave",
+      "definitions_ex_vn": "quan tài đã được hạ xuống mồ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for grave accent.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "giving cause for alarm; serious.",
+      "definitions_ex_en": "a matter of grave concern",
+      "definitions_ex_vn": "một vấn đề quan tâm nghiêm trọng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "performed in a slow and solemn way.",
+      "definitions_ex_en": "the grave sections of the first movement",
+      "definitions_ex_vn": "các phần mộ của phong trào đầu tiên",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "engrave (an inscription or image) on a surface.",
+      "definitions_ex_en": "marble graved with exquisite flower, human and animal forms",
+      "definitions_ex_vn": "đá cẩm thạch bị nghẹt với hoa tinh tế, hình dạng con người và động vật",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "clean (a ship's bottom) by burning off the accretions and then tarring it.",
+      "definitions_ex_en": "they graved the ship there and remained 26 days",
+      "definitions_ex_vn": "Họ gặm tàu ở đó và vẫn 26 ngày",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(as a direction) slowly; with solemnity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368482_6b83661c57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368482_f28e534d72_o.png",
+      "id_image": "grave_1022299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368422_f4457f7eea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368422_c2c3616fe9_o.png",
+      "id_image": "grave_1901055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368367_734eeb8e61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368367_da371ceb46_o.png",
+      "id_image": "grave_5426443"
+    }
+  ]
+}

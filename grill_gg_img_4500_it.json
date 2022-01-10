@@ -1,0 +1,89 @@
+{
+  "english": "grill",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cá nướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giá sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt nướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vĩ để nướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bị nướng trên vĩ sắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "được nướng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nướng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a metal framework used for cooking food over an open fire; a gridiron.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "variant spelling of grille.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cook (something) using a grill.",
+      "definitions_ex_en": "grill the trout for about five minutes",
+      "definitions_ex_vn": "nướng cá hồi khoảng năm phút",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "subject (someone) to intense questioning or interrogation.",
+      "definitions_ex_en": "my father grilled us about what we had been doing",
+      "definitions_ex_vn": "Bố tôi nướng chúng tôi về những gì chúng tôi đã làm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676979_6e56fa2029_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676979_b7323fdcd9_o.png",
+      "id_image": "grill_883530"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676924_54e5b3ee43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676924_3e3886ce18_o.png",
+      "id_image": "grill_933233"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676894_9d28938b27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676894_327e9069f4_o.png",
+      "id_image": "grill_995892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058560_b641654066_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058560_69de10728d_o.png",
+      "id_image": "grill_998910"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "english": "general",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chung",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cùng một lúc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "toàn thể",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tổng hợp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "công chúng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đại tướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giáo trưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tu viện trưởng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "affecting or concerning all or most people, places, or things; widespread.",
+      "definitions_ex_en": "books of general interest",
+      "definitions_ex_vn": "Sách quan tâm chung",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "considering or including the main features or elements of something, and disregarding exceptions; overall.",
+      "definitions_ex_en": "a general introduction to the subject",
+      "definitions_ex_vn": "Giới thiệu chung về chủ đề này",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "chief or principal.",
+      "definitions_ex_en": "a general manager",
+      "definitions_ex_vn": "một tổng giám đốc",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a commander of an army, or an army officer of very high rank.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the general public.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381377_e6a1c16335_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381377_e99041684e_o.png",
+      "id_image": "general_1461917"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691669_1b161341ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691669_023bd26878_o.png",
+      "id_image": "general_2714191"
+    }
+  ]
+}

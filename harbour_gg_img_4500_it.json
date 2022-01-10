@@ -1,0 +1,85 @@
+{
+  "english": "harbour",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hải cảng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bến tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỗ ẫn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỗ ở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ẫn núp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho ẫn náu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho ở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm chỗ trú",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a place on the coast where vessels may find shelter, especially one protected from rough water by piers, jetties, and other artificial structures.",
+      "definitions_ex_en": "they enjoyed fishing in the harbor",
+      "definitions_ex_vn": "Họ thích câu cá trong bến cảng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "keep (a thought or feeling, typically a negative one) in one's mind, especially secretly.",
+      "definitions_ex_en": "she started to harbor doubts about the wisdom of their journey",
+      "definitions_ex_vn": "Cô bắt đầu hùn nghi ngờ về trí tuệ của hành trình của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "shelter or hide (a criminal or wanted person).",
+      "definitions_ex_en": "he was suspected of harboring an escaped prisoner",
+      "definitions_ex_vn": "Ông bị nghi ngờ chứa chấp một tù nhân trốn thoát",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a ship or its crew) moor in a harbor.",
+      "definitions_ex_en": "he might have harbored in San Francisco",
+      "definitions_ex_vn": "Anh ta có thể đã chứa chấp ở San Francisco",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082140_4369e721f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082140_0e2acdd7dd_o.png",
+      "id_image": "harbour_2374138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459423_259449a03c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459423_28c501ce3a_o.png",
+      "id_image": "harbour_2485263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389527_7c839ba002_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389527_21eb001a50_o.png",
+      "id_image": "harbour_2598138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699659_d4c3b3fc6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699659_7ea9d6de6c_o.png",
+      "id_image": "harbour_5626926"
+    }
+  ]
+}

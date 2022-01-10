@@ -1,0 +1,149 @@
+{
+  "english": "give",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cho",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ban",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ban ân huệ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biếu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bố thí",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "coi chừng người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặt tên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đưa vật gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giúp đở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hiến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hứa lời",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm gương",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm khổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhường chổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhường đường",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tặng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trao vật gì",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "freely transfer the possession of (something) to (someone); hand over to.",
+      "definitions_ex_en": "the check given to the jeweler proved worthless",
+      "definitions_ex_vn": "Kiểm tra được đưa ra cho thợ kim hoàn đã chứng minh vô giá trị",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause or allow (someone or something) to have (something, especially something abstract); provide or supply with.",
+      "definitions_ex_en": "you gave me such a fright",
+      "definitions_ex_vn": "bạn đã cho tôi một nỗi sợ hãi như vậy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "carry out or perform (a specified action).",
+      "definitions_ex_en": "I gave a bow",
+      "definitions_ex_vn": "Tôi đã cho một cây cung",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "yield as a product or result.",
+      "definitions_ex_en": "milk is sometimes added to give a richer cheese",
+      "definitions_ex_vn": "Sữa đôi khi được thêm vào để cho một pho mát phong phú hơn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "concede or yield (something) as valid or deserved in respect of (someone).",
+      "definitions_ex_en": "give him his due",
+      "definitions_ex_vn": "cho anh ta đến hạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "state or put forward (information or argument).",
+      "definitions_ex_en": "he did not give his name",
+      "definitions_ex_vn": "anh ấy đã không đặt tên của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "alter in shape under pressure rather than resist or break.",
+      "definitions_ex_en": "that chair doesn't give",
+      "definitions_ex_vn": "cái ghế đó không cho",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "capacity to bend or alter in shape under pressure; elasticity.",
+      "definitions_ex_en": "plastic pots that have enough give to accommodate the vigorous roots",
+      "definitions_ex_vn": "Nồi nhựa có đủ cho phù hợp với rễ mạnh mẽ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332191_9f7b337dec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332191_957000d3fd_o.png",
+      "id_image": "give_1451289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687164_4863f1fb4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687164_fcf451895a_o.png",
+      "id_image": "give_1655085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332131_451387db0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332131_72b9e26ee6_o.png",
+      "id_image": "give_5065668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687074_4295ce2139_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687074_23a69e4d74_o.png",
+      "id_image": "give_6272563"
+    }
+  ]
+}

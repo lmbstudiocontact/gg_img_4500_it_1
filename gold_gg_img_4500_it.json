@@ -1,0 +1,58 @@
+{
+  "english": "gold",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "màu vàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền vàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hoàng kim",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a yellow precious metal, the chemical element of atomic number 79, used especially in jewelry and decoration and to guarantee the value of currencies.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a deep lustrous yellow or yellow-brown color.",
+      "definitions_ex_en": "her eyes were light green and flecked with gold",
+      "definitions_ex_vn": "đôi mắt của cô ấy màu xanh nhạt và vỗ với vàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "coins or other articles made of gold.",
+      "definitions_ex_en": "her ankles and wrists were glinting with gold",
+      "definitions_ex_vn": "Mắt cá chân và cổ tay của cô đang lấp lánh bằng vàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "made of or colored like gold.",
+      "definitions_ex_en": "gold earrings",
+      "definitions_ex_vn": "Hoa tai vàng",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684334_65ab211943_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684334_f25a07db06_o.png",
+      "id_image": "gold_855382"
+    }
+  ]
+}

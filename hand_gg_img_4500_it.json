@@ -1,0 +1,158 @@
+{
+  "english": "hand",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ra tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "công nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhân công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bàn tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt đầu làm việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chữ viết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "con bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khởi công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đánh bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đổi tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tay đánh bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thủy thủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trao",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chỉ thị",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kim đồng hồ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the end part of a person's arm beyond the wrist, including the palm, fingers, and thumb.",
+      "definitions_ex_en": "he was leading her by the hand",
+      "definitions_ex_vn": "Anh ấy đã dẫn dắt cô ấy bằng tay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pointer on a clock or watch indicating the passing of units of time.",
+      "definitions_ex_en": "the second hand",
+      "definitions_ex_vn": "bàn tay thứ hai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used in reference to the power to direct something.",
+      "definitions_ex_en": "the day-to-day running of the house was in her hands",
+      "definitions_ex_vn": "chạy bộ hàng ngày của ngôi nhà nằm trong tay cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's workmanship, especially in artistic work.",
+      "definitions_ex_en": "this should be a clue in attributing other work to his hand",
+      "definitions_ex_vn": "Đây phải là một manh mối trong việc quy kết các công việc khác với bàn tay của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who engages in manual labor, especially in a factory, on a farm, or on board a ship.",
+      "definitions_ex_en": "a factory hand",
+      "definitions_ex_vn": "một tay nhà máy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the set of cards dealt to a player in a card game.",
+      "definitions_ex_en": "he's got a good hand",
+      "definitions_ex_vn": "Anh ấy có một bàn tay tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a unit of measurement of a horse's height, equal to 4 inches (10.16 cm).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bunch of bananas.",
+      "definitions_ex_en": "mottled hands of bananas",
+      "definitions_ex_vn": "bàn tay lốm đốm của chuối",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "pick (something) up and give it to (someone).",
+      "definitions_ex_en": "he handed each man a glass",
+      "definitions_ex_vn": "Anh trao cho mỗi người đàn ông một ly",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hold the hand of (someone) in order to help them move in the specified direction.",
+      "definitions_ex_en": "he handed him into a carriage",
+      "definitions_ex_vn": "Anh đưa anh vào một cỗ xe",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take in or furl (a sail).",
+      "definitions_ex_en": "hand in the main!",
+      "definitions_ex_vn": "Tay trong chính!",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701139_3130e78fe2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701139_04ed61aab3_o.png",
+      "id_image": "hand_1171144"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391147_e715db455b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391147_17194470c3_o.png",
+      "id_image": "hand_1196465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346211_257d9f459c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346211_b7a977fa61_o.png",
+      "id_image": "hand_673871"
+    }
+  ]
+}

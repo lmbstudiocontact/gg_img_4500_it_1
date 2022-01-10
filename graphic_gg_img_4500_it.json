@@ -1,0 +1,98 @@
+{
+  "english": "graphic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách biểu họa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đồ giải",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về đồ biểu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vẽ vời",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đồ tả",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "linh động",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuật vẽ đồ biểu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to visual art, especially involving drawing, engraving, or lettering.",
+      "definitions_ex_en": "his mature graphic work",
+      "definitions_ex_vn": "tác phẩm đồ họa trưởng thành của anh ấy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "giving a vivid picture with explicit detail.",
+      "definitions_ex_en": "he gave a graphic description of the torture",
+      "definitions_ex_vn": "Ông đã đưa ra một mô tả đồ họa về sự tra tấn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of or in the form of a graph.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of or denoting rocks having a surface texture resembling cuneiform writing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a graphical item displayed on a screen or stored as data.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "in adjectives corresponding to nouns ending in -graphy (such as demographic corresponding to demography ).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439793_772a171b59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439793_38713f3af3_o.png",
+      "id_image": "graphic_1567083"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369537_555e6cc17f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369537_988deaafdb_o.png",
+      "id_image": "graphic_2271598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324636_3c65d4675c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324636_77fbf82e6a_o.png",
+      "id_image": "graphic_2811186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679789_54a8a766ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679789_2830b94c05_o.png",
+      "id_image": "graphic_2898227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369452_79db7b2d30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369452_2bd6018e42_o.png",
+      "id_image": "graphic_6258724"
+    }
+  ]
+}

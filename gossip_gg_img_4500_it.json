@@ -1,0 +1,65 @@
+{
+  "english": "gossip",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mẹ đở đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nói bá láp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bạn thân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nói tầm phào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mách lẻo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngồi lê đôi mách",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "casual or unconstrained conversation or reports about other people, typically involving details that are not confirmed as being true.",
+      "definitions_ex_en": "he became the subject of much local gossip",
+      "definitions_ex_vn": "ông trở thành chủ đề của nhiều tin đồn địa phương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "engage in gossip.",
+      "definitions_ex_en": "they would start gossiping about her as soon as she left",
+      "definitions_ex_vn": "họ sẽ bắt đầu tin đồn về cô ấy ngay khi cô ấy rời đi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064905_5a06ab3d28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064905_e739ff9f53_o.png",
+      "id_image": "gossip_1935529"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443173_c57387aa98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443173_7edacb5da5_o.png",
+      "id_image": "gossip_2117442"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064800_0f846f6e22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064800_2f1151ffeb_o.png",
+      "id_image": "gossip_4278020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443068_9ca6be64ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443068_496bb98395_o.png",
+      "id_image": "gossip_4441440"
+    }
+  ]
+}

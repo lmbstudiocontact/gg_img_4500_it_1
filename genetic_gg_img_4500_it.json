@@ -1,0 +1,44 @@
+{
+  "english": "genetic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khởi nguyên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sinh thực",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to genes or heredity.",
+      "definitions_ex_en": "all the cells in the body contain the same genetic information",
+      "definitions_ex_vn": "Tất cả các tế bào trong cơ thể chứa các thông tin di truyền giống nhau",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to origin, or arising from a common origin.",
+      "definitions_ex_en": "the genetic relations between languages",
+      "definitions_ex_vn": "các mối quan hệ di truyền giữa các ngôn ngữ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380807_27d1931e86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380807_7cc4e648ff_o.png",
+      "id_image": "genetic_2191468"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690964_c2fc01a0e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690964_a0108edd49_o.png",
+      "id_image": "genetic_2233624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335676_27316c9b41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335676_10fcb7c124_o.png",
+      "id_image": "genetic_4061294"
+    }
+  ]
+}

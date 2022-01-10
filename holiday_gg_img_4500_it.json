@@ -1,0 +1,54 @@
+{
+  "english": "holiday",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngày lể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngày nghỉ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a day of festivity or recreation when no work is done.",
+      "definitions_ex_en": "December 25 is an official public holiday",
+      "definitions_ex_vn": "Ngày 25 tháng 12 là một ngày lễ chính thức",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "spend a holiday in a specified place.",
+      "definitions_ex_en": "he is holidaying in Italy",
+      "definitions_ex_vn": "anh ấy đang đi nghỉ ở Ý",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690059_45a6a9874d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690059_a8415d8b0b_o.png",
+      "id_image": "holiday_2569878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071855_2bd1f8a2a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071855_075ff5426d_o.png",
+      "id_image": "holiday_2855569"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689954_d58302e9eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689954_70031dedb2_o.png",
+      "id_image": "holiday_5020319"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334806_344bf8e0bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334806_1023260e87_o.png",
+      "id_image": "holiday_5020459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689889_ee6a1341e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689889_3089a61f08_o.png",
+      "id_image": "holiday_5775604"
+    }
+  ]
+}

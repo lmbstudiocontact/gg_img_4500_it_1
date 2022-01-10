@@ -1,0 +1,65 @@
+{
+  "english": "grin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái nhăn mặt để lộ răng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái nhếch mép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cười để lộ cả răng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cười lộ răng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cười toét miệng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mỉm cười gượng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "smile broadly, especially in an unrestrained manner and with the mouth open.",
+      "definitions_ex_en": "Dennis appeared, grinning cheerfully",
+      "definitions_ex_vn": "Dennis xuất hiện, cười toe toét",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a broad smile.",
+      "definitions_ex_en": "“OK,” he said with a grin",
+      "definitions_ex_vn": "\"Ok,\" anh nói với một nụ cười",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058280_24eebce5de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058280_48aba99d09_o.png",
+      "id_image": "grin_2977977"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366372_cc73904591_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366372_0775920f07_o.png",
+      "id_image": "grin_2978025"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321496_1dfc379ba5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321496_e260768732_o.png",
+      "id_image": "grin_6259824"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321436_14c62f329c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321436_45c8e700b4_o.png",
+      "id_image": "grin_6259903"
+    }
+  ]
+}

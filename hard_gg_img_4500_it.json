@@ -1,0 +1,162 @@
+{
+  "english": "hard",
+  "list_translation_mean": [
+    {
+      "translate_mean": "siêng năng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thô",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cực nhọc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cứng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khó",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khó khăn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khó tánh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nghiêm khắc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhám",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rắn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vững",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gần",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "hầm tàu",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "khó khăn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "khó nhọc",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "lá thuốc vặn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "mạnh",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "sát",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "solid, firm, and rigid; not easily broken, bent, or pierced.",
+      "definitions_ex_en": "a hard mattress",
+      "definitions_ex_vn": "Nệm cứng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "done with a great deal of force or strength.",
+      "definitions_ex_en": "a hard blow to the head",
+      "definitions_ex_vn": "một cú đánh mạnh vào đầu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "requiring a great deal of endurance or effort.",
+      "definitions_ex_en": "stooping over all day was hard work",
+      "definitions_ex_vn": "Stooping trong cả ngày là công việc khó khăn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of information) reliable, especially because based on something true or substantiated.",
+      "definitions_ex_en": "hard facts about the underclass are maddeningly elusive",
+      "definitions_ex_vn": "Sự thật khó khăn về lớp dưới lớp học bị khó nắm bắt điên cuồng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of liquor) strongly alcoholic; denoting distilled spirits rather than beer or wine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of water) containing relatively high concentrations of dissolved calcium and magnesium salts, which make lathering difficult.",
+      "definitions_ex_en": "hard water requires much more soap, shampoo, or detergent than soft water",
+      "definitions_ex_vn": "Nước cứng đòi hỏi nhiều xà phòng, dầu gội hoặc chất tẩy rửa hơn nước mềm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of the penis, clitoris, or nipples) erect.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a consonant) pronounced as c in cat or g in go.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "with a great deal of effort.",
+      "definitions_ex_en": "they work hard at school",
+      "definitions_ex_vn": "họ làm việc chăm chỉ ở trường",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "so as to be solid or firm.",
+      "definitions_ex_en": "the mortar has set hard",
+      "definitions_ex_vn": "Vữa đã lặn cứng",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "to the fullest extent possible.",
+      "definitions_ex_en": "put the wheel hard over to starboard",
+      "definitions_ex_vn": "Đặt bánh xe cứng vào mạn phải",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459293_a4517017ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459293_3378c028d6_o.png",
+      "id_image": "hard_1410450"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081935_6cac39e9a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081935_b8277d50e1_o.png",
+      "id_image": "hard_6401692"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344531_979febc18a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344531_313f5ce018_o.png",
+      "id_image": "hard_827667"
+    }
+  ]
+}

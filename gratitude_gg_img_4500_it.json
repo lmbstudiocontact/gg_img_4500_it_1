@@ -1,0 +1,29 @@
+{
+  "english": "gratitude",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lòng biết ơn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the quality of being thankful; readiness to show appreciation for and to return kindness.",
+      "definitions_ex_en": "she expressed her gratitude to the committee for their support",
+      "definitions_ex_vn": "cô bày tỏ lòng biết ơn đối với Ủy ban hỗ trợ của họ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368512_39b1dd258f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368512_26354a1bb4_o.png",
+      "id_image": "gratitude_2965032"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678844_ce438155f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678844_8774fbd103_o.png",
+      "id_image": "gratitude_708683"
+    }
+  ]
+}

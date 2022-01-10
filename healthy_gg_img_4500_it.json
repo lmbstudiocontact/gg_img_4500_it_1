@@ -1,0 +1,63 @@
+{
+  "english": "healthy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bỗ sức",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cường tráng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hợp vệ sinh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khỏe mạnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lành mạnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sạch sẻ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tráng kiện",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in good health.",
+      "definitions_ex_en": "I feel fit and healthy",
+      "definitions_ex_vn": "Tôi cảm thấy khỏe mạnh",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386057_743f82a8a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386057_14a4b74d01_o.png",
+      "id_image": "healthy_2707368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341161_09bb3cc0e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341161_ec143184a8_o.png",
+      "id_image": "healthy_706204"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078470_e8b1955fe9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078470_faa618d133_o.png",
+      "id_image": "healthy_851514"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341086_25c5e45249_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341086_10f75e429e_o.png",
+      "id_image": "healthy_926107"
+    }
+  ]
+}

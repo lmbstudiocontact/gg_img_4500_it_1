@@ -1,0 +1,46 @@
+{
+  "english": "headache",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bịnh nhức đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứng nhức đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đau đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhức đầu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a continuous pain in the head.",
+      "definitions_ex_en": "I've got a splitting headache",
+      "definitions_ex_vn": "Tôi đã bị đau đầu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457438_13bbef3c05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457438_939f5e6546_o.png",
+      "id_image": "headache_2834325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342526_2110872648_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342526_59b23e618d_o.png",
+      "id_image": "headache_2860740"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387662_260cf430cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387662_ed75c7e05a_o.png",
+      "id_image": "headache_286501"
+    }
+  ]
+}

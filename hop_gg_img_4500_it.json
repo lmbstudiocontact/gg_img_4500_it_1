@@ -1,0 +1,113 @@
+{
+  "english": "hop",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây hốt bố",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc khiêu vũ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhảy cò cò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt được",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hái hốt bố",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khiêu vũ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy lẹ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy lò cò",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy nhót",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy như nhái",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tóm được",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person) move by jumping on one foot.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "flavor with hops.",
+      "definitions_ex_en": "a strong dark beer, heavily hopped",
+      "definitions_ex_vn": "một loại bia tối mạnh, nhảy rất nhiều",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be stimulated or intoxicated by or as if by a psychoactive drug.",
+      "definitions_ex_en": "most muggers were hopped up on coke or angel dust",
+      "definitions_ex_vn": "Hầu hết những kẻ buôn lậu đã được nhảy lên trên than cốc hoặc bụi thiên thần",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a hopping movement.",
+      "definitions_ex_en": "place the rabbit on the floor to have a hop around",
+      "definitions_ex_vn": "Đặt con thỏ trên sàn để có một bước nhảy xung quanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an informal dance.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a twining climbing plant native to north temperate regions, cultivated for the flowers borne by the female plant, which are used in brewing beer.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377232_2840763129_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377232_a6d2b519d5_o.png",
+      "id_image": "hop_1112945"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687424_9b7a7b7e3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687424_55f9c09d76_o.png",
+      "id_image": "hop_2298778"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069175_4e6fbc389c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069175_bc1de030f7_o.png",
+      "id_image": "hop_5499118"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687504_45ccdb77a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687504_c86fe51425_o.png",
+      "id_image": "hop_993170"
+    }
+  ]
+}

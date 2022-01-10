@@ -1,0 +1,51 @@
+{
+  "english": "handsome",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đẹp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hào hiệp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rộng rải",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "to tát",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trở nên đẹp",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a man) good-looking.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a number, sum of money, or margin) substantial.",
+      "definitions_ex_en": "elected by a handsome majority",
+      "definitions_ex_vn": "được bầu bởi một đa số đẹp trai",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390497_6023090e61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390497_dc333b111b_o.png",
+      "id_image": "handsome_2897006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700604_ce334daa57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700604_37093dfcd1_o.png",
+      "id_image": "handsome_3891309"
+    }
+  ]
+}

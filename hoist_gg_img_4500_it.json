@@ -1,0 +1,71 @@
+{
+  "english": "hoist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái ba lan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cắt nhắc người nào lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy trục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nẹp buồm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kéo lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thang máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kéo lên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "raise (something) by means of ropes and pulleys.",
+      "definitions_ex_en": "high overhead great cranes hoisted girders",
+      "definitions_ex_vn": "Cần cẩu lớn trên cao",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of raising or lifting something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the part of a flag nearest the staff; the vertical dimension of a flag.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of flags raised as a signal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690549_009f59e5aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690549_2b870680fa_o.png",
+      "id_image": "hoist_1201861"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690499_c6ac16ab56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690499_43537267f8_o.png",
+      "id_image": "hoist_4852165"
+    }
+  ]
+}

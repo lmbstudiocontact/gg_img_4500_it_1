@@ -1,0 +1,80 @@
+{
+  "english": "gun",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bình sơn máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống bơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sơn bít tô lê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "súng đại bác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "súng lục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "súng sáu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng súng đại bác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt bớ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giết người bằng súng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "săn bằng súng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm kiếm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a weapon incorporating a metal tube from which bullets, shells, or other missiles are propelled by explosive force, typically making a characteristic loud, sharp noise.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "muscular arms; well-developed biceps muscles.",
+      "definitions_ex_en": "it's encouraging to note that Schwarzenegger wasn't born with massive guns",
+      "definitions_ex_vn": "Thật đáng khích lệ khi lưu ý rằng Schwarzenegger không được sinh ra với những khẩu súng lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cause (an engine) to race.",
+      "definitions_ex_en": "as Neil gunned the engine the boat jumped forward",
+      "definitions_ex_vn": "Như Neil đã bắn động cơ chiếc thuyền nhảy về phía trước",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054080_457d73b04c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054080_996d50f208_o.png",
+      "id_image": "gun_414809"
+    }
+  ]
+}

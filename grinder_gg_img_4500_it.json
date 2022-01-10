@@ -1,0 +1,57 @@
+{
+  "english": "grinder",
+  "list_translation_mean": [
+    {
+      "translate_mean": "máy giã",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy nghiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người kèm học trò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ mài",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a machine used for grinding something.",
+      "definitions_ex_en": "a coffee grinder",
+      "definitions_ex_vn": "một máy xay cà phê",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a molar tooth.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366207_a1664847a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366207_9a979eae56_o.png",
+      "id_image": "grinder_1111097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436523_01aa5a3593_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436523_ca95f03d4f_o.png",
+      "id_image": "grinder_2670368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057960_fa0e2f830a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057960_faa328fa63_o.png",
+      "id_image": "grinder_5181748"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436598_66e0f5b4da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436598_8c1128929c_o.png",
+      "id_image": "grinder_808746"
+    }
+  ]
+}

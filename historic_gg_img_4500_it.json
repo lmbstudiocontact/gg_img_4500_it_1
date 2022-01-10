@@ -1,0 +1,30 @@
+{
+  "english": "historic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về lịch sử",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "famous or important in history, or potentially so.",
+      "definitions_ex_en": "we are standing on a historic site",
+      "definitions_ex_vn": "Chúng tôi đang đứng trên một địa điểm lịch sử",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a tense) used in the narration of past events, especially Latin and Greek imperfect and pluperfect.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336271_26268ebe64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336271_f8064b9b37_o.png",
+      "id_image": "historic_5234385"
+    }
+  ]
+}

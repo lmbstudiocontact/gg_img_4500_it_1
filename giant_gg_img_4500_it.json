@@ -1,0 +1,59 @@
+{
+  "english": "giant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây to",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người khổng lồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật phi thường",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an imaginary or mythical being of human form but superhuman size.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a star of relatively great size and luminosity compared to ordinary stars of the main sequence, and 10–100 times the diameter of the sun.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "of very great size or force; gigantic.",
+      "definitions_ex_en": "giant multinational corporations",
+      "definitions_ex_vn": "tập đoàn đa quốc gia khổng lồ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688699_4474e159cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688699_b381032587_o.png",
+      "id_image": "giant_1587062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688649_d39b9c2465_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688649_dce17ee235_o.png",
+      "id_image": "giant_2463611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378432_e09823dfae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378432_13ef871a88_o.png",
+      "id_image": "giant_3957289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448623_091b8066c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448623_a2ab896d16_o.png",
+      "id_image": "giant_4545032"
+    }
+  ]
+}

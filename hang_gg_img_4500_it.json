@@ -1,0 +1,95 @@
+{
+  "english": "hang",
+  "list_translation_mean": [
+    {
+      "translate_mean": "treo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bị treo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi dong dài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "móc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cách làm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách treo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường dốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khái niệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sửa lại cho vừa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "suspend or be suspended from above with the lower part dangling free.",
+      "definitions_ex_en": "that's where people are supposed to hang their wash",
+      "definitions_ex_vn": "đó là nơi mọi người được cho là treo rửa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "kill (someone) by tying a rope attached from above around the neck and removing the support from beneath (used as a form of capital punishment).",
+      "definitions_ex_en": "he was hanged for murder",
+      "definitions_ex_vn": "Anh bị treo cổ vì tội giết người",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "remain static in the air.",
+      "definitions_ex_en": "a haze of smoke hung below the ceiling",
+      "definitions_ex_vn": "Một đám khói bốc lên dưới trần nhà",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "come or cause to come unexpectedly to a state in which no further operations can be carried out.",
+      "definitions_ex_en": "the machine has hung",
+      "definitions_ex_vn": "Máy đã treo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "deliver (a breaking pitch) that does not change direction as intended.",
+      "definitions_ex_en": "this leads to hanging a breaking ball",
+      "definitions_ex_vn": "Điều này dẫn đến treo một quả bóng phá vỡ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a downward droop or bend.",
+      "definitions_ex_en": "the bullish hang of his head",
+      "definitions_ex_vn": "sự tăng trưởng của đầu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460038_cc46c437f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460038_d217ab8c1c_o.png",
+      "id_image": "hang_1502673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082670_6c5884d974_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082670_e44b47a13b_o.png",
+      "id_image": "hang_2780746"
+    }
+  ]
+}

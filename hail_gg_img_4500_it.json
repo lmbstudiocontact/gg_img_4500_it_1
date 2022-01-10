@@ -1,0 +1,118 @@
+{
+  "english": "hail",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kêu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kêu xe",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chào người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gọi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "réo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trời mưa đá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gọi người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mưa đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trận mưa đá",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pellets of frozen rain which fall in showers from cumulonimbus clouds.",
+      "definitions_ex_en": "rain and hail bounced on the tiled roof",
+      "definitions_ex_vn": "Mưa và mưa đá vang lên trên mái ngói",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a shout or call used to attract attention.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "hail falls.",
+      "definitions_ex_en": "it hailed so hard we had to stop",
+      "definitions_ex_vn": "Nó ca ngợi rất nhiều, chúng ta phải dừng lại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a large number of objects) fall or be hurled forcefully.",
+      "definitions_ex_en": "missiles and bombs hail down from the sky",
+      "definitions_ex_vn": "Tên lửa và bom mưa đá xuống từ bầu trời",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "call out to (someone) to attract attention.",
+      "definitions_ex_en": "the crew hailed a fishing boat",
+      "definitions_ex_vn": "Phi hành đoàn ca ngợi một chiếc thuyền đánh cá",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "acclaim enthusiastically as being a specified thing.",
+      "definitions_ex_en": "he has been hailed as the new James Dean",
+      "definitions_ex_vn": "Anh ấy đã được ca ngợi là James Dean mới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "have one's home or origins in (a place).",
+      "definitions_ex_en": "he hails from Pittsburgh",
+      "definitions_ex_vn": "anh ta đến từ Pittsburgh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "expressing greeting or acclaim.",
+      "definitions_ex_en": "hail, Caesar!",
+      "definitions_ex_vn": "Mưa đá, Caesar!",
+      "definitions_type_word": "exclamation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671279_33c989e18f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671279_0caf61d6dc_o.png",
+      "id_image": "hail_1098202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431473_af331c0771_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431473_8569e7a648_o.png",
+      "id_image": "hail_2581022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316531_39dcbbac5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316531_0cd8895da3_o.png",
+      "id_image": "hail_3436121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052895_038b20f507_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052895_da37a6329c_o.png",
+      "id_image": "hail_3750428"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316496_0078948020_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316496_0b98e5ea44_o.png",
+      "id_image": "hail_6236375"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "english": "habit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "áo bà phước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách mọc lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khí thế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhiểm thói quen",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh tình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thói quen",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thói thường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lệ thường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tập quán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bận quần áo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mặc quần áo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tập quán",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a settled or regular tendency or practice, especially one that is hard to give up.",
+      "definitions_ex_en": "we stayed together out of habit",
+      "definitions_ex_vn": "Chúng tôi ở lại với nhau khỏi thói quen",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long, loose garment worn by a member of a religious order or congregation.",
+      "definitions_ex_en": "nuns in long brown habits, black veils, and sandals",
+      "definitions_ex_vn": "nữ tu trong thói quen dài màu nâu, mạng che mặt đen và dép",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's bodily condition or constitution.",
+      "definitions_ex_en": "a victim to a consumptive habit",
+      "definitions_ex_vn": "một nạn nhân của một thói quen tiêu hao",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "dress; clothe.",
+      "definitions_ex_en": "a boy habited as a serving lad",
+      "definitions_ex_vn": "một cậu bé có thói quen như một người phục vụ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671824_fd92c88b7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671824_84d3081be8_o.png",
+      "id_image": "habit_5778561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053525_cc8be86804_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053525_177027807e_o.png",
+      "id_image": "habit_5998948"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432138_463f95f403_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432138_bb053e855e_o.png",
+      "id_image": "habit_6193291"
+    }
+  ]
+}

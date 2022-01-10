@@ -1,0 +1,49 @@
+{
+  "english": "heaven",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bầu trời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thiên đàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trời",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a place regarded in various religions as the abode of God (or the gods) and the angels, and of the good after death, often traditionally depicted as being above the sky.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the sky, especially perceived as a vault in which the sun, moon, stars, and planets are situated.",
+      "definitions_ex_en": "Galileo used a telescope to observe the heavens",
+      "definitions_ex_vn": "Galileo đã sử dụng một kính thiên văn để quan sát thiên đàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a place, state, or experience of supreme bliss.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339711_e5f3083ed3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339711_35f73a668b_o.png",
+      "id_image": "heaven_1450738"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384637_254a24209a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384637_bdbf26fd43_o.png",
+      "id_image": "heaven_2545705"
+    }
+  ]
+}

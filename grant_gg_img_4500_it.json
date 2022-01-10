@@ -1,0 +1,93 @@
+{
+  "english": "grant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cho",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ban cho",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bằng lòng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận cho",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hành vi tặng dữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhượng độ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ban cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cho",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đặc hứa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhường lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phát bằng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền phụ cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền tưởng lệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền trợ cấp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "agree to give or allow (something requested) to.",
+      "definitions_ex_en": "a letter granting them permission to smoke",
+      "definitions_ex_vn": "một lá thư cấp cho họ sự cho phép hút thuốc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "agree or admit to (someone) that (something) is true.",
+      "definitions_ex_en": "he hasn't made much progress, I'll grant you that",
+      "definitions_ex_vn": "Anh ấy đã không có nhiều tiến bộ, tôi sẽ cấp cho bạn rằng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a sum of money given by a government or other organization for a particular purpose.",
+      "definitions_ex_en": "a research grant",
+      "definitions_ex_vn": "một khoản tài trợ nghiên cứu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370197_f96c212a46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370197_39c62e46b9_o.png",
+      "id_image": "grant_2161348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062080_ece82428da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062080_f56f178669_o.png",
+      "id_image": "grant_2470720"
+    }
+  ]
+}

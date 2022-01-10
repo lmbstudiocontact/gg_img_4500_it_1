@@ -1,0 +1,77 @@
+{
+  "english": "genius",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thiên tư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bậc kỳ tài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quỹ thần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thần bổn mạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuộc về quỹ thần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tài năng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thiên tài",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "exceptional intellectual or creative power or other natural ability.",
+      "definitions_ex_en": "she was a teacher of genius",
+      "definitions_ex_vn": "Cô ấy là một giáo viên của thiên tài",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who is exceptionally intelligent or creative, either generally or in some particular respect.",
+      "definitions_ex_en": "one of the great musical geniuses of the 20th century",
+      "definitions_ex_vn": "một trong những thiên tài âm nhạc tuyệt vời của thế kỷ 20",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person regarded as exerting a powerful influence over another for good or evil.",
+      "definitions_ex_en": "he sees Adams as the man's evil genius",
+      "definitions_ex_vn": "Anh ta nhìn thấy Adams là thiên tài xấu xa của người đàn ông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the prevalent character or spirit of something such as a nation or age.",
+      "definitions_ex_en": "Boucher's paintings did not suit the austere genius of neoclassicism",
+      "definitions_ex_vn": "Tranh của Boucher đã không phù hợp với thiên tài khắc khổ của thần kinh thần kinh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "very clever or ingenious.",
+      "definitions_ex_en": "this book was absolutely genius in parts",
+      "definitions_ex_vn": "Cuốn sách này hoàn toàn là thiên tài trong các bộ phận",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072555_8f447e666f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072555_1de33685b2_o.png",
+      "id_image": "genius_203211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335646_95c5c44bfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335646_3a783a26a9_o.png",
+      "id_image": "genius_4752562"
+    }
+  ]
+}

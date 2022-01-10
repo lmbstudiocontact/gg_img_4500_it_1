@@ -1,0 +1,122 @@
+{
+  "english": "grain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bã rượu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đơn vị đo lường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hạt lúa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hèm rượu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hột lúa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hột muối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hột tiêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kết hột",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thành mặt cát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiền thành hột nhỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhuộm màu bền",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "wheat or any other cultivated cereal crop used as food.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a single fruit or seed of a cereal.",
+      "definitions_ex_en": "a few grains of corn",
+      "definitions_ex_vn": "một vài hạt ngô",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the smallest unit of weight in the troy and avoirdupois systems, equal to 1/5760 of a pound troy and 1/7000 of a pound avoirdupois (approximately 0.0648 grams).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the longitudinal arrangement or pattern of fibers in wood, paper, etc.",
+      "definitions_ex_en": "he scored along the grain of the table with the knife",
+      "definitions_ex_vn": "Anh ghi bàn dọc theo hạt của bàn bằng dao",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's character or natural tendency.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "kermes or cochineal, or dye made from either of these.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give a rough surface or texture to.",
+      "definitions_ex_en": "her fingers were grained with chalk dust",
+      "definitions_ex_vn": "Những ngón tay của cô đã được gợn sóng với bụi phấn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "paint (something, especially furniture or interior surfaces) in imitation of the grain of wood or marble.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "remove hair from (a hide).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325906_63feaef08d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325906_98b463d4f3_o.png",
+      "id_image": "grain_2259561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325861_fb1cd44916_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325861_f12d0505fe_o.png",
+      "id_image": "grain_4127305"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681064_e6abde62a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681064_553c4e1698_o.png",
+      "id_image": "grain_517618"
+    }
+  ]
+}

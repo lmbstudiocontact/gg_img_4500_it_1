@@ -1,0 +1,40 @@
+{
+  "english": "geometric",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về hình học",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to geometry, or according to its methods.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a design) characterized by or decorated with regular lines and shapes.",
+      "definitions_ex_en": "traditional Hopi geometric forms",
+      "definitions_ex_vn": "Hình thức hình học Hopi truyền thống",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690139_63c87c634f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690139_c5b2bd6d1a_o.png",
+      "id_image": "geometric_2421974"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335011_6d0f0ce4a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335011_9d06ef7c84_o.png",
+      "id_image": "geometric_391266"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379977_304fe80235_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379977_d02a033bbe_o.png",
+      "id_image": "geometric_6006336"
+    }
+  ]
+}

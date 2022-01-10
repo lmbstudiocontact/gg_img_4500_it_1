@@ -1,0 +1,67 @@
+{
+  "english": "golden",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có chất vàng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm bằng vàng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "colored or shining like gold.",
+      "definitions_ex_en": "curls of glossy golden hair",
+      "definitions_ex_vn": "những lọn tóc vàng bóng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "made or consisting of gold.",
+      "definitions_ex_en": "a golden crown",
+      "definitions_ex_vn": "một vương miện bằng vàng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a period) very happy and prosperous.",
+      "definitions_ex_en": "those golden days before World War I",
+      "definitions_ex_vn": "những ngày vàng trước Thế chiến thứ nhất",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a singing voice) rich and smooth.",
+      "definitions_ex_en": "a choir of young golden voices",
+      "definitions_ex_vn": "một dàn hợp xướng của giọng nói vàng non",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting the fiftieth year of something.",
+      "definitions_ex_en": "the American Ballet Theater's golden anniversary extravaganza",
+      "definitions_ex_vn": "kỷ niệm kỷ niệm vàng của nhà hát ba lê Mỹ Extravaganza",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374027_dc283b93c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374027_1dfb8776c2_o.png",
+      "id_image": "golden_1354770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444288_f7088fa289_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444288_4a244317c0_o.png",
+      "id_image": "golden_2298992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444243_6b1b59254b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444243_8a0ebb4430_o.png",
+      "id_image": "golden_2298995"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444188_79ea638147_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444188_476bc0bccc_o.png",
+      "id_image": "golden_4033731"
+    }
+  ]
+}

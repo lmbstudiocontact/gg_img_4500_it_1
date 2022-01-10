@@ -1,0 +1,119 @@
+{
+  "english": "handle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quai va li",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cán chổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gọng xe bù ột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quai bình đựng nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tay cầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tay vặn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng trái cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ huy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dùng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lắp cán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mó",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rờ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sai khiến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vận dụng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sờ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "feel or manipulate with the hands.",
+      "definitions_ex_en": "heavy paving slabs can be difficult to handle",
+      "definitions_ex_vn": "Tấm lát nặng có thể khó xử lý",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "manage (a situation or problem).",
+      "definitions_ex_en": "a lawyer's ability to handle a case properly",
+      "definitions_ex_vn": "một khả năng của một luật sư để xử lý một trường hợp đúng cách",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "drive or control (a vehicle).",
+      "definitions_ex_en": "where did you learn to handle a boat?",
+      "definitions_ex_vn": "Bạn đã học cách xử lý một chiếc thuyền?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the part by which a thing is held, carried, or controlled.",
+      "definitions_ex_en": "the pan features helpful lifting handles",
+      "definitions_ex_vn": "PAN có các xử lý nâng hữu ích",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a name or nickname.",
+      "definitions_ex_en": "that's some handle for a baby",
+      "definitions_ex_vn": "đó là một số tay cầm cho một em bé",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391002_3ca1c889ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391002_7ab23873a4_o.png",
+      "id_image": "handle_1035489"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701014_d99e2e05e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701014_ea6ce2a0e7_o.png",
+      "id_image": "handle_1678211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390922_525a60cc80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390922_aca21e2acb_o.png",
+      "id_image": "handle_2855725"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700969_be978c0096_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700969_434b2e8dea_o.png",
+      "id_image": "handle_6344536"
+    }
+  ]
+}

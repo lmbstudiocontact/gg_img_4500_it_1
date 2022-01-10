@@ -1,0 +1,62 @@
+{
+  "english": "harmony",
+  "list_translation_mean": [
+    {
+      "translate_mean": "du dương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hòa điệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hòa thanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự êm tai",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the combination of simultaneously sounded musical notes to produce chords and chord progressions having a pleasing effect.",
+      "definitions_ex_en": "four-part harmony in the barbershop style",
+      "definitions_ex_vn": "Hài hòa bốn phần trong phong cách tiệm hớt tóc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an arrangement of the four Gospels, or of any parallel narratives, which presents a single continuous narrative text.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699294_8914b32443_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699294_2081642e33_o.png",
+      "id_image": "harmony_1783687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699284_f1fcba7ef3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699284_69aa659dc3_o.png",
+      "id_image": "harmony_2102523"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389097_858552961a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389097_0050e2ca93_o.png",
+      "id_image": "harmony_2773071"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458908_b579822d66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458908_b00b642506_o.png",
+      "id_image": "harmony_4601147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458893_00e9334fd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458893_ea7ab0441f_o.png",
+      "id_image": "harmony_5265801"
+    }
+  ]
+}

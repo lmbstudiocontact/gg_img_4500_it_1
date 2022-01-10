@@ -1,0 +1,83 @@
+{
+  "english": "guy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buồn cười",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "câu nói đùa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ăn bận lôi thôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tẩu thoát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cười nhạo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói chơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phô bày tiếu tượng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a man.",
+      "definitions_ex_en": "he's a nice guy",
+      "definitions_ex_vn": "anh ấy là một chàng trai tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rope or line fixed to the ground to secure a tent or other structure.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make fun of; ridicule.",
+      "definitions_ex_en": "he didn't realize I was guying the whole idea",
+      "definitions_ex_vn": "anh ấy đã không nhận ra tôi đã là GULEING toàn bộ ý tưởng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "secure with a line or lines.",
+      "definitions_ex_en": "it was set on concrete footings and guyed with steel cable",
+      "definitions_ex_vn": "Nó được đặt trên các bước chân cụ thể và anh chàng với cáp thép",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361662_940a542866_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361662_1fbd0c2194_o.png",
+      "id_image": "guy_4600989"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672024_da90fd8782_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672024_b57469227c_o.png",
+      "id_image": "guy_4968145"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "english": "guard",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lính giữ ngục",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cai tù",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cận vệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "coi chừng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đề phòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bảo vệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cận vệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "để ý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giữ an ninh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đội cận vệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phiên gác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xếp tanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bảo hộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bảo vệ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "che chở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giữ gìn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "watch over in order to protect or control.",
+      "definitions_ex_en": "the gates were guarded by uniformed soldiers",
+      "definitions_ex_vn": "Gates được bảo vệ bởi những người lính mặc đồng phục",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "protect against damage or harm.",
+      "definitions_ex_en": "the company fiercely guarded its independence",
+      "definitions_ex_vn": "Công ty bảo vệ quyết liệt sự độc lập của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a person who keeps watch, especially a soldier or other person formally assigned to protect a person or to control access to a place.",
+      "definitions_ex_en": "a security guard",
+      "definitions_ex_vn": "một nhân viên bảo vệ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device worn or fitted to prevent injury or damage.",
+      "definitions_ex_en": "a retractable blade guard",
+      "definitions_ex_vn": "một bộ phận bảo vệ lưỡi có thể thu vào",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a defensive posture adopted in a boxing, fencing, or martial arts contest or in a fight.",
+      "definitions_ex_en": "this kick can curl around an otherwise effective guard",
+      "definitions_ex_vn": "Đá này có thể cuộn tròn xung quanh một người bảo vệ hiệu quả khác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of two offensive players positioned either side of the center.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434093_032a4d08be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434093_92014d7079_o.png",
+      "id_image": "guard_1600904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434078_85fff75fd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434078_7abbcdd812_o.png",
+      "id_image": "guard_2349488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055375_4b2b6c4622_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055375_826df84e9c_o.png",
+      "id_image": "guard_3168638"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363377_fd4df8f2a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363377_d9fede7ec0_o.png",
+      "id_image": "guard_3994113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318746_5f972e358b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318746_592e2cd48c_o.png",
+      "id_image": "guard_4413056"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "english": "guilt",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có tội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phạm tội",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the fact of having committed a specified or implied offense or crime.",
+      "definitions_ex_en": "it is the duty of the prosecution to prove the prisoner's guilt",
+      "definitions_ex_vn": "đó là nhiệm vụ của việc truy tố để chứng minh tội lỗi của tù nhân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make (someone) feel guilty, especially in order to induce them to do something.",
+      "definitions_ex_en": "Celeste had been guilted into going by her parents",
+      "definitions_ex_vn": "Celeste đã bị cha mẹ cô cảm thấy tội lỗi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362417_2e570bec5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362417_d061cec6df_o.png",
+      "id_image": "guilt_1354775"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672749_424d4b8cf1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672749_59cffac73a_o.png",
+      "id_image": "guilt_5705339"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433168_ba14fdddd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433168_3288ac8745_o.png",
+      "id_image": "guilt_708643"
+    }
+  ]
+}

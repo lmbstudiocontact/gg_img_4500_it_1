@@ -1,0 +1,148 @@
+{
+  "english": "grip",
+  "list_translation_mean": [
+    {
+      "translate_mean": "va li",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái để cầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái kẹp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường mương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nắm chặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nắm lấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tay nắm của ghi đông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái kềm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái rảnh nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cầm lấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bám lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bóp vật gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đeo lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nắm lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "níu lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vớ lấy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "take and keep a firm hold of; grasp tightly.",
+      "definitions_ex_en": "his knuckles were white as he gripped the steering wheel",
+      "definitions_ex_vn": "Knuckles của anh ta trắng như anh ta nắm chặt tay lái",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a feeling or emotion) deeply affect (someone).",
+      "definitions_ex_en": "she was gripped by a feeling of excitement",
+      "definitions_ex_vn": "Cô bị kìm kẹp bởi một cảm giác phấn khích",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a firm hold; a tight grasp or clasp.",
+      "definitions_ex_en": "he lost his grip on Johnson's arm",
+      "definitions_ex_vn": "Anh ta mất tay nắm vào cánh tay của Johnson",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an effective form of control over something.",
+      "definitions_ex_en": "our firm grip on inflation",
+      "definitions_ex_vn": "sự kìm kẹp vững chắc của chúng tôi về lạm phát",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a part or attachment by which something is held in the hand.",
+      "definitions_ex_en": "handlebar grips",
+      "definitions_ex_vn": "Tay cầm kẹp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a traveling bag.",
+      "definitions_ex_en": "a grip crammed with new clothes",
+      "definitions_ex_vn": "Một tay cầm nhồi nhét với quần áo mới",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an assistant in a theater; a stagehand.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675899_9157fb4740_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675899_e611d0aab9_o.png",
+      "id_image": "grip_193656"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320826_29d72ea05b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320826_3dfe9d0d4f_o.png",
+      "id_image": "grip_2270954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365707_79aaaf9714_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365707_418c41bcbc_o.png",
+      "id_image": "grip_2464793"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320761_872ac00271_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320761_d51546ec03_o.png",
+      "id_image": "grip_4205504"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365657_013037428a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365657_d6152a8943_o.png",
+      "id_image": "grip_5612911"
+    }
+  ]
+}

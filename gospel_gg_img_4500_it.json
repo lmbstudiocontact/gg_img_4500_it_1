@@ -1,0 +1,48 @@
+{
+  "english": "gospel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đoạn phúc âm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sách phúc âm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thuyết giáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuyết phúc âm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the teaching or revelation of Christ.",
+      "definitions_ex_en": "it is the Church's mission to preach the gospel",
+      "definitions_ex_vn": "Đó là nhiệm vụ của Giáo hội để rao giảng Tin Mừng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the record of Jesus' life and teaching in the first four books of the New Testament.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fervent style of black American evangelical religious singing, developed from spirituals sung in Southern Baptist and Pentecostal Churches.",
+      "definitions_ex_en": "gospel singers",
+      "definitions_ex_vn": "Ca sĩ phúc âm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443248_09f356e31c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443248_dea19fc04f_o.png",
+      "id_image": "gospel_122846"
+    }
+  ]
+}

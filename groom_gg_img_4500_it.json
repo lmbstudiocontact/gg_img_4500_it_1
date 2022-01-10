@@ -1,0 +1,73 @@
+{
+  "english": "groom",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đầy tớ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầy tớ giữ ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thân bộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chải ngựa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "brush and clean the coat of (a horse, dog, or other animal).",
+      "definitions_ex_en": "you must be prepared to spend time grooming your dog",
+      "definitions_ex_vn": "Bạn phải chuẩn bị để dành thời gian chải chuốt cho con chó của bạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "prepare or train (someone) for a particular purpose or activity.",
+      "definitions_ex_en": "star pupils who are groomed for higher things",
+      "definitions_ex_vn": "Ngôi sao học sinh được chải chuốt cho những thứ cao hơn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a person employed to take care of horses.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bridegroom.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320536_d2ae9781df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320536_ce44ca08d3_o.png",
+      "id_image": "groom_1775664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365452_402263778e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365452_b27029f9b0_o.png",
+      "id_image": "groom_1940975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435633_b3700d059e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435633_40e6ae9116_o.png",
+      "id_image": "groom_4359980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320406_c24153bd64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320406_a6bf1aeffb_o.png",
+      "id_image": "groom_5833045"
+    }
+  ]
+}

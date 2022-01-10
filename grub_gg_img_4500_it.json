@@ -1,0 +1,104 @@
+{
+  "english": "grub",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con sâu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ấu trùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "con sùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy đào đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "văn sĩ quèn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bươi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nuôi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dọn đất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đào đất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm đất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vỡ đất",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the larva of an insect, especially a beetle.",
+      "definitions_ex_en": "my onions are ruined by small grubs eating the roots",
+      "definitions_ex_vn": "Hành tây của tôi bị hủy hoại bởi những cơn grub nhỏ ăn rễ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "food.",
+      "definitions_ex_en": "a popular bar serving excellent grub",
+      "definitions_ex_vn": "Một quán bar phổ biến phục vụ Grub tuyệt vời",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "dig or poke superficially at the earth; dig shallowly in soil.",
+      "definitions_ex_en": "the damage done to pastures by badgers grubbing for worms",
+      "definitions_ex_vn": "Thiệt hại được thực hiện cho đồng cỏ của Badgers Grubbing cho Worms",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "search for something in a clumsy and unmethodical manner; rummage.",
+      "definitions_ex_en": "I began grubbing about in the wastepaper basket to find the envelope",
+      "definitions_ex_vn": "Tôi bắt đầu grubbing trong giỏ rác để tìm phong bì",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "do demeaning or humiliating work in order to achieve something.",
+      "definitions_ex_en": "she has achieved material independence without having to grub for it",
+      "definitions_ex_vn": "cô ấy đã đạt được sự độc lập về tài liệu mà không cần phải grub cho nó",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055860_9d8c35d336_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055860_53af14142f_o.png",
+      "id_image": "grub_4982452"
+    }
+  ]
+}

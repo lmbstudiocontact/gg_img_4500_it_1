@@ -1,0 +1,74 @@
+{
+  "english": "handicap",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều bất lợi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tàn tật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tật nguyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bất lợi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chấp trong cuộc đua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm bất lợi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm trở ngại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tật nguyền",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a circumstance that makes progress or success difficult.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a disadvantage imposed on a superior competitor in sports such as golf, horse racing, and competitive sailing in order to make the chances more equal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "act as an impediment to.",
+      "definitions_ex_en": "lack of funding has handicapped the development of research",
+      "definitions_ex_vn": "Thiếu tài trợ đã tàn tật sự phát triển của nghiên cứu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670239_586476d13b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670239_021d9763f1_o.png",
+      "id_image": "handicap_1467329"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052000_55dba5264b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052000_f0536d3d46_o.png",
+      "id_image": "handicap_1692717"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430448_e5d7fdc39d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430448_df3093c519_o.png",
+      "id_image": "handicap_354481"
+    }
+  ]
+}

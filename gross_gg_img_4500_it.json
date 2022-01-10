@@ -1,0 +1,106 @@
+{
+  "english": "gross",
+  "list_translation_mean": [
+    {
+      "translate_mean": "béo tốt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chuyện tục tỉu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phục phịch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rậm rạp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hiển nhiên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rỏ ràng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mập mạp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "to béo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thô tục",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mười hai lố",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thô tục",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(especially of wrongdoing) very obvious and unacceptable; blatant.",
+      "definitions_ex_en": "gross human rights abuses",
+      "definitions_ex_vn": "lạm dụng nhân quyền",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of income, profit, or interest) without deduction of tax or other contributions; total.",
+      "definitions_ex_en": "the gross amount of the gift was $1,000",
+      "definitions_ex_vn": "Tổng số tiền của món quà là $ 1.000",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "very rude or coarse; vulgar.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "general or large-scale; not fine or detailed.",
+      "definitions_ex_en": "at the gross anatomical level",
+      "definitions_ex_vn": "Ở cấp độ giải phẫu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "without tax or other contributions having been deducted.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "produce or earn (an amount of money) as gross profit or income.",
+      "definitions_ex_en": "the film went on to gross $8 million in the U.S",
+      "definitions_ex_vn": "Bộ phim đã đến tổng doanh thu 8 triệu đô la trong U.S",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an amount equal to twelve dozen; 144.",
+      "definitions_ex_en": "fifty-five gross of tins of processed milk",
+      "definitions_ex_vn": "Năm mươi lăm thiếc sữa chế biến",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a gross profit or income.",
+      "definitions_ex_en": "the box-office grosses mounted",
+      "definitions_ex_vn": "tổng doanh thu văn phòng hộp được gắn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057060_936cd1f8d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057060_d0dcfaa406_o.png",
+      "id_image": "gross_2329468"
+    }
+  ]
+}

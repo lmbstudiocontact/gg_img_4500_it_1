@@ -1,0 +1,47 @@
+{
+  "english": "girl",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con gái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cô gái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thiếu nữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trinh nữ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a female child.",
+      "definitions_ex_en": "a six-year-old girl",
+      "definitions_ex_vn": "một cô gái sáu tuổi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a young or relatively young woman.",
+      "definitions_ex_en": "I haven't got the time to meet girls",
+      "definitions_ex_vn": "Tôi đã không có thời gian để gặp các cô gái",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687464_1bb0fd5cb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687464_7628dc6565_o.png",
+      "id_image": "girl_627768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069205_72d884a231_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069205_9cfdc20d80_o.png",
+      "id_image": "girl_658423"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "english": "gloss",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cắt nghĩa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chú giải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chú thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dịch sát nghĩa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giảng nghĩa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giải thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời chú thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước bóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ trích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chú giải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chú thích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phê bình",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "shine or luster on a smooth surface.",
+      "definitions_ex_en": "hair with a healthy gloss",
+      "definitions_ex_vn": "Tóc với độ bóng khỏe mạnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a superficially attractive appearance or impression.",
+      "definitions_ex_en": "beneath the gloss of success was a tragic private life",
+      "definitions_ex_vn": "Bên dưới độ bóng thành công là một cuộc sống riêng tư bi thảm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a translation or explanation of a word or phrase.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "apply a glossy substance to.",
+      "definitions_ex_en": "the singer glossed her lips a deep red",
+      "definitions_ex_vn": "Ca sĩ đánh bóng môi đỏ đậm.",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "provide an explanation, interpretation, or paraphrase for (a text, word, etc.).",
+      "definitions_ex_en": "the Japanese word often glossed as “sincerity” really means something different",
+      "definitions_ex_vn": "Từ tiếng Nhật thường được đánh bóng là \"chân thành\" thực sự có nghĩa là một cái gì đó khác nhau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "glossary.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375762_eaf74c14f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375762_f3c834e727_o.png",
+      "id_image": "gloss_1414921"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067900_b49c100227_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067900_c90f5600f7_o.png",
+      "id_image": "gloss_372169"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686159_68c3c4a0d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686159_a5d26384e7_o.png",
+      "id_image": "gloss_545102"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "english": "grade",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lên tới đỉnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mực ngang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thứ vị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trình độ nặng nhẹ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phẩm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm phai lạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lựa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sửa cho đều",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a particular level of rank, quality, proficiency, intensity, or value.",
+      "definitions_ex_en": "sea salt is usually available in coarse or fine grades",
+      "definitions_ex_vn": "Muối biển thường có sẵn trong điểm thô hoặc tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a variety of cattle produced by crossing with a superior breed.",
+      "definitions_ex_en": "grade stock",
+      "definitions_ex_vn": "cổ phiếu cấp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "arrange in or allocate to grades; class or sort.",
+      "definitions_ex_en": "they are graded according to thickness",
+      "definitions_ex_vn": "chúng được phân loại theo độ dày",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pass gradually from one level, especially a shade of color, into another.",
+      "definitions_ex_en": "the sky graded from blue to white on the horizon",
+      "definitions_ex_vn": "bầu trời được xếp loại từ màu xanh đến trắng trên đường chân trời",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "reduce (a road) to an easy gradient.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cross (livestock) with a superior breed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327056_939b7c7450_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327056_aba9c325d2_o.png",
+      "id_image": "grade_1058546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371737_04cb1558e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371737_9e871891f2_o.png",
+      "id_image": "grade_1328224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371707_4979f92ecd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371707_c3fa1f633c_o.png",
+      "id_image": "grade_4650649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371672_eba60c4540_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371672_95063129ae_o.png",
+      "id_image": "grade_5663157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371847_46aa54c052_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371847_1efa7b7039_o.png",
+      "id_image": "grade_766825"
+    }
+  ]
+}

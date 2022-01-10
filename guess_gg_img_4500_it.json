@@ -1,0 +1,59 @@
+{
+  "english": "guess",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đoán chừng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phỏng đoán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "suy trắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính phỏng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ức đoán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoán chửng việc gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phỏng đoán",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "estimate or suppose (something) without sufficient information to be sure of being correct.",
+      "definitions_ex_en": "she guessed the child's age to be 14 or 15",
+      "definitions_ex_vn": "Cô đoán tuổi của trẻ là 14 hoặc 15 tuổi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an estimate or conjecture.",
+      "definitions_ex_en": "my guess is that within a year we will have a referendum",
+      "definitions_ex_vn": "Tôi đoán là trong vòng một năm, chúng tôi sẽ có một cuộc trưng cầu dân ý",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055240_14cc391f4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055240_b17e889c4c_o.png",
+      "id_image": "guess_2598691"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673414_999ea84689_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673414_3fb75baf36_o.png",
+      "id_image": "guess_4456781"
+    }
+  ]
+}

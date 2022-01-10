@@ -1,0 +1,64 @@
+{
+  "english": "hire",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mướn người ở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mướn nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mướn xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mướn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thuê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền thuê",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "employ (someone) for wages.",
+      "definitions_ex_en": "management hired and fired labor in line with demand",
+      "definitions_ex_vn": "quản lý thuê và sa thải lao động theo yêu cầu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the action of hiring someone or something.",
+      "definitions_ex_en": "car hire is recommended",
+      "definitions_ex_vn": "khuyến nghị thuê xe",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336701_0d6effdfa3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336701_1e280d4e94_o.png",
+      "id_image": "hire_1924518"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381672_419be6c566_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381672_f9661eb264_o.png",
+      "id_image": "hire_3014277"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691959_016dcc0e9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691959_e8b0192835_o.png",
+      "id_image": "hire_4091272"
+    }
+  ]
+}

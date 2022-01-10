@@ -1,0 +1,58 @@
+{
+  "english": "generous",
+  "list_translation_mean": [
+    {
+      "translate_mean": "độ lượng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hào phóng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khoan hồng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quảng đại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rộng lượng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rộng rải",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vị tha",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person) showing a readiness to give more of something, as money or time, than is strictly necessary or expected.",
+      "definitions_ex_en": "she was generous with her money",
+      "definitions_ex_vn": "Cô ấy hào phóng với tiền của mình",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335936_b88b02bb46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335936_21b12369af_o.png",
+      "id_image": "generous_2871610"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691154_08ea26495e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691154_7ed397f88d_o.png",
+      "id_image": "generous_5778381"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072825_ebe385d192_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072825_282bd4ef1b_o.png",
+      "id_image": "generous_5778726"
+    }
+  ]
+}

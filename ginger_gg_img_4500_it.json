@@ -1,0 +1,92 @@
+{
+  "english": "ginger",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đỏ hoe",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cây gừng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gừng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khí lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "linh hoạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghị lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự linh động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bỏ gừng cho thơm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a hot, fragrant spice made from the rhizome of a plant, which may be chopped or powdered for cooking, preserved in syrup, or candied.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a Southeast Asian plant, which resembles bamboo in appearance, from which ginger is taken.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a light reddish-yellow or orange-brown color.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "spirit; mettle.",
+      "definitions_ex_en": "he had more ginger than her first husband",
+      "definitions_ex_vn": "Anh ta có nhiều gừng hơn chồng đầu tiên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(chiefly of hair or fur) of a light reddish-yellow or orange-brown color.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "make someone or something more lively.",
+      "definitions_ex_en": "she slapped his hand lightly to ginger him up",
+      "definitions_ex_vn": "Cô ấy tát nhẹ tay anh để gừng lên",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069695_459b870580_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069695_ed3aaa9ed8_o.png",
+      "id_image": "ginger_1398254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687834_7c3477de7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687834_1c7c8840af_o.png",
+      "id_image": "ginger_3944338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377627_edd2a112a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377627_56a4ed5cbe_o.png",
+      "id_image": "ginger_3967362"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "english": "grind",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công việc buồn tẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "công việc cực nhọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "học trò gạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lớp học rút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng cót két",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng kêu cút kít",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc đua ngựa nhảy rào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi bộ rảo bước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "học gạo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho trơn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mài cho bén",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mài cho sắc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xay thành bột",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mài kiến cho mờ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mài ngọc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mài vật đúc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiền nát",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "reduce (something) to small particles or powder by crushing it.",
+      "definitions_ex_en": "grind some black pepper over the salad",
+      "definitions_ex_vn": "Nghiền một ít hạt tiêu đen trên salad",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "rub or cause to rub together gratingly.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a dancer) rotate the hips.",
+      "definitions_ex_en": "there were sweaty bodies everywhere bumping and grinding to the music",
+      "definitions_ex_vn": "Có những cơ thể ướt đẫm mồ hôi ở khắp mọi nơi va chạm và nghiền nát âm nhạc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a crushing or grating sound or motion.",
+      "definitions_ex_en": "the crunch and grind of bulldozers",
+      "definitions_ex_vn": "The Crunch and Grind of Bulldozers",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "hard dull work.",
+      "definitions_ex_en": "relief from the daily grind",
+      "definitions_ex_vn": "cứu trợ từ xay hàng ngày",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a dancer's rotary movement of the hips.",
+      "definitions_ex_en": "a bump and grind",
+      "definitions_ex_vn": "một vết sưng và xay",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436633_8cac028956_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436633_19c116fde1_o.png",
+      "id_image": "grind_1407905"
+    }
+  ]
+}

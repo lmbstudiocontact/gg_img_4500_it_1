@@ -1,0 +1,65 @@
+{
+  "english": "goal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bàn thắng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cửa gôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mục tiêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thành",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(in football, soccer, rugby, hockey, and some other games) a pair of posts linked by a crossbar and often with a net attached behind it, forming a space into or over which the ball has to be sent in order to score.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the object of a person's ambition or effort; an aim or desired result.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330226_8825f64565_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330226_4fa5a7260e_o.png",
+      "id_image": "goal_1033223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375017_644841c85e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375017_3e56edb312_o.png",
+      "id_image": "goal_451686"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067170_edd1d54f6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067170_9aeed5e43b_o.png",
+      "id_image": "goal_451716"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685334_4f44655e66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685334_8626c25b51_o.png",
+      "id_image": "goal_470986"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "english": "grief",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự buồn rầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đau khổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thất bại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "deep sorrow, especially that caused by someone's death.",
+      "definitions_ex_en": "she was overcome with grief",
+      "definitions_ex_vn": "Cô đã vượt qua nỗi đau buồn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437168_00ed2dc86f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437168_c56759b484_o.png",
+      "id_image": "grief_4525486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437123_a897eda23d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437123_8ec3bb450a_o.png",
+      "id_image": "grief_6000917"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322016_662ee46819_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322016_e62602c3ee_o.png",
+      "id_image": "grief_708614"
+    }
+  ]
+}

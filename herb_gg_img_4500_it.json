@@ -1,0 +1,44 @@
+{
+  "english": "herb",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thảo mộc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "any plant with leaves, seeds, or flowers used for flavoring, food, medicine, or perfume.",
+      "definitions_ex_en": "bundles of dried herbs",
+      "definitions_ex_vn": "Gói rau thơm khô",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any seed-bearing plant that does not have a woody stem and dies down to the ground after flowering.",
+      "definitions_ex_en": "the banana plant is the world's largest herb",
+      "definitions_ex_vn": "Nhà máy chuối là loại thảo mộc lớn nhất thế giới",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453673_97b0a803f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453673_b57c0e5108_o.png",
+      "id_image": "herb_1653063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453648_2a8e8fb90c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453648_dc1e848f73_o.png",
+      "id_image": "herb_1653105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453583_531e8104d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453583_dbd9a1d16c_o.png",
+      "id_image": "herb_1902982"
+    }
+  ]
+}

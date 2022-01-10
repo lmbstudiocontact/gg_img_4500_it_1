@@ -1,0 +1,46 @@
+{
+  "english": "hijack",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cướp máy bay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cướp phi cơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cướp trên không",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cướp trên không",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không tặc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "unlawfully seize (an aircraft, ship, or vehicle) in transit and force it to go to a different destination or use it for one's own purposes.",
+      "definitions_ex_en": "three armed men hijacked a white van",
+      "definitions_ex_vn": "Ba người có vũ trang cướp một chiếc xe tải trắng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an incident or act of hijacking.",
+      "definitions_ex_en": "an unsuccessful hijack attempt",
+      "definitions_ex_vn": "một nỗ lực cướp không thành công",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692599_52e5b94c96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692599_e417171a89_o.png",
+      "id_image": "hijack_3067919"
+    }
+  ]
+}

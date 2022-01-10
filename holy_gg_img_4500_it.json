@@ -1,0 +1,35 @@
+{
+  "english": "holy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về thánh",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "dedicated or consecrated to God or a religious purpose; sacred.",
+      "definitions_ex_en": "the Holy Bible",
+      "definitions_ex_vn": "kinh Thánh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "used in exclamations of surprise or dismay.",
+      "definitions_ex_en": "holy smoke!",
+      "definitions_ex_vn": "Holy khói!",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449578_1fb2c1a271_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449578_48a9b93275_o.png",
+      "id_image": "holy_3426096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071540_3312882711_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071540_2693f25887_o.png",
+      "id_image": "holy_4977212"
+    }
+  ]
+}

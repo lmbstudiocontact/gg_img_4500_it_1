@@ -1,0 +1,116 @@
+{
+  "english": "hit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cú đánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kết qủa tốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "liệng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đâm trúng địch thủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ném trúng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thành công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vở kịch thành công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đấm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khám phá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đến một nơi nào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "bring one's hand or a tool or weapon into contact with (someone or something) quickly and forcefully.",
+      "definitions_ex_en": "the woman hit the mugger with her umbrella",
+      "definitions_ex_vn": "Người phụ nữ đánh vào Mugger với chiếc ô của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a missile or a person aiming one) strike (a target).",
+      "definitions_ex_en": "the sniper fired and hit a third man",
+      "definitions_ex_vn": "Sniper bắn và đâm vào một người đàn ông thứ ba",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause harm or distress to.",
+      "definitions_ex_en": "the area has been badly hit by business closures",
+      "definitions_ex_vn": "Khu vực này đã bị tấn công nặng nề bởi việc đóng cửa kinh doanh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "reach (a particular level, point, or figure).",
+      "definitions_ex_en": "his career hit rock bottom",
+      "definitions_ex_vn": "Sự nghiệp của anh ta chạm đáy đá",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "propel (a ball) with a bat, racket, stick, etc., to score or attempt to score runs or points in a game.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an instance of striking or being struck.",
+      "definitions_ex_en": "few structures can withstand a hit from a speeding car",
+      "definitions_ex_vn": "Vài cấu trúc có thể chịu được một hit từ một chiếc xe tăng tốc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instance of striking the target aimed at.",
+      "definitions_ex_en": "one of the bombers had scored a direct hit",
+      "definitions_ex_vn": "Một trong những máy bay ném bom đã ghi được một cú đánh trực tiếp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a successful venture, especially a film, pop record, or song.",
+      "definitions_ex_en": "he was the director of many big hits",
+      "definitions_ex_vn": "Ông là giám đốc của nhiều hit lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a dose of a psychoactive drug.",
+      "definitions_ex_en": "in another hour, I'll need another hit",
+      "definitions_ex_vn": "Trong một giờ nữa, tôi sẽ cần một hit khác",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691254_256b4415aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691254_20c473c9bc_o.png",
+      "id_image": "hit_1477178"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "english": "group",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đám",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "họp lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhóm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tốp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đám",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đoàn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "họp lại thành tốp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a number of people or things that are located close together or are considered or classed together.",
+      "definitions_ex_en": "these bodies fall into four distinct groups",
+      "definitions_ex_vn": "Những cơ quan này rơi vào bốn nhóm riêng biệt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put together or place in a group or groups.",
+      "definitions_ex_en": "three wooden chairs were grouped around a dining table",
+      "definitions_ex_vn": "Ba chiếc ghế gỗ được nhóm xung quanh một bàn ăn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056795_c7fd3247a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056795_3904dcf115_o.png",
+      "id_image": "group_1055430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056750_95dd635a7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056750_decd3d6077_o.png",
+      "id_image": "group_1158426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435188_f20e01f39e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435188_8073f1c0d7_o.png",
+      "id_image": "group_1300018"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365027_086cbaff95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365027_49d37c4e86_o.png",
+      "id_image": "group_860469"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "english": "heavy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bịnh hen suyển",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chuyển động",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kềnh càng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khó nhọc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lớn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nặng nề",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thỡ gấp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trọng trách",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chậm chạp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kềnh càng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nặng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nặng nề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức nặng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of great weight; difficult to lift or move.",
+      "definitions_ex_en": "the pan was too heavy for me to carry",
+      "definitions_ex_vn": "chảo quá nặng để tôi mang theo",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a thing, such as a vehicle, that is large or heavy of its kind.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "heavily.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454603_cd91811a37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454603_4d36fcbec8_o.png",
+      "id_image": "heavy_1684422"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "glue",
+  "list_translation_mean": [
+    {
+      "translate_mean": "keo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "keo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cồn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dán keo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hồ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an adhesive substance used for sticking objects or materials together.",
+      "definitions_ex_en": "waterproof glue",
+      "definitions_ex_vn": "keo chống thấm nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fasten or join with or as if with glue.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375322_2490858530_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375322_a89b58a09b_o.png",
+      "id_image": "glue_164351"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375302_670e26718e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375302_65f6ba5b7c_o.png",
+      "id_image": "glue_1806611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685654_dcbf22ea9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685654_5f102c8c52_o.png",
+      "id_image": "glue_4869769"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375247_1a25ce3575_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375247_fbc9d0c199_o.png",
+      "id_image": "glue_5483656"
+    }
+  ]
+}
